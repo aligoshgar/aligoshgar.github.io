@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ULUSAL @@@" tvg-logo="" group-title="ULUSAL",@@@ ULUSAL @@@
 https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="" group-title="ULUSAL",TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB" tvg-logo="" group-title="ULUSAL",ARB
 http://185.118.50.219/AZ-arb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
