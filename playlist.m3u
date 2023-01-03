@@ -4,7 +4,7 @@ https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="" group-title="ULUSAL",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB" tvg-logo="" group-title="ULUSAL",ARB
-http://185.118.50.219/AZ-arb/index.m3u8
+http://85.132.81.184:8080/arb/live/index.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
