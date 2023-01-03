@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ULUSAL @@@" tvg-logo="" group-title="ULUSAL",@@@ ULUSAL @@@
 https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="8bucuk" tvg-logo="" group-title="ULUSAL",8bucuk
+https://mn-nl.mncdn.com/blutv_live/tv8.5hd/tv8.5hd.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azad" tvg-logo="" group-title="ULUSAL",Azad
 http://149.255.152.218/channels.aspx?channel=atvaz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="" group-title="ULUSAL",TV8 INT
