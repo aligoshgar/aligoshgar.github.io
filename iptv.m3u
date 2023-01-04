@@ -116,3 +116,17 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Haber Türk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Türkiyə",TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flash Haber" tvg-logo="https://flashhabertv.com/assets/images/logo.png" group-title="Türkiyə",Flash Haber
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Power Türk
+https://h92.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Türk" tvg-logo="https://www.derszamani.net/wp-content/uploads/2013/09/5f6e79c2f930ece9e5cda34ff8377aab.png" group-title="Türkiyə", NR1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akıllı TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_zSGbanKcF_RAZKmXtc9nHy1g8OMMopO12xAUsQg=s900-c-k-c0x00ffffff-no-rj" group-title="Türkiyə",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="Türkiyə",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
