@@ -13,6 +13,8 @@ http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB Günəş" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" group-title="Azərbaycan",ARB Günəş
 https://az2.canlitvplayer.com/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="" group-title="Azərbaycan",ARB Günəş
+https://list.iptvcat.com/my_list/s/c60c995087d85d7f5cf0dfc0032588e9.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azərbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
