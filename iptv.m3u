@@ -38,3 +38,5 @@ https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,beIN SPOR 1 HD
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
+#EXTINF:-1 tvg-id="" tvg-name="LIDER TV" tvg-logo="" group-title="Azərbaycan",AZ: LIDER TV
+http://vip-max.com:5555/user/pass/6006
