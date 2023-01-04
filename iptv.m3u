@@ -130,3 +130,5 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="Türkiyə",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographie" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Türkiyə", National Geographie
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
