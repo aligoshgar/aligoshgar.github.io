@@ -63,7 +63,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="TRT 3 Spor" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TRT_3-Spor_kurumsal_logo.png/800px-TRT_3-Spor_kurumsal_logo.png" group-title="Türkiyə",TRT 3 Spor
 http://195.155.98.170:5858/play/a09m
 #EXTINF:1 tvg-id="TRT Spor" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TRT_Spor_kurumsal_logo.png/799px-TRT_Spor_kurumsal_logo.png" group-title="Türkiyə",TRT Spor
-https://cdn4.alfastreamtv.com/trtspor.m3u8?tkn=ym8aEyfhR3EbBLYzLrIRAw&tms=1672880983&hst=tr.canlitv.link&ip=5.134.52.253
+https://cdn4.alfastreamtv.com/trtspor.m3u8?tkn=gZPK0-FzQZqbPpZti-541g&tms=1672882303&hst=tr.canlitv.services&ip=5.134.52.253
 #EXTINF:-1,tvg-id="" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" group-title="Türkiyə",TRT 4K
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40167
 #EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/new-logo-w.png" group-title="Türkiyə",TRT Haber
