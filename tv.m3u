@@ -23,6 +23,9 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" group-title="Azərbaycan",CBC TV
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1736682904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Spor" tvg-shift="" radio="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="Azərbaycan",CBC Sport
+#https://59c7ea6bec1c6.streamlock.net/live/cbcsport.stream/chunklist_w1384220329.m3u8?hash=fff53a852d415ba2073197b0c316a906
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="" group-title="Azərbaycan",Maksim TV
