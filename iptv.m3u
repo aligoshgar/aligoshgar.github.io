@@ -74,9 +74,9 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/800px-TRT_M%C3%BCzik.svg.png" group-title="Türkiyə",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-shift="" radio="" tvg-logo="http://picon.webhop.net/logo/turkey/trt_belgesel_tr_hd.png" group-title="Türkiyə",TRT Belgesel
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Türkiyə",TRT Belgesel
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://static.g-cdn.app/streams/trt-cocuk-hd-tr.png" group-title="Türkiyə",TRT Çocuk
+#EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/TRT_%C3%87ocuk_logo.png" group-title="Türkiyə",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT EBA İlkokul" tvg-name="TRT EBA İlkokul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_%C4%B0lkokul_logo.svg/150px-TRT_EBA_TV_%C4%B0lkokul_logo.svg.png" group-title="Türkiyə",TRT EBA İlkokul
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
@@ -98,6 +98,8 @@ http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.com
 https://cdn3.alfastreamtv.com/tv8int.m3u8?tkn=Pcr9bd9_zVK-T0v77aQ_hw&tms=1672875896&hst=tr.canlitv.team&ip=5.134.52.253
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkiyə",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ATV Avrupa" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" group-title="Türkiyə",ATV Avrupa
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38975
 #EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" group-title="Türkiyə",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="Türkiyə",Star TV
