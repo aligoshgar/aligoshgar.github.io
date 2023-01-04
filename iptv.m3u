@@ -38,6 +38,8 @@ http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV AZ"  tvg-logo="https://static.g-cdn.app/streams/muz-tv-az.png" group-title="Azərbaycan",  MTV AZ
 https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
+#EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" group-title="Azərbaycan",Naxçıvan TV
+https://api.canlitvplayer.com/canli.naxcivantv.az/media/20230104/low/tv_low.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Səhiyyə TV" tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" group-title="Azərbaycan",Səhiyyə TV
 http://api.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=49b46a963601772e25ced2b2886605de86b3c411-4d908a3ca4eb8248cbbcafc51e12d454-1664271581-1664260781
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="Azərbaycan",EL TV
