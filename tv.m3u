@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id="ARBGunes.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/gunes-arb-vipo-tv.png",ARB Güneş
 http://streams.livetv.az/azerbaijan/gunes/playlist.m3u8
-#EXTINF:1 tvg-id="AzTV.az" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/aztv.default.png",AZ TV
-http://185.129.1.242:80/aztvhd/mpegts
+#EXTINF:1 tvg-id="AzTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="Azerbaycan",Az TV
+http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:1 tvg-id="IctimaiTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png",Ictimai TV
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png",Idman TV
