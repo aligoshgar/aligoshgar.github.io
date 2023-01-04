@@ -126,8 +126,12 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Flash Haber" tvg-logo="https://flashhabertv.com/assets/images/logo.png" group-title="Türkiyə",Flash Haber
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" group-title="Türkiyə",KRAL POP TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Power Türk
 https://h92.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" group-title="Türkiyə",NR1
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1 Türk" tvg-logo="https://www.derszamani.net/wp-content/uploads/2013/09/5f6e79c2f930ece9e5cda34ff8377aab.png" group-title="Türkiyə", NR1 Türk
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akıllı TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_zSGbanKcF_RAZKmXtc9nHy1g8OMMopO12xAUsQg=s900-c-k-c0x00ffffff-no-rj" group-title="Türkiyə",Akıllı TV
@@ -138,3 +142,5 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiyə",360 TV
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Teleon_logosu.jpg" group-title="Türkiyə",TELEON
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
