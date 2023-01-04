@@ -19,7 +19,9 @@ https://api.canlitvplayer.com/str.yodacdn.net/arb24/mono.m3u8?token=255167c23861
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" group-title="Türkiyə",AZ News TV
+#EXTINF:1 tvg-id="Real TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" group-title="Azərbaycan",Real TV
+https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8?token=ea2d070ab3003c2c6469655a570a2b73a44961bd-e24d603b1d20ea7a92bce9d14f1cdbcc-1672866278-1672855478
+#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" group-title="Azərbaycan",AN.T TV
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" group-title="Azərbaycan",AZ Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
