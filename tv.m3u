@@ -5,6 +5,8 @@ http://109.205.166.68/server124/aztv/index.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 tvg-id="IctimaiTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png",Ictimai TV
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:1 tvg-id="ARB.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="Azerbaycan",ARB
+http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad TV
