@@ -46,5 +46,5 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1  group-title="Türkiyə",beIN SPOR 1 HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="Türkiyə",beIN SPORTS 1
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
