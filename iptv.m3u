@@ -56,3 +56,5 @@ https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="Türkiyə",beIN SPORTS 1
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
+#EXTINF:1 tvg-id="TV 8 INT" tvg-language="Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Türkiye",TV 8 INT
+https://cdn3.alfastreamtv.com/tv8int.m3u8?tkn=Pcr9bd9_zVK-T0v77aQ_hw&tms=1672875896&hst=tr.canlitv.team&ip=5.134.52.253
