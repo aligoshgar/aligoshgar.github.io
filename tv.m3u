@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id="AzTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="Azerbaycan",Az TV
 http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/gt8Fhjj.png" group-title="Azerbaycan",Medeniyyet TV
+http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png",Idman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 tvg-id="IctimaiTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png",Ictimai TV
