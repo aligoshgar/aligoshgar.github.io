@@ -140,6 +140,8 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dream Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" group-title="Türkiyə",Dream Türk
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39679
 #EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="Türkiyə",POWER TV
 https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",POWER Türk
