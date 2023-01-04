@@ -46,8 +46,10 @@ https://api.canlitvplayer.com/canli.naxcivantv.az/media/20230104/low/tv_low.m3u8
 http://api.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=49b46a963601772e25ced2b2886605de86b3c411-4d908a3ca4eb8248cbbcafc51e12d454-1664271581-1664260781
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="" group-title="Azərbaycan",Maksim TV
+#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Azərbaycan",Kino TV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Azərbaycan",Kino2 TV
+https://api.canlitvplayer.com/91.134.203.253:30124/sertv/sertv/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/A3yaU4J.png" group-title="Azərbaycan",Dünya TV
@@ -164,3 +166,7 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Teleon_logosu.jpg" group-title="Türkiyə",TELEON
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
+https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fenerbahçe TV" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",Fenerbahçe TV
+https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYo6QozRNmKLHw2oEXFmnSqameMAyWLNlAzOuPsRVHtY4)/dm/3/x21oo10/s/live-1.m3u8#cell=lcore
