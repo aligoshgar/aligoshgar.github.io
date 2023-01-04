@@ -134,7 +134,9 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Power Türk
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="Türkiyə",POWER TV
+https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",POWER Türk
 https://h92.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" group-title="Türkiyə",NR1
 https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
