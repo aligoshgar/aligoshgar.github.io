@@ -11,6 +11,8 @@ http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="Azərbaycan",ARB
 http://109.205.166.68/server124/arb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB Günəş" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" group-title="Azərbaycan",ARB Günəş
+https://az2.canlitvplayer.com/azerbaijan/gunes/playlist.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azərbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
