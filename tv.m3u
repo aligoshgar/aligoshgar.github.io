@@ -7,12 +7,14 @@ http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 tvg-id="IctimaiTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png",Ictimai TV
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:1 tvg-id="AzadTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" group-title="Azerbaycan",Azad TV
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="Azerbaycan",ARB
 http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azerbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad TV
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azerbaycan",Space TV
+http://109.205.166.68/server124/space_tv/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png",AZ News TV
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png",AZ Star TV
