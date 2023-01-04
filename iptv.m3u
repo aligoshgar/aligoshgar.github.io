@@ -78,6 +78,12 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://static.g-cdn.app/streams/trt-cocuk-hd-tr.png" group-title="Türkiyə",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT EBA İlkokul" tvg-name="TRT EBA İlkokul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_%C4%B0lkokul_logo.svg/150px-TRT_EBA_TV_%C4%B0lkokul_logo.svg.png" group-title="Türkiyə",TRT EBA İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT EBA Ortaokul" tvg-name="TRT EBA Ortaokul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TRT_EBA_TV_Ortaokul_logo.svg/150px-TRT_EBA_TV_Ortaokul_logo.svg.png" group-title="Türkiyə",TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT EBA Lise" tvg-name="TRT EBA Lise" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TRT_EBA_TV_Lise_logo.svg/150px-TRT_EBA_TV_Lise_logo.svg.png" group-title="Türkiyə",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/800px-TRT_World_logosu.png" group-title="Türkiyə",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT KURDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TRT_Kurd%C3%AE_logosu.png/800px-TRT_Kurd%C3%AE_logosu.png" group-title="Türkiyə",TRT KURDI
