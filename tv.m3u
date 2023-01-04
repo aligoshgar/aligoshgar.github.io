@@ -11,3 +11,5 @@ http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:1 tvg-id="Xəzər TV" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/xezer.default.png",Xəzər TV
 http://185.129.1.242:80/xezertv/mpegts
+#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png",ARB
+https://europe2.livetv.az/azerbaijan/arb/playlist.m3u8
