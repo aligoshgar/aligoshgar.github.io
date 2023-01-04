@@ -36,6 +36,8 @@ http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1736682
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="İnter AZ" tvg-logo="https://az.interaz.com.tr/images/logo.png" group-title="Azərbaycan", İnter AZ
 http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
+#EXTINF:1 tvg-id="APA TV" tvg-language="Azerbaijani" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" group-title="Azərbaycan",APA TV
+https://api.canlitvplayer.com/rtmp.apa.tv/@pagroup!23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="MTV AZ"  tvg-logo="https://static.g-cdn.app/streams/muz-tv-az.png" group-title="Azərbaycan",  MTV AZ
 https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 #EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" group-title="Azərbaycan",Naxçıvan TV
