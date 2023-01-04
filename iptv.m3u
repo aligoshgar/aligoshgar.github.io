@@ -56,5 +56,23 @@ https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="Türkiyə",beIN SPORTS 1
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
-#EXTINF:1 tvg-id="TV 8 INT" tvg-language="Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Türkiye",TV 8 INT
+#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Türkiyə",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="https://www.canlitvizlemeli.com/uploads/kanal/30626tv8-5-canli.png" group-title="Türkiyə", TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:1 tvg-id="TV 8 INT" tvg-language="Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Türkiyə",TV 8 INT
 https://cdn3.alfastreamtv.com/tv8int.m3u8?tkn=Pcr9bd9_zVK-T0v77aQ_hw&tms=1672875896&hst=tr.canlitv.team&ip=5.134.52.253
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkiyə",ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" group-title="Türkiyə",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="Türkiyə",Star TV
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" group-title="Türkiyə",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" group-title="Türkiyə",FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz TV" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" group-title="Türkiyə",Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiyə",NTV Türk
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
