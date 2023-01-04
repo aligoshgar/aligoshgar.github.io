@@ -136,3 +136,5 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographie" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Türkiyə", National Geographie
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiyə",360 TV
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
