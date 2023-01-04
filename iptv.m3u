@@ -144,6 +144,8 @@ https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="https://www.volotv.com/media/images/tvlogo/tatlisestv-canlitvkanal-l79b.png" group-title="Türkiyə",TATLISES TV
 https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:1 tvg-id="Milyon TV" tvg-language="Turkish" tvg-logo="https://static.wixstatic.com/media/6bab1d_5f94910eaa66491eb5c6a0652e31f2c5~mv2.png/v1/fill/w_120,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyon-tv-logo-2.png" group-title="Türkiyə",Milyon TV
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akıllı TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_zSGbanKcF_RAZKmXtc9nHy1g8OMMopO12xAUsQg=s900-c-k-c0x00ffffff-no-rj" group-title="Türkiyə",Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="Türkiyə",Yaban TV
