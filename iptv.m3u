@@ -14,7 +14,7 @@ http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB Günəş" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" group-title="Azərbaycan",ARB Günəş
 https://az2.canlitvplayer.com/azerbaijan/gunes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" group-title="Azərbaycan",ARB 24
-http://149.255.152.218/channels.aspx?channel=arb24.m3u8
+https://api.canlitvplayer.com/str.yodacdn.net/arb24/mono.m3u8?token=255167c23861dbecbb5941814c8cce35a7a48f69-d5e52c3bd247285d0046bcea135dcdf5-1672864926-1672854126
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azərbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
