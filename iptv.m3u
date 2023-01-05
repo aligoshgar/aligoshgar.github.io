@@ -19,6 +19,8 @@ https://api.canlitvplayer.com/str.yodacdn.net/arb24/mono.m3u8?token=255167c23861
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTINF:1 tvg-id="TMB" tvg-language="Azerbaijani" tvg-logo="https://tmbtv.az/wp-content/uploads/2022/05/header-logo3.png" group-title="Azərbaycan",TMB
+https://api.canlitvplayer.com/str.yodacdn.net/tmbaz/mono.m3u8?token=2206890c3567a08ad0c83d4bb450b70ef81db04c-83bfc75e81a34158b768e0e3b3e7680b-1672888443-1672877643
 #EXTINF:1 tvg-id="Real TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" group-title="Azərbaycan",Real TV
 https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8?token=ea2d070ab3003c2c6469655a570a2b73a44961bd-e24d603b1d20ea7a92bce9d14f1cdbcc-1672866278-1672855478
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" group-title="Azərbaycan",Qafqaz TV
