@@ -128,6 +128,8 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:0 tvg-id="Teve2" tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="Türkiyə",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" group-title="Türkiyə",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="https://tivi6.com.tr/media/2022/11/tivi6_logo-300x113-1.png" group-title="Türkiyə",TİVİ6
 https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Türkiyə",KANAL 7
@@ -150,6 +152,8 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="Türkiyə",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tvnet.png/800px-Tvnet.png" group-title="Türkiyə",TV Net
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Türkiyə",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" group-title="Türkiyə",TGRT Belgesel
