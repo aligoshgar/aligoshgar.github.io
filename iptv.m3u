@@ -114,6 +114,8 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" group-title="Türkiyə",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Euro_D.svg/revision/latest?cb=20220108144208" group-title="Türkiyə",Euro D
+https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" group-title="Türkiyə",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" group-title="Türkiyə",DMAX
