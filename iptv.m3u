@@ -111,7 +111,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" group-title="Türkiyə",Show Türk
 https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="Show Max" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="Türkiyə",Show Max
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672973786/ei/ejm3Y_zcIoWM7gOayJqQBg/ip/92.205.15.128/id/Y3vGHFrsqrs.902/source/yt_live_broadcast/requiressl/yes/tx/24425335/txs/24425329%2C24425330%2C24425331%2C24425332%2C24425333%2C24425334%2C24425335/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZaWO5B165ZwD4jqWwoyhLSpBxpHDSTw2Vu5Rhv5ypyECIEDERAlRBNhHcOYIvTovf0MqZVpqrh4DUuNUETEv9Qo9/file/index.m3u8
+https://ciner-live.ercdn.net/showmax/showmax_576p.m3u8?e=1672959517&st=35ho8SbEojXhBd7EN1r_FA&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="Türkiyə",Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türkiyə",Euro Star TV
