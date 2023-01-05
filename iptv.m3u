@@ -106,6 +106,8 @@ http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40217
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="Türkiyə",Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türkiyə",Euro Star TV
+https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" group-title="Türkiyə",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" group-title="Türkiyə",FOX TV
@@ -122,6 +124,8 @@ https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyaz TV" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" group-title="Türkiyə",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Türkiyə",A2 TV
+https://api.canlitvplayer.com/streamer1.ruslanatv.ru/turkey/a2tv/chunks.m3u8?nimblesessionid=52477347&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="NTV Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Türkiyə",24 TV
@@ -140,6 +144,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Flash Haber" tvg-logo="https://flashhabertv.com/assets/images/logo.png" group-title="Türkiyə",Flash Haber
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" group-title="Türkiyə",Sports TV
+https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTggOToxNzoyOSBQTSZoYXNoX3ZhbHVlPVE0SGR3UHJ5S2V3QUV4QWczZGlLU0E9PSZ2YWxpZG1pbnV0ZXM9NQ=jBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dream Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" group-title="Türkiyə",Dream Türk
@@ -170,3 +176,7 @@ https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagro
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fenerbahçe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/01/Fenerbah%C3%A7e_TV_Logo.jpg/600px-Fenerbah%C3%A7e_TV_Logo.jpg" group-title="Türkiyə",Fenerbahçe TV
 https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYo6QozRNmKLHw2oEXFmnSqameMAyWLNlAzOuPsRVHtY4)/dm/3/x21oo10/s/live-1.m3u8#cell=lcore
+#EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" group-title="Türkiyə",Minika Go
+https://mfe01.cliptv.az/hls/Minika_Go_SD.ism/video/bw1600000/mp4_playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="Türkiyə",Minika Çocuk
+https://mfe01.cliptv.az/hls/Minika_Cocuk_SD.ism/video/bw1600000/mp4_playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
