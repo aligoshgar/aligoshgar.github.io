@@ -128,6 +128,8 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Türkiyə",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 Avrupa" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg" group-title="Türkiyə",KANAL 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyaz TV" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" group-title="Türkiyə",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Türkiyə",A2 TV
