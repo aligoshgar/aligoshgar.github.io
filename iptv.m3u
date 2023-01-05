@@ -19,6 +19,8 @@ https://api.canlitvplayer.com/str.yodacdn.net/arb24/mono.m3u8?token=255167c23861
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV AZ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azərbaycan",  MTV AZ
+https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 #EXTINF:1 tvg-id="TMB" tvg-language="Azerbaijani" tvg-logo="https://tmbtv.az/wp-content/uploads/2022/05/header-logo3.png" group-title="Azərbaycan",TMB
 https://api.canlitvplayer.com/str.yodacdn.net/tmbaz/mono.m3u8?token=2206890c3567a08ad0c83d4bb450b70ef81db04c-83bfc75e81a34158b768e0e3b3e7680b-1672888443-1672877643
 #EXTINF:-1 tvg-id="" tvg-name="TMB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/50/TMB_logosu.png" group-title="Türkiyə",TMB
@@ -42,8 +44,6 @@ http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-language="Azerbaijani" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" group-title="Azərbaycan",APA TV
 https://api.canlitvplayer.com/rtmp.apa.tv/@pagroup!23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
-#EXTINF:-1 tvg-id="" tvg-name="MTV AZ"  tvg-logo="https://static.g-cdn.app/streams/muz-tv-az.png" group-title="Azərbaycan",  MTV AZ
-https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 #EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" group-title="Azərbaycan",Naxçıvan TV
 https://api.canlitvplayer.com/canli.naxcivantv.az/media/20230104/low/tv_low.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Səhiyyə TV" tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" group-title="Azərbaycan",Səhiyyə TV
