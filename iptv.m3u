@@ -126,6 +126,8 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" group-title="Türkiyə",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0 tvg-id="Woman TV" tvg-name="Woman TV" tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png" group-title="Türkiyə",Woman TV
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="Türkiyə",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:0 tvg-id="Teve2" tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="Türkiyə",Teve 2
