@@ -31,6 +31,8 @@ https://vsd94.mycdn.me/hls/2746773932586.m3u8/sig/sXNmozl4wr4/expires/1673036238
 https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8?token=ea2d070ab3003c2c6469655a570a2b73a44961bd-e24d603b1d20ea7a92bce9d14f1cdbcc-1672866278-1672855478
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" group-title="Azərbaycan",Qafqaz TV
 https://api.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=3c350abef065e70550ff95f4ce3dc9becb0c06c0-bf5fda3274488a368663855487053ecc-1672866688-1672855888
+#EXTINF:1 tvg-id="Qəbələ TV" tvg-language="Azerbaijani" tvg-logo="https://res.cloudinary.com/ddm9d2ffz/image/upload/f_auto,q_auto/v1614115090/vpxdeamb8ilyet8hrkpb.png" group-title="Azərbaycan",Qəbələ TV
+https://qebele.tv/live/stream/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" group-title="Azərbaycan",AN.T TV
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" group-title="Azərbaycan",AS TV
