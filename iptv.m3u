@@ -209,8 +209,8 @@ https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYuMtfezEwRh8n5yo2U
 #EXTINF:-1 tvg-id="" tvg-name="Galatasaray TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="Türkiyə",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" group-title="Türkiyə",Minika Go
-https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=M7jQ5pmVWIqWsnZngAOHoQ&e=1672993904&SessionID=gql43uvi1tgrqofkjpluxr1d&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=dnCJJClNKA4kc1xMk-i_wQ&e=1673042660&SessionID=e5xml2et21rp23iiiimyvcb2&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobilreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="Türkiyə",Minika Çocuk
-https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=vQ_kW0c0tl50qFUgelMGvw&e=1672994000&SessionID=v4p01n3lvuthopzhiv3qiwr1&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=mobil
-#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="Türkiyə",Minika Çocuk
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=_kOhLI1tBThwPZoZfDeWPg&e=1673042735in&Site=minikacocuk&DeviceGroup=mobil
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Türkiyə",Cartoon Network
 https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/chunklist_w1837753539.m3u8?hash=ec7b63cb494c95cfa7ce22ebbc832a29
