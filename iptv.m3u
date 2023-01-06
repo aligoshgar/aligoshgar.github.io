@@ -21,7 +21,7 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV AZ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azərbaycan",  MTV AZ
+#EXTINF:-1 tvg-id="" tvg-name="MTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azərbaycan",MTV
 https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 #EXTINF:1 tvg-id="TMB" tvg-language="Azerbaijani" tvg-logo="https://tmbtv.az/wp-content/uploads/2022/05/header-logo3.png" group-title="Azərbaycan",TMB
 https://api.canlitvplayer.com/str.yodacdn.net/tmbaz/mono.m3u8?token=2206890c3567a08ad0c83d4bb450b70ef81db04c-83bfc75e81a34158b768e0e3b3e7680b-1672888443-1672877643
