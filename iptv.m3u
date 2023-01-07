@@ -64,9 +64,9 @@ https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="Türkiyə",beIN SPORTS 1
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Türkiyə",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" group-title="Türkiyə",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="Türkiyə",TRT 2
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="Türkiyə",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="TRT 3 Spor" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TRT_3-Spor_kurumsal_logo.png/800px-TRT_3-Spor_kurumsal_logo.png" group-title="Türkiyə",TRT 3 Spor
 http://195.155.98.170:5858/play/a09m
@@ -76,9 +76,9 @@ https://cdn4.alfastreamtv.com/trtspor.m3u8?tkn=gZPK0-FzQZqbPpZti-541g&tms=167288
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40167
 #EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/new-logo-w.png" group-title="Türkiyə",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="" group-title="Türkiyə",TRT TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" group-title="Türkiyə",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="" group-title="Türkiyə",TRT AVAZ
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/TRT_Avaz_logo_%282009-2020%29.png" group-title="Türkiyə",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/800px-TRT_M%C3%BCzik.svg.png" group-title="Türkiyə",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
