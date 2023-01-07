@@ -150,6 +150,8 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyaz Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizFFPrps1eijyaZRjwMcwQjsUeu5EwMcX4Kkk-btOWAefpYpqmGtJyHtsB-ZXgsK37YRhnbitdPVyR83zm5jO7Xdqq3MiMc6nf_tRoHdIyCbEvPIhqY9sgIl6eRnCUimfoa1HfG4n_WfBSP0zvwfvVA2GJfwfMcbGwHWY_Ja6CX2urkTvV06g3SRlk_A/s1600/bsinema.jpg" group-title="Türkiyə",Beyaz Sinema
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz Dizi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRY4wtUjtNSkmUmSF-v8JzxLegLbJilnNI971ds7hRlU_K9xZEin_XSrRigwQbjBRgvyDOofnp7IPp1j2ipx_47J1YO48JgXAUowZKI1-rSjl8BLXsCI6ERV4wAAhhzr_6c0XOZf6lRWBIxZ61wWBLkdjUgq3b5yeTVMUcoQp8mN-k-h6sKnyzk399w/s1600/bdizi.jpg" group-title="Türkiyə",Beyaz Dizi
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Türkiyə",24 TV
