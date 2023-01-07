@@ -227,7 +227,7 @@ http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" group-title="Türkiyə",BLU TV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="beIN Türkiyə",beIN SPORTS 1
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40249
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="beIN Türkiyə",beIN SPORTS 1 Max
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40265
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="beIN Türkiyə",beIN SPORTS 2
