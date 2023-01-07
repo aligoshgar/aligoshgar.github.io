@@ -164,6 +164,8 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Türkiyə",A SPOR
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40287
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM3eR-XCvDEiqFSC9CKfwMizdqHs0O-C1GY3cRJAQnsSbHmUlMnz_-SjB9-faz1z0gvnIsCQw2K7QeWpBQ2rgapDSQ5nyJtyc_CQnPIJT4XVt4o7NlYrdD06HuHmlJifRnI9ULQ2ShsZRxit70HQhvPSyzrl_D-C7UdqK-N6EU0pyjmjNU_8JqHbiN/s512/unnamed.png" group-title="Türkiyə",A PARA
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39074
 #EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Beng%C3%BCt%C3%BCrk_TV.png" group-title="Türkiyə",BENGÜTÜRK
