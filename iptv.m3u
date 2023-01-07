@@ -51,7 +51,7 @@ http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-language="Azerbaijani" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" group-title="Azərbaycan",APA TV
 https://api.canlitvplayer.com/rtmp.apa.tv/@pagroup!23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:1 tvg-id="Naxçıvan TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" group-title="Azərbaycan",Naxçıvan TV
-http://canli.naxcivantv.az/media/20230101/high/tv_high.m3u8
+https://api.canlitvplayer.com/canli.naxcivantv.az/media/20230107/low/tv_low.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Səhiyyə TV" tvg-logo="https://sehiyyetv.az/wp-content/uploads/2022/11/STV-logo-2.png" group-title="Azərbaycan",Səhiyyə TV
 http://api.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=49b46a963601772e25ced2b2886605de86b3c411-4d908a3ca4eb8248cbbcafc51e12d454-1664271581-1664260781
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="Azərbaycan",EL TV
