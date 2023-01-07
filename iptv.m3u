@@ -132,6 +132,10 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Türkiyə",ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRI TURK" tvg-logo="https://i0.wp.com/criturk.com/wp-content/uploads/2022/11/CRI-TURKISH-NEW-BRAND-3.png" group-title="Türkiyə",CRI TURK
+https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_TLbjGqLo7QYyraVn2mFDHn5wT02RxWZbcGmpCmi76qL4Z_4qIMD06MqTX1FaTa4eSJEKPJgmqHvPhWgQs6QnneagCDT7qzrvxQK4rqBwo2GkrUG-0nfX-e9qCXgb21MrRfMpbQE28r3jV_l3Oiitcag6qVfhW9G-ZQc_M0ADouTzraVMZgm4snIydg/s1600/NTN2.png" group-title="Türkiyə",NTN
+https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 #EXTINF:0 tvg-id="Woman TV" tvg-name="Woman TV" tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png" group-title="Türkiyə",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="Türkiyə",CINE 5
