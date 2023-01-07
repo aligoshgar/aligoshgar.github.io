@@ -15,6 +15,8 @@ http://109.205.166.68/server124/arb/index.m3u8
 https://az2.canlitvplayer.com/azerbaijan/gunes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" group-title="Azərbaycan",ARB 24
 https://api.canlitvplayer.com/str.yodacdn.net/arb24/mono.m3u8?token=255167c23861dbecbb5941814c8cce35a7a48f69-d5e52c3bd247285d0046bcea135dcdf5-1672864926-1672854126
+#EXTINF:-1 tvg-id="" tvg-name="S TV" tvg-logo="" group-title="Azərbaycan",S TV
+https://api.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=dc0745acfa8d5b8c578ee5c70e32781648256fd5-f67f179ad328ef684859692f78a0189c-1673103538-1673092738
 #EXTINF:-1 tvg-id="" tvg-name="Kəpəz TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azərbaycan",Xezer TV
