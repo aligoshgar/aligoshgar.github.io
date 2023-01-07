@@ -168,6 +168,8 @@ http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1673002837&st=hZXwQg6X2ylmNbpv_oCuFQ&sid=51h699j3873f&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Habert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BENGÜTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Beng%C3%BCt%C3%BCrk_TV.png" group-title="Türkiyə",BENGÜTÜRK
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Haber_Global_logosu.png" group-title="Türkiyə",HABERGLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="Türkiyə",TV 100
