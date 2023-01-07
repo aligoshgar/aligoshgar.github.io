@@ -152,6 +152,8 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyaz Dizi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRY4wtUjtNSkmUmSF-v8JzxLegLbJilnNI971ds7hRlU_K9xZEin_XSrRigwQbjBRgvyDOofnp7IPp1j2ipx_47J1YO48JgXAUowZKI1-rSjl8BLXsCI6ERV4wAAhhzr_6c0XOZf6lRWBIxZ61wWBLkdjUgq3b5yeTVMUcoQp8mN-k-h6sKnyzk399w/s1600/bdizi.jpg" group-title="Türkiyə",Beyaz Dizi
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz Yeşilçam" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPFfoeCWXfr5uVldv5eORF8VL47BR96fdftBOV6Lz-DzLOp23mYZ60iJCTniCFf-SnApfJnqXJS_60eJQ8qAh7p2xQnFB3ol8LeRf4LTisgLaL7kZROFOEqK1hq1q7_QicrDFH-X0scUq1uOdll8FLSm491rxXO30fH7QWwd2Aht_mYrzS8sF_A578aQ/s1600/byesilcam.jpg" group-title="Türkiyə",Beyaz Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Türkiyə",24 TV
