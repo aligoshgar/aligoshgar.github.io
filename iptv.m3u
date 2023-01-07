@@ -62,26 +62,6 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BeIN Türkiyə",beIN SPORTS 1
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="BeINTürkiyə",beIN SPORTS 1 Max
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40265
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="BeIN Türkiyə",beIN SPORTS 2
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40255
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/800px-Logo_bein_sports_max_2.png" group-title="BeIN Türkiyə",beIN SPORTS 2 Max
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40267
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="BeIN Türkiyə",beIN SPORTS 3
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40258
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/798px-Logo_bein_sports_4.png" group-title="BeIN Türkiyə",beIN SPORTS 4
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40261
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="BeIN Türkiyə",beIN SPORTS HABER
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40247
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BeIN_MOVIES_Premier-HD.png/800px-BeIN_MOVIES_Premier-HD.png" group-title="Türkiyə",beIN Movies Premier
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40346
-#EXTINF:-1  tvg-logo="https://tr.m.wikipedia.org/wiki/Dosya:BeIN_MOVIES_Premier-2_HD.png" group-title="Türkiyə",beIN Movies Premier 2
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40348
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BeIN Türkiyə",beIN Movies Türk
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40345
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" group-title="Türkiyə",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="Türkiyə",TRT 2
@@ -246,3 +226,23 @@ http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40289
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" group-title="Türkiyə",BLU TV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BeIN Türkiyə",beIN SPORTS 1
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40251
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="BeINTürkiyə",beIN SPORTS 1 Max
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40265
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="BeIN Türkiyə",beIN SPORTS 2
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40255
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/800px-Logo_bein_sports_max_2.png" group-title="BeIN Türkiyə",beIN SPORTS 2 Max
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40267
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="BeIN Türkiyə",beIN SPORTS 3
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40258
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/798px-Logo_bein_sports_4.png" group-title="BeIN Türkiyə",beIN SPORTS 4
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40261
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="BeIN Türkiyə",beIN SPORTS HABER
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40247
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BeIN_MOVIES_Premier-HD.png/800px-BeIN_MOVIES_Premier-HD.png" group-title="Türkiyə",beIN Movies Premier
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40346
+#EXTINF:-1  tvg-logo="https://tr.m.wikipedia.org/wiki/Dosya:BeIN_MOVIES_Premier-2_HD.png" group-title="Türkiyə",beIN Movies Premier 2
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40348
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="BeIN Türkiyə",beIN Movies Türk
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40345
