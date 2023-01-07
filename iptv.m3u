@@ -178,16 +178,18 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39679
 #EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="Türkiyə",POWER TV
 https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER PLUS" tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/charts/c/chrt_140_1385974ed5904a438616ff7bdb3f7439.jpg" group-title="Türkiyə",POWER PLUS
+https://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Türkiyə",POWER Türk
 https://h92.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="Türkiyə",POWER LOVE
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2556.png?v=6" group-title="Türkiyə",POWER DANCE
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" group-title="Türkiyə",NR1
 https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1 Türk" tvg-logo="https://www.derszamani.net/wp-content/uploads/2013/09/5f6e79c2f930ece9e5cda34ff8377aab.png" group-title="Türkiyə", NR1 Türk
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NR1 Dance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/dance-tv-web.jpg" group-title="Türkiyə", NR1 Dance
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDEd511H8WnL0oaP7ZdHlDGRWhmPipMqtrIrKWAidEknt)/dm/3/x67chco/s/live-1.m3u8#cell=lcore
-#EXTINF:-1 tvg-id="" tvg-name="NR1 Damar" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/damar-tv-web.jpg" group-title="Türkiyə", NR1 Damar
-https://stream-07.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDIAAfIi5VcPsmzGL2EhXDTZL2tbrmGJF3KVQC-WLAmtE)/dm/3/x67ch8g/s/live-1.m3u8#cell=lcore
 #EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="https://www.volotv.com/media/images/tvlogo/tatlisestv-canlitvkanal-l79b.png" group-title="Türkiyə",TATLISES TV
 https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="Milyon TV" tvg-language="Turkish" tvg-logo="https://static.wixstatic.com/media/6bab1d_5f94910eaa66491eb5c6a0652e31f2c5~mv2.png/v1/fill/w_120,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyon-tv-logo-2.png" group-title="Türkiyə",Milyon TV
@@ -204,13 +206,3 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fenerbahçe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/01/Fenerbah%C3%A7e_TV_Logo.jpg/600px-Fenerbah%C3%A7e_TV_Logo.jpg" group-title="Türkiyə",Fenerbahçe TV
-https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYuMtfezEwRh8n5yo2U_q1Pc0hksDYwbabs6m-ldE31dM)/dm/3/x21oo10/s/live-1.m3u8#cell=lcore
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="Türkiyə",Galatasaray TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" group-title="Türkiyə",Minika Go
-https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=dnCJJClNKA4kc1xMk-i_wQ&e=1673042660&SessionID=e5xml2et21rp23iiiimyvcb2&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobilreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil
-#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="Türkiyə",Minika Çocuk
-https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=_kOhLI1tBThwPZoZfDeWPg&e=1673042735in&Site=minikacocuk&DeviceGroup=mobil
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Türkiyə",Cartoon Network
-https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/chunklist_w1837753539.m3u8?hash=ec7b63cb494c95cfa7ce22ebbc832a29
