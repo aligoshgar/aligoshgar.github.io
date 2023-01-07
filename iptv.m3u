@@ -107,7 +107,7 @@ https://cdn3.alfastreamtv.com/tv8int.m3u8?tkn=Pcr9bd9_zVK-T0v77aQ_hw&tms=1672875
 #EXTINF:-1 tvg-id="" tvg-language="Turkey" tvg-name="ATV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Türkiyə",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ATV Avrupa" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" group-title="Türkiyə",ATV Avrupa
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40217
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38954
 #EXTINF:-1 tvg-id="" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Türkiyə",A2 TV
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38925
 #EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" group-title="Türkiyə",Show TV
