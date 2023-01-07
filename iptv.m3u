@@ -212,3 +212,7 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d4b4866ac31658881736.jpg" group-title="Türkiyə",BLU TV PLAY 1
+http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" group-title="Türkiyə",BLU TV PLAY 2
+http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
