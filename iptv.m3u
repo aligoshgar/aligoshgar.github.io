@@ -138,6 +138,8 @@ https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/04/Cine5_logosu.png" group-title="Türkiyə",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="Türkiyə",FX
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39100
 #EXTINF:0 tvg-id="Teve2" tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="Türkiyə",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" group-title="Türkiyə",TV 4
