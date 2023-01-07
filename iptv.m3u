@@ -111,7 +111,7 @@ http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ATV Avrupa" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" group-title="Türkiyə",ATV Avrupa
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/40217
 #EXTINF:-1 tvg-id="" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Türkiyə",A2 TV
-https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=YzLu9h8ERS7pJvPpGFPqyw&e=1673040187&SessionID=53co2oyumtduhup4diansohf&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5cte=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
+http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38925
 #EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" group-title="Türkiyə",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" group-title="Türkiyə",Show Türk
