@@ -278,3 +278,9 @@ http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39097
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39607
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/BeIN_GURME_logosu.jpg" group-title="beIN Türkiyə",beIN Gurme
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39605
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png/800px-BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="beIN Türkiyə",beIN BOX OFFICE 1
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/29225
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png/799px-BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="beIN Türkiyə",beIN BOX OFFICE 2
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/29226
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png/798px-BeIN_BOX_OFFICE_HD_3_2018_logo.png" group-title="beIN Türkiyə",beIN BOX OFFICE 3
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/29227
