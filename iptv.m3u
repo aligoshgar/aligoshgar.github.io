@@ -117,7 +117,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" group-title="Türkiyə",Show Türk
 https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
 #EXTINF:-1 tvg-id="" tvg-name="Show Max" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="Türkiyə",Show Max
-https://ciner-live.ercdn.net/showmax/showmax_576p.m3u8?e=1673002700&st=vjxAMtZDh2zdWaZJYuZS3w&tv=1
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184462
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="Türkiyə",Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Türkiyə",Euro Star TV
