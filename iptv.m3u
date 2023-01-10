@@ -216,6 +216,8 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiyə",360 TV
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX" tvg-logo="https://i.imgur.com/XbSSFZ2.png" group-title="Türkiyə",FILMBOX
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/324834
 #EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Teleon_logosu.jpg" group-title="Türkiyə",TELEON
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
