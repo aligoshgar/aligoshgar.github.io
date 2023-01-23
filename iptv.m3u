@@ -218,8 +218,8 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILMBOX" tvg-logo="https://i.imgur.com/XbSSFZ2.png" group-title="Türkiyə",FILMBOX
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/324834
-#EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Teleon_logosu.jpg" group-title="Türkiyə",TELEON
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="Türkiyə",TELEON
+http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/2066
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOSS TV" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1780/masa-ile-koca-ay%C4%B1/showpage/tr/masha_-ile_koca_ayi_showpage_showsquare.49864d03.png" group-title="Türkiyə",BOSS TV
