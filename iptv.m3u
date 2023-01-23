@@ -28,7 +28,7 @@ https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 #EXTINF:1 tvg-id="TMB" tvg-language="Azerbaijani" tvg-logo="https://tmbtv.az/wp-content/uploads/2022/05/header-logo3.png" group-title="Azərbaycan",TMB
 https://api.canlitvplayer.com/str.yodacdn.net/tmbaz/mono.m3u8?token=2206890c3567a08ad0c83d4bb450b70ef81db04c-83bfc75e81a34158b768e0e3b3e7680b-1672888443-1672877643
 #EXTINF:-1 tvg-id="" tvg-name="TMB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/50/TMB_logosu.png" group-title="Türkiyə",TMB
-https://vsd94.mycdn.me/hls/2746773932586.m3u8/sig/sXNmozl4wr4/expires/1673036238208/srcIp/5.134.53.23/urls/45.136.21.85/clientType/0/srcAg/CHROME_ANDROID/mid/3980522364458/2746773932586_high/index.m3u8?p
+https://api.canlitvplayer.com/str.yodacdn.net/tmbtr/mono.m3u8?token=ef3f6f0f87fba252e87f5ad34b4a583a9e72ee53-eb6c70c4c8d80237a6f78be644a56a75-1674469048-1674458248
 #EXTINF:1 tvg-id="Real TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" group-title="Azərbaycan",Real TV
 https://api.canlitvplayer.com/str.yodacdn.net/real/mono.m3u8?token=ea2d070ab3003c2c6469655a570a2b73a44961bd-e24d603b1d20ea7a92bce9d14f1cdbcc-1672866278-1672855478
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" group-title="Azərbaycan",Qafqaz TV
