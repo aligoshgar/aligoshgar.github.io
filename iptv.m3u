@@ -218,7 +218,7 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILMBOX" tvg-logo="https://i.imgur.com/XbSSFZ2.png" group-title="Türkiyə",FILMBOX
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/324834
-#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="Türkiyə",TELEON
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="Türkiyə",DOCUBOX
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/2066
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="https://download.logo.wine/logo/NHT_Loudspeakers/NHT_Loudspeakers-Logo.wine.png" group-title="Türkiyə",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
@@ -226,7 +226,7 @@ https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/39669
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Türkiyə",CARTOON NETWORK
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/2042
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/az/7/7d/Nickelodeon_loqo.png" group-title="Türkiyə",NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/az/7/7d/Nickelodeon_loqo.png" group-title="Türkiyə",NICKELOEDEON
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/2032
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Türkiyə",DISNEY JUNIOR
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/2036
