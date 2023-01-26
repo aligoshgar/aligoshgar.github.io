@@ -19,6 +19,7 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-country="AZ" tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" group-title="Azərbaycan",Kanal S
 http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+https://api.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=0e5679df5a8f857f5330bd8944114daea1e11c31-d9dabd19ede3b12dabc22644a32b6175-1674749697-1674738897
 #EXTINF:1 tvg-id="XezerTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/5Z2pVHs.png" group-title="Azərbaycan",Xezer TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/MuZm8N2.png" group-title="Azərbaycan",Space TV
