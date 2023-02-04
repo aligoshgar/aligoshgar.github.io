@@ -55,7 +55,7 @@ https://api.canlitvplayer.com/rtmp.apa.tv/@pagroup!23.m3u8?wmsAuthSign=c2VydmVyX
 http://api.canlitvplayer.com/str.yodacdn.net/shtv/mono.m3u8?token=49b46a963601772e25ced2b2886605de86b3c411-4d908a3ca4eb8248cbbcafc51e12d454-1664271581-1664260781
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Azərbaycan",Kino TV
+#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigls6b1wsyIVTR5fMRsaQLfcdze_7gizmIcecFhYKofICbCI5-i9gmI9GsPApUD7NesBq8x5MgVpM9n7vTFUAzQRBaNBEoJs2dnZas2eB--Cm2oNSTcV-YTBVLRu_VHMslKsJMAga-CGkGnPK2PQLmOxzSm2jrLAivFfrvhg3J04JgqtTYtZRNQnK7/s900/channels4_profile.jpg" group-title="Azərbaycan",SƏS TV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
