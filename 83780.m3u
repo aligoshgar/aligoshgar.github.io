@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Aztv
+http://109.205.166.68/server124/aztv/index2.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿ICTIMAI TV HD
+http://213.239.195.222/azerbaijan/ictimai_stream_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Naxçıvan TV
+http://95.217.196.109:8081/azerbaijan/naxcivan/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 ARB
+http://109.205.166.68/server124/arb/index2.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 ARB 24 HD
+http://213.239.195.222:80/azerbaijan/24_stream_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Kanal S
+http://65.21.196.155/azerbaijan/start_tv_az_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 MEDENIYYET TV HD
+http://109.205.166.68/server124/medeniyyet_tv/index3.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Xazar
+http://109.205.166.68/server124/xazar_tv/index3.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Space
+http://109.205.166.68/server124/space_tv/index3.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Azad TV
+http://213.239.195.222/azerbaijan/atv_stream_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Real TV
+http://213.239.195.222/azerbaijan/real_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Sehiyye TV
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 DUNYA TV
+http://213.239.195.222/azerbaijan/dunya_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Idman
+http://109.205.166.68/server124/idman_az/index3.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 CBC SPORT AZ
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 CBC
+http://213.239.195.222/azerbaijan/cbc_stream_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Qəbələ tv
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Kəpəz tv
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 El tv
+http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 ALVIN TV
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Könül TV1
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Ümid TV
+http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w1777391236_b796000.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 AZSTAR TV
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 LiveTV Az
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 FTV AZ
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 AN.T HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 HADI TV-3
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿 Muz Tv
+http://213.239.195.222/azerbaijan/muztv_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿GÜNAZ TV
+http://65.21.196.155:80/azerbaijan/gunaz/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿Arb Günəş
+http://213.239.195.222:80/azerbaijan/gunes_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿Qafqaz TV Az
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿GEM AZ
+http://aflaxtv.xyz:8080/live/osec/c5176e377c82/64976.ts
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿Agro TV AZ
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿TMB AZ
+http://213.239.195.222:80/azerbaijan/tmb_2023/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿VOSTOK TV
+http://65.21.196.155:80/azerbaijan/vostok/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 AZƏRBAYCAN kanalları",🇦🇿KANAL35
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT 1 SD
+https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT 1 HD
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 ATV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6887/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 ATV Avrupa
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6888/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=5c5vr8y2q331&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3&e=1664766175
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  D MAX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/2290/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FOX TV HD
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FOX TV-2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6902/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷 TV8.5
+http://amtv1-2.livestreamingcdn.com:80/gt-tv8.5/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  360 TV HD
+http://213.172.73.170:8081/nimble_live/1133__360_turk/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  Star TV
+http://dogus-live.daioncdn.net/startv/startv_360p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BEYAZ TV HD
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TEVE 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  DİYANET TV HD
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  AKIT TV HD
+http://akittv-live.ercdn.net/akittv/akittv_360p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV4 FHD
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  NTN HD YESiLCAM
+https://tv.ntnhd.com:3588/multi_web/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV AVRUPA
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ANKA TV HD
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FLASH HABER
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABERTURK TV
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT-TURK
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT ARABI
+https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT okul
+https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BENGÜTÜRK TV [HD]
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  DOST HD TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TR24 TV [HD]
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL iSTANBUL HD
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  MiSKET TV HD
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BRiC-SATRANC TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  GUNE DOGUS TV
+http://cdn1-gunedogustv.yayin.com.tr/gunedogustv/ngrp:gunedogustv/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FiNEST TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FORTUNA TV
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  EMTV
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w619104101.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  İBB TV
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  FORTUNA TÜRK TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TLC
+https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  MECLİS TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KANAL B
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ÜLKE TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  LUSAL KANAL
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  AKİT TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  BLOOMBERG
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ViYANA TV HD
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  KON TV
+https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  SARIYER TV
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TV1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TVDEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="🇹🇷 TÜRKİYƏ kanalları",🇹🇷  TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-360p.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Первий Канал
+http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img/984.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺Россия 1
+http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.it999.ru/img/1767.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺Россия 24
+http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img/2001.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺Россия Культура
+http://213.172.73.170:8081/nimble_live/1059__Rossiya_Kultura/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img/18.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 РЕН ТВ HD
+http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="http://epg.it999.ru/img/79.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺ТНТ
+http://213.172.73.170:8081/nimble_live/1069__TNT/playlist.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img/304.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺ТНТ4
+http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img/1003.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺Galaxy tv
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://epg.it999.ru/img/698.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺DA VINCI LEARNING
+http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Звезда HD
+http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt-4" tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺DTX
+http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="http://epg.it999.ru/img2/2471.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4458.png" group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 360 НОВОСТИ
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 KINO Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 LAVA HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 History
+http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 КЛУБ
+https://v2.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 СТРК
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 ТНТ International
+https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Aris 24 Russia
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Astragan Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Astragan Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 CEBEP Russia
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 CTPAHA Russia
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 C1 Russia
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 IZ RU TV
+https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 MNP RU
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 MNP 4 RU
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 MNP 24 RU
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Nano TV RU
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 PEH TB
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 TB7 Russia
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Univer TV Russia
+https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSIYA KANALLARI",🇷🇺 Vetta 24 RU
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",CBC SPORT TEST
+https://cdn93.alfastreamtv.com/cbcsport.m3u8?tkn=5phf3YKvKMZhtT-fE2xY3w&tms=1693162394&hst=www.canlitv.me&ip=37.32.77.59
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽ Idman tv
+http://109.205.166.68/server124/idman_az/index3.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽ CBC-SPORT AZ
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽,Galatasaray TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6834/index.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽TJK TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6837/index.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽NBA TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6838/index.m3u8
+#EXTINF:-1 group-title="⚽ IDMAN kanalları",⚽ GsTV
+https://owifavo5.rocketcdn.com/gstv/gstv/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vostok tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/1054/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Tatlıses Tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6872/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",KRALPOP TV SD
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_360p.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",KralPOP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",TMB TR
+http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",POWER TURK EN YENiLER
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",POWER TURK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",POWER TURK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",DREAM TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",ARABESK TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",SUPER TV MUZIK FHD
+http://90.84.231.156:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MUZZIK HIP-HOP
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Хип Хоп 359 TV
+https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Deejay TV
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Steelbird Music TV
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/live/chunks.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MTV Spanking New HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",BIZ MUSIC TV
+https://st.biztv.uz/hls/m_mid/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",TVM 3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Now 70-80-90
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Radio Love FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Kiss Kiss Tv HD
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Европа Плюс ТВ
+https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Музыка Первого
+https://sc.id-tv.kz:443/MuzikaPervogo_36_37.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Той Думан
+https://sc.id-tv.kz/ToiDuman_34_35.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Mezzo Live HD
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VESELJAK TV
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",NG TV
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MESSATIDA TV
+https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",CANNALI TV HD
+http://live.streams.ovh:1935/cannali/cannali/chunklist_w360857474.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Baraza Music HD
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Baraza TV Greek Hits
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stereo Citta TV
+https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Kayhan Afghan
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Go TV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",XITE
+https://xite-samsung-de.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",9 Волна
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VEVO Pop (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VEVO Country (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VEVO R&B (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VEVO '70s (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VEVO Reggaetón & Trap (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vevo Pop Europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vevo Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vevo Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PERSIANA SONNATI TV
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",4 KURD
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Power +
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",PMC Royale
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Amva HD
+http://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Sense HD
+http://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Cafe&Club
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik OKK
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Muzzik Worldwide
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",CMT
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Retro TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w949252656_b750000.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",V2Beat TV Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",CVR
+https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",RITSA TV HD
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Happy Radio
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MIXM TV
+https://live.prd.dlive.tv/hls/live/mixm.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Flashback 70's HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Remember the 80s HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Soul Storm HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Stingray Exitos del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",EBC1 Persian Music Channel
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",DANCE TV TECHNO
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",House
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",EDM
+https://sluhay.by/live/Ch091pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Downtempo
+https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Melodic Tech
+https://eu-nl-012.worldcast.tv/dancetelevisionnine/2/dancetelevisionnine.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Mova
+https://sluhay.by/live/Ch034pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",SLUHAY-BY
+https://sluhay.by/live/Ch045pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Lenadi
+https://sluhay.by/live/Ch052pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",XTIP
+https://sluhay.by/live/Ch056pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",CHRIST
+https://sluhay.by/live/Ch064pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",POP
+https://sluhay.by/live/Ch066pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Among Your Gods
+https://sluhay.by/live/Ch086pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",RAP
+https://sluhay.by/live/Ch107pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Rock
+https://sluhay.by/live/Ch114pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Aillion
+https://sluhay.by/live/Ch149pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Live
+https://sluhay.by/live/Ch173pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Doma Fun
+https://sluhay.by/live/Ch236pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Moyo Tebe
+https://sluhay.by/live/Ch250pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Doma
+https://sluhay.by/live/Ch316pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Markuts Band
+https://sluhay.by/live/Ch360pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",The Glitchhh
+https://sluhay.by/live/Ch362pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Априори
+https://sluhay.by/live/Ch363pub/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Meidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",1HD
+http://live-1.otcnet.ru/onehdweb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎼 MUSIQI kanalları",MCM Top
+http://live-1.otcnet.ru/mcm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Qanlı Yanvar 2015
+https://cdn01.koroqlu.com/media/films/2018/01/180111-Qanli_Yanvar_2015_Subsuz/main/video/1080p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",20 Yanvar Azadlığa Gedən Yollar
+https://cdn01.koroqlu.com/media/films/2018/01/180116-AZADLIGA_GEDEN_YOLLAR/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Yaddaş 2010
+https://cdn01.koroqlu.com/media/films/2018/05/180510-YAddash-2010/main/video/1080p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",YARASA 1995
+https://cdn01.koroqlu.com/media/films/2018/10/181001-Yarasa/main/video/720p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",YARIMCILIQ XATIRELER 2015
+https://cdn01.koroqlu.com/media/films/2018/02/180226-Yarimciq_Xatireler/main/video/720p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",DOLU
+https://cdn01.koroqlu.com/media/films/2018/02/180224-Dolu/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Şərikli Çörək -1969
+https://cdn01.koroqlu.com/media/films/2018/05/180505-Sherikli_Chorek-1969/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Uşaqlığın Son Gecəsi-1968
+https://cdn01.koroqlu.com/media/films/2018/07/180703-Ushaqligin_Son_Gecesi-1968/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Ögey Ana-1958
+https://cdn01.koroqlu.com/media/films/2018/05/180522-Ogey_Ana-1958/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",GORUS-1955
+https://cdn01.koroqlu.com/media/films/2018/07/180731-Gorush-1955/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",QAYNANA-1978
+https://cdn01.koroqlu.com/media/films/2018/05/180516-Qaynana-1978/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Mən Ki Gözəl Deyildim-1968
+https://cdn01.koroqlu.com/media/films/2018/06/180630-Men_ki_gozel_Deyildim-1968/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Əhməd haradadır -1963
+https://cdn01.koroqlu.com/media/films/2018/06/180619-Ehmed_Haradadir-1963/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",O OLMASIN BU OLSUN-1956
+https://cdn01.koroqlu.com/media/films/2018/06/180618-O_Olmasin_Bu_Olsun-1956/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Böyük dayaq -1962
+https://cdn01.koroqlu.com/media/films/2018/06/180630-Boyuk_Dayaq-1962/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Ad günü - 1977
+https://cdn01.koroqlu.com/media/films/2018/07/180703-Ad_Gunu-1977/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Bəxtiyar -1955
+https://cdn01.koroqlu.com/media/films/2018/06/180627-Bextiyar-1955/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="📽️   KOHNEBAKI-kinofilm",Bir qalanın sirri -1959
+https://cdn01.koroqlu.com/media/films/2018/07/180731-Bir_Qalanin_Sirri-1959/main/video/360p/index.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",TRT 🐘 BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",VIASAT NATURE HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",VIASAT STORY HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",EXPLORE HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🐘 BELGESEL",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",RTG TV
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Viju History HD
+http://ott.watch/stream/IZPZLRILRU/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",DİSCOVERY HD
+http://ott.watch/stream/IZPZLRILRU/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Food Time HD
+http://ott.watch/stream/IZPZLRILRU/216.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Техно 24
+http://213.172.73.170:8081/nimble_live/1056__24_Texno/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Viasat History HD
+http://213.172.73.170:8081/nimble_live/1074__ViaSat_History/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",History HD
+http://ott.watch/stream/IZPZLRILRU/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",History2 HD
+http://ott.watch/stream/IZPZLRILRU/65.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Terra
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Animal Planet HD
+http://ott.watch/stream/IZPZLRILRU/114.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Первый космический HD
+http://ott.watch/stream/IZPZLRILRU/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="🐘 BELGESEL",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="👶 Uşaq kanalları",Arb Günəş
+http://213.239.195.222:80/azerbaijan/gunes_2023/playlist.m3u8
+#EXTINF:-1 group-title="👶 Uşaq kanalları",TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="👶 Uşaq kanalları",EBA iLKOKUL
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="148" catchup="shift" tvg-logo="http://epg.cdntv.online/img/148.png" timeshift="3" catchup-days="3" group-title="👶 Uşaq kanalları",Detskiy
+http://213.172.73.170:8081/nimble_live/1027__Detskiy/playlist.m3u8
+#EXTINF:-1 tvg-id="149" catchup="shift" tvg-logo="http://epg.cdntv.online/img/149.png" timeshift="3" catchup-days="3" group-title="👶 Uşaq kanalları",Детский мир
+http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
+#EXTINF:-1 tvg-id="153" catchup="shift" tvg-logo="http://epg.cdntv.online/img/153.png" timeshift="3" catchup-days="3" group-title="👶 Uşaq kanalları",МУЛЬТ
+http://213.172.73.170:8081/nimble_live/1084__Mult/playlist.m3u8
+#EXTINF:-1 tvg-id="154" catchup="shift" tvg-logo="http://epg.cdntv.online/img/154.png" timeshift="3" catchup-days="3" group-title="👶 Uşaq kanalları",Мама
+http://213.172.73.170:8081/nimble_live/1052__MAMA/playlist.m3u8
+#EXTINF:-1 tvg-id="157" catchup="shift" tvg-logo="http://epg.cdntv.online/img/157.png" timeshift="3" catchup-days="3" group-title="👶 Uşaq kanalları",Мультимания
+http://213.172.73.170:8081/nimble_live/1078__Multimaniya/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="👶 Uşaq kanalları",Karusel tv
+http://213.172.73.170:8081/nimble_live/1011__Karusel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-shift="0" group-title="👶 Uşaq kanalları",2x2
+http://213.172.73.171:8081/nimble_live/1162__2x2/playlist.m3u8
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",ANS ÇM Radio
+https://live.ansradio.ws:8443/mp3_128
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",ASAN RADİO
+http://94.20.74.206:4448/stream1
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Vətən Radio
+https://stream-65.zeno.fm/0kgkkzanmueuv?zs=w2itfOLETDODSkeATfrnGQ
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Naxçıvan Radio
+http://s33.myradiostream.com:12782/;stream.nsv
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",KƏPƏZ FM
+http://85.132.78.122:3344/now
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Araz FM
+https://s14.myradiostream.com/:30454/listen.mp3?nocache=1673498391
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",ANTENN FM
+https://icecast.livetv.az/antennfm
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Xəzər FM
+https://s40.myradiostream.com/:22546/listen.mp3
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",İctimai radio-90FM
+https://stream.itv.az/rtmp:/radio/chunks.m3u8
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Space Radio
+http://5.191.241.101:8000/spaceradio
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",TMB RADİO AZ-100.5FM
+http://s39.myradiostream.com:5458/listen.mp3?nocache=1673499165
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",MEDİA FM
+http://95.217.196.109:8000/mediafm
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Yurd Fm-90.7
+https://icecast.livetv.az/yurdfm
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Avto FM
+http://5.191.241.101:8000/avtofm
+#EXTINF:-1 group-title="📻 Köhnəbaki FM",Viva FM Azərbaycan
+https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
+#EXTINF:-1 group-title="Dini kanallari",HADI TV-3(AZERBAYCAN)
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_360p.m3u8
+#EXTINF:-1 group-title="Dini kanallari",SON UMID
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1 group-title="Dini kanallari",Lalegul tv(TURK)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="Dini kanallari",DIYANET TV(TURK)
+https://yayin30.haber100.com/live/diyartv/chunklist_w1527287330.m3u8
+#EXTINF:-1 group-title="Dini kanallari",AL-ZAHRA
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Dini kanallari",DOST HD (Turk)
+https://dost.stream.emsal.im/tv/live.m3u8
