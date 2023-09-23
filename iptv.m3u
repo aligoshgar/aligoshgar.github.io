@@ -127,8 +127,6 @@ http://85.132.78.122:3344/now
 https://radio.autoliferadio.com:8005/radio
 #EXTINF:-1 group-title="📻 Azərbaycan Radioları",VIVA FM Azərbaycan
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
-#EXTINF:-1 group-title="Türkiyə",NTV Spor
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2
@@ -221,6 +219,8 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV Türk" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f5/NTV_Spor_HD_logosu.png/799px-NTV_Spor_HD_logosu.png" tvg-name="NTV Spor" group-title="Türkiyə",NTV Spor
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" tvg-name="24 TV" group-title="Türkiyə",24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Türkiyə",A HABER
