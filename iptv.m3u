@@ -342,9 +342,9 @@ http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-name="EXXEN TV" group-title="PREMIUM",EXXEN TV
 http://41k.space:8080/Mucahitbayramoglu/Muco02102020/136544
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d4b4866ac31658881736.jpg" tvg-name="BLU TV PLAY 1" group-title="PREMIUM",BLU TV PLAY 1
-http://hd.turki.stream:8080/caferkurt/GLc6CD7cXbcW/61043
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" tvg-name="BLU TV PLAY 2" group-title="PREMIUM",BLU TV PLAY 2
-http://hd.turki.stream:8080/caferkurt/GLc6CD7cXbcW/61042
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="PREMIUM",Nick Jr.
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/6847/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="PREMIUM",МУЗ ТВ (+7)
