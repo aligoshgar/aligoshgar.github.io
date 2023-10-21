@@ -28,7 +28,7 @@ http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
-http://213.239.195.222/azerbaijan/muztv_2023/playlist.m3u8
+http://213.172.73.171:8081/nimble_live/1156__MuzTv_Azerbaycan/playlist.m3u8
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV
 http://185.32.44.154/realtv/index.m3u8
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qafqaz TV
