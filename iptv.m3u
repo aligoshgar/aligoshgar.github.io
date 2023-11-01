@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Az TV
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://109.205.166.68/server124/aztv/index.m3u8
-#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Medeniyyet TV
+#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
 http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
-#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Idman TV
+#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV
 http://109.205.166.68/server124/ictimai_tv/index.m3u8
@@ -21,7 +21,7 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
 http://65.21.196.155/azerbaijan/start_tv_az_2023/playlist.m3u8
-#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xezer TV
+#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
