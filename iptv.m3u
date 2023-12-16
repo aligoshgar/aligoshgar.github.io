@@ -313,9 +313,9 @@ http://bandookk.xyz:80/hyper/Rirabox/40372
 http://bandookk.xyz:80/hyper/Rirabox/40373
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="PREMIUM",beIN Sports Haber
 http://bandookk.xyz:80/hyper/Rirabox/40374
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="PREMIUM",beIN Sports Max 1
+*EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="PREMIUM",beIN Sports Max 1
 http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/9234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/800px-Logo_bein_sports_max_2.png" group-title="PREMIUM",beIN Sports Max 2
+*EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/800px-Logo_bein_sports_max_2.png" group-title="PREMIUM",beIN Sports Max 2
 http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/9235
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BeIN_MOVIES_Premier-HD.png/800px-BeIN_MOVIES_Premier-HD.png" group-title="PREMIUM",beIN Movies Premiere
 http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/172
