@@ -16,7 +16,7 @@ http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://213.172.73.170:8081/nimble_live/1143__ARB_Gunas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24" group-title="Azərbaycan",ARB 24
-http://85.132.81.184:8080/arb/live/index.m3u8
+http://mfe02.cliptv.az:80/dash/ARB_24_SDrfv0110.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
@@ -42,7 +42,7 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Baku TV
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" tvg-language="Azerbaijani" group-title="Azərbaycan",CBC TV
-http://213.172.73.170:8081/nimble_live/1038__CBC_Azerbaycan/playlist.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:-1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="Azərbaycan",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="Azərbaycan",APA TV
@@ -56,7 +56,7 @@ https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/chunkl
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
-http://node01.nntv.az:8163/ch6/ch6.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&amp;e
+http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
@@ -84,7 +84,7 @@ http://cdn1-tvplustv.yayin.com.tr/tvplustv/tvplustv_720p/playlist.m3u8
 #EXTINF:1 tvg-id="DREAM STAR" tvg-logo="https://www.dreamstar.com.tr/assets/images/dreamstar-logo3.png" tvg-language="Azerbaijani" group-title="Azərbaycan",DREAM STAR
 http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369543
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
-http://213.239.195.222:80/azerbaijan/tmb_2023/playlist.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
 http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369575
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
