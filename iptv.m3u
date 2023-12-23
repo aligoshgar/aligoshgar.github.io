@@ -247,6 +247,8 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" tvg-name="TGRT Belgesel" group-title="Türkiyə",TGRT Belgesel
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" tvg-name="TGRT Belgesel" group-title="Türkiyə",TGRT Belgesel
+https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flashhabertv.com/assets/images/logo.png" tvg-name="Flash Haber" group-title="Türkiyə",Flash Haber
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" tvg-name="Sports TV" group-title="Türkiyə",Sports TV
@@ -288,7 +290,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.volotv.com/media/images/tvlogo/tatlisestv-canlitvkanal-l79b.png" tvg-name="TATLISES TV" group-title="Türkiyə",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:1 tvg-id="Milyon TV" tvg-logo="https://static.wixstatic.com/media/6bab1d_5f94910eaa66491eb5c6a0652e31f2c5~mv2.png/v1/fill/w_120,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyon-tv-logo-2.png" tvg-language="Turkish" group-title="Türkiyə",Milyon TV
-http://hd.turki.stream:8080/caferkurt/GLc6CD7cXbcW/63597
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" tvg-name="Yaban TV" group-title="Türkiyə",Yaban TV
@@ -302,7 +304,7 @@ https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" tvg-name="Galatasaray TV" group-title="Türkiyə",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" tvg-name="Fenerbahçe TV" group-title="Türkiyə",Fenerbahçe TV
-http://tv.b1l4cktvs4rver.xyz:8080/Smt82/ROhP51bOJ6/67
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="Türkiyə",Cartoon Network
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="PREMIUM",beIN Sports 1
