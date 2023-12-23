@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:1 tvg-id="Haile" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Haile
-https://vod.cf.dmcdn.net/sec2(vgMDSFrE_FggaaKWI7xbC4e0OBngddZECMv59PXAGE4nxMaIFCGL7UMJBRwMxlzM3miolVlY_SjBqMb_0wLfGhosgJTUsMbUdvjsV86-nmvjvMunMfF5-oSkeL-5RW9z6pVhQSLjhKdDLUgIrAPwUQ)/video/364/603/527306463_mp4_h264_aac_hd_10.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
@@ -355,3 +352,6 @@ https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="PREMIUM",МУЗ ТВ (+7)
 http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/73585
+#EXTM3U
+#EXTINF:1 tvg-id="Haile: Bir Aile Kâbusu" tvg-logo="" tvg-language="Azerbaijani" group-title="Filmlər",Haile: Bir Aile Kâbusu
+https://vod.cf.dmcdn.net/sec2(vgMDSFrE_FggaaKWI7xbC4e0OBngddZECMv59PXAGE4nxMaIFCGL7UMJBRwMxlzM3miolVlY_SjBqMb_0wLfGhosgJTUsMbUdvjsV86-nmvjvMunMfF5-oSkeL-5RW9z6pVhQSLjhKdDLUgIrAPwUQ)/video/364/603/527306463_mp4_h264_aac_hd_10.m3u8
