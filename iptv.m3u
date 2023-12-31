@@ -223,7 +223,6 @@ https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f5/NTV_Spor_HD_logosu.png/799px-NTV_Spor_HD_logosu.png" tvg-name="NTV Spor" group-title="Türkiyə",NTV Spor
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" tvg-name="24 TV" group-title="Türkiyə",24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Türkiyə",A HABER
