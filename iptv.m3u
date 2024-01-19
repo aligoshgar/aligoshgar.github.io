@@ -190,7 +190,7 @@ https://api.canlitvplayer.com/mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kb
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" tvg-name="Kanal D" group-title="Türkiyə",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://eurod.kanald.com.tr/assets/img/eurod_footer.png" tvg-name="Euro D" group-title="Türkiyə",Euro D
-http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/6892/index.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/fox-tr.png" tvg-name="FOX TV" group-title="Türkiyə",FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" tvg-name="Tivi Türk" group-title="Türkiyə",Tivi Türk
