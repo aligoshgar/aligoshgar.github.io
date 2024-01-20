@@ -20,7 +20,7 @@ http://213.239.195.222:80/azerbaijan/24_stream_sd_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
-http://65.21.196.155/azerbaijan/start_tv_az_2023/playlist.m3u8
+http://149.255.152.199/kanals.m3u8?user=37076&token=bf26ed7560bd8b2f7bd477c474ac58cb&e=1705816024&bands=796.2096.6096&sid=coder_57
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
@@ -56,7 +56,7 @@ https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/chunkl
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
-http://213.239.195.222/azerbaijan/dunya_2023/playlist.m3u8
+http://149.255.152.199/dunya.m3u8?user=37076&token=8b496507d27f87003a06f965d79937ce&e=1705815941&bands=796.2096&sid=coder_53
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
@@ -90,7 +90,7 @@ http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369575
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",VIP Azerbaijan
-http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369567
+149.255.152.199/vip.m3u8?user=37076&token=a09e1f95ffed7df07cc026db81730485&e=1705815807&bands=796.2096&sid=coder_52
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="📻 Azərbaycan Radioları",İctimai FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yurdfm.az/wp-content/uploads/2022/11/Logo_YurdFM.jpeg" group-title="📻 Azərbaycan Radioları",Yurd FM
