@@ -16,7 +16,7 @@ http://65.21.196.155:80/azerbaijan/arb_stream_0812/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://213.172.73.170:8081/nimble_live/1143__ARB_Gunas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
-https://proxy.canlitvplayer.com/str.yodacdn.net/arbgunesh/mono.m3u8?token=b39d366d4fbd3a30c1a6dd4c5de510794c6ae5ca-da3ebed6d08432acc73
+https://proxy.canlitvplayer.com/str.yodacdn.net/arbgunesh/mono.m3u8?token=b39d366d4fbd3a30c1a6dd4c5de510794c6ae5ca-da3ebed6d08432acc73ec10762eecf19-1705
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24" group-title="Azərbaycan",ARB 24
 http://213.239.195.222/azerbaijan/24_stream_1801/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
@@ -26,7 +26,7 @@ http://65.21.196.155/azerbaijan/start_tv_az/playlist.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV
 http://mfe.cliptv.az/dash/Xezer_SDuk.0006_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
-http://109.205.166.68/server124/space_tv/index.m3u8
+http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
 http://213.172.73.171:8081/nimble_live/1156__MuzTv_Azerbaycan/playlist.m3u8
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV
