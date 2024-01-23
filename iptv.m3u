@@ -26,7 +26,7 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
 http://65.21.196.155/azerbaijan/start_tv_az/playlist.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV
-http://mfe.cliptv.az/dash/Xezer_SDuk.0006_re.ism/playlist.mpd
+http://str.yodacdn.net/xazar/index.m3u8
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
