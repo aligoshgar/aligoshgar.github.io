@@ -180,7 +180,7 @@ http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Türkiyə",ATV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6888/index.m3u8
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-name="A2 TV" group-title="Türkiyə",A2 TV
 https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="Türkiyə",Show TV
