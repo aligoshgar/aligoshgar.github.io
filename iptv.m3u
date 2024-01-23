@@ -2,27 +2,29 @@
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
-http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
+http://213.239.195.222:80/azerbaijan/medeniyyet_stream_1801/playlist.m3u8
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
-http://109.205.166.68/server124/idman_az/index.m3u8
+http://mfe02.cliptv.az/dash/Idman_HDthd1400_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV
 http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV - HD
 https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=7642400
 #EXTINF:1 tvg-id="Azad Azərbaycan" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://node2-az-baku-delta.sweet.tv/stream/weatavbexgq4vs6xukh38j4bkjgpuy93gnch2f9epa485hswn66ad2vkgqw3grn34qhaxavhheg85axb49mv2cv86jpzsgn4gws46jnvbcxkq
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB
-http://109.205.166.68/server124/arb/index.m3u8
+http://65.21.196.155:80/azerbaijan/arb_stream_0812/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://213.172.73.170:8081/nimble_live/1143__ARB_Gunas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
+https://proxy.canlitvplayer.com/str.yodacdn.net/arbgunesh/mono.m3u8?token=b39d366d4fbd3a30c1a6dd4c5de510794c6ae5ca-da3ebed6d08432acc73
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24" group-title="Azərbaycan",ARB 24
-http://213.239.195.222:80/azerbaijan/24_stream_sd_2023/playlist.m3u8
+http://213.239.195.222/azerbaijan/24_stream_1801/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
-http://149.255.152.199/kanals.m3u8?user=37076&token=bf26ed7560bd8b2f7bd477c474ac58cb&e=1705816024&bands=796.2096.6096&sid=coder_57
+http://65.21.196.155/azerbaijan/start_tv_az/playlist.m3u8
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV
-http://109.205.166.68/server124/xazar_tv/index.m3u8
+http://mfe.cliptv.az/dash/Xezer_SDuk.0006_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://109.205.166.68/server124/space_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
