@@ -360,6 +360,6 @@ https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" tvg-name="BLU TV PLAY 2" group-title="PREMIUM",BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="PREMIUM",МУЗ ТВ (+7)
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/73585
+https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="PREMIUM",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
