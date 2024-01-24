@@ -7,7 +7,11 @@ http://213.239.195.222:80/azerbaijan/medeniyyet_stream_1801/playlist.m3u8
 http://mfe02.cliptv.az/dash/Idman_HDthd1400_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV - HD
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD-2
+http://213.239.195.222/azerbaijan/ictimai_stream_1801/playlist.m3u8
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD-3
 https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=7642400
 #EXTINF:1 tvg-id="Azad Azərbaycan HD" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 http://213.172.73.170:8081/nimble_live/1007__ATV_Azerbaycan/playlist.m3u8
