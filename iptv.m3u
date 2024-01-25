@@ -100,7 +100,7 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="GEMAZ TV" tvg-logo="https://tvlogo.xyz/iran/gemaz.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GEMAZ TV
-http://aflaxtv.xyz:8080/live/osec/c5176e377c82/64976.ts
+http://aflaxtv.xyz:8080/9RccM1lToK/XURfvfLBEB/64976
 #EXTINF:1 tvg-id="VASTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="Azərbaycan",VASTOK TV
 http://65.21.196.155:80/azerbaijan/vostok/playlist.m3u8
 #EXTINF:1 tvg-id="TVPLUS" tvg-logo="https://tvplus.az/image/catalog/logo/123/LOGO_TVPLUS_a%C4%9F4.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TVPLUS
