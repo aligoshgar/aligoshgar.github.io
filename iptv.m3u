@@ -110,7 +110,7 @@ http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369543
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
-http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369575
+https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1021270569_b1896000.m3u8
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",VIP Azerbaijan
