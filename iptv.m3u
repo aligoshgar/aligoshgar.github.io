@@ -16,8 +16,6 @@ https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=7642400
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 http://213.172.73.170:8081/nimble_live/1007__ATV_Azerbaycan/playlist.m3u8
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan SD
-https://node2-az-baku-delta.sweet.tv/stream/weatavbexgq4vs6xukh38j4bkjgpuy93gnch2f9epa485hswn66ad2vkgqw3grn34qhaxavhheg85axb49mv2cv86jpzsgn4gws46jnvbcxkqqz4k569qw8x4xgr66m39ta2db43542rqzbe8h5ff89akce6uj4d.m3u8
-#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan SD-2
 http://mfe.cliptv.az/dash/ATV_SDthm0700_re.ism/playlist.mpd
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
 https://edge02.odtv.az/o1/arbtv/playlist.m3u8
@@ -27,8 +25,6 @@ http://65.21.196.155:80/azerbaijan/arb_stream_0812/playlist.m3u8
 http://mfe02.cliptv.az/dash/ARB_SDwdv0100_re.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://213.172.73.170:8081/nimble_live/1143__ARB_Gunas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
-https://proxy.canlitvplayer.com/str.yodacdn.net/arbgunesh/mono.m3u8?token=b39d366d4fbd3a30c1a6dd4c5de510794c6ae5ca-da3ebed6d08432acc73ec10762eecf19-1705
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
