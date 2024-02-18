@@ -80,7 +80,7 @@ http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
-http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
 #EXTINF:1 tvg-id="Könül TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTKgRegsWhfQVWCLOifn7OeoNqwikFsP1yD4QB3IQ=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="Azərbaycan",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:1 tvg-id="Naxçıvan TV" tvg-logo="https://ntv.az/assets/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Naxçıvan TV
