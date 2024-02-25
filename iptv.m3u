@@ -34,19 +34,21 @@ http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
-http://65.21.196.155/azerbaijan/start_tv_az/playlist.m3u8
+http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 http://str.yodacdn.net/xazar/index.m3u8
-#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV SD
-http://mfe.cliptv.az/dash/Xezer_SDuk.0006_re.ism/playlist.mpd
+#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD-2
+http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
-http://65.21.196.155:80/azerbaijan/space_stream_0812/playlist.m3u8
+http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
-http://213.172.73.171:8081/nimble_live/1156__MuzTv_Azerbaycan/playlist.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
 http://185.32.44.154/realtv/index.m3u8
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-2
-http://str.yodacdn.net/real/index.m3u8
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-3
+http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Qəbələ TV" tvg-logo="https://res.cloudinary.com/ddm9d2ffz/image/upload/f_auto,q_auto/v1614115090/vpxdeamb8ilyet8hrkpb.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qəbələ TV
@@ -74,7 +76,7 @@ https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/chunkl
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
-http://213.172.73.170:8081/nimble_live/1129__DunyaTV/playlist.m3u8
+http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
