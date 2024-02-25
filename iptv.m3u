@@ -176,7 +176,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TRT_Diyanet_%C3%87ocuk_logo.png" tvg-name="TRT Diyanet Çocuk" group-title="Türkiyə",TRT Diyanet Çocuk
 http://hd.turki.stream:8080/caferkurt/GLc6CD7cXbcW/42356
 #EXTINF:-1 tvg-id="TRT EBA İlkokul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TRT_EBA_TV_%C4%B0lkokul_logo.svg/150px-TRT_EBA_TV_%C4%B0lkokul_logo.svg.png" tvg-name="TRT EBA İlkokul" group-title="Türkiyə",TRT EBA İlkokul
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT EBA Ortaokul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TRT_EBA_TV_Ortaokul_logo.svg/150px-TRT_EBA_TV_Ortaokul_logo.svg.png" tvg-name="TRT EBA Ortaokul" group-title="Türkiyə",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT EBA Lise" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TRT_EBA_TV_Lise_logo.svg/150px-TRT_EBA_TV_Lise_logo.svg.png" tvg-name="TRT EBA Lise" group-title="Türkiyə",TRT EBA Lise
@@ -192,7 +192,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1425388900458057731/zY1DJNfC_400x400.jpg" tvg-name="TV 8.5" group-title="Türkiyə",TV 8.5
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Türkiyə",ATV
-https://cakal.click/yayinatv.m3u8
+https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa
 http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-name="A2 TV" group-title="Türkiyə",A2 TV
@@ -202,7 +202,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" tvg-name="Show Türk" group-title="Türkiyə",Show Türk
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" tvg-name="Show Max" group-title="Türkiyə",Show Max
-http://tv.b1l4cktvs4rver.xyz:8080/Smt82/ROhP51bOJ6/2464
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" tvg-name="Star TV" group-title="Türkiyə",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" tvg-name="Euro Star TV" group-title="Türkiyə",Euro Star TV
@@ -236,17 +236,15 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png" tvg-name="KANAL 7" group-title="Türkiyə",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg" tvg-name="KANAL 7 Avrupa" group-title="Türkiyə",KANAL 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" tvg-name="Beyaz TV" group-title="Türkiyə",Beyaz TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-name="NTV Türk" group-title="Türkiyə",NTV Türk
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f5/NTV_Spor_HD_logosu.png/799px-NTV_Spor_HD_logosu.png" tvg-name="NTV Spor" group-title="Türkiyə",NTV Spor
-http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" tvg-name="24 TV" group-title="Türkiyə",24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="Türkiyə",A HABER
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="Türkiyə",A SPOR
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM3eR-XCvDEiqFSC9CKfwMizdqHs0O-C1GY3cRJAQnsSbHmUlMnz_-SjB9-faz1z0gvnIsCQw2K7QeWpBQ2rgapDSQ5nyJtyc_CQnPIJT4XVt4o7NlYrdD06HuHmlJifRnI9ULQ2ShsZRxit70HQhvPSyzrl_D-C7UdqK-N6EU0pyjmjNU_8JqHbiN/s512/unnamed.png" tvg-name="A PARA" group-title="Türkiyə",A PARA
