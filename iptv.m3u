@@ -329,53 +329,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="Türkiyə",Cartoon Network
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="PREMIUM",beIN Sports 1
-http://bandookk.xyz:80/hyper/Rirabox/40370
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="PREMIUM",beIN Sports 2
-http://bandookk.xyz:80/hyper/Rirabox/40371
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="PREMIUM",beIN Sports 3
-http://bandookk.xyz:80/hyper/Rirabox/40372
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/798px-Logo_bein_sports_4.png" group-title="PREMIUM",beIN Sports 4
-http://bandookk.xyz:80/hyper/Rirabox/40373
-*EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg" group-title="PREMIUM",beIN Sports Haber
-http://bandookk.xyz:80/hyper/Rirabox/40374
-*EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/799px-Logo_bein_sports_max_1.png" group-title="PREMIUM",beIN Sports Max 1
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/9234
-*EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/800px-Logo_bein_sports_max_2.png" group-title="PREMIUM",beIN Sports Max 2
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/9235
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/BeIN_MOVIES_Premier-HD.png/800px-BeIN_MOVIES_Premier-HD.png" group-title="PREMIUM",beIN Movies Premiere
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/172
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/BeIN_MOVIES_Premier-2_HD.png" group-title="PREMIUM",beIN Movies Premiere 2
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/173
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BeIN_MOVIES_Turk-HD.png/800px-BeIN_MOVIES_Turk-HD.png" group-title="PREMIUM",beIN Movies TÜRK
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/170
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BeIN_MOVIES_Stars-HD.png/799px-BeIN_MOVIES_Stars-HD.png" group-title="PREMIUM",beIN Movies STARS
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/174
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Bein_gurme.png" group-title="PREMIUM",beIN Gurme
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/134
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/BeIN_%C4%B0Z_logosu.png" group-title="PREMIUM",beIN IZ
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/135
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="PREMIUM",FX TV
-http://bandookk.xyz:80/hyper/Rirabox/40227
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="PREMIUM",Love Nature
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/59945
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png" group-title="PREMIUM",FILMBOX
-http://hd.turki.stream:8080/caferkurt/GLc6CD7cXbcW/81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/5/59/Sinema_TV_logosu.png/800px-Sinema_TV_logosu.png" group-title="PREMIUM",Sinema TV
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/196
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7a/Sinema_TV_2_logosu.png" group-title="PREMIUM",Sinema 2 TV
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/29068
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/76/Sinema_TV_Aksiyon_logosu.png" group-title="PREMIUM",Sinema Aksiyon
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/199
-#EXTINF:-1 tvg-logo="http://aksiyon2.sinematv.com.tr/content/logo/SINEMATV-AKSIYON-2.png" group-title="PREMIUM",Sinema Aksiyon 2
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/9232
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715230210006900738/TR3HkMLq_400x400.jpg" group-title="PREMIUM",Anka TV
-http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d4b4866ac31658881736.jpg" tvg-name="BLU TV PLAY 1" group-title="PREMIUM",BLU TV PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/225x225/6295d42d866ac31658881732.jpg" tvg-name="BLU TV PLAY 2" group-title="PREMIUM",BLU TV PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="PREMIUM",МУЗ ТВ (+7)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="Rusiya",МУЗ ТВ (+7)
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="PREMIUM",RU TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="Rusiya",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
