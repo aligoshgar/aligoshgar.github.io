@@ -7,10 +7,7 @@ http://str.yodacdn.net/aztv/index.m3u8
 http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
-EXTINF:-1 tvg-id="" user-agent="ExoPlayer2/2.37",Ictimai TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:1 tvg-id="itv.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan"user-agent="ExoPlayer2/2.37",İctimai TV #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan"user-agent="ExoPlayer2/2.37",İctimai TV
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
 http://str.yodacdn.net/ictimai/index.m3u8
