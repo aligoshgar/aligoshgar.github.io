@@ -122,7 +122,7 @@ http://s14.myradiostream.com:30454/listen.mp3
 #EXTINF:-1 tvg-logo="https://spaceradio.az/wp-content/uploads/2023/04/cropped-new_transparent.png" group-title="📻 Azərbaycan Radioları",Space Radio
 http://5.191.241.101:8000/spaceradio
 #EXTINF:-1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="📻 Azərbaycan Radioları",MEDİA FM
-http://95.217.196.109:8000/mediafm
+https://icecast.livetv.az/mediafm
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/avtofm.jpg" group-title="📻 Azərbaycan Radioları",Avto FM
 http://5.191.241.101:8000/avtofm
 #EXTINF:-1 tvg-logo="https://baku.ws/uploads/posts/2016-07/1468922140_cm.jpg" group-title="📻 Azərbaycan Radioları",ANS ÇM Radio
