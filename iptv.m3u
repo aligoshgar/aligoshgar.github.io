@@ -198,7 +198,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" tvg-name="Euro Star TV" group-title="Türkiyə",Euro Star TV
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" tvg-name="Kanal D" group-title="Türkiyə",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://eurod.kanald.com.tr/assets/img/eurod_footer.png" tvg-name="Euro D" group-title="Türkiyə",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://canlitv.com/kanal/logo/13401.jpg" tvg-name="NOW TV" group-title="Türkiyə",NOW TV
