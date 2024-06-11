@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:1 tvg-id="AzTV.az" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kor Filmi
-https://vidrame.pro/vr/get/c9974095/720.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
