@@ -222,7 +222,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" tvg-name="TV 4" group-title="Türkiyə",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tivi6.com.tr/media/2022/11/tivi6_logo-300x113-1.png" tvg-name="Tivi 6" group-title="Türkiyə",Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=3318253858
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png" tvg-name="KANAL 7" group-title="Türkiyə",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://izle7.haber7.net/assets/img/kanal7_avrupa.jpg" tvg-name="KANAL 7 Avrupa" group-title="Türkiyə",KANAL 7 Avrupa
