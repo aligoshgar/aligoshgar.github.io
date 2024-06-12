@@ -88,8 +88,8 @@ http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e
 https://kanal15.kesintisizyayin.com:3473/stream/play.m3u8
 #EXTINF:1 tvg-id="Kanal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kanal_35_Televiziyas%C4%B1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://seeklogo.com/images/S/show-plus-logo-437157D85E-seeklogo.com.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
-https://250weu.bozztv.com/ssh101/ssh101/showplus/chunks.m3u8
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:1 tvg-id="FTV" tvg-logo="https://ftv.az/assets/img/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
