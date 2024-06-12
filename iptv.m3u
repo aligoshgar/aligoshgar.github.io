@@ -316,7 +316,7 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" tvg-name="Yaban TV" group-title="Türkiyə",Yaban TV
-http://bandookk.xyz:80/hyper/Rirabox/40229
+https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w1070188910.m3u8?hash=c8cb34f85e41220b5c5961e14e625940
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="360 TV" group-title="Türkiyə",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-name="TELE 1" group-title="Türkiyə",TELE 1
