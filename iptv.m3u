@@ -66,7 +66,7 @@ http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="Azərbaycan",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sehiyyetv.az/wp-content/uploads/2022/11/STV-logo-2.png" tvg-name="Səhiyyə TV" group-title="Azərbaycan",Səhiyyə TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/800px-S%C9%99hiyy%C9%99_TV.png" tvg-name="Səhiyyə TV" group-title="Azərbaycan",Səhiyyə TV
 http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
