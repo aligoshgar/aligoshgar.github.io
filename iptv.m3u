@@ -189,10 +189,10 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8" group-title="Türkiyə",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" tvg-name="TV 8 INT" group-title="Türkiyə",TV 8 INT
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1425388900458057731/zY1DJNfC_400x400.jpg" tvg-name="TV 8.5" group-title="Türkiyə",TV 8.5
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.zattic.com/logos/589a3b1af9c0fe9444d7/black/original.svg" tvg-name="TV 8 INT" group-title="Türkiyə",TV 8 INT
-https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Türkiyə",ATV
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa
