@@ -128,7 +128,7 @@ https://icecast.livetv.az/antennfm
 https://s40.myradiostream.com/:22546/listen.mp3
 #EXTINF:-1 tvg-logo="https://www.arazfm.az/assets/araz_logo@300x.png" group-title="📻 Azərbaycan Radioları",Araz FM
 http://s14.myradiostream.com:30454/listen.mp3
-#EXTINF:-1 tvg-logo="https://spaceradio.az/wp-content/uploads/2023/04/cropped-new_transparent.png" group-title="📻 Azərbaycan Radioları",Space Radio
+#EXTINF:-1 tvg-logo="https://spaceradio.az/wp-content/uploads/2023/04/new.png" group-title="📻 Azərbaycan Radioları",Space Radio
 http://5.191.241.101:8000/spaceradio
 #EXTINF:-1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="📻 Azərbaycan Radioları",MEDİA FM
 https://icecast.livetv.az/mediafm
@@ -140,7 +140,7 @@ https://live.ansradio.ws:8443/mp3_128
 http://s33.myradiostream.com:12782/;stream.nsv
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/74932.v6.png" group-title="📻 Azərbaycan Radioları",Radio Vətən
 https://stream.zenolive.com/0kgkkzanmueuv
-#EXTINF:-1 tvg-logo="https://www.kepezfm.az/radio/cover.png" group-title="📻 Azərbaycan Radioları",Kəpəz FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/54/Kəpəz_FM_loqo.png" group-title="📻 Azərbaycan Radioları",Kəpəz FM
 http://85.132.78.122:3344/now
 #EXTINF:-1 tvg-logo="https://autoliferadio.com/new%20logo3.JPG" group-title="📻 Azərbaycan Radioları",AutoLife FM
 https://radio.autoliferadio.com:8005/radio
