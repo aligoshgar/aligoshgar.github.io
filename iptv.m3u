@@ -331,3 +331,5 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="Rusiya",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Tom & Jerry - Türkçe Dublaj
+https://vidrame.pro/vr/get/b090fc2e/1080.m3u8
