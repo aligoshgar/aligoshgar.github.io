@@ -45,7 +45,7 @@ http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Qəbələ TV" tvg-logo="https://res.cloudinary.com/ddm9d2ffz/image/upload/f_auto,q_auto/v1614115090/vpxdeamb8ilyet8hrkpb.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qəbələ TV
-https://qebele.tv/live/stream/index.m3u8
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-ml6cJAWtKg8/Xw2CwinHliI/AAAAAAAAEOs/r6Fk_orVhBUutVaM-NDq-iO0UJt5uuY9QCLcBGAsYHQ/w680/umid-tv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Ümid TV
 https://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/playlist2.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AN.T TV
@@ -185,7 +185,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" tvg-name="TRT ARABIA" group-title="Türkiyə",TRT ARABIA
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8" group-title="Türkiyə",TV 8 HD
-http://gineu8.bozztv.com/gin-36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8" group-title="Türkiyə",TV 8 HD-2
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" tvg-name="TV 8 INT" group-title="Türkiyə",TV 8 INT
