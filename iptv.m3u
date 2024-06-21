@@ -47,7 +47,7 @@ http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d
 #EXTINF:1 tvg-id="Qəbələ TV" tvg-logo="https://res.cloudinary.com/ddm9d2ffz/image/upload/f_auto,q_auto/v1614115090/vpxdeamb8ilyet8hrkpb.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qəbələ TV
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-ml6cJAWtKg8/Xw2CwinHliI/AAAAAAAAEOs/r6Fk_orVhBUutVaM-NDq-iO0UJt5uuY9QCLcBGAsYHQ/w680/umid-tv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Ümid TV
-https://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/playlist2.m3u8
+http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w1777391236_b796000.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AN.T TV
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AS TV
@@ -343,3 +343,5 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 https://vidrame.pro/vr/get/b090fc2e/1080.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Yaratıcı - The Creator (2023)
 https://cdn8.video.az/storage/movie/21/21251/video.mp4
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Migration - Ördeklerin Göçü (2023)
+https://cdn6.video.az/storage/movie/21/21923/video.mp4
