@@ -156,7 +156,9 @@ https://tv-trt1.medya.trt.com.tr/master_720p.m3u8
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-3
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD-2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="Türkiyə",TRT 3 Spor [vavoo.to]
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Kzsnhqhf6lcZO9c57q6I_ImlKCldZmRV08gdk4d17YiIoH1yAKlPJZaU1w7R6CK3QXdJXmhx11Pp9V0z2oBs85N4JG_CEFbNu7P-Q2x8zivBdefcjKMze_wo9-okBLslgeRfmzdJZOin9Iv_kAzNyPmLi0NUZrkaBrsehzj2Xf0/hls/index.m3u8
