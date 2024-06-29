@@ -320,6 +320,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:1 tvg-id="Milyon TV" tvg-logo="https://static.wixstatic.com/media/6bab1d_5f94910eaa66491eb5c6a0652e31f2c5~mv2.png/v1/fill/w_120,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyon-tv-logo-2.png" tvg-language="Turkish" group-title="Türkiyə",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:1 tvg-id="Afyon Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYV9CcVzZNLkJlCYd3Fy6ECjT8wWhPXW_IhUiF1st1W0J5O7Lzp0oUhxlSFYQSfa1eOtWdB8CDQvQ_wn1RKNCAINaR-mAN07FKP3oOtpKOerNi31oK4BZxO8LiMW77OUsySLhnOPi2MWFt/s1600/afyonturk.jpg" tvg-language="Turkish" group-title="Türkiyə",Afyon Türk
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" tvg-name="Yaban TV" group-title="Türkiyə",Yaban TV
