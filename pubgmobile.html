@@ -190,9 +190,38 @@ size=1 name=menu>
      <div class="separator" style="clear: both; text-align: justify;"><a hreff="https://1.bp.blogspot.com/-x0iWR8mXM7U/YU9qM4hyrpI/AAAAAAAACaI/xwjl0LTZkWUedSVkx664NHMqoRB_0zCvgCLcBGAsYHQ/s2048/64207562_2088441294612495_136847549360242688_n.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1152" data-original-width="2048" height="180" src="https://1.bp.blogspot.com/-x0iWR8mXM7U/YU9qM4hyrpI/AAAAAAAACaI/xwjl0LTZkWUedSVkx664NHMqoRB_0zCvgCLcBGAsYHQ/w337-h180/64207562_2088441294612495_136847549360242688_n.jpg" width="337" /></a></div><p style="text-align: justify;"><span style="text-align: left;"><span>&nbsp;&nbsp; &nbsp;</span>Bildiyiniz kimi, müxtəlif platformalarda PUBG Mobile üçün 60 FPS faylları paylaşılsa da, bu faylların böyük bir qismi işlək deyil və istifadəyə yararsızdır. Əliqoşqar Kərimli həmin platformalardan əldə etdiyi o faylları tək-tək yoxlayaraq işlək olanını və özünün də istifadə etdiyi 60 FPS fayllarını sizlərə təqdim edir. Telefonunuz PUBG Mobile oyunu üçün 60 FPS dəsdəkləmirsə, sizə verəcəyimiz .zip faylını aşağıdakı linkə keçid edərək yükləyin və ZArchiver proqramı vasitəsilə çıxardın. Həmin proqramla seçiminizdən asılı olaraq Gerçekçi, Klasik, Renkli, Sinematik və ya Yumuşak qovluqlarından birinə daxil olub files qovluğunu “Dahili bellek &gt; Android &gt; data &gt; com.tencent.ig qovluğuna yapışdırın!</span></p><br />Diqqət! PUBG Mobile 1.7 güncəlləməsi ilə bu formada əldə edilən qrafika effektlərini qrafika ayarlarında göstərmir. Lakin, buna baxmayaraq oyun içərisində 60 FPS alacağınıza əmin ola bilərsiniz. Bu config faylı Pubg Mobile 1.7 və ondan sonra gələcək olan bütün versiyalar üçün keçərli olacaqdır. Ümid edirik ki, təqdim etdiyimiz fayllar sizin də işinizə yarayacaqdır. Xoş oyunlar! <br /><br />ZIP:<br /><a href="https://drive.google.com/file/d/19YQYRfWCbx_Y9MDJ0QJGMDVHfF6__QUf/view?usp=drivesdk">https://drive.google.com/file/d/19YQYRfWCbx_Y9MDJ0QJGMDVHfF6__QUf/view?usp=drivesdk</a><br /><br />ZArchiver proqramı:<br /><a href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver">https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver</a>
     &nbsp;
     &nbsp;
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -322,19 +351,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -375,6 +398,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
