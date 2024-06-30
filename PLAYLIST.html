@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Video Player</title>
+    <style>
+        /* Make the player responsive */
+        .player-container {
+            max-width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* Style the channel list */
+        .channel-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .channel-list li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        
+        .channel-list li:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="player-container">
+        <h1>M3U Video Player</h1>
+        <video id="video-player" width="100%" height="400" controls></video>
+        <ul class="channel-list" id="channel-list"></ul>
+        
+        <script>
+            const videoPlayer = document.getElementById('video-player');
+            const channelList = document.getElementById('channel-list');
+            const m3uUrl = 'https://aligoshgar.github.io/iptv.m3u';
+            
+            // Load the M3U playlist
+            fetch(m3uUrl)
+                .then(response => response.text())
+                .then(data => {
+                    const lines = data.split('\n');
+                    const channels = [];
+                    
+                    // Parse the M3U playlist
+                    lines.forEach(line => {
+                        if (line.startsWith('#EXTINF:')) {
+                            const channel = {};
+                            const parts = line.split(',');
+                            channel.name = parts[1].trim();
+                            channel.url = lines[lines.indexOf(line) + 1].trim();
+                            channels.push(channel);
+                        }
+                    });
+                    
+                    // Create the channel list
+                    channels.forEach(channel => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = channel.name;
+                        listItem.addEventListener('click', () => {
+                            videoPlayer.src = channel.url;
+                            videoPlayer.play();
+                        });
+                        channelList.appendChild(listItem);
+                    });
+                    
+                    // Set the default channel
+                    videoPlayer.src = channels[0].url;
+                    videoPlayer.play();
+                });
+        </script>
+    </div>
+</body>
+</html>
