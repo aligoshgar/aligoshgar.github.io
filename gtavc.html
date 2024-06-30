@@ -188,9 +188,40 @@ size=1 name=menu>
   <a href="/about.html" class="nav-link">Haqqında</a>
 </div>
       <p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7dQ25taEt7FokBchEd7rB3rZyUBpQhYXKZzGh8w3XJhvNNa3nMca6dHo3YCDfJ2zFrZk-rOrMRHWQ7JNI21w2OVHy3ujEqMmjyZSK2z2sT9EoGEaBhm_gsZJS3o4yY0z2vvj4ZKRnAa9GPAFqr2ddhO8mNcRJnmn1isLnpsRSHMha_81Oqm6peuOZIfA/s320/1614506.png" width="320" /></a></div><br /><p></p><p>Bildiyiniz kimi, GTA VC artıq androidin son versiyalarında Google Play-dən əldə etdiyiniz təqdirdə belə xəta verir, oyundan atır və açılmır. Biz isə bu problemə son qoyuruq! Belə ki, GTA VC-nin 1.09 versiyası üçün təqdim etdiyimiz .apk faylı androidin bütün versiyalarında (Android 10 və üzəri də daxil olmaqla) problemsiz bir şəkildə işləyir. Bundan əlavə, originalından fərqli olaraq bizim təqdim etdiyimiz APK fayllarından ilki Cleo Menu özəlliyinə, ikincisi isə Türkcə dil funksiyasına sahibdir. Aralarından istədiyinizi seçin və OBB faylları ilə birlikdə tam ödənişsiz şəkildə yükləyərək telefonunuza quraşdırın.</p><p><br /></p><p>APK - Cleo Menu:</p><p><a href="https://drive.google.com/file/d/12VoFSCNoGl6Nfrf0P7sheJIibeCCgt6P/view?usp=drivesdk">https://drive.google.com/file/d/12VoFSCNoGl6Nfrf0P7sheJIibeCCgt6P/view?usp=drivesdk</a></p><p><br /></p><p>APK - Türkcə dil:</p><p><a href="https://drive.google.com/file/d/12nHcBAQYCfzDKjy8CmO7cLTbJHweiKmo/view?usp=drivesdk">https://drive.google.com/file/d/12nHcBAQYCfzDKjy8CmO7cLTbJHweiKmo/view?usp=drivesdk</a></p><p><br /></p><p>OBB:</p><p><a href="https://archive.org/download/gtvc112obb-androidoyunclub_202210/gtvc112obb-androidoyunclub.rar">https://archive.org/download/gtvc112obb-androidoyunclub_202210/gtvc112obb-androidoyunclub.rar</a></p>
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+    &nbsp;
+    &nbsp;
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -320,19 +351,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -373,6 +398,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
