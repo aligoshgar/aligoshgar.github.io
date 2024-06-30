@@ -188,9 +188,40 @@ size=1 name=menu>
   <a href="/about.html" class="nav-link active">Haqqında</a>
 </div>
       <p><br />&nbsp;<span face="sans-serif" style="background-color: #f0f0f0; font-size: 16px;"></span></p><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" data-original-height="512" data-original-width="512" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvNcf7mJ4q6awKh0x6163KMV3IjDsRP-tWcmqn2USBF2OtL_u1cnn4LIrxGCCZIOfRS2EmPkICjADKPL7XJnrzYhWNzuWiW0xC-0mjsmjttn5k3_Yzyf6goFQAjyNANz6UXcDXh2paAGvSgh752rvMT-0jqVJF7sG8nlENGntUQh7-2QRW0X_QsZ0v5A/w200-h200/1696181081508.png" width="200" /></div></div>Öncəliklə onu bildirmək istəyirik ki, aligoshgar.cf saytı Əliqoşqar Kərimli tərəfindən 10 aprel 2013-cü ildə yaradılmışdır. 21 dekabr 2017-ci ildə domen dəyişikliyinə gedilmiş və saytın domen uzantısı .ga olaraq dəyişdirilmişdir. 03 iyul 2023-cü ildə isə saytın serveri olan Freenom-da baş verən texniki xəta səbəbi ilə .ga domeni ləğv edilmiş və sayt öz fəaliyyətini .cf domen uzantısı ilə davam etdirmişdir. 03.09.2023-cü il tarixdə Freenom-un təqdim etdiyi bütün domen adları Əliqoşqar Kərimli tərəfindən ləğv edilmiş və sayt Github platformasında fəaliyyətinə davam etmişdir.Əvvəllər özündə müxtəlif xidmətləri, müəllifin müxtəlif vaxtlarda və çox müxtəlif situasiyaların təsirilə yazdığı məqalələri, müəllifə məxsus məlumatları, şəkilləri, videoları da birləşdirsə də, bu tarixdən sonra saytın istifadə təyinatı dəyişdirilərək ödənişsiz xidmətlər və ödənişsiz IPTV platformasına çevrilmişdir. Ödənişsiz IPTV xidmətilə bağlı ətraflı məlumat saytın IPTV səhifəsində mövcuddur. Saytın əvvəllər təqdim etdiyi digər xidmətlər isə Əsas səhifədə təqdim edilməyə davam edir! Bildirmək istəyirik ki, Blogger vasitəsilə kodlanıb CNAME Records kodları vasitəsilə Freenom-da fəaliyyət göstərən saytımızın Freenom-a aid heç bir domain ilə (.tk ; .ml ; .ga ; .cf ; .gq) hər hansı bir əlaqəsi qalmamışdır! Belə ki, sayt Əliqoşqar Kərimli tərəfindən Github platformasında ən başdan kodlanıb hazırlanmışdır. Əliqoşqar Kərimli qaynaq kodları qapalı olan bir çox platforma olmasına rəğmən saytı bilərəkdən qaynaq kodları açıq olan Github platformasında kodlayıb hazırlamışdır. Ümid edirik ki, bütün bu dəyişikliklər hər bir istifadəçimizin ürəyincə olacaqdır! Hörmətlə, aligoshgar.github.io idarə heyəti.<p></p>
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+    &nbsp;
+    &nbsp;
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -320,19 +351,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -373,6 +398,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
