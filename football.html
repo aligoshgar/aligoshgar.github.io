@@ -188,9 +188,39 @@ size=1 name=menu>
 </div>
       <script type="text/javascript" src="https://www.livescore.bz/api.livescore.0.1.js" api="livescore" async></script><a href="https://www.livescore.bz/tr" sport="football(soccer)" data-1="today" lang="tr"></a>
     &nbsp;
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+    &nbsp;
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -320,19 +350,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -373,6 +397,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
