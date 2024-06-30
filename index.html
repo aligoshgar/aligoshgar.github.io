@@ -456,6 +456,26 @@ document.write(quotes[index]);
   </main>
   
   &nbsp;
+  <div id="clock"></div> <script type="text/javascript">
+function refrClock()
+{
+var d=new Date();
+var s=d.getSeconds();
+var m=d.getMinutes();
+var h=d.getHours();
+var day=d.getDay();
+var date=d.getDate();
+var month=d.getMonth();
+var year=d.getFullYear();
+var days=new Array("Bazar","Bazar ertəsi","Çərşənbə axşamı","Çərşənbə","Cümə axşamı","Cümə","Şənbə");
+var months=new Array("Yanvar","Fevral","Mart","Aprel","May","İyun","İyul","Avqust","Sentyabr","Oktyabr","Noyabr","Dekabr");
+if (s<10) {s="0" + s}
+if (m<10) {m="0" + m}
+document.getElementById("clock").innerHTML= "<b>Tarix:</b> " + date + " " + months[month] + " " + year + " | <b>Gün:</b> " + days[day] + " | <b>Saat:</b> " + h + ":" + m + ":" + s + " "
+setTimeout("refrClock()",1000);
+}
+refrClock();
+</script>
 
   <!-- Altbilgi -->
   <footer>
