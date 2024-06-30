@@ -330,4 +330,76 @@ quotes[81] = "In teaching others we teach ourselves. - Başqalarına öyrədər�
 quotes[82] = "You must be the change you wish to see in the world. - Dünyada görmək istədiyin dəyişiklik sən özün olmalısan.";
 quotes[83] = "Chose a job you love, and you will never have to work a day in your life. - Sevdiyin bir işi seç, beləcə həyatda tək bir gün belə işləməmiş olarsan.";
 quotes[84] = "A friend walks in when everyone else walks out. - Hər kəs çölə çıxarkən içəri girən şəxsdir həqiqi dost.";
-quotes[85] = "The true sign of 
+quotes[85] = "The true sign of intelligence is not knowledge but imagination. - Ağlın gerçək mənbəyi bilgi deyil, xəyal gücüdür.";
+quotes[86] = "To improve is to change; to be perfect is to change often. - Dəyişmək inkişaf etməkdir; tez-tez dəyişmək isə mükəmməl olmaqdır.";
+quotes[87] = "Try to be a rainbow in someone's cloud. - Birinin buludunda göy qurşağı olmağa çalışın.";
+quotes[88] = "You never know how strong you are, until being strong is your only choice. - Güclü olmaq tək seçiminiz olmadıqca nə qədər güclü olduğunuzu heç vaxt bilməzsiniz.";
+quotes[89] = "Stop talking about darkness and light a candle. - Qaranlıq haqqında danışmağı saxlayıb bir şam yandırın.";
+quotes[90] = "A smooth sea never made a skilled sailor. - Dalğasız bir dəniz, heç vaxt usta bir dənizçi yetişdirə bilməz.";
+quotes[91] = "Follow your heart and see where you land. - Qəlbinizi izləyin və hara gedəcəyinə baxın.";
+quotes[92] = "Tell the truth and then run. - Doğru olanı söylə və qaç.";
+quotes[93] = "Every accomplishment starts with the decision to try. - Hər bir müvəffəqiyyət yoxlamağa qərar verərək başlayır.";
+quotes[94] = "I don't trust words, I turst actions. - Kəlimələrə inana bilmərəm, əməllərə inanaram.";
+quotes[95] = "You can't have a better tomorrow if you are thinking about yesterday all the time. - Daim dünən haqqında fikirləşirsənsə, daha yaxşı bir sabaha sahib ola bilməzsən.";
+quotes[96] = "A person starts dying when they stop dreaming. - Bir insan xəyal qurmağı tərgitdiyi zaman başlayır ölməyə.";
+quotes[97] = "They can kill they dreamer, but they can never kill the dream. - Xəyalpərəsti öldürə bilərlər, amma xəyalı əsla.";
+quotes[98] = "Memories last forever. - Xatirələr sonsuza qədər yaşayır.";
+quotes[99] = "Don't try to be different. Just be good. To be good is different enough. - Fərqli olmağa çalışma. Sadəcə yaxşı ol. Yaxşı olmaq yetəri qədər fərqlidir.";
+quotes[100] = "I love to walk in fog, because nobody knows i am smoking. - Dumanın içində gəzməyi sevirəm, çünki heç kim siqaret çəkdiyimin fərqinə varmır.";
+//calculate a random index
+index = Math.floor(Math.random() * quotes.length);
+document.write("\n");
+document.write(quotes[index]);
+</script>
+  </main>
+  <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
+  <footer>
+    <p>Əliqoşqar Kərimli © 2013</p>
+  </footer>
+<style>
+#onlyJSyc{
+display: none;
+position: fixed;
+bottom: 20px;
+right: 20px;
+z-index: 9999;
+border: none;
+outline: none;
+background: url(http://4.bp.blogspot.com/-b50XKMWz84U/W9RouwhqVII/AAAAAAAAR_U/qQFXBOiUuQUC9Rv_evE4S7P9_yZ1YzZDgCK4BGAYYCw/s1600/yukari.png) no-repeat;
+cursor: pointer;
+padding: 0px;
+width: 40px;
+height: 40px;
+}
+</style>
+<button onclick="topFunction()" id="onlyJSyc"></button>
+<script>
+window.onscroll = function() {
+scrollFunction()
+};
+function scrollFunction() {
+if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500)
+document.getElementById("onlyJSyc").style.display = "block"
+else
+document.getElementById("onlyJSyc").style.display = "none"
+}
+function topFunction() {
+if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+document.body.scrollTop -= 40
+document.documentElement.scrollTop -= 40
+setTimeout(function() {
+topFunction()
+}, 0)
+} else {
+document.body.scrollTop = 0
+document.documentElement.scrollTop = 0
+}
+}
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
+</script>
+</body>
+</html>
