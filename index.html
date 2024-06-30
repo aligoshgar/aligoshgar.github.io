@@ -342,7 +342,7 @@ size=1 name=menu>
     if (s < 10) { s = "0" + s }
     if (m < 10) { m = "0" + m }
 
-    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + " • <b>Gün:</b> " + days[day] + " • <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "   <b>Gün:</b> " + days[day] + "   <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
     setTimeout(refrClock, 1000);
   }
   refrClock();
