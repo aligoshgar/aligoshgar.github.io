@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Channel Player</title>
+    <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet" />
+    <style>
+        /* Add some basic styling to the channel list */
+        #channel-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        #channel-list li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        #channel-list li:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h1>IPTV Channel Player</h1>
+    <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" width="640" height="264">
+        <source src="https://aligoshgar.github.io/iptv.m3u" type="application/x-mpegURL">
+        Your browser does not support the video tag.
+    </video>
+    <ul id="channel-list"></ul>
+
+    <script src="https://vjs.zencdn.net/7.14.3/video.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js"></script>
+    <script>
+        var player = videojs('my-video');
+        var channelList = document.getElementById('channel-list');
+
+        // Load the M3U playlist and parse it
+        fetch('https://aligoshgar.github.io/iptv.m3u')
+            .then(response => response.text())
+            .then(m3uContent => {
+                var lines = m3uContent.split('\n');
+                var channels = [];
+
+                // Parse the M3U playlist and extract channel information
+                lines.forEach(line => {
+                    if (line.startsWith('#EXTINF:')) {
+                        var channelInfo = line.split(',');
+                        var channelName = channelInfo[1].trim();
+                        var channelUrl = lines[lines.indexOf(line) + 1].trim();
+                        channels.push({ name: channelName, url: channelUrl });
+                    }
+                });
+
+                // Create a list item for each channel and add it to the channel list
+                channels.forEach(channel => {
+                    var listItem = document.createElement('li');
+                    listItem.textContent = channel.name;
+                    listItem.addEventListener('click', () => {
+                        player.src({ src: channel.url, type: 'application/x-mpegURL' });
+                        player.play();
+                    });
+                    channelList.appendChild(listItem);
+                });
+            });
+
+        // Start playing the first channel by default
+        player.src({ src: 'https://aligoshgar.github.io/iptv.m3u', type: 'application/x-mpegURL' });
+        player.play();
+    </script>
+</body>
+</html>
