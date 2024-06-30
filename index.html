@@ -337,12 +337,12 @@ size=1 name=menu>
     var month = d.getMonth();
     var year = d.getFullYear();
     var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
-    var months = new Array("Yanvar", "Fevral", "Mart", "Aprel", "May", "İyun", "İyul", "Avqust", "Sentyabr", "Oktyabr", "Noyabr", "Dekabr");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
 
     if (s < 10) { s = "0" + s }
     if (m < 10) { m = "0" + m }
 
-    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + " | <b>Gün:</b> " + days[day] + " | <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + " • <b>Gün:</b> " + days[day] + " • <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
     setTimeout(refrClock, 1000);
   }
   refrClock();
