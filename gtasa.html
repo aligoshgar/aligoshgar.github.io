@@ -188,9 +188,40 @@ size=1 name=menu>
   <a href="/about.html" class="nav-link">Haqqında</a>
 </div>
       <p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="784" data-original-width="1816" height="138" src="https://blogger.googleusercontent.com/img/a/AVvXsEgRM321t2oKdeesX8BhhZX3jF3XhmRaXLGqXrBnHyxVZKeJ4llCOxz_2hioGiTCxrqYk6R9vuGMfzfs0EHAn7Rx7nsL4khwXokf2jk7kSkJsFoeEEEstHBjIB29B0Hahb9tZYpalOMPJ8MqTYhBeKwjntNu9040KG6grofMwEEbM4AdHDsloNn-Ao6H=s320" width="320" /></div><p></p><p>&nbsp;Bildiyiniz kimi, GTA SA artıq androidin son versiyalarında Google Play-dən əldə etdiyiniz təqdirdə belə xəta verir, oyundan atır və açılmır. Biz isə bu problemə son qoyuruq! Belə ki, GTA SA-nın 2.00 versiyası üçün təqdim etdiyimiz .apk faylı androidin bütün versiyalarında (Android 10 və üzəri də daxil olmaqla) problemsiz bir şəkildə işləyir. Bundan əlavə, originalından fərqli olaraq bizim təqdim etdiyimiz APK və DATA faylları tam ödənişsizdir və aşağıdakı xüsusi özəlliklərə sahibdir:</p><br />APK faylı:<br /><br />1. Androidin bütün versiyalarında işləyir;<br />2. CLEO MENU özəlliyinə sahibdir. <br /><br /><br />DATA faylları:<br /><br />1. Dataya əlavə edilmiş fayllarla oyuna türkcə dil dəstəyi verir;<br />2. Düzənlənmiş və türkcə olan CLEO SCRIPTlərə sahibdir;<br />3. 100 % bitirilmiş SAVE faylına sahibdir.<br /><br />Aşağıdakı linklərə keçid edərək təqdim etdiyimiz APK,&nbsp; DATA və OBB fayllarını tam ödənişsiz yükləyə bilərsiniz:<br /><br />APK:<br /><a href="https://drive.google.com/file/d/1FHZ2znl8bqHCn10ShW9IMSiR_lXtGw65/view?usp=drivesdk">https://drive.google.com/file/d/1FHZ2znl8bqHCn10ShW9IMSiR_lXtGw65/view?usp=drivesdk</a><br /><br /><br />DATA:<br /><a href="https://drive.google.com/file/d/1I6UyVAy5DiICM9AtjuCV9Ct0pej1CJL8/view?usp=drivesdk">https://drive.google.com/file/d/1I6UyVAy5DiICM9AtjuCV9Ct0pej1CJL8/view?usp=drivesdk</a><br /><br /><br />OBB:<br /><a href="https://archive.org/download/g200obb-androidoyunclub_202105/g200obb-androidoyunclub.rar">https://archive.org/download/g200obb-androidoyunclub_202105/g200obb-androidoyunclub.rar</a>
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+   &nbsp;
+    &nbsp;
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -320,19 +351,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -373,6 +398,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
