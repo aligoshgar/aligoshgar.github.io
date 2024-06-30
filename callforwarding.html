@@ -188,9 +188,40 @@ size=1 name=menu>
   <a href="/about.html" class="nav-link">Haqqında</a>
 </div>
       <p>&nbsp;<img border="0" data-original-height="952" data-original-width="1332" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpiO1vRZRM_TfwrwbhYkVd_fNIvX8VVaRMjlXRjfKWoG-5dbYjX9gLHb-kaNRnjY5v5unRKrW34RV8BcknP-Qg2rxstH75QANg0TeOWh76qVOTIc2IiMjsqwD6B444yFiIoJEB2WnvqSd-HiU4FJ9mosXLgrv50UvENCjlPQwxBh4p9CfwvaND9mm/s320/03-call-forwarding.png" style="text-align: center;" width="320" /></p><br /><p></p><p>&nbsp;Öz nömrənə gələn zəngləri başqa nömrəyə yönləndir! "Zəngin yönləndirilməsi" xidmətilə sən nömrənə daxil olan zəngləri digər nömrəyə yönləndirə bilərsən.</p><br /><u>Tam yönləndirmə:</u><br /><br />Aktivləşdirmək üçün:&nbsp;<i>**21*+994nömrə#YES</i>;<br />Xidmətin statusunu yoxlamaq üçün:&nbsp;<i>*#21#YES</i>;<br />Xidməti ləğv etmək üçün:&nbsp;<i>#21#YES</i>.<br /><br /><br /><u>Cavab olmadıqda zəngin yönləndirilməsi:</u><br /><br />Aktivləşdirmək üçün:&nbsp;<i>**61*+994nömrə#YES</i>;<br />Xidmətin statusunu yoxlamaq üçün:&nbsp;<i>*#61#YES</i>;<br />Xidməti ləğv etmək üçün:&nbsp;<i>#61#YES</i>.<br /><br /><u>Abunəçiyə zəng çatmadıqda və ya telefon əhatə dairəsi xaricində olduqda zəngin yönləndirilməsi:</u><br /><br />Aktivləşdirmək üçün:&nbsp;<i>**62*+994nömrə#YES</i>;<br />Xidmətin statusunu yoxlamaq üçün:&nbsp;<i>*#62#YES</i>;<br />Xidməti ləğv etmək üçün:&nbsp;<i>#62#YES</i>.<br /><br /><u>Nömrə məşğul olduqda zəngin yönləndirilməsi:</u><br /><br />Aktivləşdirmək üçün: **<i>67*+994nömrə#YES</i>;<br />Xidmətin statusunu yoxlamaq üçün:&nbsp;<i>*#67#YES</i>;<br />Xidməti ləğv etmək üçün:&nbsp;<i>#67#YES</i>.<br /><br /><br /><b><u>QEYDLƏR</u></b><br /><br />Yönləndirmə xidməti aktivdirsə, hər daxil olan zəng üçün məbləğ cari tarifə uyğun olaraq yönləndirən nömrənin balansından çıxılacaq.<br />Bir neçə növ yönləndirilmə seçdiyin zaman əsas yönləndirmə rejimi kimi tam yönləndirilmə işləyəcək.<br /><br />Bütün növ yönləndirmələri ləğv etmək üçün:&nbsp;<br /><i>##002#YES</i>.
-    <!-- Duyuru -->
-  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2980b9;color:#fff !important;border-color:#2980b9 !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
-  <!-- DuyuruSonu -->
+    &nbsp;
+    &nbsp;
+    <style>
+  #clock {
+    text-align: center;
+    font-size: 15px;
+    font-weight: semi-bold;
+  }
+</style>
+
+<div id="clock"></div>
+
+<script type="text/javascript">
+  function refrClock() {
+    var d = new Date();
+    var s = d.getSeconds();
+    var m = d.getMinutes();
+    var h = d.getHours();
+    var day = d.getDay();
+    var date = d.getDate();
+    var month = d.getMonth();
+    var year = d.getFullYear();
+    var days = new Array("Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə");
+    var months = new Array("yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avqust", "sentyabr", "oktyabr", "noyabr", "dekabr");
+
+    if (s < 10) { s = "0" + s }
+    if (m < 10) { m = "0" + m }
+
+    document.getElementById("clock").innerHTML = "<b>Tarix:</b> " + date + " " + months[month] + " " + year + "     <b>Gün:</b> " + days[day] + "     <b>Saat:</b> " + h + ":" + m + ":" + s + " ";
+    setTimeout(refrClock, 1000);
+  }
+  refrClock();
+</script>
+    &nbsp;
     <style>
 .rastgele-genel{border:1px solid #2980b9;}
 .rastgelesozler {
@@ -320,19 +351,13 @@ index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-  &nbsp;
-  <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64ed19f5db3eba0019fa7753&product=sop' async='async'></script>
-</div>
-</div>
   </main>
-  <!-- ShareThis BEGIN -->
-  <div class="sharethis-inline-share-buttons"></div>
-  <!-- ShareThis END -->
-  &nbsp;
-
   <!-- Altbilgi -->
+  <!-- Duyuru -->
+  <marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();this.setAttribute('scrollamount', 4, 0);" scrollamount="4" behavior="scroll" style="max-height:50px;border:1px solid #aaa;background-color:#2c2c2c;color:#fff !important;border-color:#2c2c2c !important;">   <i class="fas fa-bullhorn"></i> Gördüyünüz yazıların və dizayn qrafiklərinin müəllifi Əliqoşqar Kərimlidir. Bu səbəbdən saytdan götürərək hər hansı başqa bir platformada  istifadə etdiyiniz hər bir məlumat üçün istinad verməyiniz mütləqdir! Müəllif hüquqlarının qorunması məqsədilə sayt içərisindəki mətnlərin kopyalanması funksiyası deaktiv edilmişdir!</marquee>
+  <!-- DuyuruSonu -->
   <footer>
-    <p>Əliqoşqar Kərimli © 2013-2024</p>
+    <p>Əliqoşqar Kərimli © 2013</p>
   </footer>
 <style>
 #onlyJSyc{
@@ -373,6 +398,8 @@ document.body.scrollTop = 0
 document.documentElement.scrollTop = 0
 }
 }
+</script>
+  <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
 </html>
