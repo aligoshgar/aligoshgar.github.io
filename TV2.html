@@ -187,7 +187,76 @@ size=1 name=menu>
   <a href="/whoami.html" class="nav-link">Mən kiməm?</a>
   <a href="/about.html" class="nav-link">Haqqında</a>
 </div>
-    <div class="separator"><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: center;"><iframe allowfullscreen="" frameborder="0" height="440" src="https://canlitv.center/canlitv" width="100%"></iframe></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: center;"><br /></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;">İnternet üzərindən TV kanallarını canlı izləməyin birdən çox üsulu vardır. Saytın bu bölməsində mən sizə bu günə qədər araşdırdığım və yararlı bildiyim bütün üsulları öz kodlamalarımla bərabər təqdim edəcəm:</div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;"><br /></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;"><ul><li><a href="https://aligoshgar.github.io/iptv.html" target="_blank">Ödənişsiz IPTV xidməti</a></li><li><a href="http://aligoshgar.github.io/tvapp.html" target="_blank">Android TV tədbiqləri</a></li><li><a href="https://aligoshgar.github.io/vavoo.html" target="_blank">VAVOO.TO sayt və əlavələri</a></li><li><a href="https://aligoshgar.github.io/check.html" target="_blank">Ödənişli TV panellərinin check edilməsi - PC və mobil</a></li></ul></div></div><div></div>
+    <div class="separator"><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: center;"><style>
+        /* Make the player responsive */
+        .player-container {
+            max-width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* Style the channel list */
+        .channel-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .channel-list li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        
+        .channel-list li:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="player-container">
+        <h1>M3U Video Player</h1>
+        <video id="video-player" width="100%" height="400" controls></video>
+        <ul class="channel-list" id="channel-list"></ul>
+        
+        <script>
+            const videoPlayer = document.getElementById('video-player');
+            const channelList = document.getElementById('channel-list');
+            const m3uUrl = 'https://aligoshgar.github.io/iptv.m3u';
+            
+            // Load the M3U playlist
+            fetch(m3uUrl)
+                .then(response => response.text())
+                .then(data => {
+                    const lines = data.split('\n');
+                    const channels = [];
+                    
+                    // Parse the M3U playlist
+                    lines.forEach(line => {
+                        if (line.startsWith('#EXTINF:')) {
+                            const channel = {};
+                            const parts = line.split(',');
+                            channel.name = parts[1].trim();
+                            channel.url = lines[lines.indexOf(line) + 1].trim();
+                            channels.push(channel);
+                        }
+                    });
+                    
+                    // Create the channel list
+                    channels.forEach(channel => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = channel.name;
+                        listItem.addEventListener('click', () => {
+                            videoPlayer.src = channel.url;
+                            videoPlayer.play();
+                        });
+                        channelList.appendChild(listItem);
+                    });
+                    
+                    // Set the default channel
+                    videoPlayer.src = channels[0].url;
+                    videoPlayer.play();
+                });
+        </script></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: center;"><br /></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;">İnternet üzərindən TV kanallarını canlı izləməyin birdən çox üsulu vardır. Saytın bu bölməsində mən sizə bu günə qədər araşdırdığım və yararlı bildiyim bütün üsulları öz kodlamalarımla bərabər təqdim edəcəm:</div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;"><br /></div><div class="separator" style="margin-left: 1em; margin-right: 1em; text-align: justify;"><ul><li><a href="https://aligoshgar.github.io/iptv.html" target="_blank">Ödənişsiz IPTV xidməti</a></li><li><a href="http://aligoshgar.github.io/tvapp.html" target="_blank">Android TV tədbiqləri</a></li><li><a href="https://aligoshgar.github.io/vavoo.html" target="_blank">VAVOO.TO sayt və əlavələri</a></li><li><a href="https://aligoshgar.github.io/check.html" target="_blank">Ödənişli TV panellərinin check edilməsi - PC və mobil</a></li></ul></div></div><div></div>
     &nbsp;
     &nbsp;
     <style>
