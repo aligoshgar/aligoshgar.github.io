@@ -1,0 +1,54 @@
+<style>
+    body {
+      margin: 0;
+      background-color: #f0f0f0;
+      font-family: sans-serif;
+    }
+
+    header {
+      position: fixed;
+      width: 100%;
+      color: #f0f0f0;
+      background-color: #2980b9;
+      padding: 10px;
+      text-align: center;
+    }
+    .content {
+    margin-top: 60px;
+    }
+
+
+VƏ YA
+
+
+<style>
+    body {
+      margin: 0;
+      background-color: #f0f0f0;
+      font-family: sans-serif;
+    }
+
+    header {
+      position: fixed;
+      width: 100%;
+      color: #f0f0f0;
+      background-color: #2980b9;
+      padding: 10px;
+      text-align: center;
+    }
+    .content {
+      padding-top: 60px;
+
+
+
+ƏLAVƏ EDƏRƏK
+
+
+  <!-- Ana içerik -->
+  <main>
+    </div>
+    <div class="wrapper">
+        <div class="content">
+            <!-- BOŞLUQ ÜÇÜN WRAPPER -->
+        </div>
+    }
