@@ -147,8 +147,10 @@ https://tv-trtobslive.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-2
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-3
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-4
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
