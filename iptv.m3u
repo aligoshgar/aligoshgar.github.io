@@ -277,7 +277,7 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="Türkiyə",Ulusal TV
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
-https://ythlsgo.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo-thumbnail.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
 http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiyə",KRAL POP TV
