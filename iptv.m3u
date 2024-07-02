@@ -104,12 +104,6 @@ https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 149.255.152.199/vip.m3u8?user=37076&token=a09e1f95ffed7df07cc026db81730485&e=1705815807&bands=796.2096&sid=coder_52
 #EXTINF:1 tvg-id="Kanal 15" tvg-logo="https://kanal15.az/uploads/logo/logo_64f47a76e57643-94591393-74003977.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 15
 https://kanal15.kesintisizyayin.com:3473/stream/play.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CTV
-https://ctv.interweb.com.tr:3673/multi_web/play_720.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",AkTV
-https://alive55.ozelip.com:3842/hybrid/play.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 65
-https://knl651994.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="📻 Azərbaycan Radioları",İctimai FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yurdfm.az/wp-content/uploads/2022/11/Logo_YurdFM.jpeg" group-title="📻 Azərbaycan Radioları",Yurd FM
