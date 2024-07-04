@@ -236,6 +236,8 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png" tvg-name="Woman TV" group-title="Türkiyə",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:-1 tvg-id="Woman Life TV" tvg-logo="https://www.womanlife.tv/images/yok.jpg" tvg-name="Woman Life TV" group-title="Türkiyə",Woman Life TV
+https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" tvg-name="Teve2" group-title="Türkiyə",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" tvg-name="TV 4" group-title="Türkiyə",TV 4
