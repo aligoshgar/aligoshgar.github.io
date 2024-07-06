@@ -17,9 +17,7 @@ http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan SD
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
-http://135.181.115.81:8000/play/a01w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-name="ARB HD-2" group-title="Azərbaycan",ARB HD-2
-http://135.181.115.81:8000/play/a01w/index.m3u8?token=livetv
+https://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 https://yayin8.canlitv.day/live/arbgunes.stream/chunklist_w1951942991.m3u8?hash=c8cb34f85e41220b5c5961e14e625940
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
