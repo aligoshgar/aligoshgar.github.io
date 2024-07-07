@@ -348,9 +348,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_49.png" tvg-name="GRT TV" group-title="Türkiyə",GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
-#EXTINF:-1 tvg-id="" https://upload.wikimedia.org/wikipedia/commons/7/77/BRT_1_%282014-günümüz%29.jpg" tvg-name="brt 1 HD" group-title="Türkiyə",brt 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/BRT_1_%282014-günümüz%29.jpg" tvg-name="brt 1 HD" group-title="Türkiyə",brt 1 HD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" tvg-name="brt 2 HD" group-title="Türkiyə",brt 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" tvg-name="brt 2 HD" group-title="Türkiyə",brt 2 HD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/pxpZd_nMp1A/maxresdefault.jpg" tvg-name="KANAL53" group-title="Türkiyə",KANAL53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
