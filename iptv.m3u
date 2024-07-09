@@ -21,13 +21,15 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD-2
 http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
+http://str.yodacdn.net/arb/index.m3u8
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-2
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 https://yayin8.canlitv.day/live/arbgunes.stream/chunklist_w1951942991.m3u8?hash=c8cb34f85e41220b5c5961e14e625940
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
-http://185.32.44.154/arb24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
 http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
+http://185.32.44.154/arb24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="Azərbaycan",Kanal S
@@ -41,8 +43,10 @@ http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
-http://185.32.44.154/realtv/index.m3u8
+http://str.yodacdn.net/real/index.m3u8
 #EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-2
+http://185.32.44.154/realtv/index.m3u8
+#EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-3
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -85,6 +89,8 @@ http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e
 #EXTINF:1 tvg-id="Kanal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b6/Kanal_35_%28loqo%29.png/800px-Kanal_35_%28loqo%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
+http://str.yodacdn.net/showplus/index.m3u8
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV-2
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:1 tvg-id="FTV" tvg-logo="https://ftv.az/assets/img/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",FTV TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -157,8 +163,6 @@ https://tv-trt1.medya.trt.com.tr/master_720p.m3u8
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-3
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-4
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="Türkiyə",TRT 3 Spor
