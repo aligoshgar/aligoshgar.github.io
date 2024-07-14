@@ -291,6 +291,8 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tvnet.png/800px-Tvnet.png" tvg-name="TV Net" group-title="Türkiyə",TV Net
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/2560px-Bloomberg_HT_logo.svg.png" tvg-name="BloombergHT" group-title="Türkiyə",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" tvg-name="TGRT Haber" group-title="Türkiyə",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" tvg-name="TGRT Belgesel" group-title="Türkiyə",TGRT Belgesel
