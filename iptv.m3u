@@ -166,6 +166,8 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-3
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD [Geo-Blocked]
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="Türkiyə",TRT 3 Spor
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
@@ -173,6 +175,8 @@ https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 https://hw1.jemtv.com/app/trtspor/playlist.m3u8
 #EXTINF:1 tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="Türkiyə",TRT Spor [Geo-Blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:1 tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TRT Spor Yıldız
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:1 tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TRT Spor Yıldız [Geo-Blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="Türkiyə",TRT 4K
