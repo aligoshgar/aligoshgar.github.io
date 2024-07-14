@@ -77,12 +77,16 @@ https://harun.tiviplayer.com/player/m3u8/f5228b387b2d6686305567e24bb90af3/chunkl
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV-2
 http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV-2
+http://stream.tvcdn.net/azerbaycan/live-tv.m3u8
+#EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV-3
 http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
 #EXTINF:1 tvg-id="Könül TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTKgRegsWhfQVWCLOifn7OeoNqwikFsP1yD4QB3IQ=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="Azərbaycan",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
@@ -107,6 +111,8 @@ http://cdn1-tvplustv.yayin.com.tr/tvplustv/tvplustv_720p/playlist.m3u8
 #EXTINF:1 tvg-id="DREAM STAR" tvg-logo="https://www.dreamstar.com.tr/assets/images/dreamstar-logo3.png" tvg-language="Azerbaijani" group-title="Azərbaycan",DREAM STAR
 http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369543
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
+http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
@@ -318,6 +324,8 @@ https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo-thumbnail.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
+http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo-thumbnail.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV-2
 https://vsd190.mycdn.me/hls/2746773932586.m3u8/sig/tBLbhml1vT0/expires/1720975734561/srcIp/5.134.57.132/urls/45.136.21.84/clientType/0/srcAg/CHROME_ANDROID/mid/3980522364458/2746773932586_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
@@ -355,7 +363,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.volotv.com/media/images/tvlogo/tatlisestv-canlitvkanal-l79b.png" tvg-name="TATLISES TV" group-title="Türkiyə",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:1 tvg-id="Milyon TV" tvg-logo="https://static.wixstatic.com/media/86e281_5264805bc3e446a2806dbeccf92d4c6c~mv2.png" tvg-language="Turkish" group-title="Türkiyə",Milyon TV
+#EXTINF:1 tvg-id="Milyon TV" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" tvg-language="Turkish" group-title="Türkiyə",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_130.png" tvg-name="Kanal V" group-title="Türkiyə",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
