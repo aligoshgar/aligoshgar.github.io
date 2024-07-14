@@ -23,9 +23,11 @@ http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
 http://str.yodacdn.net/arb/index.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-2
+http://stream.tvcdn.net/azerbaycan/arb.m3u8
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-3
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
-https://yayin8.canlitv.day/live/arbgunes.stream/chunklist_w1951942991.m3u8?hash=c8cb34f85e41220b5c5961e14e625940
+http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
 http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="Azərbaycan",ARB 24 HD-2
@@ -97,7 +99,7 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="GEMAZ TV" tvg-logo="https://tvlogo.xyz/iran/gemaz.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GEMAZ TV
-http://aflaxtv.xyz:8080/9RccM1lToK/XURfvfLBEB/64976
+http://stream.tvcdn.net/azerbaycan/gem-az.m3u8
 #EXTINF:1 tvg-id="VASTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="Azərbaycan",VASTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:1 tvg-id="TVPLUS" tvg-logo="https://tvplus.az/image/catalog/logo/123/LOGO_TVPLUS_a%C4%9F4.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TVPLUS
@@ -111,7 +113,7 @@ https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",VIP Azerbaijan
-149.255.152.199/vip.m3u8?user=37076&token=a09e1f95ffed7df07cc026db81730485&e=1705815807&bands=796.2096&sid=coder_52
+http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:1 tvg-id="Kanal 15" tvg-logo="https://kanal15.az/uploads/logo/logo_64f47a76e57643-94591393-74003977.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 15
 https://kanal15.kesintisizyayin.com:3473/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
@@ -230,7 +232,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://eurod.kanald.com.tr/assets/img/eurod_footer.png" tvg-name="Euro D" group-title="Türkiyə",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://canlitv.com/kanal/logo/13401.jpg" tvg-name="NOW TV" group-title="Türkiyə",NOW TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" tvg-name="Tivi Türk" group-title="Türkiyə",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/olay-turk-logo.png" tvg-name="OLAY TÜRK" group-title="Türkiyə",OLAY TÜRK
