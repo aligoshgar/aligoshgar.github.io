@@ -110,9 +110,9 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 http://cdn1-tvplustv.yayin.com.tr/tvplustv/tvplustv_720p/playlist.m3u8
 #EXTINF:1 tvg-id="DREAM STAR" tvg-logo="https://www.dreamstar.com.tr/assets/images/dreamstar-logo3.png" tvg-language="Azerbaijani" group-title="Azərbaycan",DREAM STAR
 http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369543
-#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="https://cdn.ontv.az/2023-01/d3609aa10abe0c1ffb9844c7770694dftmb-png.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
@@ -325,9 +325,9 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo-thumbnail.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
 http://stream.tvcdn.net/muzik/tmb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/626/374/png-transparent-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text-logo-thumbnail.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV-2
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV-2
 https://vsd190.mycdn.me/hls/2746773932586.m3u8/sig/tBLbhml1vT0/expires/1720975734561/srcIp/5.134.57.132/urls/45.136.21.84/clientType/0/srcAg/CHROME_ANDROID/mid/3980522364458/2746773932586_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
