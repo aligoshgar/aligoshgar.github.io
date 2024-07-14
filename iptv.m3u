@@ -230,7 +230,7 @@ https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="Türkiyə",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" tvg-name="Show Türk" group-title="Türkiyə",Show Türk
-https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" tvg-name="Show Max" group-title="Türkiyə",Show Max
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" tvg-name="Star TV" group-title="Türkiyə",Star TV
