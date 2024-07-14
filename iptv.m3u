@@ -343,6 +343,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:1 tvg-id="Milyon TV" tvg-logo="https://static.wixstatic.com/media/86e281_5264805bc3e446a2806dbeccf92d4c6c~mv2.png" tvg-language="Turkish" group-title="Türkiyə",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_130.png" tvg-name="Kanal V" group-title="Türkiyə",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Kanal V" group-title="Türkiyə",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:1 tvg-id="Afyon Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYV9CcVzZNLkJlCYd3Fy6ECjT8wWhPXW_IhUiF1st1W0J5O7Lzp0oUhxlSFYQSfa1eOtWdB8CDQvQ_wn1RKNCAINaR-mAN07FKP3oOtpKOerNi31oK4BZxO8LiMW77OUsySLhnOPi2MWFt/s1600/afyonturk.jpg" tvg-language="Turkish" group-title="Türkiyə",Afyon Türk
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_157.png" tvg-name="cine1" group-title="Türkiyə",cine1
