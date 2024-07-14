@@ -249,6 +249,8 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 http://195.189.62.140:8002/play/a00f
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiyə",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiyə",TLC-2
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="Türkiyə",CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-id="universite.com.tr" tvg-logo="https://www.universitetv.com.tr/Content/img/beyazsonlogo.png" tvg-name="Üniversite TV" group-title="Türkiyə",Üniversite TV
