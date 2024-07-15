@@ -327,8 +327,6 @@ https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
 http://stream.tvcdn.net/muzik/tmb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV-2
-https://vsd190.mycdn.me/hls/2746773932586.m3u8/sig/tBLbhml1vT0/expires/1720975734561/srcIp/5.134.57.132/urls/45.136.21.84/clientType/0/srcAg/CHROME_ANDROID/mid/3980522364458/2746773932586_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiyə",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" tvg-name="Dream Türk" group-title="Türkiyə",Dream Türk
@@ -371,8 +369,8 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Kanal V" group-title="Türkiyə",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:1 tvg-id="Afyon Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYV9CcVzZNLkJlCYd3Fy6ECjT8wWhPXW_IhUiF1st1W0J5O7Lzp0oUhxlSFYQSfa1eOtWdB8CDQvQ_wn1RKNCAINaR-mAN07FKP3oOtpKOerNi31oK4BZxO8LiMW77OUsySLhnOPi2MWFt/s1600/afyonturk.jpg" tvg-language="Turkish" group-title="Türkiyə",Afyon Türk
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+#EXTINF:1 tvg-id="Afyon Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_157.png" tvg-name="cine1" group-title="Türkiyə",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
