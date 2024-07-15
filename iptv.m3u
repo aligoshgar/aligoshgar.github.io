@@ -106,10 +106,6 @@ http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215
 http://stream.tvcdn.net/azerbaycan/gem-az.m3u8
 #EXTINF:1 tvg-id="VASTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="Azərbaycan",VASTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:1 tvg-id="TVPLUS" tvg-logo="https://tvplus.az/image/catalog/logo/123/LOGO_TVPLUS_a%C4%9F4.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TVPLUS
-http://cdn1-tvplustv.yayin.com.tr/tvplustv/tvplustv_720p/playlist.m3u8
-#EXTINF:1 tvg-id="DREAM STAR" tvg-logo="https://www.dreamstar.com.tr/assets/images/dreamstar-logo3.png" tvg-language="Azerbaijani" group-title="Azərbaycan",DREAM STAR
-http://sabit.live:8080/Zr9wJbhd4dbq/BgtkVAMMFw84/369543
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
