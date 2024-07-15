@@ -155,8 +155,6 @@ https://radio.autoliferadio.com:8005/radio
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/radios-150px/te4J2rb7TB.png" group-title="📻 Azərbaycan Radioları",Day.Az Radio
 https://radio.day.az:9443/128m
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/512px-Tabii_logo.svg.png" tvg-name="Tabii TV" group-title="Türkiyə",Tabii TV
-https://tv-trtobslive.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-2
@@ -213,8 +211,10 @@ http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="Türkiyə",ATV
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa
-http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" tvg-name="ATV Avrupa" group-title="Türkiyə",ATV Avrupa-2
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-name="A2 TV" group-title="Türkiyə",A2 TV
 http://50.7.218.122:8080/a2hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-name="A2 TV" group-title="Türkiyə",A2 TV-2
@@ -224,7 +224,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" tvg-name="Show Türk" group-title="Türkiyə",Show Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" tvg-name="Show Max" group-title="Türkiyə",Show Max
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+http://stream.tvcdn.net/eglence/show-max.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" tvg-name="Star TV" group-title="Türkiyə",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" tvg-name="Euro Star TV" group-title="Türkiyə",Euro Star TV
@@ -243,14 +243,8 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 http://185.32.44.154/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-name="" group-title="Türkiyə",National Geographic WILD
 http://185.32.44.154/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="LOVE NATURE" group-title="Türkiyə",LOVE NATURE 
-http://195.189.62.140:8002/play/a00y
-#EXTINF:-1 tvg-id="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="BBC" group-title="Türkiyə",BBC EARTH
-http://195.189.62.140:8002/play/a00z
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" tvg-name="DMAX" group-title="Türkiyə",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="ID" group-title="Türkiyə",ID
-http://195.189.62.140:8002/play/a00f
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiyə",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiyə",TLC-2
@@ -325,9 +319,9 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" tvg-name="POWER TV" group-title="Türkiyə",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-name="POWER TÜRK" group-title="Türkiyə",POWER TÜRK-2
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-name="POWER TÜRK" group-title="Türkiyə",POWER TÜRK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-name="POWER TÜRK" group-title="Türkiyə",POWER TÜRK-2
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/power-dance.jpg" tvg-name="POWER DANCE" group-title="Türkiyə",POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
@@ -339,10 +333,6 @@ https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltu
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/powerturk-slow.jpg" tvg-name="POWER Türk Slow" group-title="Türkiyə",POWER Türk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-power-plus.jpg" tvg-name="POWER PLUS" group-title="Türkiyə",POWER PLUS
-https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/powerturk-en-iyiler.jpg" tvg-name="POWER Türk En İyiler" group-title="Türkiyə",POWER Türk En İyiler
-https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/1200px-Nr1_logo_vector.svg.png" tvg-name="NR1" group-title="Türkiyə",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.derszamani.net/wp-content/uploads/2013/09/5f6e79c2f930ece9e5cda34ff8377aab.png" tvg-name="NR1 Türk" group-title="Türkiyə",NR1 Türk
@@ -367,8 +357,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" tvg-name="Yaban TV" group-title="Türkiyə",Yaban TV
-https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w1070188910.m3u8?hash=c8cb34f85e41220b5c5961e14e625940
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="360 TV" group-title="Türkiyə",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-name="TELE 1" group-title="Türkiyə",TELE 1
