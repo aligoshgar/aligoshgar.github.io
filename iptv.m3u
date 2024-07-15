@@ -94,7 +94,7 @@ http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215
 http://str.yodacdn.net/showplus/index.m3u8
 #EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV-2
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
-#EXTINF:1 tvg-id="FTV" tvg-logo="https://ftv.az/assets/img/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",FTV TV
+#EXTINF:1 tvg-id="FTV" tvg-logo="https://ftv.az/assets/img/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
