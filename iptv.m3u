@@ -113,7 +113,7 @@ http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
-https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_400k.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
 #EXTINF:1 tvg-id="tv.sia.az" tvg-logo="https://yt3.googleusercontent.com/-ays53iYsCs3dxZBG9MCqspOhMmWCLrG0O5EhQ6ug_ZHtQXRAPBylQgYn_UUNj9kVodMFx9HDA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="Azərbaycan",Səs TV
