@@ -122,12 +122,18 @@ http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",VIP Azerbaijan
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
+#EXTINF:1 tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="Azərbaycan",K@TV 1
+http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
+#EXTINF:1 tvg-id="TelePlay" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Tele Play
+http://nntv.eu.org:80/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
 #EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 65-2
 https://ssh101-fl.bozztv.com/ssh101/kanal65channels/index.m3u8
-#EXTINF:1 tvg-id="Kanal 15" tvg-logo="https://kanal15.az/uploads/logo/logo_64f47a76e57643-94591393-74003977.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 15
-https://kanal15.kesintisizyayin.com:3473/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Şuşa TV
+https://susatv.interweb.com.tr:3432/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="📻 Azərbaycan Radioları",Beynəlxalq Radio
@@ -405,6 +411,8 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/1280px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" group-title="Rusiya",ОНТ Веларусь
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:1 tvg-id="POPSTAR" tvg-logo="https://tvepg.eu/img/serbia/logo/pop_star.png" tvg-language="Azerbaijani" group-title="Rusiya",POPSTAR Сербия
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="Rusiya" user-agent="ExoPlayer2/2.37",МУЗ ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
