@@ -409,6 +409,16 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="Türkiyə",Cartoon Network
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 24 HD
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия К HD
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Извеcтия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="Rusiya" user-agent="ExoPlayer2/2.37",МУЗ ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
