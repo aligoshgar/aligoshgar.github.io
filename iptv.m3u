@@ -549,6 +549,18 @@ http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
 http://stream.rutvportal.com:8085/MTV00s/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Шокирующее HD
 http://stream.rutvportal.com:8085/ShokiruyusheeHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Душевное HD
+http://stream.rutvportal.com:8085/DushevnoeHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Русская Комедия
+http://stream.rutvportal.com:8085/RusskayaKomedia/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ДЕНЬ ПОБЕДЫ
+http://stream.rutvportal.com:8085/DenPobedyHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CAMEDY HD
+http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SPORT 1
+http://stream.rutvportal.com:8085/Sport1Ukraina/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SPORT 2
+http://stream.rutvportal.com:8085/Sport2Ukraina/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ОСН HD
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
