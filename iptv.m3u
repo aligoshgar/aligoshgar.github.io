@@ -447,6 +447,10 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:1 tvg-id="vivarussia.ru" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4044.138 Safari/537.36" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",VIVA Russia
+#EXTVLCOPT:http-referrer=https://goodgame.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4044.138 Safari/537.36
+https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="Rusiya" user-agent="ExoPlayer2/2.37",МУЗ ТВ (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
