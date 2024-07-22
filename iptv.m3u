@@ -561,6 +561,12 @@ http://stream.rutvportal.com:8085/CamedyHD/video.m3u8
 http://stream.rutvportal.com:8085/Sport1Ukraina/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SPORT 2
 http://stream.rutvportal.com:8085/Sport2Ukraina/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",X SPORT
+http://stream.rutvportal.com:8085/XSportHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",КВН
+http://stream.rutvportal.com:8085/KVNTV/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUPER TENNIS
+http://stream.rutvportal.com:8085/SuperTennisHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ОСН HD
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
@@ -591,6 +597,8 @@ https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE HITS
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE HITS
+http://stream.rutvportal.com:8085/BridgeHitsHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE ROCK
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE Русский хит
