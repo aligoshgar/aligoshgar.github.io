@@ -461,7 +461,7 @@ http://185.32.44.154/domashniy/index.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ HD
 http://stream.rutvportal.com:8085/RenTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
