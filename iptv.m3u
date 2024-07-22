@@ -134,6 +134,8 @@ https://ssh101-fl.bozztv.com/ssh101/kanal65channels/index.m3u8
 https://susatv.interweb.com.tr:3432/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",ARI Muğam TV
+http://arimusicmugam77.ozelip.com:26546/mugam/mugam/media_w1479989162_112.ts
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="📻 Azərbaycan Radioları",Beynəlxalq Radio
