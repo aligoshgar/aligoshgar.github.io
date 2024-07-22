@@ -595,6 +595,8 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE CLASSIC
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE CLASSIC
+http://stream.rutvportal.com:8085/BridgeClassic/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE DELUXE
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BRiDGE HITS
