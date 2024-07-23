@@ -450,6 +450,8 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТС HD
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТНТ HD
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:1 tvg-id="tnt4.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТНТ 4 HD
@@ -467,8 +469,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Санкт-Петербург HD
 https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТС HD
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый Тульский
+http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Домашний HD
 http://185.32.44.154/domashniy/index.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ
