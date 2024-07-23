@@ -415,9 +415,11 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS+
 http://stream.rutvportal.com:8085/SetantaSportsPlusUAHD/video.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Матц! HD
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Матц! HD
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
+http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
 http://stream.rutvportal.com:8085/MatchPremierHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Арена
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
@@ -601,6 +603,14 @@ http://stream.rutvportal.com:8085/Moldova1HD/video.m3u8
 stream.rutvportal.com:8085/ICTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",euronews.
 http://stream.rutvportal.com:8085/EuronewsHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 1
+http://stream.rutvportal.com:8085/Eurosport1HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 2
+http://stream.rutvportal.com:8085/Eurosport2HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",2+2
+http://stream.rutvportal.com:8085/2plus2HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CINEMA
+http://stream.rutvportal.com:8085/CinemaHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ОСН HD
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
