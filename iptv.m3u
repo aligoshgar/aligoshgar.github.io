@@ -714,6 +714,8 @@ http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="Digər ölkələr",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="Digər ölkələr",TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Tom & Jerry - Türkçe Dublaj (2021)
 https://vidrame.pro/vr/get/b090fc2e/1080.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Yaratıcı / The Creator (2023)
