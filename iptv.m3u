@@ -267,7 +267,7 @@ http://45.93.46.27:8887/8909/video.m3u8
 http://195.189.62.140:8002/play/a00y
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="" group-title="Türkiyə",BBC EARTH
 http://195.189.62.140:8002/play/a00z
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="" group-title="Türkiyə",ID
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="" group-title="Türkiyə",ID Türkçe
 http://195.189.62.140:8002/play/a00f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" group-title="Türkiyə",National Geographic
 http://185.32.44.154/NationalGeographicHD/index.m3u8
@@ -610,6 +610,8 @@ http://stream.rutvportal.com:8085/KVNTV/video.m3u8
 http://stream.rutvportal.com:8085/SuperTennisHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",TV RAIN - Дождь
 http://stream.rutvportal.com:8085/DozhdHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ID Русский
+http://45.93.46.27:8887/8074/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ZOO ПАРК
 http://stream.rutvportal.com:8085/ZooPark/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ЖАРА TV
@@ -738,6 +740,12 @@ http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ELECTRO Сербия
 http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ID-Investigation Discovery
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ID-Investigation Discovery
+http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="Digər ölkələr",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="Digər ölkələr",Real Madrid TV
