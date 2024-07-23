@@ -611,7 +611,7 @@ http://stream.rutvportal.com:8085/KinoTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MOLDOVA 1
 http://stream.rutvportal.com:8085/Moldova1HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ICTV
-stream.rutvportal.com:8085/ICTVHD/video.m3u8
+http://stream.rutvportal.com:8085/ICTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",euronews.
 http://stream.rutvportal.com:8085/EuronewsHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 1
