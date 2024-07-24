@@ -496,6 +496,8 @@ http://stream.rutvportal.com:8085/RenTVHD/video.m3u8
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTG HD
+http://stream.rutvportal.com:8085/RTGHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:1 tvg-id="tvcentr.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТВЦ
