@@ -701,6 +701,8 @@ http://stream.rutvportal.com:8085/FOXLifeHD/video.m3u8
 http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",HISTORY 2 Русский
 http://stream.rutvportal.com:8085/History2HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",История
+http://stream.rutvportal.com:8085/Istoria/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",LOVE NATURE Русский
 http://stream.rutvportal.com:8085/LoveNature4K/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",NATIONAL GEOGRAPHIC HD Русский
