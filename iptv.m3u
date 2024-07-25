@@ -462,6 +462,8 @@ http://stream.rutvportal.com:8085/FutbolHD/video.m3u8
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 1 HD
+http://stream.rutvportal.com:8085/Rossia1HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия К HD
@@ -477,12 +479,18 @@ https://streaming.televizor-24-tochka.ru/live/38.m3u8
 https://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТНТ 4 HD
 http://ott.watch/stream/FW77EY74W5/106.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТНТ 4 HD
+http://stream.rutvportal.com:8085/TNT4HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТНТ MUSIC HD
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МИР HD
+http://stream.rutvportal.com:8085/MirHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МИР 24 HD
+http://stream.rutvportal.com:8085/Mir24HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МОСКВА 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Санкт-Петербург HD
@@ -531,6 +539,8 @@ https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:1 tvg-id="vijusport.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ HD
+http://stream.rutvportal.com:8085/NTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Мир HD
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Право HD
@@ -654,6 +664,8 @@ http://stream.rutvportal.com:8085/EuronewsHD/video.m3u8
 http://stream.rutvportal.com:8085/Eurosport1HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 2
 http://stream.rutvportal.com:8085/Eurosport2HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",1+1
+http://stream.rutvportal.com:8085/1plus1HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",2+2
 http://stream.rutvportal.com:8085/2plus2HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CINEMA
@@ -676,6 +688,10 @@ http://stream.rutvportal.com:8085/HistoryHD/video.m3u8
 http://stream.rutvportal.com:8085/History2HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",LOVE NATURE Русский
 http://stream.rutvportal.com:8085/LoveNature4K/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ИНТЕР
+http://stream.rutvportal.com:8085/InterHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",БОБЕР
+http://stream.rutvportal.com:8085/Bober/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ОСН HD
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MarTV
@@ -696,6 +712,8 @@ https://streaming.televizor-24-tochka.ru/live/43.m3u8
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CARTOON NETWORK
 http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАМА
+http://stream.rutvportal.com:8085/Mama/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ani
 http://stream.rutvportal.com:8085/Ani/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",nickeledeon
