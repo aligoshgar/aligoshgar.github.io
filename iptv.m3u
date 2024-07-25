@@ -60,8 +60,6 @@ http://edge02.odtv.az/o2/realtv/playlist.m3u8
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-id="Qəbələ TV" tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639501731_qebele-radio-big-radio_org.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qəbələ TV
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-ml6cJAWtKg8/Xw2CwinHliI/AAAAAAAAEOs/r6Fk_orVhBUutVaM-NDq-iO0UJt5uuY9QCLcBGAsYHQ/w680/umid-tv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Ümid TV
-http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w1777391236_b796000.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/AZ-NEWS-TV-AN.T-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AN.T TV
 https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AS TV
