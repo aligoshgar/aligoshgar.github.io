@@ -437,6 +437,8 @@ http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
 http://stream.rutvportal.com:8085/MatchPremierHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Арена
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ИГРА
+http://stream.rutvportal.com:8085/MatchIgraHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Боец
 http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Футбол 1
@@ -562,6 +564,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",UDAR
 http://stream.rutvportal.com:8085/UDARHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",БОКС ТВ
+http://stream.rutvportal.com:8085/BoxTV/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТАРТ
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТАРТ
@@ -581,6 +585,10 @@ http://45.159.74.13/Kinopremera/index.m3u8
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дом Кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дом Кино
+http://stream.rutvportal.com:8085/DomKino/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дом Кино РРЕМИУМ
+http://stream.rutvportal.com:8085/DomKinoPremiumHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НИКА ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТК Алмазный край
