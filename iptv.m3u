@@ -112,7 +112,7 @@ http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 #EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV-2
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-live-vipotv-azerbaycan.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
+#EXTINF:1 tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
 #EXTINF:1 tvg-id="Azad Söz Az TV" tvg-logo="https://xeberal.az/wp-content/uploads/2023/03/IMG_20230322_115404.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
@@ -126,10 +126,8 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-id="TelePlay" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Tele Play
 http://nntv.eu.org:80/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
-#EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 65
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 65-2
-https://ssh101-fl.bozztv.com/ssh101/kanal65channels/index.m3u8
+#EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Şuşa TV
 https://susatv.interweb.com.tr:3432/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
