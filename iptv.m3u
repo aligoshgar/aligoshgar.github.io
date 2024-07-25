@@ -423,6 +423,8 @@ http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2
 http://ott.server-iptv.live/221/video.m3u8?token=M4f082ab4c
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS UK
+http://185.163.194.185:6872/149/mpegts
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS UK
 http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS+ UK
 http://stream.rutvportal.com:8085/SetantaSportsPlusUAHD/video.m3u8
@@ -435,8 +437,12 @@ http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 http://stream.rutvportal.com:8085/MatchTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
 http://stream.rutvportal.com:8085/MatchPremierHD/video.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Арена
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
+http://45.93.46.27:8887/8018/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! СТРАНА
+http://45.93.46.27:8887/8019/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ИГРА
 http://stream.rutvportal.com:8085/MatchIgraHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Боец
