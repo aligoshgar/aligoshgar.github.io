@@ -639,6 +639,8 @@ http://stream.rutvportal.com:8085/XSportHD/video.m3u8
 http://stream.rutvportal.com:8085/KVNTV/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUPER TENNIS
 http://stream.rutvportal.com:8085/SuperTennisHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Extereme Sports Русский
+stream.rutvportal.com:8085/ExtremeSports/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",TV RAIN - Дождь
 http://stream.rutvportal.com:8085/DozhdHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ID Русский
@@ -735,7 +737,7 @@ https://streaming.televizor-24-tochka.ru/live/43.m3u8
 http://stream.rutvportal.com:8085/PobedaHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CARTOON NETWORK
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CARTOON NETWORK Русский
 http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАМА
 http://stream.rutvportal.com:8085/Mama/video.m3u8
@@ -824,7 +826,9 @@ http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="Digər ölkələr",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="Digər ölkələr",TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",FIGHTBOX HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Tom & Jerry - Türkçe Dublaj (2021)
 https://vidrame.pro/vr/get/b090fc2e/1080.m3u8
