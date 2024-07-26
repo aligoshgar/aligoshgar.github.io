@@ -556,6 +556,8 @@ https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:1 tvg-id="vijusport.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju SPORT
+http://45.93.46.27:8887/8015/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ HD
 http://stream.rutvportal.com:8085/NTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Мир HD
@@ -670,10 +672,14 @@ http://stream.rutvportal.com:8085/Muzhskoy/video.m3u8
 http://stream.rutvportal.com:8085/PeretsInt/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МИР БАСКЕТБОЛА
 http://stream.rutvportal.com:8085/MirBasketbola/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MTV Live
+http://stream.rutvportal.com:8085/MTVLiveHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MTV 00s
 http://stream.rutvportal.com:8085/MTV00s/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MTV 90s
 http://stream.rutvportal.com:8085/MTV90s/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Мezzo Live
+http://stream.rutvportal.com:8085/MezzoLiveHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Шокирующее HD
 http://stream.rutvportal.com:8085/ShokiruyusheeHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BOLT
@@ -734,6 +740,8 @@ http://stream.rutvportal.com:8085/ICTVHD/video.m3u8
 http://stream.rutvportal.com:8085/EuronewsHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 1
 http://stream.rutvportal.com:8085/Eurosport1HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 1
+http://45.93.46.27:8887/8013/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",EUROSPORT 2
 http://stream.rutvportal.com:8085/Eurosport2HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",1+1
@@ -778,6 +786,8 @@ http://stream.rutvportal.com:8085/PoehaliHD/video.m3u8
 http://stream.rutvportal.com:8085/ArsenalHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Мосфильм - Золотая Коллекция
 http://stream.rutvportal.com:8085/MosfilmHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",MM UFO
+http://45.93.46.27:8887/8410/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ХИТ
 http://stream.rutvportal.com:8085/HitHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Романтичное HD
@@ -806,6 +816,8 @@ http://95.67.12.82:9077
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
+http://stream.rutvportal.com:8085/ZvezdaHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда Плюс HD
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Красная линия HD
