@@ -284,7 +284,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 #EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png" tvg-name="Woman TV" group-title="Türkiyə",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-id="DiZi" tvg-logo=https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Türkiyə",DiZi
+#EXTINF:-1 tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Türkiyə",DiZi
 http://9.troya.one:34000/ch1878/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSb4hvOrz9w4r6H1XUFIxSPPipv8lp0Zn1zvWrSpP6hbA
 #EXTINF:-1 tvg-id="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" tvg-name="Teve2" group-title="Türkiyə",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
