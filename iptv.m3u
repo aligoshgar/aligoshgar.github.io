@@ -907,6 +907,8 @@ http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ELECTRO Сербия
 http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="Digər ölkələr",LOVE NATURE
+http://45.93.46.27:8887/8909/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ID-Investigation Discovery
