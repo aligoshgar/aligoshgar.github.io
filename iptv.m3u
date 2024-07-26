@@ -574,6 +574,12 @@ http://stream.rutvportal.com:8085/NTVStilHD/video.m3u8
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Хит HD
 http://stream.rutvportal.com:8085/NTVHitHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/black.png" tvg-language="Azerbaijani" group-title="Rusiya",.black
+https://view.my-tv.biz/tv/44634ef664/1d45a6db61/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/red.png" tvg-language="Azerbaijani" group-title="Rusiya",.red
+https://view.my-tv.biz/tv/44634ef664/e50ad4a3fe/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/sci-fi.png" tvg-language="Azerbaijani" group-title="Rusiya",.sci-fi
+https://view.my-tv.biz/tv/44634ef664/b420d6efa1/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",12 канал HD
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",360.RU
