@@ -758,6 +758,10 @@ http://stream.rutvportal.com:8085/NatGeoWildHD/video.m3u8
 http://stream.rutvportal.com:8085/InterHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",БОБЕР
 http://stream.rutvportal.com:8085/Bober/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Усадьба
+http://stream.rutvportal.com:8085/Usadba/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ПОЕХАЛИ!
+http://stream.rutvportal.com:8085/PoehaliHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Арсенал
 http://stream.rutvportal.com:8085/ArsenalHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Мосфильм - Золотая Коллекция
