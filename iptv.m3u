@@ -284,8 +284,8 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 #EXTINF:-1 tvg-id="Woman TV" tvg-logo="https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png" tvg-name="Woman TV" group-title="Türkiyə",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-id="Woman Life TV" tvg-logo="https://www.womanlife.tv/images/yok.jpg" tvg-name="Woman Life TV" group-title="Türkiyə",Woman Life TV
-https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="DiZi" tvg-logo=https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Türkiyə",DiZi
+http://9.troya.one:34000/ch1878/mono.m3u8?token=rl_moroz5.A7mHJqRXs2FbUfK1HHdUSb4hvOrz9w4r6H1XUFIxSPPipv8lp0Zn1zvWrSpP6hbA
 #EXTINF:-1 tvg-id="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" tvg-name="Teve2" group-title="Türkiyə",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" tvg-name="TV 4" group-title="Türkiyə",TV 4
@@ -382,7 +382,7 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Kanal V" group-title="Türkiyə",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:1 tvg-id="Afyon Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TBMM TV
+#EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_157.png" tvg-name="cine1" group-title="Türkiyə",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
