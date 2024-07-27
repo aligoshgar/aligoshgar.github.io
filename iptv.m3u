@@ -545,17 +545,33 @@ https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:1 tvg-id="vijiexplore.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju EXPLORE
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju EXPLORE
+http://stream.rutvportal.com:8085/VijuExploreHD/video.m3u8
 #EXTINF:1 tvg-id="vijuhistory.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju HISTORY
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:1 tvg-id="vijunature.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju NATURE
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju NATURE
+http://stream.rutvportal.com:8085/VijuNatureHD/video.m3u8
 #EXTINF:1 tvg-id="vijusport.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju SPORT
 http://45.93.46.27:8887/8015/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000 action
+http://stream.rutvportal.com:8085/VijuTV1000ActionHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000 русское
+http://stream.rutvportal.com:8085/VijuTV1000RusskoeKinoHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",VIASAT KINO
+http://stream.rutvportal.com:8085/VijuTV1000HD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",VIASAT HISTORY
+http://stream.rutvportal.com:8085/VijuHistoryHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Food Time
+http://stream.rutvportal.com:8085/FoodNetworkHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ПЕРШИЙ
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ HD
 http://stream.rutvportal.com:8085/NTVHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Мир HD
@@ -820,6 +836,8 @@ http://stream.rutvportal.com:8085/ZvezdaHD/video.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Красная линия HD
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Красная линия HD
+http://stream.rutvportal.com:8085/KrasnayaLiniya/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Победа
@@ -832,6 +850,10 @@ http://stream.rutvportal.com:8085/CartoonNetworkHD/video.m3u8
 http://stream.rutvportal.com:8085/Mama/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Gulli GIRL
 http://stream.rutvportal.com:8085/GulliGirl/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BCU KIDS HD
+http://tinyurl.com/TvZaTako/BCUKidsHD/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",BCU KIDS+ HD
+http://stream.rutvportal.com:8085/BCUKidsPlusHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ani
 http://stream.rutvportal.com:8085/Ani/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",nickeledeon
