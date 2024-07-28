@@ -785,8 +785,6 @@ http://stream.rutvportal.com:8085/1plus1HD/video.m3u8
 http://stream.rutvportal.com:8085/2plus2HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CINEMA
 http://stream.rutvportal.com:8085/CinemaHD/video.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СССР HD
-http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Новий канал
 http://stream.rutvportal.com:8085/NoviyKanalHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТЕЛЕ КАФЕ
@@ -834,6 +832,7 @@ http://stream.rutvportal.com:8085/OstrosuzhetnoeHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",NANO HD
 http://stream.rutvportal.com:8085/NanoHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",GALAXY
+http://stream.rutvportal.com:8085/GalaxyHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",KHL
 http://stream.rutvportal.com:8085/KHLHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya,Travel+ Adventure
@@ -852,6 +851,8 @@ http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 http://95.67.12.82:9077
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",JARMARKA
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СССР HD
+http://stream.rutvportal.com:8085/BCUSSSRHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Звезда HD
