@@ -260,6 +260,8 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/olay-turk-logo.png" tvg-name="OLAY TÜRK" group-title="Türkiyə",OLAY TÜRK
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" tvg-name="Yaban TV" group-title="Türkiyə",Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="Türkiyə",LOVE NATURE Türkçe
 http://195.189.62.140:8002/play/a00y
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="" group-title="Türkiyə",BBC EARTH Türkçe
@@ -336,6 +338,8 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png" tvg-name="Sports TV" group-title="Türkiyə",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png" tvg-name="Tay TV" group-title="Türkiyə",Tay TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="Türkiyə",Ulusal TV
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
