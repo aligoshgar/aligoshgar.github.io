@@ -433,8 +433,6 @@ http://stream.rutvportal.com:8085/SetantaSports2HD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2
 http://ott.server-iptv.live/221/video.m3u8?token=M4f082ab4c
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS UK
-http://185.163.194.185:6872/149/mpegts
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS UK
 http://stream.rutvportal.com:8085/SetantaSportsUAHD/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS+ UK
 http://stream.rutvportal.com:8085/SetantaSportsPlusUAHD/video.m3u8
