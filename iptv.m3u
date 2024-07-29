@@ -561,7 +561,7 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ЕНИСЕЙ HD
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",OCEAN HD
-http://camera.global-x.ru/OceanTV/index.m3u88
+http://camera.global-x.ru/OceanTV/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",OCEAN HD
 http://176.223.65.42:8085/OceanTV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Кинопремьера HD
