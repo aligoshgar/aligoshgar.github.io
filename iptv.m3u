@@ -571,6 +571,8 @@ http://45.159.74.13/Kinopremera/index.m3u8
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дом Кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Русский Детектив
+https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НИКА ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТК Алмазный край
