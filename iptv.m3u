@@ -124,6 +124,8 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-id="TelePlay" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Tele Play
 http://nntv.eu.org:80/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",KANAL 65
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Şuşa TV
@@ -134,8 +136,6 @@ https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",KANAL 65
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="📻 Azərbaycan Radioları",Beynəlxalq Radio
 https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="📻 Azərbaycan Radioları",İctimai FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
