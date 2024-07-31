@@ -257,7 +257,7 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/olay-turk-logo.png" tvg-name="OLAY TÜRK" group-title="Türkiyə",OLAY TÜRK
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" tvg-name="Çiftçi TV" group-title="Türkiyə",Çiftçi TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" tvg-name="Çiftçi TV" group-title="Türkiyə",Çiftçi TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="Türkiyə",LOVE NATURE Türkçe
 http://195.189.62.140:8002/play/a00y
