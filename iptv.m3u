@@ -433,20 +433,21 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="Türkiyə",CARTOON NETWORK Türkçe
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1
-http://ott.server-iptv.live/220/video.m3u8?token=M4f082ab4c
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2
-http://ott.server-iptv.live/221/video.m3u8?token=M4f082ab4c
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS+ UK
-http://45.93.46.27:8887/8329/video.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS+ UK
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
+http://178.16.151.67/nash-football/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
+http://89.104.114.2:8080/nash_football_hd/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
-http://45.93.46.27:8887/8018/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! СТРАНА
-http://45.93.46.27:8887/8019/video.m3u8
+http://188.113.190.15/95/tracks-v1a1/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Боец
 http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Футбол 1
@@ -547,11 +548,11 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Хит HD
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/black.png" tvg-language="Azerbaijani" group-title="Rusiya",.black
-https://view.my-tv.biz/tv/44634ef664/1d45a6db61/video.m3u8
+http://188.113.190.15/186/tracks-v1a1/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/red.png" tvg-language="Azerbaijani" group-title="Rusiya",.red
-https://view.my-tv.biz/tv/44634ef664/e50ad4a3fe/video.m3u8
+http://188.113.190.15/149/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/sci-fi.png" tvg-language="Azerbaijani" group-title="Rusiya",.sci-fi
-https://view.my-tv.biz/tv/44634ef664/b420d6efa1/video.m3u8
+http://188.113.190.15/23/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",12 канал HD
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",360.RU
