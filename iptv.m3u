@@ -413,6 +413,8 @@ https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_31.png" tvg-name="Kanal V" group-title="Türkiyə",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/498a97e1-d327-4478-b243-62c3b20209f6.png" tvg-name="ETV" group-title="Türkiyə",Edirne TV
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/BRT_1_%282014-günümüz%29.jpg" tvg-name="brt 1 HD" group-title="Türkiyə",brt 1 HD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" tvg-name="brt 2 HD" group-title="Türkiyə",brt 2 HD
@@ -423,6 +425,10 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://eksiup.com/images/24/55/oy392700na9m.png" tvg-name="Slow Karadeniz TV" group-title="Türkiyə",Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1eYQOGF6-ELbkd5rIxFwqU5d2_zshA6n7L9DRruWGm_g-W5NoBwgO5lHoNPv6Kz0myhpb6VVdZDiXEk_hwH5JY2uAXqAMiGf8IVhR3NuB48KPLXviOEIJqgFvZbR_xWQXIX-w1NuCQ_zi_-RFxHmDdV8DLvfmQYiKzn-GMnNMNrri7tLTFgqN8Uv1qg/s1600-rw/sinema.jpg" tvg-name="Yansıma TV" group-title="Türkiyə",Yansıma Sinema TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7ZdhJVf21eqhkGzMFidRTeDO7vE1sFjccRsfpS401Ls29aoB1ubljkSwiWf7_w54mU5kptg5LhefRFVI2LOvMf50pokdrIZb9-R21EIiWCb-GeUVA2-ftZNvjKSDMgc5_Shh0jk5OzrQ-sakoLlkXqZ2KFbaJc1zYCUw1Kr7szLLfoE-Jl4SRRmVpw/s1600-rw/ym.jpg" tvg-name="Yansıma TV" group-title="Türkiyə",Yansıma Müzik TV
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" tvg-name="Galatasaray TV" group-title="Türkiyə",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" tvg-name="Fenerbahçe TV" group-title="Türkiyə",Fenerbahçe TV
