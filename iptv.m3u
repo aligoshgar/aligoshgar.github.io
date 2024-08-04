@@ -485,6 +485,9 @@ https://player.smotrim.ru/iframe/stream/live_id/63253
 https://player.smotrim.ru/iframe/stream/live_id/4941
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",PLANETA RTR США
 https://player.smotrim.ru/iframe/stream/live_id/63250
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТС HD
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",СТС kids HD
@@ -514,12 +517,18 @@ http://45.159.74.13/Domashniy/tracks-v1a1/index.m3u8
 http://188.113.190.11/94/tracks-v1a1/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница
 http://135.181.115.81:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница INTERNATIONAL
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Перец
+http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Перец
 http://45.159.74.14:80/Perec/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТВ 3
 http://92.53.64.197:5050/tv3_hd/tracks-v1a1/manifest.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница INTERNATIONAL
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ПОЕХАЛИ!
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Суббота!
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
@@ -533,6 +542,10 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТС
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:1 tvg-id="tvcentr.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТВЦ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/tvc/playlist.m3u8
@@ -629,6 +642,12 @@ http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Тамбов
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Телеканал Краснодар
@@ -705,6 +724,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://camera.global-x.ru/Lya-Minor/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SONG TV РОССИЯ
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",1HD
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/MUZ_TV_LOGO.png" group-title="Rusiya" user-agent="ExoPlayer2/2.37",МУЗ ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
