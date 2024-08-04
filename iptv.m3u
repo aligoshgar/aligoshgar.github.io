@@ -439,8 +439,12 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1 HD
+http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2 HD
+http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
@@ -505,16 +509,22 @@ https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый Тульский
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Домашний HD
-http://185.32.44.154/domashniy/index.m3u8
+http://45.159.74.13/Domashniy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Rusiya",Timeless Dizi Channel
 http://188.113.190.11/94/tracks-v1a1/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница
 http://135.181.115.81:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Перец
+http://45.159.74.14:80/Perec/tracks-v1a1/manifest.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ТВ 3
+http://stream01.vnet.am:80/Channel_121/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница INTERNATIONAL
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ HD
+http://92.53.64.197:5050/Rentv_HD/tracks-v1a1/manifest.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTG HD
