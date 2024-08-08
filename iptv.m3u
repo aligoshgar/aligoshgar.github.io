@@ -25,10 +25,8 @@ http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
 #EXTINF:1 tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",ATV VIVACE
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16068/index.m3u8
 #EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
-https://str.yodacdn.net/arb/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-2
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-3
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD-2
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
@@ -78,8 +76,6 @@ http://185.32.44.154/sehiyye/index.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
 http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
-#EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV-2
-http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
