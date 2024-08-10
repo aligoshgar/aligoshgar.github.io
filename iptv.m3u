@@ -433,6 +433,10 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="Türkiyə",CARTOON NETWORK Türkçe
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" tvg-name="Minika Çocuk" group-title="Türkiyə",Minika Çocuk
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" tvg-name="Minika GO" group-title="Türkiyə",Minika GO
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1 HD
