@@ -46,13 +46,13 @@ http://str.yodacdn.net/xazar/index.m3u8
 http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/486px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="Azərbaycan",Muz TV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
 http://str.yodacdn.net/real/index.m3u8
-#EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-2
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-2
 http://185.32.44.154/realtv/index.m3u8
-#EXTINF:1 tvg-id="Real TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bb/Real_TV_loqosu.png/567px-Real_TV_loqosu.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-3
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD-3
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -70,7 +70,7 @@ http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="Azərbaycan",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/800px-S%C9%99hiyy%C9%99_TV.png" tvg-name="Səhiyyə TV" group-title="Azərbaycan",Səhiyyə TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" tvg-name="Səhiyyə TV" group-title="Azərbaycan",Səhiyyə TV
 http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
@@ -281,7 +281,7 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg" tvg-name="TV 4" group-title="Türkiyə",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tivi6.com.tr/media/2022/11/tivi6_logo-300x113-1.png" tvg-name="Tivi 6" group-title="Türkiyə",Tivi 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" tvg-name="Tivi 6" group-title="Türkiyə",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/200px-Kanal_7_2002-%3F_logosu.webp.png" tvg-name="KANAL 7" group-title="Türkiyə",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
