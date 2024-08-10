@@ -90,9 +90,9 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
 #EXTINF:1 tvg-id="Kanal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b6/Kanal_35_%28loqo%29.png/800px-Kanal_35_%28loqo%29.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV
 http://str.yodacdn.net/showplus/index.m3u8
-#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://yoda.az/logos/showplus.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV-2
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",SHOW PLUS TV-2
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:1 tvg-id="FTV" tvg-logo="https://ftv.az/assets/img/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -120,7 +120,7 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-id="TelePlay" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Tele Play
 http://nntv.eu.org:80/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",KANAL 65
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/kanal-65-az-live-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",KANAL 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
