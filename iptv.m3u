@@ -630,6 +630,8 @@ http://camera.global-x.ru/OceanTV/index.m3u8
 https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",DORAMA
 http://95.67.12.82:9046
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ДОРАМА
+https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",HOLLYWOOD
 https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Кинопремьера HD
