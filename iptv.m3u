@@ -707,6 +707,10 @@ https://stream.sunset-media.ru/Free/Free/2.m3u8
 https://stream.sunset-media.ru/Free/Free/3.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUNSET KIDS
 https://stream.sunset-media.ru/Free/Free/4.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUNSET ANIME
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUNSET SPORT
+https://stream.sunset-media.ru/Free/Free/6.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Своё HD
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Твое ТВ Юмор
