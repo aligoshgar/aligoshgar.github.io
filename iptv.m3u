@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",MƏdƏniyyƏt TV
 https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
