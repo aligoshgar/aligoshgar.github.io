@@ -634,6 +634,8 @@ http://95.67.12.82:9046
 https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",HOLLYWOOD
 https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CINEMA
+https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Кинопремьера HD
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:1 tvg-id="RodnoeKino.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Родное Кино HD
