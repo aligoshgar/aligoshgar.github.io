@@ -128,8 +128,20 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 https://susatv.interweb.com.tr:3432/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",TTV
+https://tivi191.ozelip.com:3339/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CTV
+https://spectrectvmedya.interweb.com.tr:3923/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CTV SPORTS 2
+https://spectrectvmedya.interweb.com.tr:3923/live/spectreclive.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",KTV
+https://tv170.radyotelekom.com.tr:21764/nihat/nihat/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",HTV
+https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CHDTV
+https://chdtv77.interweb.com.tr:3980/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="📻 Azərbaycan Radioları",Beynəlxalq Radio
