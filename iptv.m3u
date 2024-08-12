@@ -485,6 +485,16 @@ http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал HD
+http://195.158.222.115:8000/play/167/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал (СНГ)
+http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал Eвропа
+http://str06.ottg.online/4795/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал Евразия
+http://87.76.32.36:9102/udp/238.1.1.7:1234
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал Евразия International
+http://89.73.48.210:8001/1:0:1:1C92:332C:13E:820000:0:0:0
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Россия 24 HD
@@ -555,6 +565,8 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ HD
 http://92.53.64.197:5050/Rentv_HD/tracks-v1a1/manifest.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Рен ТВ HD
+http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTG HD
