@@ -534,6 +534,8 @@ http://188.113.190.11/94/tracks-v1a1/index.m3u8
 http://194.158.222.36:6086
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SD REX
 http://195.26.83.96:7029/play/a008
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Вектор 24
+https://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница
 http://135.181.115.81:8000/play/a018/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Пятница INTERNATIONAL
@@ -632,11 +634,11 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТВ Хит HD
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/black.png" tvg-language="Azerbaijani" group-title="Rusiya",.black
-http://188.113.190.15/186/tracks-v1a1/index.m3u8
+https://streamer3.connectto.com/525/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/red.png" tvg-language="Azerbaijani" group-title="Rusiya",.red
 http://188.113.190.15/149/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/sci-fi.png" tvg-language="Azerbaijani" group-title="Rusiya",.sci-fi
-http://188.113.190.15/23/mono.m3u8
+https://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",12 канал HD
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SOCHI LIVE HD
@@ -794,6 +796,8 @@ https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="Rusiya",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",CNN
+https://jmp2.uk/SamsungTVPlus/DEBD800001S4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",NBA TV
 http://195.189.62.140:8002/play/a00u
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="Digər ölkələr",RedBull TV
