@@ -663,6 +663,8 @@ https://strm.yandex.ru/kal/360news/360news0.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Извеcтия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Rusiya",Univer TV
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",TVRUS
 http://217.79.179.127:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2Wso/live/tvrus/stream0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",UDAR
@@ -826,6 +828,8 @@ http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",KRONEHIT
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",ATV ARMENIA
 http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",R&R Сербия
