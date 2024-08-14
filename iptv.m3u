@@ -359,12 +359,12 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png" tvg-name="Tay TV" group-title="Türkiyə",Tay TV
 http://stream.tvcdn.net/spor/tay-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a2dae974-7ee1-4a22-90ca-6dc9f06cb3a8.png" tvg-name="BYHORSES TV" group-title="Türkiyə",BYHORSES TV
-http://stream.tvcdn.net/spor/byhorses-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="Türkiyə",Ulusal TV
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="Türkiyə",Sözcü TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="Türkiyə",TMB TR TV
 http://stream.tvcdn.net/muzik/tmb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="Türkiyə",KRAL POP TV
@@ -407,12 +407,12 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" tvg-name="SUPER TURK max" group-title="Türkiyə",SUPER TURK max
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
-#EXTINF:-1 tvg-id="universite.com.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Saban_Entertainment_logo.svg/1707px-Saban_Entertainment_logo.svg.png" tvg-name="Şaban TV" group-title="Türkiyə",Şaban TV
-http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+#EXTINF:-1 tvg-id="Gözde TV" tvg-logo="https://assets.tvcdn.net/500bc153-53d1-4b1c-ba42-cfba58855946.png" tvg-name="Şaban TV" group-title="Türkiyə",Gözde TV
+http://50.7.218.154:1935/live/gozdetv.stream/chunklist_w1676377430.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Meltem TV" group-title="Türkiyə",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:1 tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="Türkiyə",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:1 tvg-id="metropol" tvg-logo="https://metropoltvcomtr.teimg.com/metropoltv-com-tr/uploads/2024/06/m-e-t-r-o-p-o-l-t-v-l-o-g-o.webp" tvg-language="Turkish" group-title="Türkiyə",Metropol TV
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_157.png" tvg-name="cine1" group-title="Türkiyə",cine1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png" tvg-name="CINE5" group-title="Türkiyə",CINE5
@@ -441,6 +441,8 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7ZdhJVf21eqhkGzMFidRTeDO7vE1sFjccRsfpS401Ls29aoB1ubljkSwiWf7_w54mU5kptg5LhefRFVI2LOvMf50pokdrIZb9-R21EIiWCb-GeUVA2-ftZNvjKSDMgc5_Shh0jk5OzrQ-sakoLlkXqZ2KFbaJc1zYCUw1Kr7szLLfoE-Jl4SRRmVpw/s1600-rw/ym.jpg" tvg-name="Yansıma TV" group-title="Türkiyə",Yansıma Müzik TV
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+#EXTINF:1 tvg-id="RealBox" tvg-logo="https://realtvbox.com/wp-content/uploads/real-white-logo-1024x341.png" tvg-language="Turkish" group-title="Türkiyə",RealBox YERLI
+62.210.88.161/gin-trn09/gt-sinevizyon-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" tvg-name="Galatasaray TV" group-title="Türkiyə",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" tvg-name="Fenerbahçe TV" group-title="Türkiyə",Fenerbahçe TV
