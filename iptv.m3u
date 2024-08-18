@@ -453,6 +453,14 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" tvg-name="Minika GO" group-title="Türkiyə",Minika GO
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Türkiyə" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1 
+https://ssh101.bozztv.com/ssh101/TBRT1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Türkiyə" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2
+https://ssh101.bozztv.com/ssh101/TBRT2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Türkiyə" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3 
+https://ssh101.bozztv.com/ssh101/TBRT3/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Türkiyə" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
+https://ssh101.bozztv.com/ssh101/TBRT4/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1 HD
