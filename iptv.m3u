@@ -120,11 +120,11 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/kanal-65-az-live-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",KANAL 65
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:1 tvg-id="TelePlay" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Tele Play
-http://nntv.eu.org:80/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
-#EXTINF:1 tvg-id="Kanal 65" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
+#EXTINF:1 tvg-id="Esma TV" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
+#EXTINF:1 tvg-id="İsmayıl TV" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıl TV
+https://glb.bozztv.com/glb/ssh101/ismayiltv/index.m3u8
+#EXTINF:1 tvg-id="İsmayıllı TV" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",TTV
 https://tivi191.ozelip.com:3339/stream/play.m3u8
