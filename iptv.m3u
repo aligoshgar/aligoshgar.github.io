@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="Aligoshgar TV",Aligoshgar TV
+https://aligoshgar.github.io/aligoshgar.m3u8
+#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="Aligoshgar TV",Aligoshgar TV
 https://glb.bozztv.com/glb/ssh101/aligoshgar/index.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
