@@ -144,7 +144,7 @@ https://spectrectvmedya.interweb.com.tr:3923/live/spectreclive.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",SA TV
 https://fl1002.bozztv.com/ssh101/srxan1994/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",KTV
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/babek-tv-canli-izle.png" tvg-language="Azerbaijani" group-title="Azərbaycan",BABƏK TV
 https://tv170.radyotelekom.com.tr:21764/nihat/nihat/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",HTV
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
