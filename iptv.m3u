@@ -873,20 +873,16 @@ http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",ELECTRO Сербия
 http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Tom & Jerry - Türkçe Dublaj (2021)
-https://vidrame.pro/vr/get/b090fc2e/1080.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Yaratıcı / The Creator (2023)
-https://cdn8.video.az/storage/movie/21/21251/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Migration - Ördeklerin Göçü (2023)
+https://vidrame.pro/vr/get/b090fc2e/480.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_FMjpg_UX1000_.jpg" tvg-language="Turkish" group-title="Filmlər",Migration - Ördeklerin Göçü (2023)
 https://cdn6.video.az/storage/movie/21/21923/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Cesur / Brave - Türkçe Dublaj (2012)
+#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_.jpg" tvg-language="Turkish" group-title="Filmlər",Cesur / Brave - Türkçe Dublaj (2012)
 https://cdn6.video.az/storage/movie/3/2622/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Arıcı: Ölüm kovanı / The Beekeeper - Türkçe Dublaj (2024)
-https://cdn8.video.az/storage/movie/21/22011/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",3391 Kilometre (2024)
+#EXTINF:1 tvg-id="" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/12/21/08/10/0024335.jpg" tvg-language="Turkish" group-title="Filmlər",3391 Kilometre (2024)
 https://cdn8.video.az/storage/movie/22/22017/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Aşk mevsimi (2024)
-https://cdn8.video.az/storage/movie/21/21998/video.mp4
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="Filmlər",Legend of the Guardians: The Owls of Ga'Hoole / Başkuş Krallığı Efsanesi - Türkçe Dublaj (2010)
+#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_.jpg" tvg-language="Turkish" group-title="Filmlər",Legend of the Guardians: The Owls of Ga'Hoole / Başkuş Krallığı Efsanesi - Türkçe Dublaj (2010)
 https://cdn.dzeninfra.com/vod/converted-video/vod-content/21/32/85/33/50/91/39/65/98/0/6ca1d2dc-7ebe-43b3-8bf6-98193a7dcfe1/kaltura/desc_e03c7ba709f91fb736876c975d21064d/vK6mOT3XoxiA/vw=1920,vh=1080,fps=24.00,vbrt=2233852,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGE0MTktOTQ3ZC00ZDlhLTg1OGMtMjRiMTMwNzgzZDIyXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_.jpg" tvg-language="Turkish" group-title="Filmlər",Security / Mühafizəçi - Azərbaycan Dublyaj (2017)
+#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGE0MTktOTQ3ZC00ZDlhLTg1OGMtMjRiMTMwNzgzZDIyXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_.jpg" tvg-language="Turkish" group-title="Filmlər",Security / Mühafizəçi - Azərbaycanca Dublyaj (2017)
 https://cdn6.video.az/storage/movie/18/18778/video.mp4
+#EXTINF:1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_.jpg" tvg-language="Turkish" group-title="RED / Qırmızı - Azərbaycanca Dublyaj (2010)
+https://cdn8.video.az/storage/movie/21/22011/video.mp4
