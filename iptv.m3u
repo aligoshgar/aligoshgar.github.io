@@ -474,11 +474,7 @@ http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
-http://188.113.190.15/103/tracks-v1a1/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
-http://178.16.151.67/nash-football/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! ПРЕМЬЕР
-http://89.104.114.2:8080/nash_football_hd/index.m3u8
+http://str06.ottg.online/5442/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! СТРАНА
@@ -497,8 +493,6 @@ http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал HD
-http://195.158.222.115:8000/play/167/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал (СНГ)
 http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый канал Eвропа
