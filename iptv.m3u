@@ -844,6 +844,14 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NpwMKMM8L.png" group-title="Digər ölkələr",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/PMC-Royale-live-vipotv-persian-iranian.png" group-title="Digər ölkələr",PMC ROYALE
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",Biz TV Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",Biz TV Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digər ölkələr",ATV ARMENIA
 http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Digər ölkələr",R&R Сербия
