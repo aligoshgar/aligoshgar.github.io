@@ -128,6 +128,10 @@ http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/babek-tv-canli-izle.png" tvg-language="Azerbaijani" group-title="Azərbaycan",BABƏK TV
 https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CTV
+https://spectrectvmedya.interweb.com.tr:3923/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",CTV SPORTS 2
+https://spectrectvmedya.interweb.com.tr:3923/live/spectreclive.m3u8
 #EXTINF:1 tvg-id="Esma TV" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-id="İsmayıllı TV" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",İsmayıllı TV
