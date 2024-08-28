@@ -191,6 +191,8 @@ https://radio.autoliferadio.com:8005/radio
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/radios-150px/te4J2rb7TB.png" group-title="📻 Azərbaycan Radioları",Day.Az Radio
 https://radio.day.az:9443/128m
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/r6OdeozM2XhPK6otKHteTZ9msVYRcVWhW6vIMwi2L3zGTxvpk_3C9usCcL2uRGL3SEJ0dGVE1d80MQ" group-title="📻 Azərbaycan Radioları",DANCE FM
+http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 SD
