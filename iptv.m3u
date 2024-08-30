@@ -153,6 +153,8 @@ https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8 tvg-logo="https://upload.w
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yurdfm.az/wp-content/uploads/2022/11/Logo_YurdFM.jpeg" group-title="📻 Azərbaycan Radioları",Yurd FM
 https://icecast.livetv.az/yurdfm
+#EXTINF:-1 tvg-logo="https://yurdfm.az/wp-content/uploads/2022/11/Logo_YurdFM.jpeg" group-title="📻 Azərbaycan Radioları",Yurd FM (Camera)
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
 #EXTINF:-1 tvg-logo="http://bakuretrofm.az/wp-content/uploads/2023/03/Baku_retro_fm_2.png" group-title="📻 Azərbaycan Radioları",Baku Retro FM
 http://5.191.241.101:8000/bakuretrofm
 #EXTINF:-1 tvg-logo="http://bakuhitfm.az/wp-content/uploads/2023/03/Baku_hit_fm_2.png" group-title="📻 Azərbaycan Radioları",Baku Hit FM
@@ -171,6 +173,8 @@ http://s14.myradiostream.com:30454/listen.mp3
 http://5.191.241.101:8000/spaceradio
 #EXTINF:-1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="📻 Azərbaycan Radioları",MEDİA FM
 https://icecast.livetv.az/mediafm
+#EXTINF:-1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="📻 Azərbaycan Radioları",MEDİA FM (Camera)
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/avtofm.jpg" group-title="📻 Azərbaycan Radioları",Avto FM
 http://5.191.241.101:8000/avtofm
 #EXTINF:-1 tvg-logo="https://baku.ws/uploads/posts/2016-07/1468922140_cm.jpg" group-title="📻 Azərbaycan Radioları",ANS ÇM Radio
