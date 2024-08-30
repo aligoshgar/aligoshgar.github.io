@@ -146,6 +146,12 @@ https://chdtv77.interweb.com.tr:3980/stream/play.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Azərbaycan",SA TV
 https://fl1002.bozztv.com/ssh101/srxan1994/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Şahdağ Camera 1
+https://user85481.clients-cdnnow.ru/hls/user85481_1/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Şahdağ Camera 2
+https://user85481.clients-cdnnow.ru/hls/user85481_2/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Şahdağ Camera 3
+https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="📻 Azərbaycan Radioları",Azərbaycan Radiosu
 https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="📻 Azərbaycan Radioları",Beynəlxalq Radio
