@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="ALIGOSHGAR TV",ALIGOSHGAR TV
+#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="Telegram: @aligoshgartv",ALIGOSHGAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
