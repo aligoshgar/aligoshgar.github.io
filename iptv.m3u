@@ -87,7 +87,7 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV-2
-http://stream.tvcdn.net/azerbaycan/live-tv.m3u8
+https://st2.mediabay.tv/LIVETV_Azer/index.m3u8
 #EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV-3
 http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
 #EXTINF:1 tvg-id="Könül TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTKgRegsWhfQVWCLOifn7OeoNqwikFsP1yD4QB3IQ=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="Azərbaycan",Könül TV
