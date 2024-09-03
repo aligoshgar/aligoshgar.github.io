@@ -1,7 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://aligoshgar.github.io/ALIGOSHGARTV
-jpg" group-title="TELEGRAM @aligoshgartv", @aligoshgartv
+#EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/ALIGOSHGARTV.jpg" tvg-language="Azerbaijani" group-title="TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
 
 #EXTINF:-1 group-title="VAVOO - @aligoshgartv",BEIN SPOTS1 SD 
