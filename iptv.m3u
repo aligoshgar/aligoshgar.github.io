@@ -203,6 +203,8 @@ http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
 http://78.109.52.73:8000/bkjbox
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 HD-2
+https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=dlhoY0NpR0w4dGx4MTIyRG9rODR1bUR4aTA0ZXFmU2poL1kvWTRTTUZ1UjVhWVdYSEt5T21pTEJPcC9odG43ag==
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="Türkiyə",TRT 1 SD
 https://hw1.jemtv.com/app/trt1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="Türkiyə",TRT 2 HD
