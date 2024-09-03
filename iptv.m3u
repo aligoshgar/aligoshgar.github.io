@@ -482,11 +482,11 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m
 #EXTINF:0 type="stream" channelId="-1" group-title="Türkiyə" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 1 HD
 http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2
-https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SETANTA SPORTS 2 HD
 http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЦ! HD
@@ -496,7 +496,7 @@ http://str06.ottg.online/5442/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! АРЕНА
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! СТРАНА
-http://188.113.190.15/95/tracks-v1a1/index.m3u8
+http://195.211.27.149:8887/8019/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Боец
 http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",МАТЧ! Футбол 1
@@ -562,7 +562,6 @@ https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Домашний HD
 http://45.159.74.13/Domashniy/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Rusiya",Timeless Dizi Channel
 http://188.113.190.11/94/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="Rusiya",Timeless Dizi Channel
 http://194.158.222.36:6086
@@ -594,7 +593,7 @@ http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НТС
@@ -613,11 +612,11 @@ https://edge02.odtv.az/o5/chetv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000
-https://stream2.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000 action
-https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1225/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000 русское
-https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju TV1000 новелла
 http://91.218.160.212:8015/play/a03e/index.m3u8
 #EXTINF:1 tvg-id="vijiexplore.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",viju EXPLORE
@@ -640,11 +639,11 @@ https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Кинохит HD
 http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Киносвидание HD
-https://stream2.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Киносерия HD
 http://94.232.104.237:8011/kinoseriya/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Кинокомедия HD
-https://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUNSET MOVIE
 https://stream.sunset-media.ru/Free/Free/1.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SUNSET MUSIC
@@ -700,21 +699,21 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",OCEAN HD
 http://camera.global-x.ru/OceanTV/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Animal Planet
-https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",DORAMA
 http://95.67.12.82:9046
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ДОРАМА
-https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",HOLLYWOOD
-https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",CINEMA
-https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Europa Plus
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Дом Кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Русский Детектив
-https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",КИНОПОКАЗ
+https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",НИКА ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",ДУМА ТВ
@@ -821,12 +820,12 @@ https://hls.goodgame.ru/hls/180805.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Ля-Минор
 http://camera.global-x.ru/Lya-Minor/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Шансон ТВ
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SONG TV РОССИЯ
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",SONG TV ARMENIA
 https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Музыка Первого
+https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="Rusiya",1HD
