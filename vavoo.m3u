@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://aligoshgar.github.io/ALIGOSHGARTV
+#EXTINF:-1 tvg-logo="https://aligoshgar.github.io/ALIGOSHGARTV
 jpg" group-title="TELEGRAM @aligoshgartv", @aligoshgartv
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
 
