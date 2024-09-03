@@ -326,7 +326,7 @@ http://195.189.62.140:8002/play/a00f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" group-title="Türkiyə",National Geographic
 http://185.32.44.154/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-name="" group-title="Türkiyə",National Geographic WILD
-http://185.32.44.154/natgeowild/index.m3u8
+http://vavoo.to/play/124345657/index.m3u8
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" tvg-name="DMAX" group-title="Türkiyə",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="Türkiyə",TLC
