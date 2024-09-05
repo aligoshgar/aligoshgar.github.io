@@ -531,7 +531,7 @@ http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец
 http://45.159.74.14:80/Perec/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТВ 3
-http://92.53.64.197:5050/tv3_hd/tracks-v1a1/manifest.m3u8?token=m3VIth-Rou_bM1
+https://vsd140.mycdn.me/hls/532085213876.m3u8/sig/L3NshQOGIcA/expires/1725636905876/srcIp/5.134.56.108/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/1061877194420/532085213876_high/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ПОЕХАЛИ!
 http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Суббота!
@@ -651,6 +651,8 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",OCEAN HD
 http://camera.global-x.ru/OceanTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="🇷🇺 RUSSIA",LOVE NATURE Русский
+http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/5001/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Animal Planet
 https://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",DORAMA
@@ -745,26 +747,6 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Russian Music Box
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE
-https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE CLASSIC
-https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE DELUXE
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE HITS
-https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE ROCK
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE Русский хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",BRiDGE Фрэш
-http://188.113.190.11/88/mono.m3u8
 #EXTINF:1 tvg-id="vivarussia.ru" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.4044.138 Safari/537.36" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",VIVA Russia
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.4044.138 Safari/537.36
