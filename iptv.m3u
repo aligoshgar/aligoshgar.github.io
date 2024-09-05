@@ -234,14 +234,18 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" tvg-name="Kanal D" group-title="🇹🇷 TURKEY",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" tvg-name="Kanal D" group-title="🇹🇷 TURKEY",Kanal D-2
+http://195.189.62.140:8002/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="https://eurod.kanald.com.tr/assets/img/eurod_footer.png" tvg-name="Euro D" group-title="🇹🇷 TURKEY",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="360 TV" group-title="🇹🇷 TURKEY",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" tvg-name="Beyaz TV" group-title="🇹🇷 TURKEY",Beyaz TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="Teve2" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" tvg-name="Teve2" group-title="🇹🇷 TURKEY",Teve 2
+#EXTINF:-1 tvg-id="Teve2" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" tvg-name="Teve2" group-title="🇹🇷 TURKEY",Teve 2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" tvg-name="Teve2" group-title="🇹🇷 TURKEY",Teve 2 HD-2
+http://195.189.62.140:8002/play/a00p
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" tvg-name="TV 4" group-title="🇹🇷 TURKEY",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" tvg-name="Tivi 6" group-title="🇹🇷 TURKEY",Tivi 6
@@ -266,6 +270,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/olay-turk-logo.png" tvg-name="OLAY TÜRK" group-title="🇹🇷 TURKEY",OLAY TÜRK
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" tvg-name="FILMSCREEN" group-title="🇹🇷 TURKEY",FILMSCREEN
+http://195.189.62.140:8002/play/a007
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/1.png" tvg-name="DiziSMART" group-title="🇹🇷 TURKEY",DiziSMART Premium
 http://195.189.62.140:8002/play/a00b
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/15.png" tvg-name="DiziSMART" group-title="🇹🇷 TURKEY",DiziSMART Max
@@ -274,6 +280,12 @@ http://195.189.62.140:8002/play/a00g
 http://195.189.62.140:8002/play/a00c
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/10.png" tvg-name="MovieSMART" group-title="🇹🇷 TURKEY",MovieSMART Türk
 http://195.189.62.140:8002/play/a00d
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/cocuk_smart.png" tvg-name="ÇocukSMART" group-title="🇹🇷 TURKEY",ÇocukSMART
+http://195.189.62.140:8002/play/a00v
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f97325cfef0b75f4723fa0" tvg-name="SporSMART" group-title="🇹🇷 TURKEY",SporSMART
+http://195.189.62.140:8002/play/a005
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" tvg-name="SporSMART" group-title="🇹🇷 TURKEY",SporSMART 2
+http://195.189.62.140:8002/play/a010
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" tvg-name="Yaban TV" group-title="🇹🇷 TURKEY",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" tvg-name="Çiftçi TV" group-title="🇹🇷 TURKEY",Çiftçi TV
@@ -288,6 +300,8 @@ http://195.189.62.140:8002/play/a00f
 http://195.189.62.140:8002/play/a01a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",DISCOVERY CHANNEL
 http://195.189.62.140:8002/play/a003
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",VIASAT HISTORY
+http://195.189.62.140:8002/play/a006
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",National Geographic
 http://185.32.44.154/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-name="" group-title="🇹🇷 TURKEY",National Geographic WILD
@@ -300,6 +314,10 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="🇹🇷 TURKEY",CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2023/03/lider-logo.svg" tvg-name="LIDER" group-title="🇹🇷 TURKEY",LIDER HABER
+http://195.189.62.140:8002/play/a00t
+#EXTINF:-1 tvg-id="" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" tvg-name="İLKE" group-title="🇹🇷 TURKEY",İLKE TV
+http://195.189.62.140:8002/play/a018
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN TURK" group-title="🇹🇷 TURKEY",CNN TURK
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" tvg-name="CNN TURK" group-title="🇹🇷 TURKEY",CNN TURK-2
@@ -350,6 +368,8 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png" tvg-name="Tay TV" group-title="🇹🇷 TURKEY",Tay TV
 http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png" tvg-name="Tay TV" group-title="🇹🇷 TURKEY",Tay TV-2
+http://195.189.62.140:8002/play/a00w
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="🇹🇷 TURKEY",Ulusal TV
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="🇹🇷 TURKEY",Sözcü TV
@@ -364,6 +384,8 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 http://195.189.62.140:8002/play/a004
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" tvg-name="Dream Türk" group-title="🇹🇷 TURKEY",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" tvg-name="Dream Türk" group-title="🇹🇷 TURKEY",Dream Türk-2
+http://195.189.62.140:8002/play/a00s
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" tvg-name="POWER TV" group-title="🇹🇷 TURKEY",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-name="POWER TÜRK" group-title="🇹🇷 TURKEY",POWER TÜRK
@@ -400,7 +422,9 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" tvg-name="SUPER TURK max" group-title="🇹🇷 TURKEY",SUPER TURK max
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
-#EXTINF:-1 tvg-id="Gözde TV" tvg-logo="https://assets.tvcdn.net/500bc153-53d1-4b1c-ba42-cfba58855946.png" tvg-name="Şaban TV" group-title="🇹🇷 TURKEY",Gözde TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.sikayetvar.com/lg/cmp/51/5183.png" tvg-name="SUPER TURK max" group-title="🇹🇷 TURKEY",Akıllı TV
+http://195.189.62.140:8002/play/a015
+#EXTINF:-1 tvg-id="Gözde TV" tvg-logo="https://assets.tvcdn.net/500bc153-53d1-4b1c-ba42-cfba58855946.png" tvg-name="Gözde TV" group-title="🇹🇷 TURKEY",Gözde TV
 http://50.7.218.154:1935/live/gozdetv.stream/chunklist_w1676377430.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Meltem TV" group-title="🇹🇷 TURKEY",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
@@ -422,6 +446,10 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.tvcdn.net/0611b1aa-aa79-4dcb-ad05-7166dde05c94.png" tvg-name="Erciş TV" group-title="🇹🇷 TURKEY",Erciş TV
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1178/uploads/2022/06/29/large/mobil.png" tvg-name="Kocaeli TV" group-title="🇹🇷 TURKEY",Kocaeli TV
+https://ht-144-76-157-47.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1178/uploads/2022/06/29/large/mobil.png" tvg-name="Kocaeli TV" group-title="🇹🇷 TURKEY",Kocaeli TV-2
+http://195.189.62.140:8002/play/a013
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/BRT_1_%282014-günümüz%29.jpg" tvg-name="brt 1 HD" group-title="🇹🇷 TURKEY",brt 1 HD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" tvg-name="brt 2 HD" group-title="🇹🇷 TURKEY",brt 2 HD
@@ -804,6 +832,10 @@ https://jmp2.uk/SamsungTVPlus/DEBD800001S4.m3u8
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",NBA TV
 http://195.189.62.140:8002/play/a00u
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",DOCUSCREEN
+http://195.189.62.140:8002/play/a01m
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",FIGHTSCREEN
+http://195.189.62.140:8002/play/a01n
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="🇪🇺 OTHERS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="🇪🇺 OTHERS",Real Madrid TV
