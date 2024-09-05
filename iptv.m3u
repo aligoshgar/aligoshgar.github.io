@@ -71,6 +71,8 @@ https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CBC TV
 http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:-1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="🇦🇿 AZERBAIJAN",CBC Sport
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:-1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="🇦🇿 AZERBAIJAN",CBC Sport-2
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
