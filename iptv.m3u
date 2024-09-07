@@ -826,6 +826,8 @@ https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="🇷🇺 RUSSIA",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
+https://liveproxy.splus.ir/hls/aiosport/aiosport_360/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",CNN
 https://jmp2.uk/SamsungTVPlus/DEBD800001S4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",CNN
