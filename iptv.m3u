@@ -828,6 +828,12 @@ https://edge02.odtv.az/o5/muztv/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
 https://liveproxy.splus.ir/hls/aiosport/aiosport_360/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport 2
+https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",TV 3
+https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
+https://liveproxy.splus.ir/hls/varzesh/varzesh_1080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",CNN
 https://jmp2.uk/SamsungTVPlus/DEBD800001S4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",CNN
