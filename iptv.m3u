@@ -320,8 +320,12 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="🇹🇷 TURKEY",TLC-2
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="🇹🇷 TURKEY",CNBC-e
+#EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="🇹🇷 TURKEY",CNBC-e HD
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="🇹🇷 TURKEY",CNBC-e HD-2
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:-1 tvg-id="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" tvg-name="CNBC-e" group-title="🇹🇷 TURKEY",CNBC-e HD-3
+http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=45e6ef4a77a24fbe34bec22b50462e22
 #EXTINF:-1 tvg-id="" tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2023/03/lider-logo.svg" tvg-name="LIDER" group-title="🇹🇷 TURKEY",LIDER HABER
 http://195.189.62.140:8002/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" tvg-name="İLKE" group-title="🇹🇷 TURKEY",İLKE TV
