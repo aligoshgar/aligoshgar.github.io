@@ -2,6 +2,10 @@
 #EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="⚜️ TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
+http://str.yodacdn.net/aztv/index.m3u8?auth=ali:1
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
+http://ali:1@str.yodacdn.net/aztv/index.m3u8
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV
 https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
