@@ -168,6 +168,8 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:1 tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor
 https://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:1 tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor-2
+https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8
 #EXTINF:1 tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor [Geo-Blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor Yıldız
