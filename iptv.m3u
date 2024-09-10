@@ -142,9 +142,11 @@ https://tivi191.ozelip.com:3653/hybrid/play.m3u8
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ALPHA TV
 https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Pro Uyducular HD
+#EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SA TV
 https://fl1002.bozztv.com/ssh101/srxan1994/index.m3u8
