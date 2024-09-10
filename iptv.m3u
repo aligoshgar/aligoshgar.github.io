@@ -886,6 +886,8 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NpwMKMM8L.png" group-title="🇪🇺 OTHERS",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6zPQL8/nrg.png" group-title="🇪🇺 OTHERS",91NRG
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/PMC-Royale-live-vipotv-persian-iranian.png" group-title="🇪🇺 OTHERS",PMC ROYALE
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",Biz TV
