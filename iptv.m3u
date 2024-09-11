@@ -560,6 +560,8 @@ https://vs1759.vcdn.biz/ec820d12664c5f7a7f9cb9403fd92348_megogo/live/hls/b/700_2
 https://stream5.itv.uz/t/Neaz159K9Qj8ori75v5xxg/e/1726133460/1006/tracks-v2a1/mono.m3u8
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TOSHKENT
 https://vs1758.vcdn.biz/85d8e1d643620b8a976361165ef7b195_megogo/live/hls/b/700_2490/u_sid/0/o/140086271/rsid/fb8861a9-ff8d-42fe-8bb1-2be516e96ddc/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid5996371683625224690-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TOSHKENT
+https://stream5.itv.uz/t/9lbwB86nzKGyMkR6Hysl5A/e/1726134846/1003/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MADANIYAT VA MA'RIFAT
 https://vs1758.vcdn.biz/1cf291fa1884efe6186114649d9931b1_megogo/live/hls/b/700_2490/u_sid/0/o/140086051/rsid/2f5cc4e2-163b-4431-a015-f01d37f373a9/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid3908965304471841115-b2490000.m3u8
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MADANIYAT VA MA'RIFAT
@@ -584,6 +586,27 @@ https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",O'ZBEKISTON
 https://stream4.itv.uz/t/w4Ubx_-wdBy2t0xZPVrPqQ/e/1726132738/1001/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TARAQQIYOT TV
+https://stream6.itv.uz/t/btj43qKhVv6Bf2R1WCUgYQ/e/1726132658/1204/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",NURAFSHON TV
+https://stream10.itv.uz/t/-DOLWUhocP16QvUWHPqZ0Q/e/1726133041/1220/tracks-a1v1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",RUXSOR
+https://stream10.itv.uz/t/xQ2rImN2KYYZdSMDJ-Do4g/e/1726133162/1260/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TV ASTURXON
+https://stream5.itv.uz/t/q-vOe78nohrwnti0_EDhUA/e/1726133209/1206/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MY 5
+https://stream12.itv.uz/t/FW60Ge5QV0Eg1sZDEDmptw/e/1726133390/1217/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MY 5 HD
+https://stream4.itv.uz/t/Z57p3ghVqtRbwUIDhDfI3g/e/1726133323/1012/tracks-v2a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",FOREIGN LANGUAGES
+https://stream4.itv.uz/t/QUj4SMJDZmiKh2zDlFXMzw/e/1726134088/1010/tracks-a1v1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",R TV
+https://stream4.itv.uz/t/gA4JIkG7-kkVgPXJznSKDA/e/1726134238/1221/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MILLIY
+https://stream5.itv.uz/t/BLK5oRhvdNxUtN3VHY9gJQ/e/1726134391/1216/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MILLIY HD
+https://stream6.itv.uz/t/U-v--Ou9_b8UFU9G-ZKb3Q/e/1726134555/1014/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1 HD
