@@ -512,6 +512,78 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",SPORT HD
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8'
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",UZBEKISTON 24 HD
+https://vs1759.vcdn.biz/f71aa62226b28c096b864985696d2a9a_megogo/live/hls/b/700_2490/u_sid/0/o/140085771/rsid/8542eabf-825b-4dbe-9082-8e81b607d537/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid9045430210466132374-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",KINOTEATR
+https://vs1758.vcdn.biz/5d24f6fde338bb1f4a7c5113412d4833_megogo/live/hls/b/700_2490/u_sid/0/o/140086231/rsid/7e365f05-fbb1-4923-9763-d893e1f4b3c5/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid6832094657812122747-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",KINOTEATR
+https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",UZBEKISTON TARIXI
+https://vs1758.vcdn.biz/8a87d5e71e5506f5168b92972be77494_megogo/live/hls/b/700_2490/u_sid/0/o/140085821/rsid/76861e00-0596-458c-9af4-208706a26e6b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid4477672761413464003-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",NAVO
+https://vs1759.vcdn.biz/f191493eef0ddd97d06c378dd935d190_megogo/live/hls/b/700_2490/u_sid/0/o/140086161/rsid/cf858d6f-5f8e-4f76-8cc5-23fcf69f3a04/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid1425989743648079833-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BIZ TV
+https://vs1759.vcdn.biz/856672b4e8430e62b8d20e42748f77a3_megogo/live/hls/b/700_2490/u_sid/0/o/159668391/rsid/a0868e22-523a-4891-8d9d-18a6e6a06406/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid5612945901341185854-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BIZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BIZ MUSIC
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BIZ CINEMA
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MAHALLA
+https://vs1759.vcdn.biz/820d63e093ffc89ab2fcab033070d903_megogo/live/hls/b/700_2490/u_sid/0/o/140086251/rsid/ce6a64f0-563a-4470-9651-b6e9ffec0198/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid9222932317854245141-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",YOSHLAR
+https://vs1759.vcdn.biz/eaf14c43925adaa2b16a00d759fd998e_megogo/live/hls/b/700_2490/u_sid/0/o/140086291/rsid/05795cbd-4aac-4489-bc4b-0ec70af3cfa1/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid3480382467777685594-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",YOSHLAR
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjA3IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIxOS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BOLAJON
+https://vs1759.vcdn.biz/0f56c26a49a564ef422b8f990073d254_megogo/live/hls/b/700_2490/u_sid/0/o/140086091/rsid/7660acbc-3762-41a7-bc3a-e15529233ae0/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid8466059851349709090-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",DUNOY BOYLAB
+https://vs1759.vcdn.biz/ec820d12664c5f7a7f9cb9403fd92348_megogo/live/hls/b/700_2490/u_sid/0/o/140086071/rsid/1a078340-c66f-41d1-ba53-8098dff95681/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid1650644096376279053-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TOSHKENT
+https://vs1758.vcdn.biz/85d8e1d643620b8a976361165ef7b195_megogo/live/hls/b/700_2490/u_sid/0/o/140086271/rsid/fb8861a9-ff8d-42fe-8bb1-2be516e96ddc/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid5996371683625224690-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MADANIYAT VA MA'RIFAT
+https://vs1758.vcdn.biz/1cf291fa1884efe6186114649d9931b1_megogo/live/hls/b/700_2490/u_sid/0/o/140086051/rsid/2f5cc4e2-163b-4431-a015-f01d37f373a9/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid3908965304471841115-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MADANIYAT VA MA'RIFAT
+https://stream1.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MYDAYTV
+https://vs1758.vcdn.biz/53f9c147b926c0af08cfe935001bc38d_megogo/live/hls/b/700_2490/u_sid/0/o/169173241/rsid/cdf2f737-a82a-4f0d-ab1a-430762f5996b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid9181632142081453040-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",ZOR TV
+https://vs1759.vcdn.biz/7c116335d78be47bd4dba590d6a0d16f_megogo/live/hls/b/700_2490/u_sid/0/o/168249001/rsid/ccc00782-3e2f-40f9-91e1-2bfbc2e39720/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid5009620527890764952-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",AQLVOY
+https://vs1759.vcdn.biz/7e962a3bf6fb7117e9fa2d40e599256f_megogo/live/hls/b/700_2490/u_sid/0/o/168248971/rsid/83637303-5bcb-46e9-b07f-cf33496890a3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.54.84.91*asn/u_srvc/83576/u_did/web_O2zICSH7aR00n8xxvFFXWTva2AM6HASY/type.live/chunklist-sid1062738368802065585-b2490000.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",UZBEKISTAN
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjA4IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIyMC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",YOSHLAR
+https://stream1.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",KINOTEATR
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjEwIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODIyMi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TOSHKENT
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjI3IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0MS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",TOSHKENT
+https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",SPORT
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjI4IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0Mi9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",SPORT
+https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MADANIAYT VA MARIFAT
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjI5IiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0NC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",DUNYO BOILAB
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjMwIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0NS9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",BOLAJON
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjMxIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0Ni9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",UZBEKISTON 24
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjMyIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0Ny9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",MAXALLA
+http://ost.ru-tv.site/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4MzZhMjliIiwicCI6ImE4MzZhMjliNGYxYjNlYjciLCJjIjoiMjMzIiwidCI6ImU5YmIyMjRhZjQwZWY0MTgxOTJiMTBjY2IxNjVhMDljIiwiZCI6IjcyNjU2IiwiciI6Ijc0MTAzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwOjg4ODcvODI0OC9pbmRleC5tM3U4P3R/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",ITV MYSIC
+https://iptv.itv.uz/hls/live/t/HNkqYEnnr5I4pOs9Utt2Iw/e/1780568011/4001/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",ITV CINEMA
+https://iptv.itv.uz/hls/live/t/MNnb4XbkRII8wOJsfiL5VQ/e/1780568010/4000/index.m3u8
+#EXTINF:1 group-title="🇺🇿 UZBEKISTAN",O'ZBEKISTON
+https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1 HD
