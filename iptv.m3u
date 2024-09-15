@@ -130,7 +130,7 @@ https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 https://hw2.jemtv.com/app/azeri/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Vilayət TV
 https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:1 tvg-id="" tvg-logo=http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MCJ TV Shopping
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MCJ TV Shopping
 http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VIP Azerbaijan
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
