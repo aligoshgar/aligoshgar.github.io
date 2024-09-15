@@ -146,12 +146,12 @@ https://tivi191.ozelip.com:3016/stream/play.m3u8
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/7gdqyb4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ALPHA TV
 https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RİHAT TV
 https://tivi191.ozelip.com:3653/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA TV
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
