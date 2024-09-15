@@ -126,6 +126,12 @@ https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880
 http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
 #EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SƏHƏR TV
+https://hw2.jemtv.com/app/azeri/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Vilayət TV
+https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MCJ TV Shopping
+http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 #EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VIP Azerbaijan
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:1 tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",K@TV 1
