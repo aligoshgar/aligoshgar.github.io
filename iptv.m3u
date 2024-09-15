@@ -6,7 +6,7 @@ http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-2
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV
-https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV-2
 http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İdman TV
