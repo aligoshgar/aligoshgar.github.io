@@ -228,12 +228,16 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8q
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" tvg-name="TV 8 INT" group-title="🇹🇷 TURKEY",TV 8 INT-2
 http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="🇹🇷 TURKEY",TV 8.5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="🇹🇷 TURKEY",TV 8.5 HD
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="🇹🇷 TURKEY",TV 8.5 HD-2
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" tvg-name="NOW TV" group-title="🇹🇷 TURKEY",NOW TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="🇹🇷 TURKEY",ATV
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-name="ATV" tvg-language="Turkey" group-title="🇹🇷 TURKEY",ATV-2
+https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" tvg-name="ATV Avrupa" group-title="🇹🇷 TURKEY",ATV Avrupa
 http://208.79.153.150/inim03/live1/atvavrupa/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" tvg-name="A2 TV" group-title="🇹🇷 TURKEY",A2 TV
