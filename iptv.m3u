@@ -2332,6 +2332,19 @@ http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" group-title="📻 RADIO / AZERBAIJAN",Baku Jukebox
 http://78.109.52.73:8000/bkjbox
 
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 1
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1735
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 - 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 4K
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/302332
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 2
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1737
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 3
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1739
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c3c50392388c5ec0a094ab2fdb13c874.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 4
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/7450
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/6b3c1cbcf5f09bb55850d7f309ef5b44.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 5
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/300982
+
 #EXTINF:-1 group-title="💎 VAVOO / TURKEY",BEIN SPOTS1 SD 
 https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=a0F6eVhJa0NFdzlVMWxnd2k5bHdRQzVxRVVsM3MrZGtTbVBrczZMQWE5aVJsU1FWL1lPM2hBbUswa05DQ09VWA==
 
