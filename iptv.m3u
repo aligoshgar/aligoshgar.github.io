@@ -136,6 +136,8 @@ http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:1 tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",K@TV 1
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
+#EXTINF:1 tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",K@TV 1
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV
