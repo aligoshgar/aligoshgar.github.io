@@ -482,8 +482,6 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3PG1ve858AtX62zm_VK_Olv5BN1GTnFoNHj2gxQIjWYdIua1b3AhBVeIkSX_OiOPw8Nt8wzbdyXiYGrs_8KC00A-YNzZpot0a8ArhsIzsddquwgdv6yDkQBcPUItBsyEYJiP0g5bgXJ_un0LmLe6yKvBEJL5u_JTREb4vxUxlLqcVd2mkfXhgNIi/s320/- fortunaTV2023FTVTURKlogo.png" tvg-name="Fortuna TV" group-title="🇹🇷 TURKEY",Fortuna TV
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇹🇷 TURKEY",FASHION TV
-http://195.189.62.140:8002/play/a009
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-name="Life TV" group-title="🇹🇷 TURKEY",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/498a97e1-d327-4478-b243-62c3b20209f6.png" tvg-name="ETV" group-title="🇹🇷 TURKEY",Edirne TV
@@ -2266,6 +2264,10 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/PMC-Royale-live-vipotv-persian-iranian.png" group-title="🇪🇺 OTHERS",PMC ROYALE
 https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV
+http://195.189.62.140:8002/play/a009
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV MidNight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/index.m3u8
 #EXTINF:1 tvg-id="POPSTAR" tvg-logo="" tvg-language="Azerbaijani" group-title="🇪🇺 OTHERS",KPOP TV LIVE
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",ATV ARMENIA
