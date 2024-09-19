@@ -138,8 +138,6 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:1 tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/esma-tv-2-izle.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma-2 TV
-https://esmatv2.interweb.com.tr:3870/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV
 https://tivi191.ozelip.com:3016/stream/play.m3u8
 #EXTINF:1 tvg-id="İsmayıllı TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/ismayilli-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
@@ -154,6 +152,8 @@ https://tivi191.ozelip.com:3653/hybrid/play.m3u8
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
+#EXTINF:1 tvg-id="CTV" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CTV
+https://ssh101-fl.bozztv.com/ssh101/ctvaz/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SA TV
@@ -536,6 +536,10 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="",KRAL TEBER
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w401435211.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="",KRAL ANADOLU
+https://tivi191.ozelip.com:3499/stream/play.m3u8
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",SPORT HD
 https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8'
 #EXTINF:1 group-title="🇺🇿 UZBEKISTAN",O'ZBEKISTON 24 HD
