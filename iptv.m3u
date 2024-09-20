@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:1 tvg-id="AligoshgarTV" tvg-logo="https://aligoshgar.github.io/AligoshgarTV.jpg" tvg-language="Azerbaijani" group-title="💎 TELEGRAM: @aligoshgartv",ALIGOSHGAR TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/aligoshgar/index.m3u8
-#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-2
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
