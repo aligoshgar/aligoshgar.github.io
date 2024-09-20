@@ -2354,7 +2354,7 @@ http://78.109.52.73:8000/bkjbox
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 1
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1735
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 - 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 4K
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 - 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 1 HD
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/302332
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 2
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1737
@@ -2364,6 +2364,14 @@ http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/1739
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/7450
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/6b3c1cbcf5f09bb55850d7f309ef5b44.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 5
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/300982
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 MAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 1 MAX
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/8224
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 MAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7e39fd24865d2511ff67d711c6e0635d.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 2 MAX
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/16878
+#EXTINF:-1 tvg-name="BEIN GURME" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovzqoy1vm7j4wQWYnR.png" group-title="🎲 beIN CONNECT / TURKEY",BEIN GURME
+http://vavoo.to/play/950394656/index.m3u8
+#EXTINF:-1 tvg-name="BEIN IZ" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZG0APoV6AOrqyjw9z1W.png" group-title="🎲 beIN CONNECT / TURKEY",BEIN IZ
+http://vavoo.to/play/1691223078/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Tom & Jerry - Türkçe Dublaj (2021)
 https://vidrame.pro/vr/get/b090fc2e/480.m3u8
