@@ -612,12 +612,24 @@ https://st1.uzdigital.tv/Hidoyat/tracks-v2a1/mono.m3u8
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1 HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
+rtmp://92.119.88.58//271
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2 HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
+rtmp://92.119.88.58//270
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
 http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports UA HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 1 UA HD
+rtmp://5.182.229.90//7169
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 2 UA HD
+rtmp://5.182.229.90//7168
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports UA Plus HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
@@ -646,6 +658,8 @@ https://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
 http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
+rtmp://5.182.229.90//7203
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал (СНГ)
@@ -714,12 +728,16 @@ https://stream01.vnet.am/Pyatnica/mono.m3u8
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец
 http://45.159.74.14:80/Perec/tracks-v1a1/manifest.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТВ 3 
+http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТВ 3
 https://vsd140.mycdn.me/hls/532085213876.m3u8/sig/L3NshQOGIcA/expires/1725636905876/srcIp/5.134.56.108/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/1061877194420/532085213876_high/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ПОЕХАЛИ!
 http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Суббота!
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рен ТВ
+http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:1 tvg-id="" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
@@ -742,12 +760,16 @@ https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:1 tvg-id="tvcentr.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТВЦ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ЦТВ
+http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:1 tvg-id="che.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Че!
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/chetv/playlist.m3u8
 #EXTINF:1 tvg-id="RusskiyIllusion.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Русский Иллюзион
+http://86.57.178.105:10823
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
 https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 action
@@ -806,9 +828,15 @@ https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",НТВ Хит HD
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/black.png" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",.black
-https://streamer3.connectto.com/525/mono.m3u8
+http://91.205.199.3/black/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/black.png" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",.black
+http://78.62.135.122:8082/sonyturbo/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/red.png" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",.red
 http://forever.megogo.xyz/iptv/AYRNQFUZCVSW4M/2062/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",.red
+http://91.205.199.3:80/redhd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",.red 
+http://91.205.199.3:80/red/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://view.my-tv.biz/img/sci-fi.png" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",.sci-fi
 https://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",12 канал HD
@@ -849,6 +877,8 @@ http://95.67.12.82:9046
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",HOLLYWOOD
 https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BOLLYWOOD
+https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",CINEMA
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Europa Plus
@@ -957,172 +987,6 @@ https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="🇷🇺 RUSSIA",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",1+1 Ukraine
-http://45.153.35.237:8000/play/a00z
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",1+1 international
-http://de.seetv.cc/play/8798/996DA9781004412/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",2+2 sd
-http://45.153.35.237:8000/play/a015
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV HD
-http://45.153.35.237:8000/play/a02w
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV 2
-http://45.153.35.237:8000/play/a031
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",NOVY CHANNEL HD
-http://45.153.35.237:8000/play/a02x
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",STB HD
-http://45.153.35.237:8000/play/a02v
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",NTN HD
-http://45.153.35.237:8000/play/a03v
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TET
-http://45.153.35.237:8000/play/a011
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТВІЙ СЕРІАЛ
-http://45.153.35.237:8000/play/a032
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",K1 HD
-http://45.153.35.237:8000/play/a03x
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Enter Film HD
-http://45.153.35.237:8000/play/a03z
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",UA WORLD TV
-http://185.236.229.62:9981/play/a08e
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КП HD
-http://45.159.74.13:80/Kinopremera/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",К=премьера
-http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера 1920x1080
-http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера HD
-http://91.205.199.3/kinopremerahd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОПРЕМЬЕРА HD
-http://hls127.homeiptv.org:8880/Kinopremera/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера 
-https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КиноХит 
-https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино Хит
-http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинохит HD
-http://91.205.199.3:80/kinoxithd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinohit
-rtmp://5.182.229.90//7250
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино хит sd
-http://45.159.74.13:80/Kinokhit/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОХИТ
-http://hls127.homeiptv.org:8880/Kinoxit/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание 
-https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание SD
-http://91.205.199.3:80/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinosvidanie
-rtmp://5.182.229.90//7245
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия 
-https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия
-rtmp://5.182.229.90//7248
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Комедийное HD
-http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМИКС 
-http://cherikov.dvb.by:8080/udp/239.0.100.33:1234
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс 
-https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМИКС SD
-http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс HD
-http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносерия 
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОСЕРИЯ
-http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОСЕМЬЯ
-http://hls127.homeiptv.org:8880/Kinosemya/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья- HD
-rtmp://5.182.229.90//7244
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья 
-https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское кино 
-https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское кино SD
-http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское Кино hd
-http://45.159.74.14:80/MujskoeKino/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ViP_Megahit
-http://hls127.homeiptv.org:8880/ViP_Megahit/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VIP Megahit HD
-http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viju+ Comedy HD
-http://91.205.199.3:80/vipcomedi/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VIP Serial HD
-http://91.205.199.3/vipserialhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VIP Premiere HD
-rtmp://185.26.157.3/live//vip_premiere_hd
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Premiere
-http://65.108.0.37:8080/stbtv/stbtv/11
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ MegaHit
-http://65.108.0.37:8080/stbtv/stbtv/10
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VIP PREMIERE
-http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VIP COMEDY
-http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ TV1000 новелла
-http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Comedy
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino HD
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Action 
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Megahit HD
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat World
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinowood
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinoliving
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV1000 Р Кино
-https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV1000
-http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV 1000
-https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV1000
-http://91.205.199.3/tv1000/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju TV1000 Action 
-https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju TV-1000 Action
-http://65.108.0.37:8080/stbtv/stbtv/8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Scream
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМАН HD
-http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinoman
-http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Film UA Drama HD     
-http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MM Скорость HD
-http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Блокбастер HD
-http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Boevik
-http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Concert
-http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Netflix
-http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Asia
-http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Uzhasi
-http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Western
-http://hls127.homeiptv.org:8880/Clarity4K_Western/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Театр
-http://hls127.homeiptv.org:8880/Teatr/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TrAsh HD
-http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", BCU Marvel HD
-http://1.1usd.tv:34000/ch311/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMX0zujcergd0AfJE8whlUZ-id3c8L7WxpoIDxGYwslh
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP 80
 http://1.1usd.tv:34000/ch1069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJxApLnuHc2n53IqE8azyHMv1lGtmKciXNsDxp1JU27g
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP Великолепный Век
@@ -1135,272 +999,19 @@ http://1.1usd.tv:34000/ch1071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWkt
 http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6BEjFIfZNqh075aUj1G6j0l
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP MIX HD
 http://1.1usd.tv:34000/ch1073/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKp0UUEZJ17yTkkvmT4jpuTD4oNPhVmo1ZujL8mpbbtq
-#EXTINF:-1 group-title="🇷🇺 RUSSIA" ,Filmix
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",StreamBox TV Premium Hit
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/14.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA" ,On-Air Panda TV Special Kino Hit
-http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/13.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино ТВ HD
-http://91.205.199.3/kinotvhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ЕвроКино
-http://91.205.199.3/eurokino/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинеко 
-http://91.205.199.3/tochkaotriva/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Комедия ТВ 
-http://91.205.199.3/komedia/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Comedy Central
-http://91.196.37.133:4000/play/a02t
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопоказ 
-https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопоказ HD
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KINO зал
-https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КиноСезон
-http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Иллюзион+
-http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Иллюзион+ sd
-http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bGRTbllJbEJ5NHIrNHp1OGs3SldveFBHNGRaMnQ1SllyUXl3V0xFOEpYcz06OrSLaoG9Bwvvgcns5yqdp7g%3D
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KinoSweet UA HD
-http://95.67.12.180:11111
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ПРАВО
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 1
-http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 1 HD
-rtmp://5.182.229.90//7260
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 2
-rtmp://5.182.229.90//7261
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Премиальное HD
-rtmp://5.182.229.90//7222
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Hollywood
-https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",SUSPENSE
-http://88.218.242.237:8000/play/a005
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",SCREAM
-http://88.218.242.237:8000/play/a00c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",DetectiveJam HD
-http://88.218.242.237:8000/play/a00a
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",WM
-http://88.218.242.237:8000/play/a00l
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",kino
-http://88.218.242.237:8000/play/a00v
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ФЕНИКС
-http://88.218.242.237:8000/play/a007
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Museum TV 4k
-http://88.218.242.237:8000/play/a00g
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино без границ
-http://88.218.242.237:8000/play/a009
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VHS
-http://88.218.242.237:8000/play/a00x
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",VHS Classic HD
-http://wps5c7yt.rostelekom.xyz/iptv/K5W5SPPKUKKMPP/19429/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Видеокассета VHS
-https://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Комедия
-https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Драма
-https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Классика
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Экшен
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Мистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Сити Эдем - Кино Детектив
-https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино 1 International HD
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kino Home HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:fb:30:83&stream=275524&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
-http://158.101.194.132:8080/channel/n7ffadd45/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",HORROR
-http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ХИТ
-http://158.101.194.132:8080/channel/n484decb9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино Меню
-http://158.101.194.132:8080/channel/489a40cb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киноклассика
-http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Movie Classic
-http://158.101.194.132:8080/channel/n3b2f2768/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Советское Кино
-http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Novella TV
-http://158.101.194.132:8080/channel/7d3fabec/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Bolt
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cinema HD
-https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cinema hd 
-https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cinema SD
-http://91.205.199.3/sinema/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TV 21
-http://91.205.199.3/tvxxi/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ATV Kino
-http://stream01.vnet.am/Channel_118/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Нове тв 
-https://novoe.top/nove_tv.m3u8.jpg?m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Про Любовь HD
-http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НСТ sd
-http://hls127.homeiptv.org:8880/HCTV/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НСТ SD
-http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НСТ 
-http://sc.id-tv.kz/NSTV.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Страшное HD
-rtmp://5.182.229.90//7247
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОУЖАС
-http://hls127.homeiptv.org:8880/Kinouzhas/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ИНДИЯ
-http://hls127.homeiptv.org:8880/Zee_Russia/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Индийское кино SD
-http://sc.id-tv.kz/Indiiskoe_kino.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Индийское кино 
-https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Индия
-http://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Любимое Индийское Кино (ЛИК) 
-http://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Bollywood hd
-https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fox  
-https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",FX HD
-http://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",FOX 
-rtmp://5.182.229.90//7318
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",A1
-http://stream01.vnet.am/Channel_128/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia 1 sd
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia 2 sd
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",A2
-http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",A2 SD
-http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Hit hd
-http://91.205.199.3/amediahithd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Hit 
-http://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Hit HD
-http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Premium HD
-http://stream01.vnet.am/AmediaPremium/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Premium
-http://78.62.135.122:8082/amediapremiumhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",.SCI-FI sd
-http://stream01.vnet.am/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",red HD
-http://91.205.199.3:80/redhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",red 
-http://91.205.199.3:80/red/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Black
-http://91.205.199.3/black/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Black
-http://78.62.135.122:8082/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТСВ iptv-org-ua
-https://iptv-hls.idc.md/hls/2/live2.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",FilmZone
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мир сериала
-rtmp://185.26.157.3/live//mir_seriala
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мир Сериала sd
-http://91.205.199.3:80/mirseriala/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",FLIX Snip
-http://95.67.12.82:9061
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Dorama
-http://95.67.12.82:9046
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Дорама 
-https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Капитан Фантастика 
-https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТНТ 4 HD
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТНТ4 International 
-http://sc.id-tv.kz/tnt4_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Timeless Dizi Channel
-http://194.158.222.36:6086
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Дом Кино
-https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ДОМ КИНО ПРЕМИУМ
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наше новое кино sd
-http://sc.id-tv.kz/Nnk_hd.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наше новое кино
-http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наше новое Кино 
-https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Перец Int
-http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ПЕРЕЦ
-https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Телекафе SD
-http://stream01.vnet.am/Telekafe/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Домашний + ? 
-http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС HD
-http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС
-https://streaming.goodstream.cyou/live/296.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС International 
-https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рен ТВ
-http://stream01.vnet.am/RenTv/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Че
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o5/chetv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТВ 3 
-http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Пятница! International (Казахстан)
-http://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Пятница
-http://135.181.115.81:8000/play/a018/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Р иллюзион 720x576
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Р иллюзион
-http://86.57.178.105:10823
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Ру роман
-http://stream01.vnet.am/RusskiyRoman/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Ру Детектив
-https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",РОДНОЕ КИНО
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Родное Кино 
-https://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Любимое Кино
-http://91.205.199.3:80/lubimoekino/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ЦТВ
-http://stream01.vnet.am/Channel_129/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наш Киномир
-http://hls127.homeiptv.org:8880/Nash_kinomir/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Золотая Коллекция SD
-http://91.205.199.3:80/mosfilm/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Золотая коллекция HD
-rtmp://5.182.229.90//7347
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Золотая коллекция 
-http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НОСТАЛЬГИЯ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Украина
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Boevik
+http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Concert
+http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Netflix
+http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Asia
+http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Uzhasi
+http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Украина 2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Украина
 https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Военный
 https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
@@ -1542,8 +1153,6 @@ https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Музыка 7
 https://fl1001.bozztv.com/ushba57/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kpop Play TV
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Мода 1
 https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Мода 2
@@ -1556,138 +1165,8 @@ https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Мода 6
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fashion Channel
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TikTok
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Party
 https://fl1001.bozztv.com/ushba61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Топ кино 
-http://fs2.persik.by/TopKino_12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Новое кино 
-https://fs2.persik.by/NovoeKino8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НОВИНКИ
-https://fs2.persik.by/Novinki8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс 
-https://fs2.persik.by/Kino_Miks10/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",БОЕВИКИ
-http://fs2.persik.by/Boeviki_12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Зарубежное кино
-http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Любовь и Детективы 
-http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Путешествие во времени 
-http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fantasy 
-https://fs2.persik.by/Fantasy2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Вдохновение HD
-https://fs2.persik.by/Vdohnovenie_12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Фестивальное кино 
-https://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Фильмы катастрофы 
-http://fs2.persik.by/Filmy_katastrofy/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рекомендуем 
-https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МОЛОДОСТЬ
-https://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МОЛОДОСТЬ р
-http://fs2.persik.by/Molodost7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Отечественное кино HD
-https://fs2.persik.by/Otechestvennoe2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Про родителей HD
-http://fs2.persik.by/Pro_roditeley8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",В кругу семьи HD
-http://fs2.persik.by/V_krugu_semii2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Семейное HD
-http://fs2.persik.by/Semejnoe9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Популярное кино 
-https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Европейское кино 
-https://fs2.persik.by/EvropejskoeKino14/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Триллеры-Боевики
-http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Триллеры США 
-https://fs2.persik.by/Trillery_USA_11/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Relax HD
-https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Советские комедии
-http://fs2.persik.by/Soviet_Comedy10/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ДРУЖБА
-http://fs2.persik.by/Druzhba7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино + Subtitles
-http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ФЕСТИВАЛЬНОЕ КИНО
-http://fs2.persik.by/FestivalnoeKino8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",АНТИСТРЕСС
-http://fs2.persik.by/Kino_Antistress8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Новые комедии
-http://fs2.persik.by/Novie_Komedii6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Остросюжетные сериалы 
-http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ДАВАЙ ПОЖЕНИМСЯ
-http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",РОМАНТИЧЕСКИЕ
-https://fs2.persik.by/Romanticheskie8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",НОВИНКИ
-http://fs2.persik.by/Novinki8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Экранизации HD
-https://fs2.persik.by/Ekranizacii12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Леонов 
-https://fs2.persik.by/Leonov_6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ВИЦИН
-http://fs2.persik.by/Vicin_7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МИРОНОВ
-https://fs2.persik.by/Mironov7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Зомби-апокалипсис 
-http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Маньяки
-http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Психологические ужасы
-http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Аниме HD
-http://fs2.persik.by/Anime5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Сказки HD
-http://fs2.persik.by/Skazki6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детские фильмы
-https://fs2.persik.by/DetskieFilmy4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детские песни
-https://fs2.persik.by/DetskiePesni4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",DJ HD
-https://fs2.persik.by/DJ4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Hits HD
-http://fs2.persik.by/Hits4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",POP-ROCK HD
-https://fs2.persik.by/Pop_Rock2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рэп HD
-http://fs2.persik.by/Rap2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Best clips HD
-https://fs2.persik.by/Best_clips/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Concerts HD
-https://fs2.persik.by/Concerts4/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Sluhay.by COVER HD
 https://fs2.persik.by/Sluhay_COVER2/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Sluhay.by EDM HD
@@ -1702,538 +1181,146 @@ https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
 https://fs2.persik.by/Sluhay_RAP/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Sluhay Rock HD
 https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ТЕХНО
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Топ кино 
+http://fs2.persik.by/TopKino_12/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Новое кино 
+https://fs2.persik.by/NovoeKino8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV НОВИНКИ
+https://fs2.persik.by/Novinki8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Киномикс 
+https://fs2.persik.by/Kino_Miks10/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV БОЕВИКИ
+http://fs2.persik.by/Boeviki_12/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Зарубежное кино
+http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Любовь и Детективы 
+http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Путешествие во времени 
+http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Fantasy 
+https://fs2.persik.by/Fantasy2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Вдохновение HD
+https://fs2.persik.by/Vdohnovenie_12/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Фестивальное кино 
+https://fs2.persik.by/FestivalnoeKino8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Фильмы катастрофы 
+http://fs2.persik.by/Filmy_katastrofy/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Рекомендуем 
+https://fs2.persik.by/Rekomenduem7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV МОЛОДОСТЬ
+https://fs2.persik.by/Molodost7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV МОЛОДОСТЬ р
+http://fs2.persik.by/Molodost7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Отечественное кино HD
+https://fs2.persik.by/Otechestvennoe2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Про родителей HD
+http://fs2.persik.by/Pro_roditeley8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV В кругу семьи HD
+http://fs2.persik.by/V_krugu_semii2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Семейное HD
+http://fs2.persik.by/Semejnoe9/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Семейные фильмы
+http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Популярное кино 
+https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Европейское кино 
+https://fs2.persik.by/EvropejskoeKino14/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Триллеры-Боевики
+http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Триллеры США 
+https://fs2.persik.by/Trillery_USA_11/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Триллеры-Драма
+http://fs2.persik.by/Trillery_Drama4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Американские комедии
+https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Relax HD
+https://fs2.persik.by/Relax3/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Вторая мировая
+http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Советские комедии
+http://fs2.persik.by/Soviet_Comedy10/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Новогодние фильмы
+http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Рождественские фильмы
+http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ДРУЖБА
+http://fs2.persik.by/Druzhba7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Кино про дружбу
+http://fs2.persik.by/Pro_druzhbu7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Кино + Subtitles
+http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Английские субтитры
+http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ФЕСТИВАЛЬНОЕ КИНО
+http://fs2.persik.by/FestivalnoeKino8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ЛЕГКОЕ КИНО
+http://fs2.persik.by/Legkoe_Kino8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV АНТИСТРЕСС
+http://fs2.persik.by/Kino_Antistress8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Новые комедии
+http://fs2.persik.by/Novie_Komedii6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Комедийные сериалы
+http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Остросюжетные сериалы 
+http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ДАВАЙ ПОЖЕНИМСЯ
+http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV РОМАНТИЧЕСКИЕ
+https://fs2.persik.by/Romanticheskie8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV НОВИНКИ
+http://fs2.persik.by/Novinki8/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Кино выходного дня
+http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Кино по книгам
+https://fs2.persik.by/Kino_po_knigam9/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Экранизации HD
+https://fs2.persik.by/Ekranizacii12/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Известные актёры
+http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Леонов 
+https://fs2.persik.by/Leonov_6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ВИЦИН
+http://fs2.persik.by/Vicin_7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV МИРОНОВ
+https://fs2.persik.by/Mironov7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Зомби-апокалипсис 
+http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Маньяки
+http://fs2.persik.by/Manjaki6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Психологические ужасы
+http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Аниме HD
+http://fs2.persik.by/Anime5/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Сказки HD
+http://fs2.persik.by/Skazki6/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Детские фильмы
+https://fs2.persik.by/DetskieFilmy4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Детские песни
+https://fs2.persik.by/DetskiePesni4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV DJ HD
+https://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Hits HD
+http://fs2.persik.by/Hits4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV POP-ROCK HD
+https://fs2.persik.by/Pop_Rock2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Рэп HD
+http://fs2.persik.by/Rap2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Best clips HD
+https://fs2.persik.by/Best_clips/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Concerts HD
+https://fs2.persik.by/Concerts4/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ТЕХНО
 https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Synthwave HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV Synthwave HD
 http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",КОСМОС
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV КОСМОС
 http://fs2.persik.by/Kosmo5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ДОКУМЕНТАЛЬНОЕ КИНО
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ДОКУМЕНТАЛЬНОЕ КИНО
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ДОКУМЕНТАЛЬНОЕ
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV ДОКУМЕНТАЛЬНОЕ
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MOVIE HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV MOVIE HD
 http://fs2.persik.by/Movie2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Cinema HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493326&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Cinema Plus HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493325&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Comedy HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493324&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Fantastic HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493323&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Kinorating HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493322&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Marvel HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493318&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Multserial HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493317&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU VHS
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493313&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Кинозал Premiere 2 HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493320&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Кинозал Premiere 3 HD
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493319&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
-http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Survival HD
-http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU TruMotion HD
-http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Reality HD
-http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Media HD
-http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Kinozakaz 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8yMjkwMSIsImlkIjoyMTY1fQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA" tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZddOYZrv4jR21qgEADK.png" tvg-name="bcu romanti̇c",BCU Romantic HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83ODIiLCJpZCI6MjE3N30%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU History HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83NzciLCJpZCI6MjE2M30%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Catastrophe HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83NzMiLCJpZCI6MjE1M30%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4V9yZw1B4J20a7VGdn.png" tvg-name="bcu acti̇on",BCU Action HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83NzIiLCJpZCI6MjE1Mn0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Триллеры 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80NzUxIiwiaWQiOjIzMTd9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Семейный 4К
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80MTQwIiwiaWQiOjI1Nzh9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Боевики HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80NzQ5IiwiaWQiOjIzMDJ9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Netflix 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80NzQzIiwiaWQiOjIyOTh9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Kino Mix 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80NzQyIiwiaWQiOjIzMDR9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Liberty Кино Ukraine
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vODUuMjE1LjQ5LjExMzo5OTk5L2NoYW5uZWwvbjViYjg4M2I4L2luZGV4Lm1wZWc%2FcT0xYzcyMWM2NjBhOGMyZTYzNDQyNDYyMTYyZDUyYWRlZiIsImlkIjoxNzQ2fQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",SKY HIGH FRESH HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8xNTE4IiwiaWQiOjI0MzF9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky2000 Cinema HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC81OTMiLCJpZCI6MjYwMn0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky2000 Fantastic HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC81OTEiLCJpZCI6MjYwM30%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Relax Comedy HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC80MTQ1IiwiaWQiOjI1OTR9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Veles Premiere
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC81MjcyIiwiaWQiOjI0NDd9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Veles 60 FPS
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC81MjczIiwiaWQiOjI0NDV9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Oasis Comedy HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC85NzIiLCJpZCI6MjM5MX0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Oasis Family HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC85NzEiLCJpZCI6MjM5NH0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Чебур ТВ Триллер HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8yMTQ3MCIsImlkIjozMDAzfQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",UZ-4K Kino UHD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8xNjI2IiwiaWQiOjI2NTR9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KLI Новинки 4К
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8yMzk1MCIsImlkIjoyNTc0fQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KLI Ultra 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8xODg0OCIsImlkIjoyNTcwfQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Yosso TV 4K
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8xNjI3IiwiaWQiOjI0NTd9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CPS Drama
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83MTciLCJpZCI6MjUwM30%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CPS Fresh
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83MjUiLCJpZCI6MjUwNX0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Dosug TV HIT
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC82MjgiLCJpZCI6MjUxNn0%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Hybrid Film
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC83MjI1IiwiaWQiOjI1NDd9/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кінозал 2020
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vODUuMjE1LjQ5LjExMzo5OTk5L2NoYW5uZWwvbjdmNjJjYjMyL2luZGV4Lm1wZWc%2FcT0xYzcyMWM2NjBhOGMyZTYzNDQyNDYyMTYyZDUyYWRlZiIsImlkIjoxMjMwfQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KBC-Goblin
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vY2hpYnVyYXRvci5tb25zdGVyOjgwMDAvU3B1bnRpazIvckZkUkd4RlpDeC8yMjAzMSIsImlkIjoyMjg5fQ%3D%3D/fast
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Insomnia HD
-http://xtream-ie.org/series/@Horst3/Test&wochenende/reyJ1cmwiOiJodHRwOi8vODUuMjE1LjQ5LjExMzo5OTk5L2NoYW5uZWwvNGNmNGY4MjAvaW5kZXgubXBlZz9xPTFjNzIxYzY2MGE4YzJlNjM0NDI0NjIxNjJkNTJhZGVmIiwiaWQiOjE3MTV9/fast
-
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MEGOGO Спорт HD
-http://de.seetv.cc/play/1001/996DA9781004412/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЧ HD
-http://91.205.199.3/matchtvhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЧ hd
-http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Арена
-http://91.205.199.3/2x2tv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", АРЕНА
-http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", БОЕЦ
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", ПРЕМЬЕР
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", СТРАНА
-http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ФУТБОЛ 1
-http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ФУТБОЛ 2
-http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ФУТБОЛ 3
-http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 2
-http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МИР БАСКЕТБОЛА
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",! Игра
-http://91.90.255.235:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Боец
-http://91.90.255.235:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Extreme Sports
-http://91.90.255.235:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Арена 
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Планета
-http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Матч
-http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports UA HD
-http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Ukraine Plus HD
-http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 1
-https://tv.movielab.pro/942/index.m3u8?token=4a1f9f8b6c31e2f5f34c9af5893b638b03dd1cfb-1142deb919d712c3ddadb1ac6dc1ce48-1726599309-1726512909
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 2
-https://tv.movielab.pro/943/index.m3u8?token=9aed84019212d95c557684b6da70e691d5f6e379-ff74ed7b25a9ef0b9016986c383908e3-1726599309-1726512909
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports+ HD
-https://tv.movielab.pro/5094/index.m3u8?token=d8a9bab786086495af86868c643978fe707e2844-a6c1353f01b6fd7f272fecf06704751e-1726599309-1726512909
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 2 HD
-rtmp://92.119.88.58//270
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 1 HD
-rtmp://92.119.88.58//271
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 1
-rtmp://5.182.229.90//7169
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 2
-rtmp://5.182.229.90//7168
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 2
-rtmp://5.182.229.90//7203
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Футбол 1 HD vpn
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Sport
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viju+ Sport
-http://stream02.vnet.am/AutoPlus/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Беларусь 5 
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Беларусь 5 HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Беларусь 5 Интернет
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Orange Sport 1
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564976&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Orange Sport 2
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 1 hd
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 1 HD
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport-1 HD
-https://tv.movielab.pro/145/index.m3u8?token=6ab4885797059ab4dbdba894dd4fc6233ade0cef-2f3076b6cd679dfb25790939ec714c8e-1726599309-1726512909
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",FightBox 
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",X-Stream
-http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fight Box
-https://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Бокс ТВ HD
-http://stream01.vnet.am/BoksTv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",XSPORT HD vpn
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147665&extension=ts
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",2 спорт 2 
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",HD Спорт  
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Футбол
-http://135.181.115.81:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Бокс ТВ
-http://sc.id-tv.kz/BoksTV_36_37.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KHL Prime
-http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KHL
-http://sc.id-tv.kz/KHL_36_37.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 1 
-https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",KHL 
-https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 1 
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports 2 
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Trace Sport Stars 
-https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Sport 
-https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",М! Планета 
-https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Точка Отрыва 
-https://stream1.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sport [uz] 
-https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 1
-http://s5.merlive.am:80/eurosport1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eurosport 2 HD
-http://s5.merlive.am:80/eurosport2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Матч ТВ
-http://s5.merlive.am:80/matchtvhd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Боец
-http://s5.merlive.am:80/matchboec/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", премьер
-http://s5.merlive.am:80/matchpremier/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA", Страна
-http://s5.merlive.am:80/matchstrana/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",SPORTS 4
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МИР БАСКЕТБОЛА
-http://88.218.242.237:8000/play/a00e
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТАРТ ТРИУМФ
-http://88.218.242.237:8000/play/a00d
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Trace Sport Stars
-http://95.67.12.82:9067
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sports Grid
-https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL MOTOR
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",WORLD POKER TOUR HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Tennis Channel HD (США)
-http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Tennis Channel r
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Arena Sport 1 HD (Czech)
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Auto Motor Sport HD (Czech)
-http://78.130.250.2:8023/play/a018/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ Sport (Czech)
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nova Sport 1 HD (Czech)
-http://78.130.250.2:8023/play/a009/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nova Sport 1 HD (Czech)
-http://78.130.250.2:8023/play/a02k/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nova Sport 2ᴴᴰ (Czech)
-http://78.130.250.2:8023/play/a004/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Golf Channel (Чехия)
-http://78.130.250.2:8023/play/a02q/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat SPORT
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport NEWS
-http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TVP Sport (pl)
-http://45.65.112.49:8000/play/a0ko
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TVP Sport HD (pl)
-https://irylek.ct8.pl/stream/tvpsport
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 3 (pl)
-http://45.65.112.49:8000/play/a0kq
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 4 (pl)
-http://45.65.112.49:8000/play/a0kr
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 5 (pl)
-http://45.65.112.49:8000/play/a0ku
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eleven Sports 1 4K (pl) 
-http://45.65.112.49:8000/play/a0bt
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport Extra HD
-http://185.236.229.62:9981/play/a07q
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport Fight HD
-http://185.236.229.62:9981/play/a06l
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport HD
-http://185.236.229.62:9981/play/a07n
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport News HD
-http://185.236.229.62:9981/play/a06m
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Polsat Sport Premium 1
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sportklub HD
-http://185.236.229.62:9981/play/a02k
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eleven Sports 1 4K
-http://185.236.229.62:9981/play/a03t
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eleven Sports 1 HD
-http://185.236.229.62:9981/play/a05w
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Eleven Sports 2 HD
-http://185.236.229.62:9981/play/a05y
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 2 HD
-http://185.236.229.62:9981/play/a05t
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 3 HD
-http://185.236.229.62:9981/play/a05e
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 4 HD
-http://185.236.229.62:9981/play/a05r
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CANAL+ SPORT 5 HD
-http://185.236.229.62:9981/play/a05h
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Motor sport revue HD
-https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports 1 [nz]
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports 2 [nz]
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports 3 [nz]
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Sky Sports Main Event [uk]
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Bein EXTRAS
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Rai Sport HD
-http://85.209.248.3:8080/RaiSportHD/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MAX Sport1
-http://85.209.248.3:6500/MAXSport1
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MAX Sport2
-http://85.209.248.3:6500/MAXSport2
-#EXTINF:-1 tvg-id="7539" tvg-rec="1" tvg-logo="http://epg.one/img2/7539.png" catchup_days="3" group-title="🇷🇺 RUSSIA",ViP Sport 1 VPN
-http://eqatmiyg.megogo.xyz/iptv/MVTMCC4UTAZVDT/20099/index.m3u8
-#EXTINF:-1 tvg-id="7540" tvg-rec="1" tvg-logo="http://epg.one/img2/7540.png" catchup_days="3" group-title="🇷🇺 RUSSIA",ViP Sport 2 VPN
-http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
-#EXTINF:-1 tvg-id="7542" tvg-rec="1" tvg-logo="http://epg.one/img2/7542.png" catchup_days="3" group-title="🇷🇺 RUSSIA",ViP Sport 4 VPN
-http://vp4hcjiv.rostelekom.xyz/iptv/UFERDUQS58TBD3/20105/index.m3u8
-#EXTINF:-1 tvg-id="7544" tvg-rec="1" tvg-logo="http://epg.one/img2/7544.png" catchup_days="3" group-title="🇷🇺 RUSSIA",ViP Sport 6 VPN
-http://vp4hcjiv.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20107/index.m3u8
-#EXTINF:-1 tvg-id="7547" tvg-rec="1" tvg-logo="http://epg.one/img2/7547.png" catchup_days="3" group-title="🇷🇺 RUSSIA",ViP Sport 7 VPN
-http://vp4hcjiv.rostelekom.xyz/iptv/TPTP2HX82NCNCE/20108/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ESPN 7 HD
-http://209.45.20.210:50001/play/a00w/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ESPN  Premium HD
-http://209.45.20.210:50001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",D Sports HD
-http://209.45.20.210:50001/play/a03o/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",D Sports 2 HD
-http://209.45.20.210:50001/play/a03p/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",D Sports + HD
-http://209.45.20.210:50001/play/a03q/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TNT Sports HD
-http://209.45.20.210:50001/play/a03r/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fox Sports 1 HD [us] 
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fox Sports 2 HD [us] 
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",MLB Network HD [us]
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CBS Sports Network USA HD
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",NFL Network HD [us]
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Colimdo TV [do] 
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Realitatea Sportiva [ro]
-https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Dubai Sports 3 HD [ae]
-https://streamer3.connectto.com/913/mono.m3u8
-
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ПІКСЕЛЬ TV HD
-http://45.153.35.237:8000/play/a03y
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС Kids
-http://45.159.74.13/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кнопка ТВ
-http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мама
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o2/mamatv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cartoonito HD
-http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Duck TV
-https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детский Мир
-https://stream1.cinerama.uz/1032/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Рыжий
-https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мама
-https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Уникум
-https://stream1.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС Kids
-https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Карусель
-https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Da Vinci
-https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Смайлик ТВ
-https://stream1.cinerama.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мультиландия
-https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мульт
-https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",В Гостях У Сказки
-https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Tiji
-https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Gulli Girl
-https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cartoonito
-http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Gulli Girl
-http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мульт
-http://135.181.115.81:8000/play/a00q/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TiJi
-http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nickelodeon
-http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nickelodeon HD
-http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МУЛЬТИМАНИЯ
-https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nicktoons ᴴᴰ
-https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мульт ᴴᴰ
-http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детский мир SD
-http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Карусель International
-http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС Kids
-http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TiJi SD
-http://stream01.vnet.am/Tiji/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мама SD
-http://stream01.vnet.am/Mama/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Da Vinci
-http://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Tiji TV
-http://sc.id-tv.kz/TiJi_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мульт
-http://sc.id-tv.kz/Mult_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Gulli
-http://sc.id-tv.kz/Gulli_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CN
-http://stream01.vnet.am/Kinosemya/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CHD TV
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МУЛЬТ
-https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАМА
-https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",С
-https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",duck 
-https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",CARTOON Classics
-http://88.218.242.237:8000/play/a00f
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",NI
-http://88.218.242.237:8000/play/a00b
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Монстри на канікулах 4 (2022)
-https://ashdi.vip/video16/1/new/hotel_transylvania_transformania_2022_webdl_1080p_2xukr_eng_hurtom_83164/hls/A6aXi3WOjuRakhH+D4w=/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Щенячий патруль у кіно (2021)
-https://ashdi.vip/video16/1/films/paw_patrol_the_movie_2021_webdl_1080p_ukr_eng_hurtom_49478/hls/A6aXi3WOjuRakhH+D4w=/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Поганці (2022)
-https://ashdi.vip/video16/1/films/the_bad_guys_2022_bdrip_1080p_ukr.eng_sub_ukr.eng_hurtom_69657/hls/1080/A6aXi3WOjuRakhH+D4w=/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кролецип та хом'як темряви (2022)
-https://ashdi.vip/video16/1/serials/chickenhare_and_the_hamster_of_darkness_2022_bdremux_1080p_101442/hls/A6aXi3WOjuRakhH+D4w=/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детский Мир
-http://158.101.194.132:8080/channel/41661217/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мультиландия
-http://158.101.194.132:8080/channel/7a0ccc79/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",2x2
-http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Советские мультфильмы
-http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детский мир
-http://s83.chas.tv:8081/chas/dmir.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Карусель
-http://s83.chas.tv:8081/chas/karuseltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Смайлик ТВ
-http://s83.chas.tv:8081/chas/smile.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Солнце
-http://s83.chas.tv:8081/chas/disneytv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Радость моя
-http://s83.chas.tv:8081/chas/radosttv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",TiJi
-http://s5.merlive.am:80/TiJi/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",СТС Kids
-http://s5.merlive.am:80/STSkids/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Nickelodeon HD
-http://s5.merlive.am:80/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мульт HD
-http://s5.merlive.am:80/Mult/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Лёва
-http://s5.merlive.am:80/planb/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мама
-http://s5.merlive.am:80/mama/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Da Vinci
-http://s5.merlive.am:80/DaVinci/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Детский мир
-http://s5.merlive.am:80/DetskiMir/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Cartoon Network
-http://s5.merlive.am:80/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мультиландия
-http://s5.merlive.am:80/Multilandia/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",Lenz Sport
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
@@ -2284,8 +1371,12 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 https://lb.streaming.sk/fashiontv/stream/chunklist_w407729389.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV MidNight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Fashion Channel
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="POPSTAR" tvg-logo="" tvg-language="Azerbaijani" group-title="🇪🇺 OTHERS",KPOP TV LIVE
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",KPOP TV
+https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",ATV ARMENIA
 http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇪🇺 OTHERS",R&R Сербия
