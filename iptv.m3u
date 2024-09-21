@@ -771,6 +771,12 @@ https://player.smotrim.ru/iframe/stream/live_id/63250
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС HD
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС HD
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС HD
+https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС HD
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",СТС kids
@@ -781,6 +787,8 @@ http://s5.merlive.am:80/STSkids/index.m3u8
 https://stream1.cinerama.uz/1437/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ HD
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ HD
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:1 tvg-id="tnt4.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/tnt4/playlist.m3u8
@@ -788,6 +796,8 @@ https://edge02.odtv.az/o7/tnt4/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
 http://ott.watch/stream/FW77EY74W5/106.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
+http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ MUSIC HD
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МИР HD
@@ -802,7 +812,8 @@ https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Домашний HD
 http://45.159.74.13/Domashniy/tracks-v1a1/index.m3u8
-http://188.113.190.11/94/tracks-v1a1/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Домашний HD
+http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="🇷🇺 RUSSIA",Timeless Dizi Channel
 http://194.158.222.36:6086
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SD REX
@@ -817,6 +828,10 @@ https://stream01.vnet.am/Pyatnica/mono.m3u8
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец
 http://45.159.74.14:80/Perec/tracks-v1a1/manifest.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец
+https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец Int
+http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",ТВ 3 
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТВ 3
@@ -861,8 +876,20 @@ https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 http://86.57.178.105:10823
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
 https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
+http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
+https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
+http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 action
 https://stream1.cinerama.uz/1225/tracks-v2a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 action
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 action
+https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 русское
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 русское
 https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000 новелла
@@ -883,19 +910,118 @@ https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 http://stream02.vnet.am/AutoPlus/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Sport 
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Кинопремьера HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Megahit
+http://hls127.homeiptv.org:8880/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Megahit
+http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Comedy
+http://91.205.199.3:80/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Comedy
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ Serial
+http://91.205.199.3/vipserialhd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ PREMIERE
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
 http://45.159.74.13/Kinopremera/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
+http://45.159.74.13:80/Kinopremera/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
+http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
+http://91.205.199.3/kinopremerahd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
+https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="RodnoeKino.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Родное Кино HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Кинохит HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КиноХит 
 http://188.190.222.48:8765/Kinohit_HD/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Киносвидание HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КиноХит 
+https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КиноХит
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинохит
+http://91.205.199.3:80/kinoxithd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинохит
+rtmp://5.182.229.90//7250
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинохит
+http://45.159.74.13:80/Kinokhit/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинохит
+http://hls127.homeiptv.org:8880/Kinoxit/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание
 https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Киносерия HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание 
+https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание
+http://91.205.199.3:80/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносвидание
+rtmp://5.182.229.90//7245
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносерия
 http://94.232.104.237:8011/kinoseriya/index.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Кинокомедия HD
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносерия
+https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносерия
+http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия
 https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия
+https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия
+rtmp://5.182.229.90//7248
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинокомедия
+http://91.205.199.3/komedia/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья
+http://hls127.homeiptv.org:8880/Kinosemya/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья
+http://91.205.199.3:80/kinosemyahd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья
+rtmp://5.182.229.90//7244
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киносемья 
+https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс 
+http://cherikov.dvb.by:8080/udp/239.0.100.33:1234
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс 
+https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс 
+http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Киномикс
+http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское кино 
+https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское кино
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Мужское кино
+http://45.159.74.14:80/MujskoeKino/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наше новое кино
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Наше новое кино
+https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+org:8880/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Индийское кино
+http://sc.id-tv.kz/Indiiskoe_kino.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Индийское кино 
+https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ИНДИЯ
+http://hls127.homeiptv.org:8880/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ИНДИЯ
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia 1
+http://stream01.vnet.am/Channel_128/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia 2
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia 2
+http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Hit
+http://91.205.199.3/amediahithd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Hit
+http://stream01.vnet.am/Nauka/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Amedia Premium
+http://78.62.135.122:8082/amediapremiumhd/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SUNSET MOVIE
 https://stream.sunset-media.ru/Free/Free/1.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SUNSET MUSIC
@@ -958,6 +1084,12 @@ https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/5001/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Animal Planet
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",FX LIFE 
+rtmp://5.182.229.90//7318
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",FX
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",FX
+http://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ЗООПАРК
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",DORAMA
@@ -970,12 +1102,38 @@ https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",CINEMA
 https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",CINEMA
+http://91.205.199.3/sinema/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Europa Plus
 http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Дом Кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Дом Кино ПРЕМИУМ
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 1
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 1
+rtmp://5.182.229.90//7260
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinojam 2
+rtmp://5.182.229.90//7261
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",DetectiveJam
+http://88.218.242.237:8000/play/a00a
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
 https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
+http://158.101.194.132:8080/channel/n7ffadd45/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
+http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кино ТВ
+http://91.205.199.3/kinotvhd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ЕвроКино
+http://91.205.199.3/eurokino/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинеко 
+http://91.205.199.3/tochkaotriva/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Комедийное HD
+http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",НИКА ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ДУМА ТВ
@@ -1204,7 +1362,6 @@ https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="🇷🇺 RUSSIA",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Cinema HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493326&extension=ts
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Comedy HD
@@ -1223,14 +1380,16 @@ http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493313&ex
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493319&extension=ts
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
 http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
+http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Survival HD
 http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU TruMotion HD
 http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Reality HD
 http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
-http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Marvel HD
+http://1.1usd.tv:34000/ch311/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMX0zujcergd0AfJE8whlUZ-id3c8L7WxpoIDxGYwslh
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP 80
 http://1.1usd.tv:34000/ch1069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJxApLnuHc2n53IqE8azyHMv1lGtmKciXNsDxp1JU27g
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP Великолепный Век
@@ -1253,8 +1412,6 @@ http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Clarity4K Uzhasi
 http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Украина
 https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Военный
@@ -1565,6 +1722,26 @@ http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",PersikTV MOVIE HD
 http://fs2.persik.by/Movie2/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",1+1
+http://45.153.35.237:8000/play/a00z
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",1+1
+http://de.seetv.cc/play/8798/996DA9781004412/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",2+2
+http://45.153.35.237:8000/play/a015
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV
+http://45.153.35.237:8000/play/a02w
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",ICTV 2
+http://45.153.35.237:8000/play/a031
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Новый Канал
+http://45.153.35.237:8000/play/a02x
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",STB
+http://45.153.35.237:8000/play/a02v
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",НТН
+http://45.153.35.237:8000/play/a03v
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",TeT
+http://45.153.35.237:8000/play/a011
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",Lenz Sport
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
