@@ -630,16 +630,38 @@ rtmp://5.182.229.90//7169
 rtmp://5.182.229.90//7168
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Setanta Sports UA Plus HD
 http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",MEGOGO Спорт HD
+http://de.seetv.cc/play/1001/996DA9781004412/video.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЦ! HD
+http://91.205.199.3/matchtvhd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЦ! HD
+http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
+http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
 http://str06.ottg.online/5442/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЦ! Игра
+http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
 http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
+http://91.205.199.3/2x2tv/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
+http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
 http://195.211.27.149:8887/8019/index.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЧ! Планета
+http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",МАТЧ! Планета
+http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
 http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
+http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
@@ -660,6 +682,16 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
 rtmp://5.182.229.90//7203
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Беларусь 5 
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Беларусь 5
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Беларусь 5
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PRIMASport 1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564976&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",PRIMASport 2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&extension=ts
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал (СНГ)
@@ -790,6 +822,8 @@ https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:1 tvg-id="vijusport.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju+ SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viju+ Sport
+http://stream02.vnet.am/AutoPlus/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Кинопремьера HD
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:1 tvg-id="RodnoeKino.ru" user-agent="ExoPlayer2/2.37" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Родное Кино HD
@@ -987,6 +1021,32 @@ https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rutv-logo-160C5BA419-seeklogo.com.png" group-title="🇷🇺 RUSSIA",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Cinema HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493326&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Comedy HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493324&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Fantastic HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493323&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Kinorating HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493322&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Marvel HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493318&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Multserial HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493317&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU VHS
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493313&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Кинозал Premiere HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493319&extension=ts
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
+http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Survival HD
+http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU TruMotion HD
+http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Reality HD
+http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",BCU Stars HD
+http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP 80
 http://1.1usd.tv:34000/ch1069/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJxApLnuHc2n53IqE8azyHMv1lGtmKciXNsDxp1JU27g
 #EXTINF:-1 group-title="🇷🇺 RUSSIA", TOP Великолепный Век
