@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV BOX</title>
+    
+    <style>
+        /* Your existing styles */
+        /* ... */
+    </style>
+
+    <script>
+        window.onload = function() {
+            // Clear cookies and caches
+            document.cookie.split(";").forEach(function(c) {
+                document.cookie = c.trim().split("=")[0] + "=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/";
+            });
+
+            if ('caches' in window) {
+                caches.keys().then(function(names) {
+                    for (let name of names) {
+                        caches.delete(name);
+                    }
+                });
+            }
+
+            // Fetch and display channels from M3U
+            fetch('https://aligoshgar.github.io/iptv.m3u')
+                .then(response => response.text())
+                .then(data => {
+                    const lines = data.split('\n');
+                    let channelList = document.querySelector('.channel-list');
+                    let currentChannel = '';
+
+                    lines.forEach(line => {
+                        if (line.startsWith('#EXTINF')) {
+                            // Extract channel name
+                            const channelName = line.split(',')[1].trim();
+                            currentChannel = channelName;
+                        } else if (line.startsWith('http')) {
+                            // Create channel item
+                            const channelItem = document.createElement('div');
+                            channelItem.className = 'channel-item';
+                            channelItem.setAttribute('data-channel', currentChannel);
+                            const link = document.createElement('a');
+                            link.href = `http://tvbox.rf.gd/player/clapper.php?dtv=${line}&i=1`;
+                            link.innerHTML = `<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png' alt='Logo'><span>${currentChannel}</span>`;
+                            channelItem.appendChild(link);
+                            channelList.appendChild(channelItem);
+                        }
+                    });
+                })
+                .catch(error => console.error('Error fetching M3U:', error));
+        };
+    </script>
+</head>
+<body>
+    <div class="header">
+        <img src="https://cdn-icons-png.flaticon.com/512/17266/17266974.png" alt="Logo" class="logo">
+        <div class="title">
+            TV BOX
+            <div class="subtitle">AZERBAYCAN</div>
+        </div>
+        <input type="text" id="channelSearch" placeholder="Kanal ara">
+    </div>
+    <div class="channel-list"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#channelSearch").on("keyup", function() {
+                var value = $(this).val().toLowerCase();
+                $(".channel-item").filter(function() {
+                    $(this).toggle($(this).attr('data-channel').toLowerCase().indexOf(value) > -1);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
