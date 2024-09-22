@@ -6,7 +6,6 @@
     <title>TV BOX</title>
     
     <style>
-        /* Your existing styles */
         body {
             margin: 0;
             padding: 0;
@@ -31,10 +30,16 @@
             z-index: 99999;
         }
 
+        .logo {
+            width: 30px; 
+            height: 30px; 
+            margin-right: 10px;
+        }
+
         .channel-list {
             padding: 0;
             margin: 0;
-            margin-top: 76px;
+            margin-top: 76px; 
         }
 
         .channel-item {
@@ -58,7 +63,7 @@
             width: 100%;
             height: 500px;
             background-color: black;
-            margin-top: 20px;
+            margin-top: 50px; 
         }
     </style>
 
@@ -92,10 +97,7 @@
                         item.addEventListener('click', function() {
                             const url = this.getAttribute('data-url');
                             const videoPlayer = document.getElementById('videoPlayer');
-                            videoPlayer.innerHTML = `<video controls autoplay>
-                                                        <source src="${url}" type="application/x-mpegURL">
-                                                        Your browser does not support the video tag.
-                                                    </video>`;
+                            videoPlayer.innerHTML = `<iframe src="${url}" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>`;
                         });
                     });
                 })
@@ -104,21 +106,18 @@
     </script>
 </head>
 <body>
+    <div id="videoPlayer"></div> 
+    
     <div class="header">
-        <img src="https://cdn-icons-png.flaticon.com/512/17266/17266974.png" alt="Logo" class="logo">
-        <div class="title">
-            TV BOX
-            <div class="subtitle">AZERBAYCAN</div>
-        </div>
+        <img class="logo" src="https://cdn-icons-png.flaticon.com/512/17266/17266974.png" alt="Logo">
         <input type="text" id="channelSearch" placeholder="Kanal ara">
     </div>
+    
     <div class="channel-list"></div>
-    <div id="videoPlayer"></div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         $(document).ready(function(){
-            $("#channelSearch```javascript
             $("#channelSearch").on("keyup", function() {
                 var value = $(this).val().toLowerCase();
                 $(".channel-item").filter(function() {
