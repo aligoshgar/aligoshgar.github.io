@@ -730,6 +730,10 @@ http://88.218.242.237:8000/play/a00e
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Бокс ТВ
+http://sc.id-tv.kz/BoksTV_36_37.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Бокс ТВ
+http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",XSPORT HD
@@ -943,10 +947,16 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",viju+ PREMIERE
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Comedy
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Action 
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Viasat Kino Megahit HD
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",Kinoliving
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
 http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Кинопремьера
@@ -1146,6 +1156,14 @@ https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 RUSSIA",Just TV
 http://185.236.229.62:9981/play/a08e
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМАН
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМАН
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",КИНОМАН 2
+http://stream01.vnet.am/Channel_118/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 RUSSIA",CRAFT
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SUNSET MOVIE
 https://stream.sunset-media.ru/Free/Free/1.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SUNSET MUSIC
