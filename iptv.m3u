@@ -1756,6 +1756,10 @@ https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8
 https://ss.90minlive.online/sport/Stadium/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
 https://liveproxy.splus.ir/hls/varzesh/varzesh_1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",NRT TV
+http://hw2.jemtv.com/app/nrt/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",NRT 2 TV
+http://hw2.jemtv.com/app/nrt2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇪🇺 OTHERS",NBA TV
