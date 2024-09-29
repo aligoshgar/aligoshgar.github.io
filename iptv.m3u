@@ -2113,6 +2113,10 @@ http://85.132.78.122:3344/now
 https://radio.autoliferadio.com:8005/radio
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" group-title="📻 RADIO / AZERBAIJAN",VIVA FM Azərbaycan
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo=https://cdn.onlineradiobox.com/img/l/9/85489.v4.png" group-title="📻 RADIO / AZERBAIJAN",Radio BOSS
+https://listen5.myradio24.com/bosscomaz
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" group-title="📻 RADIO / AZERBAIJAN",Ağdam Radio
+https://a2.asurahosting.com:6650/radio.mp3
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/te4J2rb7TB.png" group-title="📻 RADIO / AZERBAIJAN",Day.Az Radio
 https://radio.day.az:9443/128m
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://lh4.googleusercontent.com/proxy/r6OdeozM2XhPK6otKHteTZ9msVYRcVWhW6vIMwi2L3zGTxvpk_3C9usCcL2uRGL3SEJ0dGVE1d80MQ" group-title="📻 RADIO / AZERBAIJAN",DANCE FM
