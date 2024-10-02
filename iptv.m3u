@@ -158,6 +158,8 @@ https://tivi191.ozelip.com:3653/hybrid/play.m3u8
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Music TV
+https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Muğam TV
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="CTV" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CTV
@@ -3951,9 +3953,27 @@ http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/300982
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/8224
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-name="TR: beIN Sports 2 MAX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7e39fd24865d2511ff67d711c6e0635d.png" group-title="🎲 beIN CONNECT / TURKEY",TR: beIN Sports 2 MAX
 http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/16878
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-name="BEIN GURME" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovzqoy1vm7j4wQWYnR.png" group-title="🎲 beIN CONNECT / TURKEY",BEIN GURME
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Box Office 1 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Box Office 2 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Box Office 3 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",BeIN Series Sci-Fi
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Movies Family HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Movies Premiere HD TR
+http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Movies Premiere 2 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN Movies Action 2 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6876/index.m3u8
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🎲 beIN CONNECT / TURKEY",beIN MOVIES STARS HD TR
+http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-name="BEIN GURME" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovzqoy1vm7j4wQWYnR.png" group-title="🎲 beIN CONNECT / TURKEY",beIN GURME
 http://vavoo.to/play/950394656/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-name="BEIN IZ" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZG0APoV6AOrqyjw9z1W.png" group-title="🎲 beIN CONNECT / TURKEY",BEIN IZ
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-name="BEIN IZ" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZG0APoV6AOrqyjw9z1W.png" group-title="🎲 beIN CONNECT / TURKEY",beIN IZ
 http://vavoo.to/play/1691223078/index.m3u8
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Tom & Jerry - Türkçe Dublaj (2021)
