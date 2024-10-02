@@ -577,15 +577,11 @@ https://st1.uzdigital.tv/Hidoyat/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇺🇿 UZBEKISTAN",Shifo TV
 https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 rtmp://92.119.88.58//271
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 1
 http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
 rtmp://92.119.88.58//270
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",SETANTA SPORTS 2
@@ -605,8 +601,6 @@ http://de.seetv.cc/play/1001/996DA9781004412/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",MEGOGO Спорт 2 HD
 http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
-http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://91.205.199.3/matchtvhd/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
@@ -615,21 +609,15 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://s5.merlive.am:80/matchtvhd/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
 http://str06.ottg.online/5442/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
 http://s5.merlive.am:80/matchpremier/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЦ! Игра
 http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
-http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
 http://91.205.199.3/2x2tv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
-http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
 http://195.211.27.149:8887/8019/index.m3u8?token=test
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
@@ -641,19 +629,17 @@ http://135.181.115.81:8000/play/a006/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЧ! Планета
 https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
 http://91.90.255.235:8000/play/a00f/index.
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
 http://s5.merlive.am:80/matchboec/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://103.97.89.234/football1/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
-http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 2
-http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+http://103.97.89.234/football2/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 3
-http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+http://103.97.89.234/football3/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ФУТБОЛ
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ФУТБОЛ
@@ -666,8 +652,6 @@ https://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 http://s5.merlive.am:80/eurosport1/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2 SPORT
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
-http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
 rtmp://5.182.229.90//7203
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
@@ -682,8 +666,6 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w6016
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564976&extension=ts
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",PRIMASport 2
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&extension=ts
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МИР БАСКЕТБОЛА
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МИР БАСКЕТБОЛА
 http://88.218.242.237:8000/play/a00e
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇷🇺 RUSSIA",FIGHTBOX HD
@@ -1180,8 +1162,6 @@ http://217.79.179.127:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2Wso/live/tvr
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",OCEAN HD
 http://camera.global-x.ru/OceanTV/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",TERRA
-https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="🇷🇺 RUSSIA",LOVE NATURE Русский
 http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/5001/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Animal Planet
