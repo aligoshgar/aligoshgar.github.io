@@ -603,8 +603,6 @@ http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://91.205.199.3/matchtvhd/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
-http://hls127.homeiptv.org:8880/MATCH_TV/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://s5.merlive.am:80/matchtvhd/index.m3u8
@@ -763,10 +761,6 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Премиальное HD
 rtmp://5.182.229.90//7222
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",MM Скорость HD
-http://hls127.homeiptv.org:8880/minimax-skorost-m4f/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",TRASH HD
-http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Золотая Коллекция
 http://91.205.199.3:80/mosfilm/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Золотая коллекция
@@ -878,8 +872,6 @@ http://stream02.vnet.am/AutoPlus/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",viju+ Sport 
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",viju+ Megahit
-http://hls127.homeiptv.org:8880/ViP_Megahit/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",viju+ Megahit
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",viju+ Comedy
 http://91.205.199.3:80/vipcomedi/index.m3u8
@@ -928,8 +920,6 @@ http://91.205.199.3:80/kinoxithd/index.m3u8
 rtmp://5.182.229.90//7250
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кинохит
 http://45.159.74.13:80/Kinokhit/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кинохит
-http://hls127.homeiptv.org:8880/Kinoxit/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносвидание
 https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносвидание 
@@ -942,8 +932,6 @@ rtmp://5.182.229.90//7245
 http://94.232.104.237:8011/kinoseriya/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносерия
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносерия
-http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кинокомедия
 https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кинокомедия
@@ -952,8 +940,6 @@ https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 rtmp://5.182.229.90//7248
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кинокомедия
 http://91.205.199.3/komedia/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносемья
-http://hls127.homeiptv.org:8880/Kinosemya/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносемья
 http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киносемья
@@ -964,10 +950,6 @@ https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 http://cherikov.dvb.by:8080/udp/239.0.100.33:1234
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киномикс 
 https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киномикс 
-http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Киномикс
-http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мужское кино 
 https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мужское кино
@@ -983,8 +965,6 @@ org:8880/Zee_Russia/video.m3u8
 http://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Индийское кино 
 https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ИНДИЯ
-http://hls127.homeiptv.org:8880/Zee_Russia/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ИНДИЯ
 http://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Amedia 1
@@ -1009,8 +989,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Flix Snıp
 http://95.67.12.82:9061
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",FILMUADRAMA    
-http://hls127.homeiptv.org:8880/FilmUADramaHD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA" ,Filmix
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/8.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",StreamBox.TV Premium Hit
@@ -1025,19 +1003,11 @@ http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",314
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/13.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",НСТ
-http://hls127.homeiptv.org:8880/HCTV/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ТСВ
 https://iptv-hls.idc.md/hls/2/live2.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Наш Киномир
-http://hls127.homeiptv.org:8880/Nash_kinomir/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Любимое Кино
 http://91.205.199.3:80/lubimoekino/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Театр
-http://hls127.homeiptv.org:8880/Teatr/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Про Любовь HD
-http://hls127.homeiptv.org:8880/ProLubovHD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",HORROR
 http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ХИТ
@@ -1206,8 +1176,6 @@ http://88.218.242.237:8000/play/a00a
 https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
 http://158.101.194.132:8080/channel/n7ffadd45/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",КИНОПОКАЗ
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",KINOSWEET
 http://95.67.12.180:11111
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кино ТВ
@@ -1490,16 +1458,6 @@ http://1.1usd.tv:34000/ch1071/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWkt
 http://1.1usd.tv:34000/ch1072/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB1cFqODqZGfOiWpuNTKv6BEjFIfZNqh075aUj1G6j0l
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA", TOP MIX HD
 http://1.1usd.tv:34000/ch1073/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKp0UUEZJ17yTkkvmT4jpuTD4oNPhVmo1ZujL8mpbbtq
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Clarity4K Boevik
-http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Clarity4K Concert
-http://hls127.homeiptv.org:8880/Clarity4K_Concert/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Clarity4K Netflix
-http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Clarity4K Asia
-http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Clarity4K Uzhasi
-http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Украина
 https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Военный
