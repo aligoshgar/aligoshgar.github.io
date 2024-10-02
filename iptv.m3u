@@ -640,7 +640,7 @@ https://stream1.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 https://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 1
 http://s5.merlive.am:80/eurosport1/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2 SPORT
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 2
 rtmp://5.182.229.90//7203
@@ -663,15 +663,11 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",UDAR
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Бокс ТВ
-http://sc.id-tv.kz/BoksTV_36_37.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Бокс ТВ
 http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",XSPORT HD
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147665&extension=ts
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",KHL
-http://sc.id-tv.kz/KHL_36_37.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",KHL
 https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Trace Sport Stars 
@@ -688,8 +684,6 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал Евразия
 http://87.76.32.36:9102/udp/238.1.1.7:1234
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал Евразия International
-http://89.73.48.210:8001/1:0:1:1C92:332C:13E:820000:0:0:0
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия 24 HD
@@ -731,10 +725,6 @@ https://streaming.goodstream.cyou/live/38.m3u8
 https://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
-http://ott.watch/stream/FW77EY74W5/106.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ 4 HD
-http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТНТ MUSIC HD
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МИР HD
@@ -743,8 +733,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МОСКВА 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Санкт-Петербург HD
-https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый Тульский
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Блокбастер HD
@@ -779,8 +767,6 @@ https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ТВ 3 
 http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ТВ 3
-https://vsd140.mycdn.me/hls/532085213876.m3u8/sig/L3NshQOGIcA/expires/1725636905876/srcIp/5.134.56.108/urls/45.136.20.59/clientType/0/srcAg/CHROME_ANDROID/mid/1061877194420/532085213876_high/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ПОЕХАЛИ!
 http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Суббота!
@@ -819,10 +805,6 @@ https://edge02.odtv.az/o5/chetv/playlist.m3u8
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Русский Иллюзион
 http://86.57.178.105:10823
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Иллюзион+
-http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Иллюзион+
-http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bGRTbllJbEJ5NHIrNHp1OGs3SldveFBHNGRaMnQ1SllyUXl3V0xFOEpYcz06OrSLaoG9Bwvvgcns5yqdp7g%3D
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
 https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",viju TV1000
@@ -941,8 +923,6 @@ http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 org:8880/Zee_Russia/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Индийское кино
-http://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Индийское кино 
 https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ИНДИЯ
@@ -976,8 +956,6 @@ http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/14.m3u8
 http://91.205.199.3:80/mirseriala/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",КиноСезон
-http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",314
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/13.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",НСТ
@@ -1118,8 +1096,6 @@ http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 rtmp://5.182.229.90//7318
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",FX
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",FX
-http://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ЗООПАРК
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",DORAMA
@@ -1238,16 +1214,12 @@ https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 https://air.nts-tv.ru/nts/fhd.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Солнце
-http://s83.chas.tv:8081/chas/disneytv.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
 https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
-http://s83.chas.tv:8081/chas/karuseltv.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ПІКСЕЛЬ TV HD
 http://45.153.35.237:8000/play/a03y
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кнопка ТВ
@@ -1276,8 +1248,6 @@ http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Детский Мир
 http://158.101.194.132:8080/channel/41661217/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Детский мир
-http://s83.chas.tv:8081/chas/dmir.stream/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Детский мир
 http://s5.merlive.am:80/DetskiMir/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Рыжий
 https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8
@@ -1286,13 +1256,9 @@ https://stream1.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Da Vinci
 https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Da Vinci
-http://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Da Vinci
 http://s5.merlive.am:80/DaVinci/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Смайлик ТВ
 https://stream1.cinerama.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Смайлик ТВ
-http://s83.chas.tv:8081/chas/smile.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мультиландия
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мультиландия
@@ -1304,8 +1270,6 @@ https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мульт
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мульт
-http://sc.id-tv.kz/Mult_34_35.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мульт
 https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мульт
 http://s5.merlive.am:80/Mult/index.m3u8
@@ -1315,12 +1279,8 @@ https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",TiJi
 http://stream01.vnet.am/Tiji/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Tiji
-http://sc.id-tv.kz/TiJi_34_35.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",TiJi
 http://s5.merlive.am:80/TiJi/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Gulli Girl
-http://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Gulli Girl
 https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Nickelodeon
@@ -1347,12 +1307,6 @@ https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 http://88.218.242.237:8000/play/a00f
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",NI
 http://88.218.242.237:8000/play/a00b
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",2x2
-http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Советские мультфильмы
-http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Радость моя
-http://s83.chas.tv:8081/chas/radosttv.stream/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Лёва
 http://s5.merlive.am:80/planb/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Cartoon Network
