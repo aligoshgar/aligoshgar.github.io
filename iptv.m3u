@@ -98,8 +98,6 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Live TV-2
 https://st2.mediabay.tv/LIVETV_Azer/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Live TV-3
-http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Könül TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTKgRegsWhfQVWCLOifn7OeoNqwikFsP1yD4QB3IQ=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Naxçıvan TV" tvg-logo="https://ntv.az/assets/images/logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Naxçıvan TV
@@ -359,7 +357,7 @@ https://deathlesstg.serv00.net/Youtube-Live/index.php?id=-RORLrBwJD0&m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" tvg-name="24 TV" group-title="🇹🇷 TURKEY",24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="A HABER" group-title="🇹🇷 TURKEY",A HABER
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="🇹🇷 TURKEY",A SPOR
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" tvg-name="A SPOR" group-title="🇹🇷 TURKEY",A SPOR-2
@@ -372,6 +370,10 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/512px-Haber_Global_logo.svg.png" tvg-name="HABERGLOBAL" group-title="🇹🇷 TURKEY",HABERGLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/512px-Haber_Global_logo.svg.png" tvg-name="HABERGLOBAL" group-title="🇹🇷 TURKEY",HABERGLOBAL
+http://hw1.jemtv.com/app/haberglobal/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" tvg-name="HABERGLOBAL" group-title="🇹🇷 TURKEY",Halk TV
+http://hw1.jemtv.com/app/HalkTV/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" tvg-name="TV 100" group-title="🇹🇷 TURKEY",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tvnet.png/800px-Tvnet.png" tvg-name="TV Net" group-title="🇹🇷 TURKEY",TV Net
