@@ -86,6 +86,8 @@ http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",APA TV-2
+http://88.99.66.6:8080/str.yodacdn.net/apatv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" tvg-name="Səhiyyə TV" group-title="🇦🇿 AZERBAIJAN",Səhiyyə TV
 http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",EL TV
@@ -128,6 +130,8 @@ https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880
 http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AGRO TV Azərbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AGRO TV Azərbaycan-2
+http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SƏHƏR TV
 https://hw2.jemtv.com/app/azeri/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Vilayət TV
