@@ -68,6 +68,8 @@ http://88.99.66.6:8080/str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=f3215d5
 http://str.yodacdn.net/xazar/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Xəzər TV HD-2
 http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Xəzər TV HD-3
+http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Space TV
 http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Space TV-2
@@ -140,6 +142,8 @@ http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VOSTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VOSTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VOSTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VOSTOK TV-2
+http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TMB AZ TV
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TMB AZ TV-2
@@ -162,6 +166,8 @@ https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
 http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VIP Azerbaijan
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VIP Azerbaijan-2
+http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",K@TV 1
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16042/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",K@TV 1
@@ -440,6 +446,8 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="🇹🇷 TURKEY",TMB TR TV
 http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="🇹🇷 TURKEY",TMB TR TV-2
+http://88.99.66.6:8080/str.yodacdn.net/tmbtr/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="🇹🇷 TURKEY",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Dream_TV_logosu.png" tvg-name="DreamTV" group-title="🇹🇷 TURKEY",Dream TV
