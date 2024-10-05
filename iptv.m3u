@@ -524,6 +524,8 @@ https://helga.iptv2022.com/sh/tempo_tv/tracks-v2a1/mono.m3u8
 https://helga.iptv2022.com/sh/tempo_tv/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://iconape.com/wp-content/files/bj/283471/svg/dost-tv-logo-logo-icon-png-svg.png" tvg-name="Dost TV" group-title="🇹🇷 TURKEY",Dost TV
 http://hw1.jemtv.com/app/dosttv/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://ekintv.net/public/default/images/upload/2145112125692762.png" tvg-name="Ekin Türk TV" group-title="🇹🇷 TURKEY",Ekin Türk TV
+http://hw1.jemtv.com/app/tempotv/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.kanal23.com/images/logo.png" tvg-name="Kanal 23" group-title="🇹🇷 TURKEY",Kanal 23 HD
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.kanal23.com/images/logo.png" tvg-name="Kanal 23" group-title="🇹🇷 TURKEY",Kanal 23 HD-2
