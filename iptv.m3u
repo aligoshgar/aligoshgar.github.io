@@ -1816,8 +1816,6 @@ https://liveproxy.splus.ir/hls/aiosport/aiosport_360/index.m3u8
 https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",TV 3
 https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",Stadium TV
-https://ss.90minlive.online/sport/Stadium/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
