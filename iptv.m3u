@@ -185,17 +185,19 @@ https://tivi191.ozelip.com:3745/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ŞİRVAN TV
-https://sirvantv.efir.com.tr:3604/stream/play.m3u8
+https://sirvantv.efir.com.tr:3369/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",DALĞA TV
+https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RİHAT TV
-https://rihattvaz.efir.com.tr:3021/stream/play.m3u8
+https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA TV
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA-2 TV
 https://MegatvAz.efir.com.tr:3740/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
-https://MegatvmusicAz.efir.com.tr:3047/stream/play.m3u8
+https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sərxan TV
-https://stvaz.efir.com.tr:3350/stream/play.m3u8
+https://stvaz.efir.com.tr:3815/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Music TV
