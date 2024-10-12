@@ -1873,10 +1873,6 @@ http://45.153.35.237:8000/play/a03v
 http://45.153.35.237:8000/play/a011
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",Lenz Sport
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
-https://liveproxy.splus.ir/hls/aiosport/aiosport_360/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport 2
-https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",TV 3
 https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
@@ -1887,16 +1883,6 @@ https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8
 http://hw2.jemtv.com/app/nrt/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",NRT 2 TV
 http://hw2.jemtv.com/app/nrt2/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",CNN
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",NBA TV
-http://195.189.62.140:8002/play/a00u
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",DOCUSCREEN
-http://195.189.62.140:8002/play/a01m
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",FIGHTSCREEN
-http://195.189.62.140:8002/play/a01n
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",NHK WORLD JAPAN
-http://195.189.62.140:8002/play/a016
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="🇪🇺 OTHERS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="🇪🇺 OTHERS",Real Madrid TV
@@ -1965,16 +1951,14 @@ https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",WORLD POKER TOUR HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",Auto Motor Sport HD
-http://78.130.250.2:8023/play/a018/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",CANAL+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",Golf Channel
 http://78.130.250.2:8023/play/a02q/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",TVP Sport
 http://45.65.112.49:8000/play/a0ko
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",Auto Motor Sport HD
+http://78.130.250.2:8023/play/a018/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",CANAL+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",CANAL+ SPORT 2
 http://185.236.229.62:9981/play/a05t
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",CANAL+ SPORT 3
