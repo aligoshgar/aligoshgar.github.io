@@ -597,7 +597,10 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w4014352
 #EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 NATIONAL / TURKEY" logo="",KRAL ANADOLU
 https://tivi191.ozelip.com:3499/stream/play.m3u8
 
-
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="🇹🇷 INTERNATIONAL / TURKEY",TR: S Sport
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/1753
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" group-title="🇹🇷 INTERNATIONAL / TURKEY",TR: S Sport 2
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/10167
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="beinsports1.tr" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="🇹🇷 INTERNATIONAL / TURKEY",TR: beIN Sports 1
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/1735
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-name="TR: beIN Sports 1 - 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇹🇷 INTERNATIONAL / TURKEY",TR: beIN Sports 1 HD
