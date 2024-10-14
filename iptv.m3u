@@ -1888,18 +1888,16 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/PMC-Royale-live-vipotv-persian-iranian.png" group-title="🇪🇺 OTHERS",PMC ROYALE
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV
-http://195.189.62.140:8002/play/a009
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV Africa
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV Czech & Slovak
 https://lb.streaming.sk/fashiontv/stream/chunklist_w407729389.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-name="FASHION" group-title="🇪🇺 OTHERS",FASHION TV MidNight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Fashion Channel
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="POPSTAR" tvg-logo="" tvg-language="Azerbaijani" group-title="🇪🇺 OTHERS",KPOP TV LIVE
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",KPOP TV
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",KPOP TV
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",ATV ARMENIA
 http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
