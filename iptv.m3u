@@ -35,13 +35,9 @@ http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-4
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV CINEMA
-http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV CINEMA-2
-http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/2120/index.m3u8
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV VIVACE
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/16068/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/bf/ATV_Vivace.jpg/1280px-ATV_Vivace.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV VIVACE-2
-http://cb163385.amazzin.pw/iptv/CRR58M997HSD98/16068/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARB HD
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARB HD-2
