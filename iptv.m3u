@@ -528,6 +528,8 @@ http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Gözde TV" tvg-logo="https://assets.tvcdn.net/500bc153-53d1-4b1c-ba42-cfba58855946.png" tvg-name="Gözde TV" group-title="🇹🇷 NATIONAL / TURKEY",Gözde TV
 http://50.7.218.154:1935/live/gozdetv.stream/chunklist_w1676377430.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Gözde TV" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" tvg-name="Briç ve Satranç TV" group-title="🇹🇷 NATIONAL / TURKEY",Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/n9otvqm.png" tvg-name="Meltem TV" group-title="🇹🇷 NATIONAL / TURKEY",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="metropol" tvg-logo="https://metropoltvcomtr.teimg.com/metropoltv-com-tr/uploads/2024/06/m-e-t-r-o-p-o-l-t-v-l-o-g-o.webp" tvg-language="Turkish" group-title="🇹🇷 NATIONAL / TURKEY",Metropol TV
@@ -564,6 +566,8 @@ http://hw1.jemtv.com/app/brtv/chunks.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png" tvg-name="brt 2 HD" group-title="🇹🇷 NATIONAL / TURKEY",brt 2 HD
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" tvg-name="Kıbrıs Genç TV" group-title="🇹🇷 NATIONAL / TURKEY",Kıbrıs Genç TV
+http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.ytimg.com/vi/pxpZd_nMp1A/maxresdefault.jpg" tvg-name="KANAL53" group-title="🇹🇷 NATIONAL / TURKEY",KANAL53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" tvg-name="RİZETÜRK TV" group-title="🇹🇷 NATIONAL / TURKEY",RİZETÜRK TV
