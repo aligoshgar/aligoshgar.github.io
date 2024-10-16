@@ -1866,7 +1866,7 @@ http://45.153.35.237:8000/play/a03v
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",TeT
 http://45.153.35.237:8000/play/a011
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
-https://
+https://liveproxy.splus.ir/hls/aiosport/aiosport_720/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",Lenz Sport
 https://ss.90minlive.online/sport/Lenz/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",TV 3
