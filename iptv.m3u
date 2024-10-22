@@ -179,6 +179,10 @@ https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/aya
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV BELGESEL
 https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV BELGESEL-2
+https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
+https://ismayillitv.efir.com.tr:3281/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="İsmayıllı TV" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV SINEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",NEW TV
@@ -191,6 +195,8 @@ https://sirvantv.efir.com.tr:3369/stream/play.m3u8
 https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
 https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
+https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RİHAT TV
 https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sərxan TV
@@ -207,9 +213,9 @@ https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
 https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV
 https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA 2
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA
 https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Music TV
 https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
