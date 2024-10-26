@@ -7,6 +7,8 @@ http://str.yodacdn.net/aztv/index.m3u8
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-3
 http://88.99.66.6:8080/str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-4
+http://135.181.115.81:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV-2
@@ -44,10 +46,14 @@ http://stream.tvcdn.net/azerbaycan/arb.m3u8
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARB HD-3
 http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARB HD-3
+http://135.181.115.81:8000/play/a02h/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 AZERBAIJAN",ARB Günəş
 http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 AZERBAIJAN",ARB Günəş-2
 http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="🇦🇿 AZERBAIJAN",ARB Günəş-3
+http://135.181.115.81:8000/play/a01y/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="🇦🇿 AZERBAIJAN",ARB 24 HD
 http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD-2" group-title="🇦🇿 AZERBAIJAN",ARB 24 HD-2
@@ -72,6 +78,8 @@ http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
 http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="🇦🇿 AZERBAIJAN",Muz TV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="🇦🇿 AZERBAIJAN",Muz TV-2
+http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD
 http://str.yodacdn.net/real/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD-2
@@ -80,6 +88,8 @@ http://185.32.44.154/realtv/index.m3u8
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD-4
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD-5
+http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Qəbələ TV" tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639501731_qebele-radio-big-radio_org.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Qəbələ TV
@@ -92,6 +102,8 @@ https://rtmp.baku.tv/live/bakutv_720p.m3u8
 http://88.99.66.6:8080/str.yodacdn.net/bakutv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CBC TV
 http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CBC TV-2
+http://135.181.115.81:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="🇦🇿 AZERBAIJAN",CBC Sport
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:1 tvg-copyright="@aligoshgartv" radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" group-title="🇦🇿 AZERBAIJAN",CBC Sport-2
@@ -195,6 +207,8 @@ https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
 https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sərxan TV
 https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BEAT TV
+http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARAZ TV
 https://araztv.efir.com.tr:3354/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",DALĞA TV
