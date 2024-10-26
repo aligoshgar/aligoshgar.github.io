@@ -1155,8 +1155,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 http://88.218.242.237:8000/play/a00c
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",SCREAM
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ТВІЙ СЕРІАЛ
-http://45.153.35.237:8000/play/a032
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ФЕНИКС
 http://88.218.242.237:8000/play/a007
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",SUSPENSE
@@ -1175,10 +1173,6 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 http://88.218.242.237:8000/play/a00g
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",WM
 http://88.218.242.237:8000/play/a00l
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",K1 HD
-http://45.153.35.237:8000/play/a03x
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Enter Film HD
-http://45.153.35.237:8000/play/a03z
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Капитан Фантастика 
 https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Точка Отрыва 
@@ -1381,8 +1375,6 @@ https://streaming.televizor-24-tochka.ru/live/232.m3u8
 https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ПІКСЕЛЬ TV HD
-http://45.153.35.237:8000/play/a03y
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Мама
@@ -1846,25 +1838,9 @@ http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",PersikTV MOVIE HD
 http://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",1+1
-http://45.153.35.237:8000/play/a00z
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",1+1
 http://de.seetv.cc/play/8798/996DA9781004412/video.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",2+2
-http://45.153.35.237:8000/play/a015
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ICTV
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ICTV
-http://45.153.35.237:8000/play/a02w
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ICTV 2
-http://45.153.35.237:8000/play/a031
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Новый Канал
-http://45.153.35.237:8000/play/a02x
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",STB
-http://45.153.35.237:8000/play/a02v
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",НТН
-http://45.153.35.237:8000/play/a03v
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",TeT
-http://45.153.35.237:8000/play/a011
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",AIO Sport
 https://liveproxy.splus.ir/hls/aiosport/aiosport_720/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",Lenz Sport
