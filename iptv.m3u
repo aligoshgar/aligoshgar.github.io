@@ -205,8 +205,8 @@ https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
 https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2024/08/rihat-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RİHAT TV
 https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/740j20c.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sərxan TV
-https://stvaz.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/kj4ei9b.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
+https://BoxtvAz2024.efir.com.tr:3815/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BEAT TV
 http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARAZ TV
@@ -554,6 +554,8 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-name="TELE 1" group-title="🇹🇷 TURKEY",TELE 1 HD-2
 http://hw1.jemtv.com/app/tele1/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMgUw5fc8zH0zEY64JY6wElX6AvKAwwDywkTGtw_Ker7_AkfgXpR2mlpLdeAH73UsVpvGEo2RkcKAl2OMA_0pzHE_uil7P_ww_lcj6ZowDMKUkftIqusT9djsoLqK3hEVB-rnhG5kNoWoD0PtcaecgPMuA0AFTETtPsz6tTFO_iB_U9DU-8eewqGqLLdjF/s212/teleonbeyaz.PNG" tvg-name="TELEON" group-title="🇹🇷 TURKEY",TELEON
+https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3PG1ve858AtX62zm_VK_Olv5BN1GTnFoNHj2gxQIjWYdIua1b3AhBVeIkSX_OiOPw8Nt8wzbdyXiYGrs_8KC00A-YNzZpot0a8ArhsIzsddquwgdv6yDkQBcPUItBsyEYJiP0g5bgXJ_un0LmLe6yKvBEJL5u_JTREb4vxUxlLqcVd2mkfXhgNIi/s320/- fortunaTV2023FTVTURKlogo.png" tvg-name="Fortuna TV" group-title="🇹🇷 TURKEY",Fortuna TV
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-name="Life TV" group-title="🇹🇷 TURKEY",Life TV
