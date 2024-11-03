@@ -462,6 +462,8 @@ http://hw1.jemtv.com/app/taytv/chunks.m3u8
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="🇹🇷 TURKEY",Sözcü TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="🇹🇷 TURKEY",Sözcü TV-2
+https://koprulu34.serv00.net/ythls/?video_id=ztmY_cCtUl0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" tvg-name="TMB TR TV" group-title="🇹🇷 TURKEY",TMB TR TV
