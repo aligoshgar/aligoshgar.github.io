@@ -189,52 +189,26 @@ https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/rla52r4.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TTV
-https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
-https://ismayillitv.efir.com.tr:3281/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ŞİRVAN TV
-https://sirvantv.efir.com.tr:3369/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID TV
-https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
-https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
-https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",NEW TV
-https://NewTvAzerbaycan.efir.com.tr:3354/hybrid/play.m3u8
+https://sirvantv.justhost.online:3369/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/kj4ei9b.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
 https://BoxtvAz2024.efir.com.tr:3815/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BEAT TV
-http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RETRO TV
-https://retrotvaz.efir.com.tr:3523/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",DALĞA TV
-https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",DOĞRU TV
-https://dogrutv.efir.com.tr:3449/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MAX TV
-https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA TV
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA-2 TV
-https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TV
+https://megatv-cinema.justhost.online:3532/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
-https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV
-https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV SİNEMA
-https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Music TV
-https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Arı Muğam TV
-http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist_w1554844413.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="CTV" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CTV
-https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CTV Uşaq
-https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
+https://Megatv-Music.justhost.online:3883/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
+https://ismayillitv.justhost.online:3281/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BEAT TV
+http://135.181.115.81:8000/play/a02d/index.m3u8?token=livet
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SON ÜMİD TV
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CARTOON NETWORK AZ TV
+https://cartoonnetworkaz.justhost.online:3957/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AZ ANEWZ
+https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index_3.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 
