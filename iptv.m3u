@@ -90,6 +90,8 @@ http://edge02.odtv.az/o2/realtv/playlist.m3u8
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD-5
 http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://xalqqazeti.az/uploads/news/116512/1_1_f.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AZ ANEWZ
+https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index_3.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Qəbələ TV" tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639501731_qebele-radio-big-radio_org.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Qəbələ TV
@@ -207,8 +209,6 @@ http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CARTOON NETWORK AZ TV
 https://cartoonnetworkaz.justhost.online:3957/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AZ ANEWZ
-https://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index_3.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 
