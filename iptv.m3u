@@ -757,11 +757,11 @@ https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
 http://s1.merlive.am/matchfutbol1/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
-http://xxx
+http://ditv.ydns.eu:8888/channel/20eed0dd/index.m3u8?q=0f86c7ec34662b6818f5172586d4cf56
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 2
-http://xxx
+http://ditv.ydns.eu:8888/channel/20ef453c/index.m3u8?q=0f86c7ec34662b6818f5172586d4cf56
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 3
-http://xxx
+http://ditv.ydns.eu:8888/channel/20efb99b/index.m3u8?q=0f86c7ec34662b6818f5172586d4cf56
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",ФУТБОЛ
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 1
