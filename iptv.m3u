@@ -189,6 +189,8 @@ https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/8wj0rnk.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MOVIE MAX
+https://tivi240.ozelip.com:3942/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
