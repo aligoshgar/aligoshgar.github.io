@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yılan Oyunu - SVG</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    svg {
+      background-color: #333;
+      border: 2px solid #fff;
+      margin-top: 20px;
+    }
+    .score {
+      font-size: 20px;
+      margin: 10px;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 style="color: #fff;">SVG Yılan Oyunu</h1>
+  <div class="score">Skor: <span id="score">0</span></div>
+  <svg id="gameArea" width="400" height="400"></svg>
+
+  <script>
+    const svg = document.getElementById("gameArea");
+    const scoreElem = document.getElementById("score");
+
+    // Oyun parametreleri
+    const gridSize = 20;
+    let snake = [{ x: 2, y: 2 }];
+    let food = { x: 5, y: 5 };
+    let direction = "RIGHT";
+    let score = 0;
+    let gameInterval;
+    let level = 1;
+    let gameSpeed = 200;
+
+    // Başlangıçta yılanı ve yiyeceği çiz
+    function draw() {
+      svg.innerHTML = ''; // SVG'yi temizle
+
+      // Yılanı çiz
+      snake.forEach((segment, index) => {
+        const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+        rect.setAttribute('x', segment.x * gridSize);
+        rect.setAttribute('y', segment.y * gridSize);
+        rect.setAttribute('width', gridSize);
+        rect.setAttribute('height', gridSize);
+        rect.setAttribute('fill', index === 0 ? "#0095F6" : "#00FF00"); // Baş kısmı farklı renkte
+        svg.appendChild(rect);
+      });
+
+      // Yiyeceği çiz
+      const foodRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      foodRect.setAttribute('x', food.x * gridSize);
+      foodRect.setAttribute('y', food.y * gridSize);
+      foodRect.setAttribute('width', gridSize);
+      foodRect.setAttribute('height', gridSize);
+      foodRect.setAttribute('fill', "#FF6347");
+      svg.appendChild(foodRect);
+
+      // Skoru güncelle
+      scoreElem.textContent = "Skor: " + score;
+    }
+
+    // Yılanı hareket ettir
+    function moveSnake() {
+      const head = { ...snake[0] };
+
+      switch (direction) {
+        case "UP":
+          head.y -= 1;
+          break;
+        case "DOWN":
+          head.y += 1;
+          break;
+        case "LEFT":
+          head.x -= 1;
+          break;
+        case "RIGHT":
+          head.x += 1;
+          break;
+      }
+
+      snake.unshift(head); // Yılanın başını ekle
+      // Eğer yılan yiyeceği yedi
+      if (head.x === food.x && head.y === food.y) {
+        score += 10;
+        food = generateFood(); // Yeni yiyecek oluştur
+        if (score % 50 === 0) { // Seviye atlama
+          levelUp();
+        }
+      } else {
+        snake.pop(); // Yılanın son segmentini çıkar
+      }
+
+      // Eğer yılan duvara çarparsa veya kendine çarparsa oyun biter
+      if (head.x < 0 || head.y < 0 || head.x >= 20 || head.y >= 20 || checkCollision(head)) {
+        gameOver();
+      }
+
+      draw();
+    }
+
+    // Yılanın kendisine çarpıp çarpmadığını kontrol et
+    function checkCollision(head) {
+      return snake.slice(1).some(segment => segment.x === head.x && segment.y === head.y);
+    }
+
+    // Yeni yiyecek oluştur
+    function generateFood() {
+      let newFood;
+      do {
+        newFood = { x: Math.floor(Math.random() * 20), y: Math.floor(Math.random() * 20) };
+      } while (snake.some(segment => segment.x === newFood.x && segment.y === newFood.y)); // Yılanın bulunduğu alana yiyecek koyma
+      return newFood;
+    }
+
+    // Seviyeyi artır
+    function levelUp() {
+      level += 1;
+      gameSpeed = Math.max(100, gameSpeed - 20); // Hızı arttır
+      clearInterval(gameInterval);
+      gameInterval = setInterval(moveSnake, gameSpeed); // Yeni hızda oyun başlat
+    }
+
+    // Oyun bitti
+    function gameOver() {
+      alert("Oyun Bitti! Skor: " + score);
+      clearInterval(gameInterval);
+      resetGame();
+    }
+
+    // Oyunu sıfırla
+    function resetGame() {
+      snake = [{ x: 2, y: 2 }];
+      food = { x: 5, y: 5 };
+      direction = "RIGHT";
+      score = 0;
+      level = 1;
+      gameSpeed = 200;
+      gameInterval = setInterval(moveSnake, gameSpeed);
+      draw();
+    }
+
+    // Klavye ile yılanın yönünü değiştirme
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowUp" && direction !== "DOWN") direction = "UP";
+      if (event.key === "ArrowDown" && direction !== "UP") direction = "DOWN";
+      if (event.key === "ArrowLeft" && direction !== "RIGHT") direction = "LEFT";
+      if (event.key === "ArrowRight" && direction !== "LEFT") direction = "RIGHT";
+    });
+
+    // Başlangıçta oyunu başlat
+    resetGame();
+
+  </script>
+</body>
+</html>
