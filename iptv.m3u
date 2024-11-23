@@ -199,6 +199,10 @@ https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 https://sirvantv.justhost.online:3369/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/kj4ei9b.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
 https://BoxtvAz2024.efir.com.tr:3815/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID TV
+https://tivi208.radyotelekom.com.tr:3510/multi_web/play_720.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
+https://tivi208.radyotelekom.com.tr:3518/multi_web/play_720.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TV
 https://megatv-cinema.justhost.online:3532/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
