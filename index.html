@@ -25,6 +25,28 @@ http://www.tooplate.com/view/2090-kinetic
         <link rel="stylesheet" href="css/tooplate-style.css">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	    <script type="text/javascript">
+  // EmailJS kullanıcı ID'nizi burada başlatıyoruz
+  emailjs.init("1Hk6W4XP0N-J-ixge"); // YOUR_USER_ID'yi EmailJS Dashboard'dan alın
+
+  // Formu gönderme işlevi
+  document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Formun normal submit işlemini engelliyoruz
+
+    // Formu formData objesine alıyoruz
+    var formData = new FormData(this);
+
+    // EmailJS'e formu gönderiyoruz
+    emailjs.sendForm('service_imzgzyl', 'template_5gl87rf', formData)
+      .then(function(response) {
+        // Mesaj gönderildiğinde bu fonksiyon çalışır
+        alert('Mesajınız gönderildi: ' + response.status);
+      }, function(error) {
+        // Mesaj gönderilemediğinde bu fonksiyon çalışır
+        alert('Mesaj gönderilemedi: ' + error.status);
+      });
+  });
+</script>
     </head>
     <body>
         <!--[if lt IE 8]>
