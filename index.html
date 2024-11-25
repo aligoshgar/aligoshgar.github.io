@@ -35,6 +35,24 @@ http://www.tooplate.com/view/2090-kinetic
       color: #333;
     }
 
+    /* Header */
+    header {
+      background-color: #1E2A47;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header a img {
+      width: 120px;
+      height: auto;
+      border-radius: 8px;
+      transition: transform 0.3s;
+    }
+
+    header a img:hover {
+      transform: scale(1.1);
+    }
+
     /* Ana içerik */
     main {
       padding: 40px 20px;
@@ -46,17 +64,33 @@ http://www.tooplate.com/view/2090-kinetic
       margin: 0 auto;
     }
 
-    /* Dikey Instagram Profil */
+    .intro {
+      margin-bottom: 40px;
+      color: #555;
+    }
+
+    .intro h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+      color: #1E2A47;
+    }
+
+    .intro p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    /* Instagram profili */
     .instagram-profile {
       display: flex;
-      flex-direction: column;
+      justify-content: center;
       align-items: center;
       background-color: #fff;
       border-radius: 8px;
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-      padding: 30px;
+      padding: 20px;
       margin-top: 40px;
-      max-width: 400px;
+      max-width: 800px;
       margin: 0 auto;
     }
 
@@ -69,15 +103,14 @@ http://www.tooplate.com/view/2090-kinetic
     }
 
     .instagram-profile .info {
-      margin-top: 20px;
-      text-align: center;
+      margin-left: 20px;
+      text-align: left;
     }
 
     .instagram-profile .info h3 {
       font-size: 24px;
       font-weight: bold;
       margin: 0;
-      color: #1E2A47;
     }
 
     .instagram-profile .info p {
@@ -108,6 +141,18 @@ http://www.tooplate.com/view/2090-kinetic
     form select:hover {
       background-color: #e9e9e9;
     }
+
+    footer {
+      background-color: #1E2A47;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    footer p {
+      margin: 0;
+    }
+
   </style>
     </head>
     <body>
@@ -196,11 +241,7 @@ http://www.tooplate.com/view/2090-kinetic
                   <div class="page" id="p4">
                    <li class="icon fa fa-phone"><span class="title">Əlaqə</span>
                  <div class="container">
-                      <!-- Main content -->
-  <main>
-    <div class="wrapper">
-
-      <!-- Dikey Instagram Profil Bilgileri -->
+                      <!-- Instagram Profil Bilgileri -->
       <div class="instagram-profile">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFc8J7dSGOBlvjag-Ia_-2wTClStJI5VlikSKHFaK-teyEwZOV_A0qSeoBZoRLBQ379rYqHTgJR79cYqwJwMCDd3TooeF6M-0VCd5g88Pvbl78zpxkqzar9jJ_KLuZ2YTA4C8HzvKgYULUt7a0ca5FFhJHArqeZe31hAMjwoDVqV-4ZqkM0t_eTZyZRao/s1510/Picsart_23-01-04_21-58-29-606.jpg" alt="Kullanıcı Profili Resmi">
         <div class="info">
@@ -216,13 +257,10 @@ http://www.tooplate.com/view/2090-kinetic
           <form>
             <select name="menu" onchange="window.open(this.options[this.selectedIndex].value, '_blank')">
               <option>Əlaqə vasitəsini seçin</option>
-              <option value="https://t.me/aligoshgar">Telegram ile iletişime geç</option>
+              <option value="https://t.me/aligoshgar">Telegram ilə əlaqə</option>
             </select>
           </form>
         </div>
-      </div>
-    </div>
-  </main>
                          </div>
                          <div class="col-md-6">
                            <div class="right-info">
