@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Əliqoşqar Kərimli</title>
+    <title>Snake Xenzia | Əliqoşqar Kərimli</title>
     <link rel="stylesheet" href="../css/snake.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
@@ -30,6 +30,19 @@
       .back-to-home:hover {
         background-color: #2979b6;
       }
+
+      /* Sayfa yüksekliği %100 ve flex ile butonun alt-alta görünmesini sağla */
+      body, .wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .wrapper {
+        flex-grow: 1; /* İçeriğin genişlemesi için */
+      }
     </style>
   </head>
   <body>
@@ -51,6 +64,5 @@
     <a href="../index.html">
       <button class="back-to-home">Əsas səhifə</button>
     </a>
-
   </body>
 </html>
