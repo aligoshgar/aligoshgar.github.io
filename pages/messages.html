@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duyurular</title>
+  <style>
+    body {
+      background-color: black;  /* Sayfa arka planı siyah */
+      color: white;  /* Yazı rengi beyaz */
+      font-family: Arial, sans-serif;  /* Yazı tipi */
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+
+    .container {
+      width: 80%;
+      max-width: 800px;
+      padding: 20px;
+      background-color: #111;  /* Duyuru alanı için arka plan rengi */
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+
+    .announcement {
+      background-color: #222;  /* Duyuru kutusunun arka plan rengi */
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);  /* Kutu gölgesi */
+    }
+
+    .announcement h3 {
+      margin: 0;
+      font-size: 1.4rem;
+      color: #00ff00;  /* Başlık rengi (yeşil) */
+    }
+
+    .announcement p {
+      margin: 10px 0;
+      font-size: 1.1rem;
+    }
+
+    .announcement .date {
+      font-size: 0.9rem;
+      color: #888;  /* Tarih rengi */
+      text-align: right;
+    }
+
+    /* Ana sayfaya dönme butonu */
+    .back-to-home {
+      display: block;
+      margin-top: 20px;
+      padding: 1rem 2rem;
+      background-color: #3897f0;
+      color: white;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-align: center;
+      transition: background-color 0.3s ease;
+      width: 100%;
+      max-width: 250px;
+      margin: 20px auto;
+    }
+
+    .back-to-home:hover {
+      background-color: #2979b6;
+    }
+
+    /* Linklerin alt çizgisini kesin olarak kaldır */
+    a {
+      text-decoration: none;  /* Linklerin altını çizme */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Duyuru 1 -->
+    <div class="announcement">
+      <h3>Duyuru Başlığı 1</h3>
+      <p>Bugün yapılacak olan bakım çalışması nedeniyle bazı servislerde aksama olabilir. Lütfen sabırlı olun.</p>
+      <div class="date">Tarih: 27 Kasım 2024</div>
+    </div>
+
+    <!-- Duyuru 2 -->
+    <div class="announcement">
+      <h3>Duyuru Başlığı 2</h3>
+      <p>Sistem güncellemeleri nedeniyle bazı işlemler geçici olarak devre dışı kalacaktır. Lütfen işlem yapmadan önce kontrol edin.</p>
+      <div class="date">Tarih: 25 Kasım 2024</div>
+    </div>
+
+    <!-- Duyuru 3 -->
+    <div class="announcement">
+      <h3>Duyuru Başlığı 3</h3>
+      <p>Yeni şifre güncelleme prosedürleri uygulanacaktır. Detaylar için lütfen yönetici ile iletişime geçin.</p>
+      <div class="date">Tarih: 20 Kasım 2024</div>
+    </div>
+
+    <!-- Duyuru 4 -->
+    <div class="announcement">
+      <h3>Duyuru Başlığı 4</h3>
+      <p>Yarından itibaren çalışma saatleri değişecektir. Lütfen yeni saat düzenlemeleri hakkında bilgi alınız.</p>
+      <div class="date">Tarih: 18 Kasım 2024</div>
+    </div>
+  </div>
+
+  <!-- Ana sayfaya dönme butonu -->
+  <a href="../index.html">
+    <button class="back-to-home">Əsas səhifə</button>
+  </a>
+
+</body>
+</html>
