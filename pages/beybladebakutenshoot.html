@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Əliqoşqar Kərimli</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Sayfa yüksekliği %100 olacak şekilde ayarlandı */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between; /* İçeriği yukarı ve aşağıya itiyor */
+            text-align: center; /* Metni merkeze al */
+        }
+
+        .content {
+            font-size: 18px;
+            padding: 20px;
+            text-align: justify; /* Metni sağa ve sola hizalar */
+            flex: 1; /* İçeriği esnek hale getirir */
+            margin: 0 20px; /* İçeriği sağdan ve soldan hizalamak için boşluk ekler */
+        }
+
+        .back-button {
+            display: flex; /* Flexbox kullanarak içeriği ortalamak için */
+            justify-content: center; /* Yatayda ortalar */
+            align-items: center; /* Dikeyde ortalar */
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            margin: 20px auto; /* Butonu yatayda ortalar */
+            width: 100px; /* Buton genişliği */
+            height: 50px; /* Buton yüksekliği */
+        }
+
+        .back-button:hover {
+            background-color: #45a049;
+        }
+
+        /* Resim için düzenleme */
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%; /* Resmi ekran boyutuna göre ölçeklendir */
+            height: auto; /* Yükseklik oranını koruyarak genişliği ayarla */
+            max-height: 400px; /* Yüksekliği belirli bir sınırda tut */
+        }
+
+        /* Linklerin alt alta sıralanması için düzenleme */
+        .links {
+            margin-top: 20px;
+        }
+
+        .links a {
+            display: block; /* Her bir bağlantıyı yeni bir satıra yerleştir */
+            color: #4CAF50;
+            text-decoration: none;
+            margin: 5px 0; /* Linkler arasında boşluk */
+        }
+
+        .links a:hover {
+            color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <p><br /></p>
+
+        <!-- Resim düzenlemesi -->
+        <div class="image-container">
+            <img src="https://aligoshgar.github.io/img/beyblade.jpg" alt="Beyblade" />
+        </div>
+
+        <p>Uşaqlığımızın ən önəmli parçalarından olan Beyblade yenidən sizinlə! Beyblade cizgi serialının Klassik hissəsini təşkil edən Bakuten Shoot seriyasının hər üç sezonunu və filmini sizə təqdim edirik:</p>
+
+        <!-- Linklerin alt alta sıralanması -->
+        <div class="links">
+            <b><a href="https://drive.google.com/drive/folders/1-7sIF2InHJS2u4rX5D0_0k9GnE7i8lIR?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: 2000</a></b><br />
+            <b><a href="https://drive.google.com/drive/folders/1-aE71mTjadB2dHSi4PHbY3rjBbknlDHz?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: 2002 (V-Force)</a></b><br />
+            <b><a href="https://drive.google.com/drive/folders/1-xHlutZ7hwb782mBRVjPWtf_VHH-rhrI?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: G-Revolution</a></b><br />
+            <b><a href="https://drive.google.com/file/d/1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a/view?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: FILM</a></b>
+        </div>
+    </div>
+
+    <!-- Ana sayfaya dön butonu -->
+    <a href="../index.html" class="back-button">Əsas səhifə</a>
+</body>
+</html>
