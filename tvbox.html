@@ -7,10 +7,10 @@
 </head>
 <body>
     <div style="display: flex; justify-content: center; width: 100%; height: 100vh;">
-        <iframe id="videoPlayer" width="100%" height="100%" 
-                src="https://panel.yayingold.com.tr/VideoPlayer/aligoshgartv?autoplay=1" 
-                style="border: none;" scrolling="no" frameborder="0" 
-                allow="autoplay; fullscreen" 
+        <iframe id="videoPlayer" width="100%" height="100%"
+                src="https://panel.yayingold.com.tr/VideoPlayer/aligoshgartv?autoplay=1"
+                style="border: none;" scrolling="no" frameborder="0"
+                allow="autoplay; fullscreen"
                 allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
         </iframe>
     </div>
@@ -18,12 +18,12 @@
     <script>
         function requestFullScreen() {
             var iframe = document.getElementById('videoPlayer');
-            // Tarayıcı uyumluluğunu kontrol ederek tam ekran isteğini tetikleyelim
+            // Check browser compatibility and request fullscreen
             if (iframe.requestFullscreen) {
                 iframe.requestFullscreen();
             } else if (iframe.mozRequestFullScreen) { // Firefox
                 iframe.mozRequestFullScreen();
-            } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari ve Opera
+            } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari and Opera
                 iframe.webkitRequestFullscreen();
             } else if (iframe.msRequestFullscreen) { // IE/Edge
                 iframe.msRequestFullscreen();
@@ -31,13 +31,12 @@
         }
 
         window.onload = function() {
-            // Sayfa yüklendiğinde tam ekran modu başlatılır
+            // Trigger fullscreen mode when the page loads
             requestFullScreen();
         };
 
-        // Ekran boyutu değiştiğinde tam ekran modunu yeniden tetikler
+        // Re-trigger fullscreen mode if the window is resized
         window.addEventListener('resize', function() {
-            // Bu, ekran boyutları değiştiğinde iframe'i tam ekran yapmaya çalışır
             if (document.fullscreenElement === null) {
                 requestFullScreen();
             }
