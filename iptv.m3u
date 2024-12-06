@@ -149,7 +149,7 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",GunAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="GEMAZ TV" tvg-logo="https://tvlogo.xyz/iran/gemaz.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",GEMAZ TV
-http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/410075.ts
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VOSTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VOSTOK TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VOSTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VOSTOK TV-2
@@ -168,6 +168,12 @@ http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d
 https://hw2.jemtv.com/app/azeri/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Vilayət TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SAHAND TV
+https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN"AL-ZAHRA TV
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Hadi TV
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MCJ TV Shopping
 http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",VIP Azerbaijan
@@ -193,24 +199,32 @@ https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/aya
 https://live.yayingold.com.tr/moviemaxazlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://live.yayingold.com.tr:443/esmatvlive/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Ulduz TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",DOĞRU TV
+https://live.yayingold.com.tr/dogrutvazlive/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV
+https://glb.bozztv.com/glb/ssh101/musicvip/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV Sinema
+https://tv208.radyotelekom.com.tr:3498/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ŞİRVAN TV
-https://sirvantv.justhost.online:3369/hybrid/play.m3u8
+https://tv208.radyotelekom.com.tr:3326/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/kj4ei9b.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
 https://tivi191.ozelip.com:3176/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",FLUX TV
 https://live.yayingold.com.tr/fluxtvaz/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UŞAQ TV
 https://live.yayingold.com.tr/cocuktvaz/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID TV
-https://tivi208.radyotelekom.com.tr:3510/multi_web/play_720.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UMID SHOW TV
-https://tivi208.radyotelekom.com.tr:3518/multi_web/play_720.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MAX TV
+https://tv208.radyotelekom.com.tr:3817/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TV
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
 https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA ŞABAN TV
+https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA RETRO TV
+https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA WAR TV
+https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BABƏK TV
 https://babektv7.interweb.com.tr:3954/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
@@ -226,7 +240,7 @@ https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SON ÜMİD TV
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",RİHAT TV
-https://tivi191.ozelip.com:3677/hybrid/play.m3u8
+https://tv208.radyotelekom.com.tr:3755/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Pro_Uyducular_HD/playlist.m3u8
 
@@ -1866,6 +1880,12 @@ https://icecast.livetv.az/mediafm
 https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://top-radio.ru/assets/image/radio/180/avtofm.jpg" group-title="📻 RADIO / AZERBAIJAN",Avto FM
 http://5.191.241.101:8000/avtofm
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://static.wikia.nocookie.net/radiopedia/images/3/30/106_FM_%28Азербайджан%29_%282013-н.в.%29.png/revision/latest?cb=20160414165558&path-prefix=ru" group-title="📻 RADIO / AZERBAIJAN",106 FM
+https://radiosolo.ru/radio/106fm/icecast.audio
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://static.wikia.nocookie.net/radiopedia/images/3/30/106_FM_%28Азербайджан%29_%282013-н.в.%29.png/revision/latest?cb=20160414165558&path-prefix=ru" group-title="📻 RADIO / AZERBAIJAN",106 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://top-radio.ru/assets/image/radio/180/1063fmaz.png" group-title="📻 RADIO / AZERBAIJAN",106.3 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://baku.ws/uploads/posts/2016-07/1468922140_cm.jpg" group-title="📻 RADIO / AZERBAIJAN",ANS ÇM Radio
 https://live.ansradio.ws:8443/mp3_128
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://radio.ntv.az/images/logo.png" group-title="📻 RADIO / AZERBAIJAN",Naxçıvan Radiosu
@@ -1878,12 +1898,14 @@ http://85.132.78.122:3344/now
 https://radio.autoliferadio.com:8005/radio
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" group-title="📻 RADIO / AZERBAIJAN",VIVA FM Azərbaycan
 https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo=https://cdn.onlineradiobox.com/img/l/9/85489.v4.png" group-title="📻 RADIO / AZERBAIJAN",Radio BOSS
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo=https://cdn.onlineradiobox.com/img/l/9/85489.v4.png" group-title="📻 RADIO / AZERBAIJAN",Business Radio BOSS
 https://listen5.myradio24.com/bosscomaz
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" group-title="📻 RADIO / AZERBAIJAN",Ağdam Radio
 https://a2.asurahosting.com:6650/radio.mp3
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://static2.mytuner.mobi/media/radios-150px/te4J2rb7TB.png" group-title="📻 RADIO / AZERBAIJAN",Day.Az Radio
 https://radio.day.az:9443/128m
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" group-title="📻 RADIO / AZERBAIJAN",Sağlam Radio
+https://s24.myradiostream.com/:17446/listen.mp3
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://lh4.googleusercontent.com/proxy/r6OdeozM2XhPK6otKHteTZ9msVYRcVWhW6vIMwi2L3zGTxvpk_3C9usCcL2uRGL3SEJ0dGVE1d80MQ" group-title="📻 RADIO / AZERBAIJAN",DANCE FM
 http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" group-title="📻 RADIO / AZERBAIJAN",Baku Jukebox
