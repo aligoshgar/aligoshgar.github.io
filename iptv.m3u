@@ -586,20 +586,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="🇹🇷 TURKEY",CARTOON NETWORK Türkçe
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="",KRAL TEBER
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w401435211.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 TURKEY" logo="",KRAL ANADOLU
-https://tivi191.ozelip.com:3499/stream/play.m3u8
+
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="🇹🇷 TURKEY",TR: S Sport
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/1753
