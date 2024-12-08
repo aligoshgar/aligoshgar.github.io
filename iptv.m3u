@@ -362,6 +362,10 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-name="Bir TV" group-title="🇹🇷 TURKEY",Bir TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_7.png" tvg-name="" group-title="🇹🇷 TURKEY",AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_284.png" tvg-name="" group-title="🇹🇷 TURKEY",TV 3
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_49.png" tvg-name="GRT TV" group-title="🇹🇷 TURKEY",GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/9lfe7dt.jpg" tvg-name="GRT TV" group-title="🇹🇷 TURKEY",FRT TV
@@ -584,12 +588,8 @@ http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" tvg-name="RİZETÜRK TV" group-title="🇹🇷 TURKEY",RİZETÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1eYQOGF6-ELbkd5rIxFwqU5d2_zshA6n7L9DRruWGm_g-W5NoBwgO5lHoNPv6Kz0myhpb6VVdZDiXEk_hwH5JY2uAXqAMiGf8IVhR3NuB48KPLXviOEIJqgFvZbR_xWQXIX-w1NuCQ_zi_-RFxHmDdV8DLvfmQYiKzn-GMnNMNrri7tLTFgqN8Uv1qg/s1600-rw/sinema.jpg" tvg-name="Yansıma TV" group-title="🇹🇷 TURKEY",Yansıma Sinema TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7ZdhJVf21eqhkGzMFidRTeDO7vE1sFjccRsfpS401Ls29aoB1ubljkSwiWf7_w54mU5kptg5LhefRFVI2LOvMf50pokdrIZb9-R21EIiWCb-GeUVA2-ftZNvjKSDMgc5_Shh0jk5OzrQ-sakoLlkXqZ2KFbaJc1zYCUw1Kr7szLLfoE-Jl4SRRmVpw/s1600-rw/ym.jpg" tvg-name="Yansıma TV" group-title="🇹🇷 TURKEY",Yansıma Müzik TV
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="RealBox" tvg-logo="https://realtvbox.com/wp-content/uploads/real-white-logo-1024x341.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",RealBox YERLI
-http://62.210.88.161/gin-trn09/gt-sinevizyon-2/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="RealBox" tvg-logo="https://realtvbox.com/wp-content/uploads/real-white-logo-1024x341.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",Sudurağı TV
+http://164.132.23.92:22372/suduragitv/suduragitv/sec-f5-v1-a1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" tvg-name="Galatasaray TV" group-title="🇹🇷 TURKEY",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" tvg-name="Fenerbahçe TV" group-title="🇹🇷 TURKEY",Fenerbahçe TV
