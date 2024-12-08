@@ -257,8 +257,6 @@ https://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" tvg-name="TRT 2" group-title="🇹🇷 TURKEY",TRT 2 HD [Geo-Blocked]
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="🇹🇷 TURKEY",TRT 3 Spor
-http://194.76.0.117:8070/resplice/wdLIS4d9758INyuX/299775
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="🇹🇷 TURKEY",TRT 3 Spor
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/31245/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor
 https://hw1.jemtv.com/app/trtspor/playlist.m3u8
@@ -368,8 +366,8 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_49.png" tvg-name="GRT TV" group-title="🇹🇷 TURKEY",GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/9lfe7dt.jpg" tvg-name="GRT TV" group-title="🇹🇷 TURKEY",FRT TV
-https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_124.png" tvg-name="SUNRTV" group-title="🇹🇷 TURKEY",SUN RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_121.png" tvg-name="GRT TV" group-title="🇹🇷 TURKEY",SAT 7 TURK
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8?
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_88.png" tvg-name="Kanal V" group-title="🇹🇷 TURKEY",Kanal V
