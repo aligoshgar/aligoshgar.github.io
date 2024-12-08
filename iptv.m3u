@@ -339,8 +339,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="360 TV" group-title="🇹🇷 TURKEY",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" tvg-name="Beyaz TV" group-title="🇹🇷 TURKEY",Beyaz TV
-https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" tvg-name="Beyaz TV" group-title="🇹🇷 TURKEY",Beyaz TV
 http://hw1.jemtv.com/app/beyaz/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Teve2" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" tvg-name="Teve2" group-title="🇹🇷 TURKEY",Teve 2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -461,8 +459,6 @@ http://hw1.jemtv.com/app/taytv/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" tvg-name="Ulusal TV" group-title="🇹🇷 TURKEY",Ulusal TV
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="🇹🇷 TURKEY",Sözcü TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-name="Sözcü TV" group-title="🇹🇷 TURKEY",Sözcü TV-2
 https://koprulu34.serv00.net/ythls/?video_id=ztmY_cCtUl0.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/2560px-TBMM_TV_logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
