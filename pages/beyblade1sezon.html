@@ -44,7 +44,22 @@
             height: auto; /* Yüksekliği orantılı olarak ayarla */
         }
 
-        .back-button, .seasons-button {
+        .seasons-button {
+            display: flex; /* Flexbox kullanarak içeriği ortalamak için */
+            justify-content: center; /* Yatayda ortalar */
+            align-items: center; /* Dikeyde ortalar */
+            background-color: #B814FF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            margin: 10px auto; /* Butonu yatayda ortalar */
+            width: 150px; /* Buton genişliği */
+            height: 50px; /* Buton yüksekliği */
+        }
+        .back-button {
             display: flex; /* Flexbox kullanarak içeriği ortalamak için */
             justify-content: center; /* Yatayda ortalar */
             align-items: center; /* Dikeyde ortalar */
@@ -61,7 +76,7 @@
         }
 
         .seasons-button:hover, .back-button:hover {
-            background-color: #45a049;
+            background-color: #7E0DAF;
         }
 
         .dropdown {
@@ -103,7 +118,7 @@
         <!-- Beyblade 1. Bölüm videosu -->
         <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
-        <!-- Bölüm seçme açılır menüsü -->
+        <!-- Bölüm seçme 45a049 açılır menüsü -->
         <div class="dropdown">
             <label for="episode">Bölüm seçin:</label>
             <select id="episode" onchange="window.location.href = this.value;">
