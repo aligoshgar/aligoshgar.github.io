@@ -75,8 +75,11 @@
             height: 50px; /* Buton yüksekliği */
         }
 
-        .seasons-button:hover, .back-button:hover {
+        .seasons-button:hover {
             background-color: #7E0DAF;
+        }
+        .back-button:hover {
+            background-color: #45a049;
         }
 
         .dropdown {
@@ -118,7 +121,7 @@
         <!-- Beyblade 1. Bölüm videosu -->
         <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
-        <!-- Bölüm seçme 45a049 açılır menüsü -->
+        <!-- Bölüm seçme açılır menüsü -->
         <div class="dropdown">
             <label for="episode">Bölüm seçin:</label>
             <select id="episode" onchange="window.location.href = this.value;">
