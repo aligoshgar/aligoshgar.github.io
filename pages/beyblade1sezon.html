@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyblade 1. Bölüm</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh; /* Sayfa yüksekliği %100 olacak şekilde ayarlandı */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between; /* İçeriği yukarı ve aşağıya itiyor */
+            text-align: center; /* Metni merkeze al */
+        }
+
+        .content {
+            flex: 1; /* İçeriği esnek hale getirir */
+            margin: 0 20px; /* İçeriği sağdan ve soldan hizalamak için boşluk ekler */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* İçeriği dikeyde ortalar */
+            align-items: center; /* İçeriği yatayda ortalar */
+        }
+
+        iframe {
+            margin-bottom: 20px;
+            max-width: 100%; /* Ekran boyutuna göre ölçeklendir */
+            height: auto; /* Yüksekliği orantılı olarak ayarla */
+        }
+
+        .back-button {
+            display: flex; /* Flexbox kullanarak içeriği ortalamak için */
+            justify-content: center; /* Yatayda ortalar */
+            align-items: center; /* Dikeyde ortalar */
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            margin: 20px auto; /* Butonu yatayda ortalar */
+            width: 150px; /* Buton genişliği */
+            height: 50px; /* Buton yüksekliği */
+        }
+
+        .back-button:hover {
+            background-color: #45a049;
+        }
+
+        .dropdown {
+            margin: 20px auto;
+            text-align: left;
+            width: 300px; /* Menü genişliğini ayarla */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            background-color: #333;
+            border: 1px solid #4CAF50;
+            border-radius: 5px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        select option {
+            background-color: black;
+            color: white;
+        }
+
+        select option:hover {
+            background-color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <!-- Beyblade 1. Bölüm videosu -->
+        <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay"></iframe>
+        
+        <!-- Bölüm seçme açılır menüsü -->
+        <div class="dropdown">
+            <label for="episode">Bölüm seçin:</label>
+            <select id="episode" onchange="window.location.href = this.value;">
+                <option value="#">Bölüm Seçin</option>
+                <option value="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview">1. Bölüm</option>
+                <!-- Diğer bölümler için seçenekler -->
+                <option value="https://drive.google.com/file/d/2...">2. Bölüm</option>
+                <option value="https://drive.google.com/file/d/3...">3. Bölüm</option>
+                <!-- ... -->
+                <option value="https://drive.google.com/file/d/51...">51. Bölüm</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Ana sayfaya dön butonu -->
+    <a href="../index.html" class="back-button">Ana sayfaya dönüş</a>
+</body>
+</html>
