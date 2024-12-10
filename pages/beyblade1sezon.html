@@ -27,13 +27,24 @@
             align-items: center; /* İçeriği yatayda ortalar */
         }
 
+        .title {
+            font-size: 32px; /* Başlık boyutunu ayarla */
+            font-weight: bold;
+            margin-bottom: 10px; /* Başlık ve alt başlık arasında boşluk */
+        }
+
+        .subtitle {
+            font-size: 20px; /* Alt başlık boyutunu ayarla */
+            margin-bottom: 20px; /* Alt başlık ve video arasında boşluk */
+        }
+
         iframe {
             margin-bottom: 20px;
             max-width: 100%; /* Ekran boyutuna göre ölçeklendir */
             height: auto; /* Yüksekliği orantılı olarak ayarla */
         }
 
-        .back-button {
+        .back-button, .seasons-button {
             display: flex; /* Flexbox kullanarak içeriği ortalamak için */
             justify-content: center; /* Yatayda ortalar */
             align-items: center; /* Dikeyde ortalar */
@@ -44,12 +55,12 @@
             border-radius: 5px;
             cursor: pointer;
             text-decoration: none;
-            margin: 20px auto; /* Butonu yatayda ortalar */
+            margin: 10px auto; /* Butonu yatayda ortalar */
             width: 150px; /* Buton genişliği */
             height: 50px; /* Buton yüksekliği */
         }
 
-        .back-button:hover {
+        .seasons-button:hover, .back-button:hover {
             background-color: #45a049;
         }
 
@@ -85,8 +96,12 @@
 </head>
 <body>
     <div class="content">
+        <!-- Başlık ve alt başlık -->
+        <div class="title">1. Sezon</div>
+        <div class="subtitle">Beyblade 1. Bölüm</div>
+        
         <!-- Beyblade 1. Bölüm videosu -->
-        <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
         <!-- Bölüm seçme açılır menüsü -->
         <div class="dropdown">
@@ -102,6 +117,9 @@
             </select>
         </div>
     </div>
+
+    <!-- Tüm sezonlar butonu -->
+    <a href="../seasons.html" class="seasons-button">Tüm Sezonlar</a>
 
     <!-- Ana sayfaya dön butonu -->
     <a href="../index.html" class="back-button">Ana sayfaya dönüş</a>
