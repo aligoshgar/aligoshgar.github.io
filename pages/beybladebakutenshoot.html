@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beyblade 1. Bölüm</title>
+    <title>Əliqoşqar Kərimli</title>
     <style>
         body {
             background-color: black;
@@ -19,32 +19,14 @@
         }
 
         .content {
+            font-size: 18px;
+            padding: 20px;
+            text-align: justify; /* Metni sağa ve sola hizalar */
             flex: 1; /* İçeriği esnek hale getirir */
             margin: 0 20px; /* İçeriği sağdan ve soldan hizalamak için boşluk ekler */
-            display: flex;
-            flex-direction: column;
-            justify-content: center; /* İçeriği dikeyde ortalar */
-            align-items: center; /* İçeriği yatayda ortalar */
         }
 
-        .title {
-            font-size: 32px; /* Başlık boyutunu ayarla */
-            font-weight: bold;
-            margin-bottom: 10px; /* Başlık ve alt başlık arasında boşluk */
-        }
-
-        .subtitle {
-            font-size: 20px; /* Alt başlık boyutunu ayarla */
-            margin-bottom: 20px; /* Alt başlık ve video arasında boşluk */
-        }
-
-        iframe {
-            margin-bottom: 20px;
-            max-width: 100%; /* Ekran boyutuna göre ölçeklendir */
-            height: auto; /* Yüksekliği orantılı olarak ayarla */
-        }
-
-        .back-button, .seasons-button {
+        .back-button {
             display: flex; /* Flexbox kullanarak içeriği ortalamak için */
             justify-content: center; /* Yatayda ortalar */
             align-items: center; /* Dikeyde ortalar */
@@ -55,73 +37,61 @@
             border-radius: 5px;
             cursor: pointer;
             text-decoration: none;
-            margin: 10px auto; /* Butonu yatayda ortalar */
-            width: 150px; /* Buton genişliği */
+            margin: 20px auto; /* Butonu yatayda ortalar */
+            width: 100px; /* Buton genişliği */
             height: 50px; /* Buton yüksekliği */
         }
 
-        .seasons-button:hover, .back-button:hover {
+        .back-button:hover {
             background-color: #45a049;
         }
 
-        .dropdown {
-            margin: 20px auto;
-            text-align: left;
-            width: 300px; /* Menü genişliğini ayarla */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+        /* Resim için düzenleme */
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%; /* Resmi ekran boyutuna göre ölçeklendir */
+            height: auto; /* Yükseklik oranını koruyarak genişliği ayarla */
+            max-height: 400px; /* Yüksekliği belirli bir sınırda tut */
         }
 
-        select {
-            width: 100%;
-            padding: 10px;
-            background-color: #333;
-            border: 1px solid #4CAF50;
-            border-radius: 5px;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
+        /* Linklerin alt alta sıralanması için düzenleme */
+        .links {
+            margin-top: 20px;
         }
 
-        select option {
-            background-color: black;
-            color: white;
+        .links a {
+            display: block; /* Her bir bağlantıyı yeni bir satıra yerleştir */
+            color: #4CAF50;
+            text-decoration: none;
+            margin: 5px 0; /* Linkler arasında boşluk */
         }
 
-        select option:hover {
-            background-color: #4CAF50;
+        .links a:hover {
+            color: #45a049;
         }
     </style>
 </head>
 <body>
     <div class="content">
-        <!-- Başlık ve alt başlık -->
-        <div class="title">1. Sezon</div>
-        <div class="subtitle">Beyblade 1. Bölüm</div>
-        
-        <!-- Beyblade 1. Bölüm videosu -->
-        <iframe src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" width="640" height="480" allow="autoplay; fullscreen" allowfullscreen></iframe>
-        
-        <!-- Bölüm seçme açılır menüsü -->
-        <div class="dropdown">
-            <label for="episode">Bölüm seçin:</label>
-            <select id="episode" onchange="window.location.href = this.value;">
-                <option value="#">Bölüm Seçin</option>
-                <option value="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview">1. Bölüm</option>
-                <!-- Diğer bölümler için seçenekler -->
-                <option value="https://drive.google.com/file/d/2...">2. Bölüm</option>
-                <option value="https://drive.google.com/file/d/3...">3. Bölüm</option>
-                <!-- ... -->
-                <option value="https://drive.google.com/file/d/51...">51. Bölüm</option>
-            </select>
+        <p><br /></p>
+        <!-- Resim düzenlemesi -->
+        <div class="image-container">
+            <img src="https://aligoshgar.github.io/img/beyblade.jpg" alt="Beyblade" />
+        </div>
+        <p>Uşaqlığımızın ən önəmli parçalarından olan Beyblade yenidən sizinlə! Beyblade cizgi serialının Klassik hissəsini təşkil edən Bakuten Shoot seriyasının hər üç sezonunu və filmini sizə təqdim edirik:</p>
+        <!-- Linklerin alt alta sıralanması -->
+        <div class="links">
+            <b><a href="https://drive.google.com/drive/folders/1-7sIF2InHJS2u4rX5D0_0k9GnE7i8lIR?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: 2000</a></b><br />
+            <b><a href="https://drive.google.com/drive/folders/1-aE71mTjadB2dHSi4PHbY3rjBbknlDHz?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: 2002 (V-Force)</a></b><br />
+            <b><a href="https://drive.google.com/drive/folders/1-xHlutZ7hwb782mBRVjPWtf_VHH-rhrI?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: G-Revolution</a></b><br />
+            <b><a href="https://drive.google.com/file/d/1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a/view?usp=drive_link" target="_blank">Beyblade - Bakuten Shoot: FILM</a></b>
         </div>
     </div>
 
-    <!-- Tüm sezonlar butonu -->
-    <a href="../seasons.html" class="seasons-button">Tüm Sezonlar</a>
-
     <!-- Ana sayfaya dön butonu -->
-    <a href="../index.html" class="back-button">Ana sayfaya dönüş</a>
+    <a href="../index.html" class="back-button">Əsas səhifə</a>
 </body>
 </html>
