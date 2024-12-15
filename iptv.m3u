@@ -267,7 +267,7 @@ https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor Yıldız [Geo-Blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
-http://pars01.com:8080/play/live.php?mac=00:1A:79:13:53:33&stream=1841&extension=m3u8
+http://51.89.103.52:8080/furkan954/araci5020/138426
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/new-logo-w.png" tvg-name="TRT Haber" group-title="🇹🇷 TURKEY",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/new-logo-w.png" tvg-name="TRT Haber" group-title="🇹🇷 TURKEY",TRT Haber-2
@@ -637,7 +637,7 @@ http://vavoo.to/play/1691223078/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" group-title="🇹🇷 TURKEY",LOVE NATURE Türkçe
 http://dunya.moppie.info:7444/avsncelotrceell824423/mo008amnshg66wa/34360
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",BBC EARTH Türkçe
-http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/8238
+http://51.89.103.52:8080/furkan954/araci5020/286547
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",ID Türkçe
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/8237
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/2560px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",Da Vinci
