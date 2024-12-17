@@ -315,9 +315,9 @@ http://185.234.111.229:8000/play/a018
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" tvg-name="ATV Avrupa" group-title="🇹🇷 TURKEY",ATV Avrupa-2
 https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" tvg-name="A2 TV" group-title="🇹🇷 TURKEY",A2 TV
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" tvg-name="A2 TV" group-title="🇹🇷 TURKEY",A2 TV-2
 https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" tvg-name="A2 TV" group-title="🇹🇷 TURKEY",A2 TV-2
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="🇹🇷 TURKEY",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="🇹🇷 TURKEY",Show TV-2
