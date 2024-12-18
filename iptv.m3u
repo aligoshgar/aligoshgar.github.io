@@ -256,6 +256,8 @@ http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/31245/index.m3u8
 https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor [Geo-Blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor Yıldız
+https://canlitvulusal3.xyz/live/trtsporyildiz/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor Yıldız [Geo-Blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/512px-TRT_4K_logo.svg.png" tvg-name="TRT 4K" group-title="🇹🇷 TURKEY",TRT 4K
@@ -475,9 +477,9 @@ https://helga.iptv2022.com/sh/tempo_tv/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_130.png" tvg-name="Tempo TV" group-title="🇹🇷 TURKEY",Tempo TV-2
 https://helga.iptv2022.com/sh/tempo_tv/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://iconape.com/wp-content/files/bj/283471/svg/dost-tv-logo-logo-icon-png-svg.png" tvg-name="Dost TV" group-title="🇹🇷 TURKEY",Dost TV
-http://hw1.jemtv.com/app/dosttv/chunks.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://ekintv.net/public/default/images/upload/2145112125692762.png" tvg-name="Ekin Türk TV" group-title="🇹🇷 TURKEY",Ekin Türk TV
-http://hw1.jemtv.com/app/tempotv/chunks.m3u8
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14841/logo_256_1699951798.png" tvg-name=TV1" group-title="🇹🇷 TURKEY",TV 1
+https://helga.iptv2022.com/sh/TV1/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.kanal23.com/images/logo.png" tvg-name="Kanal 23" group-title="🇹🇷 TURKEY",Kanal 23 HD
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_70.png" tvg-name="Kanal 26" group-title="🇹🇷 TURKEY",Kanal 26 HD
@@ -487,7 +489,7 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_79.png" tvg-name="Kanal 68" group-title="🇹🇷 TURKEY",Kanal 68 HD
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://kanalurfa.com/img/logo.png" tvg-name="Kanal Urfa" group-title="🇹🇷 TURKEY",Kanal Urfa
-http://hw1.jemtv.com/app/kanalurfa/chunks.m3u8
+https://helga.iptv2022.com/sh/Kanal_Urfa/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" tvg-name="SUPER TURK" group-title="🇹🇷 TURKEY",SUPER TURK
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" tvg-name="SUPER TURK max" group-title="🇹🇷 TURKEY",SUPER TURK max
