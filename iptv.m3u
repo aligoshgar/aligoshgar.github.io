@@ -194,8 +194,8 @@ https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Azad Söz Az TV" tvg-logo="https://azadsoz.az/wp-content/uploads/2024/02/logo-azad-soz-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Söz Az TV
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1830880870_b1896000.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AYAZ TV
-https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/lunqiy2.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MOVIE MAX
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/lunqiy2.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Super Sport
 https://live.yayingold.com.tr/moviemaxazlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Esma TV
 https://live.yayingold.com.tr:443/esmatvlive/tracks-v1a1/mono.m3u8
@@ -203,16 +203,12 @@ https://live.yayingold.com.tr:443/esmatvlive/tracks-v1a1/mono.m3u8
 https://live.yayingold.com.tr/dogrutvazlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV
 https://glb.bozztv.com/glb/ssh101/musicvip/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HTV Sinema
-https://tv208.radyotelekom.com.tr:3498/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ŞİRVAN TV
 https://tv208.radyotelekom.com.tr:3326/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/kj4ei9b.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
-https://tv208.radyotelekom.com.tr:3543/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",FLUX TV
 https://live.yayingold.com.tr/fluxtvaz/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",UŞAQ TV
-https://live.yayingold.com.tr/cocuktvaz/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",CHD ÇOCUK TV
+https://live.yayingold.com.tr/chdtvcocuktvaz/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TV
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
@@ -227,8 +223,6 @@ https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
 https://babektv7.interweb.com.tr:3954/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
 https://ismayillitv7.interweb.com.tr:3436/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BEAT TV
-http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX PLANET
 https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX RETRO
