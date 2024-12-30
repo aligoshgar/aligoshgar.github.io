@@ -1662,6 +1662,8 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w407729389.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="POPSTAR" tvg-logo="" tvg-language="Azerbaijani" group-title="🇪🇺 OTHERS",KPOP TV LIVE
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇪🇺 OTHERS",KPOP TV
