@@ -544,6 +544,10 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-name="Cartoon Network" group-title="🇹🇷 TURKEY",CARTOON NETWORK Türkçe
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-name="" group-title="🇹🇷 TURKEY",Minika Çocuk
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-name="" group-title="🇹🇷 TURKEY",Minika GO
+https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="🇹🇷 TURKEY",TR: S Sport
