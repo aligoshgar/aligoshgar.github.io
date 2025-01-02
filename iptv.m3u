@@ -3908,6 +3908,10 @@ https://cdn8.video.az/storage/movie/22/22050/video.mp4
 https://cdn.dzen.ru/vod/converted-video/vod-content/29/46/95/79/32/10/37/84/08/3/f270e9a9-ef07-4d34-a712-933a9ae6dc0f/kaltura/desc_e56129e5bb13882381b27f827d44a148/vNMa3SCDXTAo/vw=1280,vh=532,fps=24.00,vbrt=886564,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Tarikat (2024)
 https://vidrame.pro/vr/get/a3030996/720.txt
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Efsunlu 3: Muska (2023)
+https://vidrame.pro/vr/get/c796bafe/1080.txt
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Black Bags (2023)
+https://vidrame.pro/vr/get/544792c9/1080.txt
 
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7632bb3ab1662564e12bff.jpg" group-title="🎬 MOVIES",Yeniden Başlamak
 https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8
