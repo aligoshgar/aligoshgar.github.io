@@ -259,8 +259,6 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" tvg-name="TRT ARABIA" group-title="🇹🇷 TURKEY",TRT ARABIA
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMgUw5fc8zH0zEY64JY6wElX6AvKAwwDywkTGtw_Ker7_AkfgXpR2mlpLdeAH73UsVpvGEo2RkcKAl2OMA_0pzHE_uil7P_ww_lcj6ZowDMKUkftIqusT9djsoLqK3hEVB-rnhG5kNoWoD0PtcaecgPMuA0AFTETtPsz6tTFO_iB_U9DU-8eewqGqLLdjF/s212/teleonbeyaz.PNG" tvg-name="TELEON" group-title="🇹🇷 TURKEY",TELEON
-https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-name="TV 8" group-title="🇹🇷 TURKEY",TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" tvg-name="TV 8 INT" group-title="🇹🇷 TURKEY",TV 8 INT
