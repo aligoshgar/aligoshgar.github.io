@@ -4,10 +4,8 @@ https://tivi240.ozelip.com:3142/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-2
-https://hw2.jemtv.com/app/aztv1/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-3
 http://88.99.66.6:8080/str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-4
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AzTV-3
 http://135.181.115.81:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MƏdƏniyyƏt TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
@@ -19,22 +17,15 @@ http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3
 https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İdman TV-2
 http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İctimai TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İctimai TV HD
 http://str.yodacdn.net/ictimai/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İctimai TV HD-2
-https://hw2.jemtv.com/app/ict/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İctimai TV HD-3
 http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-2
-https://hw2.jemtv.com/app/azad/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-3
 http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-4
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-3
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV CINEMA
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
@@ -164,8 +155,6 @@ http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
 https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AGRO TV Azərbaycan-2
 http://88.99.66.6:8080/str.yodacdn.net/agrotv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SƏHƏR TV
-https://hw2.jemtv.com/app/azeri/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Vilayət TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SAHAND TV
@@ -1628,10 +1617,6 @@ https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",VARZESH TV
 https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",NRT TV
-http://hw2.jemtv.com/app/nrt/playlist.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="" group-title="🇪🇺 OTHERS",NRT 2 TV
-http://hw2.jemtv.com/app/nrt2/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="🇪🇺 OTHERS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="🇪🇺 OTHERS",Real Madrid TV
