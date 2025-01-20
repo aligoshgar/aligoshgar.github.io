@@ -216,6 +216,10 @@ https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
 https://glb.bozztv.com/glb/ssh101/kinoretro/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BUZOVNA TV
 https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ÜMİD TV
+https://live.yayingold.com.tr/umidtvazlive/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ÜMİD SHOW TV
+https://live.yayingold.com.tr/utvshowazlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",SON ÜMİD TV
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BOX TV
