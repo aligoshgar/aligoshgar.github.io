@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Şifre ile Korunan Sayfa</title>
+    <style>
+        /* Genel stil ayarları */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+color: #555;
+            font-size: 16px;
+            margin-bottom: 8px;
+            text-align: left;
+        }
+
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="password"]:focus {
+            border-color: #007BFF;
+            outline: none;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        button:active {
+            background-color: #003f8f;
+        }
+
+        /* Uyarı mesajı stil ayarları */
+        .alert {
+            color: #ff4d4d;
+            font-size: 14px;
+            margin-top: 15px;
+            text-align: center;
+        }
+
+    </style>
+    <script type="text/javascript">
+        // Şifre kontrol fonksiyonu
+function checkPassword() {
+            var password = document.getElementById("password").value; // Kullanıcının girdiği şifreyi al
+            var correctPassword = "12345"; // Doğru şifreyi buraya yazın
+
+            // Eğer şifre doğruysa, sayfa açılır
+            if (password === correctPassword) {
+                document.getElementById("content").style.display = "block"; // İçeriği göster
+                document.getElementById("loginForm").style.display = "none"; // Şifre formunu gizle
+            } else {
+                alert("Yanlış şifre! Yönlendiriliyorsunuz..."); // Yanlış şifre için uyarı
+                window.location.href = "error_page.html"; // Yanlış şifre girildiğinde yönlendirilecek sayfa
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <div class="container" id="loginForm">
+        <h2>Şifre ile Korunan Sayfaya Giriş</h2>
+
+        <label for="password">Şifre:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button onclick="checkPassword()">Giriş Yap</button>
+    </div>
+
+    <!-- Şifre doğru girildiğinde gösterilecek içerik -->
+    <div class="container" id="content" style="display: none;">
+        <h2>Hoş Geldiniz!</h2>
+        <p>Şifre doğru! Bu sayfanın içeriği buraya gelecek.</p>
+    </div>
+
+</body>
+</html>
