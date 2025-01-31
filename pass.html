@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Şifre ile Korunan Sayfa</title>
+    <script type="text/javascript">
+        // Şifre kontrol fonksiyonu
+        function checkPassword() {
+            var password = document.getElementById("password").value; // Kullanıcının girdiği şifreyi al
+            var correctPassword = "12345"; // Doğru şifreyi buraya yazın
+
+            // Eğer şifre doğruysa, içerik gösterilir
+            if (password === correctPassword) {
+                window.location.href = "protected_page.html"; // Şifre doğruysa, korunan sayfaya yönlendirme
+            } else {
+                alert("Yanlış şifre! Yönlendiriliyorsunuz..."); // Yanlış şifre için uyarı
+                window.location.href = "error_page.html"; // Yanlış şifre girildiğinde yönlendirilecek sayfa
+            }
+}
+    </script>
+</head>
+<body>
+
+    <h2>Şifre ile Korunan Sayfaya Giriş</h2>
+
+    <label for="password">Şifre:</label>
+    <input type="password" id="password" name="password" required>
+    <button onclick="checkPassword()">Giriş Yap</button>
+
+</body>
+</html>
