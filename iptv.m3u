@@ -146,42 +146,32 @@ https://tivi240.ozelip.com:3153/stream/play.m3u8
 https://tivi240.ozelip.com:3745/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",İsmayıllı TV
 https://tivi240.ozelip.com:3736/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ŞİRVAN TV
-https://megatv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",GƏNCƏ TV
-https://megatv208.radyotelekom.com.tr:3829/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KANAL 65-CINEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KANAL 65-MUSIC
-https://live.yayingold.com.tr/kanal65music/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KANAL 65-PARANORNAL
 https://live.yayingold.com.tr/kanal65paranormal/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TÜRK POP 4 TV
-https://megatv208.radyotelekom.com.tr:3375/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA HORROR TV
-https://megatv208.radyotelekom.com.tr:3420/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CLASSIC TV
+https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TV
-https://megatv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA TÜRK TV
+https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC TV
-https://megatv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA UŞAQ TV
-https://tivi240.ozelip.com:3178/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA MUSIC-RETRO TV
-https://megatv208.radyotelekom.com.tr:3468/stream/play.m3u8
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA RETRO TV
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA ŞABAN TV
-https://megatv208.radyotelekom.com.tr:3417/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA CINEMA-RETRO TV
-https://megatv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA WAR TV
-https://megatv208.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA KOMEDIA TV
-https://live.yayingold.com.tr/megakomedia/tracks-v1a1/mono.m3u8
+https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",MEGA GƏNCƏ TV
+https://tivi240.ozelip.com:3178/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX PLANET
 https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX RETRO
 https://glb.bozztv.com/glb/ssh101/kinoretro/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",BUZOVNA TV
-https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ZAQATALA TV
+https://a8.radyotelekom.com.tr:3375/stream/play.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",HBB TV
+https://t170.radyotelekom.com.tr:3994/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ÜMİD TV
 https://live.yayingold.com.tr/umidtvazlive/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ÜMİD SHOW TV
