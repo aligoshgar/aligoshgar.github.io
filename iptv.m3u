@@ -460,8 +460,6 @@ https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 http://dunya.moppie.info:7444/avsncelotrceell824423/mo008amnshg66wa/34360
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",BBC EARTH Türkçe
 http://51.89.103.52:8080/furkan954/araci5020/286547
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-name="Tarih TV" group-title="🇹🇷 TURKEY",History TV
-http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" tvg-name="DMAX" group-title="🇹🇷 TURKEY",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="🇹🇷 TURKEY",TLC
@@ -483,8 +481,10 @@ http://vavoo.to/play/695705778/index.m3u8
 http://vavoo.to/play/3856957052/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",VIASAT HISTORY
 http://vavoo.to/play/3480468962/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",VIASAT NATURE
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",History TB
 http://vavoo.to/play/4207487562/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-name="" group-title="🇹🇷 TURKEY",History TV
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" tvg-name="" group-title="🇹🇷 TURKEY",SPECIAL BOX BELGESEL
 http://vavoo.to/play/1785479914/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" group-title="🇹🇷 TURKEY",National Geographic
