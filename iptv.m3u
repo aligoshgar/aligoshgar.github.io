@@ -539,21 +539,21 @@ https://st1.uzdigital.tv/shifo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
-http://xxx
+http://194.26.203.25/8023/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЦ! Игра
-http://xxx
+http://194.26.203.25/8024/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
-http://xxx
+http://194.26.203.25/8018/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
-http://xxx
+http://141.95.55.143/CH4591/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЧ! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
-http://xxx
+http://194.26.203.25/8027/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
-http://xxx
+http://194.26.203.25/8021/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 2
-http://xxx
+http://194.26.203.25/8022/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 1
@@ -615,9 +615,13 @@ https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый Тульский
 http://5.164.24.83/tula/1tv_low/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Блокбастер HD
-http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
+http://194.26.203.25/8939/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Блокбастер HD
+http://194.26.203.25/8939/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",Премиальное HD
-rtmp://5.182.229.90//7222
+http://194.26.203.25/8028/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",КАМЕДИ
+http://141.95.55.143/CH2895/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Домашний HD
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="DiZi" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Dizi HOGS-ver2.png" tvg-name="DiZi" group-title="🇷🇺 RUSSIA",Timeless Dizi Channel
@@ -631,7 +635,7 @@ http://xxx
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Пятница INTERNATIONAL
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец
-https://xxx
+http://178.124.152.238:8088/perec
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Перец Int
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",ТВ 3 
