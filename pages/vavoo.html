@@ -385,30 +385,6 @@ width: 40px;
 height: 40px;
 }
 </style>
-<button onclick="topFunction()" id="onlyJSyc"></button>
-<script>
-window.onscroll = function() {
-scrollFunction()
-};
-function scrollFunction() {
-if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500)
-document.getElementById("onlyJSyc").style.display = "block"
-else
-document.getElementById("onlyJSyc").style.display = "none"
-}
-function topFunction() {
-if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
-document.body.scrollTop -= 40
-document.documentElement.scrollTop -= 40
-setTimeout(function() {
-topFunction()
-}, 0)
-} else {
-document.body.scrollTop = 0
-document.documentElement.scrollTop = 0
-}
-}
-</script>
   <script type="text/javascript" src="https://aligoshgar.github.io/snow.js">
 </script>
 </body>
