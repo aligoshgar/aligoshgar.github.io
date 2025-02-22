@@ -123,10 +123,6 @@ https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",GƏNCƏ TV
 https://ip240.avrupatelekom.com:3178/hybrid/play.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX PLANET
-https://glb.bozztv.com/glb/ssh101/kendheyati/index.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",KİNOBOX RETRO
-https://glb.bozztv.com/glb/ssh101/kinoretro/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",IDEA TV
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:13:59:b3&stream=563761&extension=m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",TRAVEL TV
