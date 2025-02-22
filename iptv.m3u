@@ -15,6 +15,8 @@ https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 http://str.yodacdn.net/ictimai/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ATV CINEMA
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Azad Azərbaycan HD-2
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",ARB HD
