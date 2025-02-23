@@ -532,11 +532,11 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Первый канал Евразия
 http://xxx
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия 1 HD
-https://player.smotrim.ru/iframe/stream/live_id/2961
+http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия К HD
-https://player.smotrim.ru/iframe/stream/live_id/19201
+http://flussonic.izone.az/rossiakultura/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Россия РТР СНГ
