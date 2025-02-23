@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="SpaceTV.az" tvg-logo="https://aligoshgar.runasp.net/img/space.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" group-title="🇦🇿 AZERBAIJAN",Muz TV
-http://135.181.115.81:8000/play/a04u/index.m3u8?token=livetv
+http://flussonic.izone.az/muztvaz/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Real TV HD
 http://185.32.44.154/realtv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://xalqqazeti.az/uploads/news/116512/1_1_f.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",AZ ANEWZ
