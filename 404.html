@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>404 - Sayfa Bulunamadı</title>
+    <style>
+        /* Genel Sayfa Stilleri */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        /* 404 Sayısı Animasyonu */
+        h1 {
+            font-size: 150px;
+            font-weight: bold;
+            color: #e63946;
+            margin: 0;
+            animation: fadeIn 1s ease-out, shake 1s ease-in-out infinite;
+        }
+
+        /* Sayfa Bulunamadı Mesajı */
+        p {
+            font-size: 20px;
+            color: #b3b3b3;
+            margin-top: 20px;
+            animation: fadeIn 2s ease-out;
+        }
+
+        /* Ana Sayfaya Dön Linki */
+        a {
+            text-decoration: none;
+            color: #f1faee;
+            font-size: 18px;
+            margin-top: 30px;
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #0077b6;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        a:hover {
+            background-color: #023e8a;
+            transform: scale(1.1);
+        }
+
+        /* Fade In Animasyonu */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* 404 Sayısının Sarsılma Animasyonu */
+        @keyframes shake {
+            0% {
+                transform: rotate(0deg);
+            }
+            25% {
+                transform: rotate(5deg);
+            }
+            50% {
+                transform: rotate(-5deg);
+            }
+            75% {
+                transform: rotate(5deg);
+            }
+            100% {
+                transform: rotate(0deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>404</h1>
+    <p>Daxil olmaq istədiyiniz səhifə saytımızda mövcud deyil və ya həmin səhifə artıq silinmişdir!</p>
+    <a href="/">Əsas səhifə</a>
+</body>
+</html>
