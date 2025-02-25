@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #121212;
+            color: white;
+            text-align: center;
+        }
+
+        #player-container {
+            position: fixed;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            max-width: 800px;
+            background: black;
+            z-index: 1000;
+        }
+
+        video {
+            width: 100%;
+            height: auto;
+            max-height: 400px;
+        }
+
+        #channel-list-container {
+            margin-top: 420px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .input-container {
+            width: 100%;
+            max-width: 400px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input, select {
+            width: calc(100% - 2px); /* Kenar taşmasını önlemek için */
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background: #333;
+            color: white;
+            display: block;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+
+        .group-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 15px;
+            text-align: left;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        /* Ana sayfa butonu */
+        #homeButton {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #28a745;
+            color: white;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+            z-index: 1000;
+        }
+
+        #homeButton:hover {
+            background: #218838;
+        }
+
+        @media (max-width: 768px) {
+            video {
+                max-height: 250px;
+            }
+
+            #channel-list-container {
+                margin-top: 270px;
+            }
+
+            .input-container {
+                max-width: 100%;
+            }
+
+            input, select {
+                width: calc(100% - 4px);
+            }
+
+            #homeButton {
+                width: 90%;
+                bottom: 10px;
+                padding: 10px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="player-container">
+        <video id="videoPlayer" controls autoplay></video>
+    </div>
+
+    <div id="channel-list-container">
+        <div class="input-container">
+            <input type="text" id="searchBox" placeholder="Kanal ara..." onkeyup="filterChannels()">
+            <select id="channelList" onchange="changeChannel(this.value)">
+                <option value="">Kanal Seç</option>
+            </select>
+ <div class="content">
+        <p><br /></p>
+        <div><div class="separator" style="clear: both; text-align: center;">
+            
+                <p style="text-align: justify;"><a href="https://aligoshgar.github.io/pages/iptvplayer.html"><b>Online IPTV Player</b></a>-imiz vasitəsilə də izləyə biləcəyiniz kanallara aid, mütəmadi olaraq yayım linklərinin işləkliyinə nəzarət edilən IPTV playlist (M3U) linkini sizə tam ödənişsiz təqdim edirik! Yayım linkləri (M3U8) Əliqoşqar Kərimli tərəfindən müxtəlif canlı yayım platformalarından müvafiq proqramlardan istifadə edilərək tapılır və bir araya gətirilərək GitHub platformasında kodlanır, mütamadi olaraq işləkliyinə nəzarət edilir. Online IPTV Player bölməsində həmin playlist "iframe" olunduğu üçün həmin bölmədə bəzi kanallar açılmaya bilər. Lakin, playlisti hər hansı bir M3U videoplayer (TV player) vasitəsilə istifadə etsəniz, kanallar problemsiz açılacaqdır. </p>
+
+      <p style="text-align: justify;">Playlistdə Azərbaycan, Türkiyə və Rusiyanın ən məhşur ödənişli və ödənişsiz film, serial, xəbər, idman, musiqi və digər TV kanalları mövcuddur və vaxtaşırı yeni kanallar əlavə edilir. Bu işlə məşğul olan hər hansı proqramistə, ya da rəqəmsal yayım şirkətinə heç bir ödəniş etmədən xidmətdən tam pulsuz yararlanın! </p>
+
+      <p style="text-align: justify;">M3U linki:</p>
+
+      <p style="text-align: justify;"><a href="https://aligoshgar.github.io/iptv.m3u" target="_blank"><b><i class="fa-solid fa-link" style="color: steelblue;"></i> https://aligoshgar.github.io/iptv.m3u</b></a></p>
+
+      <p style="text-align: justify;">Codec uyğunluğu nəzərə alınmaqla tövsiyə etdiyimiz IPTV Player:</p>
+
+      <p style="text-align: justify;"><a href="https://m3u-ip.tv"><b>https://m3u-ip.tv</b></a></p><p style="text-align: justify;"><br /></p>
+
+      <p style="text-align: justify;"><b><i class="fa-solid fa-gears" style="color: seagreen;"></i> QURAŞDIRMA:</b>&nbsp;Yuxarıdakı link vasitəsilə endirdiyiniz IPTV Player-də M3U playlistini istifadə etmək üçün ya M3U uzantılı faylı daxili yaddaşdan seçməli, ya da online M3U linkini IPTV player-in müvafiq hissəsinə yazmalısınız. Bizim təqdim etdiyimiz online M3U linkini IPTV player-in müvafiq hissəsinə yazdıqdan sonra "Hər açılışda yenilə" seçimini aktiv etdiyinizdə, biz playlist-də hər hansı bir dəyişiklik etdiyimiz zaman bu dəyişiklik avtomatik olaraq sizin IPTV player-lərinizdə də əks olunacaqdır.</p><div style="text-align: justify;">&nbsp;</div><p style="text-align: justify;">IPTV, onun quraşdırılmasında üzləşdiyiniz çətinliklər və yarana biləcək hər hansı digər bir problem üçün Əliqoşqar Kərimlinin Telegram hesabına yazmaqdan çəkinməyin:</p>
+
+      <p style="text-align: justify;"><a href="https://t.me/aligoshgar" target="_blank"><b><i class="fa-brands fa-telegram" style="color: #0088cc;"></i> @aligoshgar</b></a></p><div style="text-align: justify;">&nbsp;</div>
+    &nbsp;
+    &nbsp;
+    </div>
+        </div>
+    </div>
+
+    <!-- Ana Sayfa Butonu -->
+    <button id="homeButton" onclick="goHome()">Əsas səhifə</button>
+
+    <script>
+        const M3U_URL = "https://aligoshgar.github.io/iptv.m3u";
+
+        async function fetchM3U() {
+            try {
+                const response = await fetch(M3U_URL);
+                const text = await response.text();
+                parseM3U(text);
+            } catch (error) {
+                console.error("M3U yüklenemedi", error);
+            }
+        }
+
+        function parseM3U(m3uText) {
+            const lines = m3uText.split("\n");
+            const selectBox = document.getElementById("channelList");
+            let groupMap = {};
+
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i].startsWith("#EXTINF")) {
+                    let nameMatch = lines[i].match(/,(.+)/);
+                    let groupMatch = lines[i].match(/group-title="([^"]+)"/);
+                    let url = lines[i + 1]?.trim();
+
+                    if (nameMatch && url) {
+                        let channelName = nameMatch[1].trim();
+                        let groupName = groupMatch ? groupMatch[1].trim() : "Diğer";
+
+                        if (!groupMap[groupName]) {
+                            groupMap[groupName] = [];
+                        }
+
+                        groupMap[groupName].push({ name: channelName, url });
+                    }
+                }
+            }
+
+            for (let group in groupMap) {
+                let optGroup = document.createElement("optgroup");
+                optGroup.label = group;
+
+                groupMap[group].forEach(channel => {
+                    let option = document.createElement("option");
+                    option.value = channel.url;
+                    option.textContent = channel.name;
+                    optGroup.appendChild(option);
+                });
+
+                selectBox.appendChild(optGroup);
+            }
+        }
+
+        function changeChannel(url) {
+            if (url) {
+                document.getElementById("videoPlayer").src = url;
+            }
+        }
+
+        function filterChannels() {
+            let input = document.getElementById("searchBox").value.toLowerCase();
+            let selectBox = document.getElementById("channelList");
+
+            for (let optGroup of selectBox.children) {
+                let anyVisible = false;
+
+                for (let option of optGroup.children) {
+                    if (option.textContent.toLowerCase().includes(input)) {
+                        option.classList.remove("hidden");
+                        anyVisible = true;
+                    } else {
+                        option.classList.add("hidden");
+                    }
+                }
+
+                optGroup.style.display = anyVisible ? "" : "none";
+            }
+        }
+
+        function goHome() {
+            window.location.href = "/";  // Ana sayfaya yönlendirme
+        }
+
+        fetchM3U();
+    </script>
+</body>
+</html>
