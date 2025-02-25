@@ -42,10 +42,13 @@
         .input-container {
             width: 100%;
             max-width: 400px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
         input, select {
-            width: 100%;
+            width: calc(100% - 2px); /* Kenar taşmasını önlemek için */
             padding: 10px;
             font-size: 16px;
             border: none;
@@ -54,6 +57,7 @@
             color: white;
             display: block;
             margin-bottom: 10px;
+            box-sizing: border-box;
         }
 
         .group-title {
@@ -67,6 +71,27 @@
             display: none;
         }
 
+        /* Ana sayfa butonu */
+        #homeButton {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #28a745;
+            color: white;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+            z-index: 1000;
+        }
+
+        #homeButton:hover {
+            background: #218838;
+        }
+
         @media (max-width: 768px) {
             video {
                 max-height: 250px;
@@ -78,6 +103,17 @@
 
             .input-container {
                 max-width: 100%;
+            }
+
+            input, select {
+                width: calc(100% - 4px);
+            }
+
+            #homeButton {
+                width: 90%;
+                bottom: 10px;
+                padding: 10px;
+                font-size: 14px;
             }
         }
     </style>
@@ -95,6 +131,9 @@
             </select>
         </div>
     </div>
+
+    <!-- Ana Sayfa Butonu -->
+    <button id="homeButton" onclick="goHome()">Ana Sayfaya Dön</button>
 
     <script>
         const M3U_URL = "https://aligoshgar.github.io/iptv.m3u";
@@ -172,6 +211,10 @@
 
                 optGroup.style.display = anyVisible ? "" : "none";
             }
+        }
+
+        function goHome() {
+            window.location.href = "/";  // Ana sayfaya yönlendirme
         }
 
         fetchM3U();
