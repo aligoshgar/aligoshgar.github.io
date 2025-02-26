@@ -35,11 +35,13 @@
       display: flex;
       flex-direction: column;
       align-items: center;
+      margin: 0;
     }
 
-    /* Üst Menü (Koyu Siyah Alan) */
+    /* Header Düzeni */
     .header {
       width: 100%;
+      max-width: 375px;  /* Main ile aynı genişlik */
       height: 60px;
       background-color: var(--secondary);
       display: flex;
@@ -48,7 +50,8 @@
       padding: 0 15px;
       position: fixed;
       top: 0;
-      left: 0;
+      left: 50%;
+      transform: translateX(-50%); /* Bu sayede header tam olarak ortalanacak */
       z-index: 100;
     }
 
@@ -64,7 +67,7 @@
       position: relative;
       width: 30px;
       height: 30px;
-      background: url("https://aligoshgar.github.io/img/send.png") no-repeat center;
+      background: url("https://cdn-icons-png.flaticon.com/512/5974/5974637.png") no-repeat center;
       background-size: cover;
       cursor: pointer;
     }
@@ -89,7 +92,7 @@
     /* Sayfanın İçeriği (Header'dan Aşağı Başlaması için) */
     main {
       width: 100%;
-      max-width: 375px;
+      max-width: 375px;  /* Main ile aynı genişlik */
       margin-top: 80px; /* Header'ı kapatmaması için boşluk bırakıldı */
       padding: 3rem;
       background-color: var(--secondary);
@@ -168,8 +171,8 @@
   <div class="header">
     <img src="https://aligoshgar.github.io/logo/logo.png" alt="Logo" class="site-logo">
     <div class="message-icon" onclick="window.location.href='../pages/messages.html'">
-  <div class="notification"></div>
-</div>
+      <div class="notification"></div>
+    </div>
   </div>
 
   <main>
