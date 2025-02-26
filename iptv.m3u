@@ -597,9 +597,11 @@ http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Боец
 http://194.26.203.25/8027/index.m3u8?token=Tva7UspehTest25w
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 1
-http://194.26.203.25/8021/index.m3u8?token=Tva7UspehTest25w
+http://flussonic.izone.az/futbol1/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 2
-http://194.26.203.25/8022/index.m3u8?token=Tva7UspehTest25w
+http://flussonic.izone.az/futbol2/index.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 3
+http://flussonic.izone.az/futbol3/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",Eurosport 1
