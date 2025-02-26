@@ -21,7 +21,7 @@ http://flussonic.izone.az/arbgunesh/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" group-title="🇦🇿 AZERBAIJAN",ARB 24 HD
 http://185.32.44.154/arb24/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" group-title="🇦🇿 AZERBAIJAN",Kəpəz TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
+http://flussonic.izone.az:80/arbkepez/live/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" group-title="🇦🇿 AZERBAIJAN",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Xəzər TV HD
