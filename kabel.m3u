@@ -1,0 +1,1329 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,VIP Premiere UA
+#EXTGRP:Rus
+#EXTINF:0,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4001/stream.m3u8
+#EXTINF:-1,VIP Megahit UA
+#EXTINF:0,#EXTGRP:Rus
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
+#EXTINF:0,#EXTINF:-1,VIP Comedy UA
+#EXTGRP:Rus 
+#EXTINF:0,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
+#EXTINF:-1,VIP Premiere
+#EXTINF:0,#EXTGRP:Rus
+http://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,VIP Megahit
+#EXTGRP:Rus
+#EXTINF:0,http://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Comedy
+#EXTINF:0,#EXTGRP:Rus
+http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,TV1000 world kino
+#EXTGRP:Rus
+#EXTINF:0,https://cdnua03.hls.tv/178/hls/jqy6lkeu79a1fhb2s8torzcnixp54g3d/4816/stream.m3u8
+#EXTINF:-1,Кинопремьера
+#EXTINF:0,#EXTGRP:Rus
+http://persik.tv/stream/1234/3//34.m3u8
+#EXTINF:0,#EXTINF:-1,Start World
+#EXTGRP:Rus
+#EXTINF:0,http://195.2.74.99/channel/2611bbef/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1,Start Air HD
+#EXTINF:0,#EXTGRP:Rus
+http://195.2.74.99/channel/4ed78877/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:0,#EXTINF:-1,Paramount Channel
+#EXTGRP:Rus
+#EXTINF:0,https://cdnua05.hls.tv/178/hls/iy84zup3brmf0wjadh79nstclg5ko62v/4616/stream.m3u8
+#EXTINF:-1,FilmBox
+#EXTINF:0,#EXTGRP:Rus
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:0,#EXTINF:-1,Кинопоказ
+#EXTGRP:Rus
+#EXTINF:0,http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+#EXTINF:-1,Кинопоказ #2
+#EXTINF:0,#EXTGRP:Rus
+http://91.219.23.234:8000/play/570/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киносат
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.173.52:1234
+#EXTINF:-1,Киносат #2
+#EXTINF:0,#EXTGRP:Rus
+http://171.22.212.206:2222/udp/233.166.173.52:1234
+#EXTINF:0,#EXTINF:-1,Тайна
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.172.208:1234
+#EXTINF:-1,Тайна #2
+#EXTINF:0,#EXTGRP:Rus
+http://171.22.212.206:2222/udp/233.166.172.208:1234
+#EXTINF:0,#EXTINF:-1,Plan B
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.173.134:1234
+#EXTINF:-1,Plan B2
+#EXTINF:0,#EXTGRP:Rus
+http://171.22.212.206:2222/udp/233.166.173.134:1234
+#EXTINF:0,#EXTINF:-1,SD|REX
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.172.130:1234
+#EXTINF:-1,SD|REX2
+#EXTINF:0,#EXTGRP:Rus
+http://171.22.212.206:2222/udp/233.166.172.130:1234
+#EXTINF:0,#EXTINF:-1,Блокбастер
+#EXTGRP:Rus
+#EXTINF:0,http://91.219.23.234:8000/play/80/index.m3u8
+#EXTINF:-1,Рен ТВ +4
+#EXTINF:0,#EXTGRP:Rus
+http://85.92.123.108:6060/play/rentv/index.m3u8
+#EXTINF:0,#EXTINF:-1, Film UA Drama
+#EXTGRP:Rus
+#EXTINF:0,http://178.175.173.250:19000/play/a01y
+#EXTINF:-1,Epic Drama
+#EXTINF:0,#EXTGRP:Rus
+http://cdnua06.hls.tv/476/hls/7z9xuvgtcsjoypl0fhkbi1e5dq6rn8am/3912/stream.m3u8
+#EXTINF:0,#EXTINF:-1,FlixSnip
+#EXTGRP:Rus
+#EXTINF:0,http://streamer.crimea-tv.net/FlixSnip/video.m3u8?token1=7b4c8cfbff4980cb112d6e5a25b31590&token2=58e2da862b899be87f78bf63a83c8258&domain=agronet&key=main-key&token=9d3cc59e
+#EXTINF:-1,ViP HiT
+#EXTINF:0,#EXTGRP:Rus
+http://188.93.94.140/healthtv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,#EXTINF:-1,Биографическое ТВ
+#EXTGRP:Rus
+#EXTINF:0,http://persik.tv/stream/1234/3//10684.m3u8
+#EXTINF:-1,Историческое ТВ
+#EXTINF:0,#EXTGRP:Rus
+http://persik.tv/stream/1234/3//10690.m3u8
+#EXTINF:0,#EXTINF:-1,Хит
+#EXTGRP:Rus
+#EXTINF:0,http://91.219.23.234:8000/play/97/index.m3u8
+#EXTINF:-1,FAN
+#EXTINF:0,#EXTGRP:Rus
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:0,#EXTINF:-1,Ключ
+#EXTGRP:Rus
+#EXTINF:0,http://mhd122.iptv2022.com/p/wjIrf6dd_OoxZion2twRng,1655117674/streaming/kluchhd/324/1/index.m3u8
+#EXTINF:-1,Lava
+#EXTINF:0,#EXTGRP:Rus
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:0,#EXTINF:-1,Shot
+#EXTGRP:Rus
+#EXTINF:0,http://109.200.130.124:9100/play/a03o/index.m3u8
+#EXTINF:-1,.red
+#EXTINF:0,#EXTGRP:Rus
+http://195.2.74.99/channel/n3999c92/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:0,#EXTINF:-1,.red2
+#EXTGRP:Rus
+#EXTINF:0,http://185.235.187.10:8888/play/a04t/index.m3u8
+#EXTINF:-1,Дорама
+#EXTINF:0,#EXTGRP:Rus
+http://streamer.crimea-tv.net/Dorama/video.m3u8?token=9d3cc59e
+#EXTINF:0,#EXTINF:-1,Суббота!
+#EXTGRP:Rus
+#EXTINF:0,http://91.219.23.234:8000/play/39/index.m3u8
+#EXTINF:-1,Суббота!2
+#EXTINF:0,#EXTGRP:Rus
+http://mhd122.iptv2022.com/p/Eze6kV0iaTueXU5pUaLorA,1655117673/streaming/superott/324/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,ViP Family
+#EXTGRP:Rus
+#EXTINF:0,http://188.93.94.140/tv5/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1,Paramount Comedy
+#EXTINF:0,#EXTGRP:Rus
+http://50.7.188.186/Paramount_Comedy/mono.m3u8
+#EXTINF:0,#EXTINF:-1,Наш Кинопоказ
+#EXTGRP:Rus
+#EXTINF:0,http://91.219.23.234:8000/play/81/index.m3u8
+#EXTINF:-1,ОТР
+#EXTINF:0,#EXTGRP:Rus
+http://mhd122.iptv2022.com/p/dOLnHEdJ0R_Cxvh7X4dgMg,1655117673/streaming/otr/324/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,ОТР2
+#EXTGRP:Rus
+#EXTINF:0,http://91.219.23.234:8000/play/9/index.m3u8
+#EXTINF:-1,ОТР3
+#EXTINF:0,#EXTGRP:Rus
+http://78.25.155.47:1309/channel/OTR.ts
+#EXTINF:0,#EXTINF:-1,Star Cinema
+#EXTGRP:Rus
+#EXTINF:0,http://178.175.173.250:19000/play/a01z
+#EXTINF:-1,Star Cinema2
+#EXTINF:0,#EXTGRP:Rus
+http://mhd109.iptv2022.com/p/QwdodKxUY6yC6k5qICr0YA,1658000449/streaming/star_cinema/324/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,Star Family
+#EXTGRP:Rus
+#EXTINF:0,http://mhd109.iptv2022.com/p/W58jYvr7AS53gD_FW7oemQ,1658000449/streaming/star_family/324/1/index.m3u8
+#EXTINF:-1,Перец
+#EXTINF:0,#EXTGRP:Rus
+http://188.93.94.140/perec/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,#EXTINF:-1,Бобёр
+#EXTGRP:Rus
+#EXTINF:0,http://109.200.130.124:9000/play/a037/index.m3u8
+#EXTINF:-1,Феникс+Кино
+#EXTINF:0,#EXTGRP:Rus
+http://188.93.94.140/fenikspluskino/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,#EXTINF:-1,Феникс+Кино2
+#EXTGRP:Rus
+#EXTINF:0,http://mhd122.iptv2022.com/p/YHYA8RPellVyNZeHeDI0Zg,1655117674/streaming/fenixkino/324/1/index.m3u8
+#EXTINF:-1,Феникс+Кино3
+#EXTINF:0,#EXTGRP:Rus
+http://128.0.27.41:8080/239.211.211.72/mpegts
+#EXTINF:0,#EXTINF:-1,Феникс+Кино4
+#EXTGRP:Rus
+#EXTINF:0,http://78.25.155.47:1309/channel/Feniks.ts
+#EXTINF:-1,Kinoliving
+#EXTINF:0,#EXTGRP:Rus
+http://mhd122.iptv2022.com/p/pd8DVNDcjfXmuSZrJLiGwQ,1655117674/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киносезон
+#EXTGRP:Rus
+#EXTINF:0,http://mhd122.iptv2022.com/p/eiFpYe3ReEdn9ALolvdWtw,1655117673/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1,Дом Кино Премиум
+#EXTINF:0,#EXTGRP:Rus
+http://195.2.74.99/channel/d5fb0eb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:0,#EXTINF:-1,Дом Кино Премиум2
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.172.233:1234
+#EXTINF:-1,Дом Кино Премиум3
+#EXTINF:0,#EXTGRP:Rus
+http://171.22.212.206:2222/udp/233.166.172.233:1234
+#EXTINF:0,#EXTINF:-1,Комедия
+#EXTGRP:Rus
+#EXTINF:0,http://46.19.100.174:4450/play/a01m/index.m3u8
+#EXTINF:-1,Комедия2
+#EXTINF:0,#EXTGRP:Rus
+http://185.235.187.10:8888/play/a020/index.m3u8
+#EXTINF:0,#EXTINF:-1,Красная Линия
+#EXTGRP:Rus
+#EXTINF:0,http://mhd122.iptv2022.com/p/89lTYje337sKH13DEed5sg,1655117673/streaming/redline/324/1/index.m3u8
+#EXTINF:-1,Звезда Плюс
+#EXTINF:0,#EXTGRP:Rus
+http://85.234.105.42:2222/udp/233.166.172.202:1234
+#EXTINF:0,#EXTINF:-1,Мосфильм. Золотая Коллекция
+#EXTGRP:Rus
+#EXTINF:0,http://85.234.105.42:2222/udp/233.166.172.214:1234
+#EXTINF:-1,Мосфильм. Золотая Коллекция2
+#EXTINF:0,#EXTGRP:Rus
+http://195.2.74.99/channel/2bac7f96/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:0,#EXTINF:-1,Мир сериала
+#EXTGRP:Rus
+#EXTINF:0,http://193.111.244.35:8001/mirseriala/index.m3u8
+#EXTINF:-1,КТК
+#EXTINF:0,#EXTGRP:Rus
+http://92.46.127.146:8080/KTK-L3-TRANS/index.m3u8
+#EXTINF:0,#EXTINF:-1,Астрахань 24
+#EXTGRP:Rus
+#EXTINF:0,http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1,Астрахань 24б
+#EXTINF:0,#EXTGRP:Rus
+http://mhd122.iptv2022.com/p/DFXJBFS7iLmOQyDCCvZnMw,1655117674/streaming/astrakhan24/324/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,Эхо ТВ 24
+#EXTGRP:Rus
+#EXTINF:0,http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1,Eurosport 1
+#EXTINF:0,#EXTGRP:Rus
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
+#EXTINF:0,#EXTINF:-1,Eurosport 2
+#EXTGRP:Rus
+#EXTINF:0,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+#EXTINF:-1,Первый Канал Евразия
+#EXTINF:0,#EXTGRP:Rus
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:0,#EXTINF:-1,Первый Канал Евразия2
+#EXTGRP:Rus
+#EXTINF:0,https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:-1,НТВ Сериал
+#EXTINF:0,#EXTGRP:Rus
+http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ Стиль
+#EXTGRP:Rus
+#EXTINF:0,http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1,НТВ Право
+#EXTINF:0,#EXTGRP:Rus
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ Хит
+#EXTGRP:Rus
+#EXTINF:0,http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1,НТВ HD
+#EXTINF:0,#EXTGRP:Rus
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ +2
+#EXTGRP:Rus
+#EXTINF:0,http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8 
+#EXTINF:-1,НТВ +4
+#EXTINF:0,#EXTGRP:Rus
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ +7
+#EXTGRP:Rus
+#EXTINF:0,http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
+#EXTINF:-1,НТВ Мир
+#EXTINF:0,#EXTGRP:Rus
+http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,#EXTINF:-1,UA TV rus
+#EXTGRP:News
+#EXTINF:0,http://193.107.202.141:82/6550/video.m3u8?token=saveUkrain
+#EXTINF:0,Настоящее Время HD
+#EXTINF:0,#EXTGRP:News
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:0,#EXTINF:-1,EuroNews1
+#EXTGRP:News
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-euronews/index.m3u8
+#EXTINF:-1,EuroNews2
+#EXTINF:0,#EXTGRP:News
+http://213.172.73.170:8081/nimble_live/1019__Euronews_Russian/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,RTVi1
+#EXTGRP:News
+#EXTINF:0,http://85.206.57.253:8981/l52/mono.m3u8
+#EXTINF:-1,RTVi2
+#EXTINF:0,#EXTGRP:News
+http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:0,#EXTINF:-1,CGTN русский
+#EXTGRP:News
+#EXTINF:0,https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,Дождь
+#EXTINF:0,#EXTGRP:News
+http://109.200.130.123:7036/play/a00z
+#EXTINF:0,#EXTINF:-1,VIP Premiere HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01n/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01s/index.m3u8
+#EXTINF:0,#EXTINF:-1,VIP Comedy HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a049/index.m3u8
+#EXTINF:-1,TV 1000
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a04o/index.m3u8
+#EXTINF:0,#EXTINF:-1,TV 1000 Action
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04q/index.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a045/index.m3u8
+#EXTINF:0,#EXTINF:-1,Кинопремьера HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a03w/index.m3u8
+#EXTINF:-1,Еврокино
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a021/index.m3u8
+#EXTINF:0,#EXTINF:-1,Кино ТВ
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01i/index.m3u8
+#EXTINF:-1,Любимое Кино
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a039/index.m3u8
+#EXTINF:0,#EXTINF:-1,Иллюзион+
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02x/index.m3u8
+#EXTINF:-1,.Sci-Fi
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a03e/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киносвидание
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a046/index.m3u8
+#EXTINF:-1,Кинохит
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a04y/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киномикс
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01z/index.m3u8
+#EXTINF:-1,Мужское Кино
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01w/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киносемья
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04x/index.m3u8
+#EXTINF:-1,Комедия
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01j/index.m3u8
+#EXTINF:0,#EXTINF:-1,Индийское Кино
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a020/index.m3u8
+#EXTINF:-1,Bollywood HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a03v/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киноужас
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01f/index.m3u8
+#EXTINF:-1,СТС Love
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00i/index.m3u8
+#EXTINF:0,#EXTINF:-1,TV 1000 Русское Кино
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04s/index.m3u8
+#EXTINF:-1,Наше Новое Кино
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01x/index.m3u8
+#EXTINF:0,#EXTINF:-1,Дом Кино
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02e/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a016/index.m3u8
+#EXTINF:0,#EXTINF:-1,Родное Кино
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02k/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a02c/index.m3u8
+#EXTINF:0,#EXTINF:-1,FOX
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a05m/index.m3u8
+#EXTINF:-1,Мир сериала
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01y/index.m3u8
+#EXTINF:0,#EXTINF:-1,Киносерия
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a027/index.m3u8
+#EXTINF:-1,Amedia 1
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a056/index.m3u8
+#EXTINF:0,#EXTINF:-1,Amedia 2
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02z/index.m3u8
+#EXTINF:-1,Amedia Premium
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00c/index.m3u8
+#EXTINF:0,#EXTINF:-1,Amedia Premium HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02g/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00b/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a014/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00x/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a012/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a017/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! Страна
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01e/index.m3u8
+#EXTINF:-1,Матч! Страна HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a058/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! Игра
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01m/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a03x/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! Арена
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01d/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a057/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч! Боец HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01l/index.m3u8
+#EXTINF:-1,Viasat Sport
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a015/index.m3u8
+#EXTINF:0,#EXTINF:-1,KHL Prime HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a031/index.m3u8
+#EXTINF:-1,Старт
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a04g/index.m3u8
+#EXTINF:0,#EXTINF:-1,Extreme Sports
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00v/index.m3u8
+#EXTINF:-1,Конный Мир HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a013/index.m3u8
+#EXTINF:0,#EXTINF:-1,Моторспорт ТВ
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04d/index.m3u8
+#EXTINF:-1,Авто Плюс
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a028/index.m3u8
+#EXTINF:0,#EXTINF:-1,Авто 24
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04w/index.m3u8
+#EXTINF:-1,National Geographic
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a02d/index.m3u8
+#EXTINF:0,#EXTINF:-1, National Geographic HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01t/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a048/index.m3u8
+#EXTINF:0,#EXTINF:-1,Телеканал Да Винчи
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04k/index.m3u8
+#EXTINF:-1,Viasat History
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00d/index.m3u8
+#EXTINF:0,#EXTINF:-1,Viasat Nature
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01k/index.m3u8
+#EXTINF:-1,Viasat Explore
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a04t/index.m3u8
+#EXTINF:0,#EXTINF:-1,Viasat Nature/History HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04z/index.m3u8
+#EXTINF:-1,Моя Планета
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00z/index.m3u8
+#EXTINF:0,#EXTINF:-1,HDL HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a041/index.m3u8
+#EXTINF:-1,RTG HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a059/index.m3u8
+#EXTINF:0,#EXTINF:-1,Точка отрыва
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a05a/index.m3u8
+#EXTINF:-1,Поехали!
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01c/index.m3u8
+#EXTINF:0,#EXTINF:-1,Домашние Животные
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01h/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a050/index.m3u8
+#EXTINF:0,#EXTINF:-1,Наука
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a052/index.m3u8
+#EXTINF:-1,Продвижение
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a010/index.m3u8
+#EXTINF:0,#EXTINF:-1,2X2
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01u/index.m3u8
+#EXTINF:-1,Суббота!
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a03z/index.m3u8
+#EXTINF:0,#EXTINF:-1,СТС
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00h/index.m3u8
+#EXTINF:-1,ТНТ
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00q/index.m3u8
+#EXTINF:0,#EXTINF:-1,ТНТ HD
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01g/index.m3u8
+#EXTINF:-1,ТНТ4
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00s/index.m3u8
+#EXTINF:0,#EXTINF:-1,Звезда
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04b/index.m3u8
+#EXTINF:-1,Домашний
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00e/index.m3u8
+#EXTINF:0,#EXTINF:-1,ОТР
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00k/index.m3u8
+#EXTINF:-1,Первый Канал
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a004/index.m3u8
+#EXTINF:0,#EXTINF:-1,Россия 1
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a02m/index.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a023/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00g/index.m3u8
+#EXTINF:-1,НТВ HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a011/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ Право
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00r/index.m3u8
+#EXTINF:-1,НТВ Сериал
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00w/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ-ХИТ
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a01o/index.m3u8
+#EXTINF:-1,НТВ Стиль
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a01p/index.m3u8
+#EXTINF:0,#EXTINF:-1,Мир 24
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a022/index.m3u8
+#EXTINF:-1,Москва 24
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a055/index.m3u8
+#EXTINF:0,#EXTINF:-1,Россия 24
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04c/index.m3u8
+#EXTINF:-1,Канал Disney
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a02a/index.m3u8
+#EXTINF:0,#EXTINF:-1,Карусель
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00p/index.m3u8
+#EXTINF:-1,СТС Kids HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a03n/index.m3u8
+#EXTINF:0,#EXTINF:-1,Gulli Girl
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00j/index.m3u8
+#EXTINF:-1,Радость моя
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a047/index.m3u8
+#EXTINF:0,#EXTINF:-1,Ru TV
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00o/index.m3u8
+#EXTINF:-1,Mezzo
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00m/index.m3u8
+#EXTINF:0,#EXTINF:-1,Europa Plus TV
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a03c/index.m3u8
+#EXTINF:-1,ТНТ Music
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a02f/index.m3u8
+#EXTINF:0,#EXTINF:-1,Жара
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a029/index.m3u8
+#EXTINF:-1,Classic Music
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a00n/index.m3u8
+#EXTINF:0,#EXTINF:-1,Муз ТВ
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00f/index.m3u8
+#EXTINF:-1,Музыка Первого
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a02j/index.m3u8
+#EXTINF:0,#EXTINF:-1,Россия Культура
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a04a/index.m3u8
+#EXTINF:-1,Bridge
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a053/index.m3u8
+#EXTINF:0,#EXTINF:-1,Bridge Русский Хит
+#EXTGRP:iZone AZE-RU
+#EXTINF:0,http://185.32.44.186:8004/play/a00t/index.m3u8
+#EXTINF:-1,Bridge Deluxe HD
+#EXTINF:0,#EXTGRP:iZone AZE-RU
+http://185.32.44.186:8004/play/a018/index.m3u8
+#EXTINF:0,#EXTINF:-1,Первый канал
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-perviy/index.m3u8
+#EXTINF:-1,Россия1
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-rossiya1/index.m3u8
+#EXTINF:0,#EXTINF:-1,РТР Планета
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-rtrplaneta/index.m3u8
+#EXTINF:-1,Россия24
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-rossiya24/index.m3u8
+#EXTINF:0,#EXTINF:-1,Россия Культура
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-rossiyakultura/index.m3u8
+#EXTINF:-1,Рен ТВ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-rentv/index.m3u8
+#EXTINF:0,#EXTINF:-1,ТВ3
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-tv3/index.m3u8
+#EXTINF:-1,СТС
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-sts/index.m3u8
+#EXTINF:0,#EXTINF:-1,НТВ
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-ntv/index.m3u8
+#EXTINF:-1,Пятый Канал
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-kanal5/index.m3u8
+#EXTINF:0,#EXTINF:-1,2x2
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-2x2/index.m3u8
+#EXTINF:-1,СТС Love
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-stslove/index.m3u8
+#EXTINF:0,#EXTINF:-1,Че!
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-che/index.m3u8
+#EXTINF:-1,тНт
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tnt/index.m3u8
+#EXTINF:0,#EXTINF:-1,Пятница!
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-pyatnicha/index.m3u8
+#EXTINF:-1,ТВ Центр
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tvchentr/index.m3u8
+#EXTINF:0,#EXTINF:-1,Домашний
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-domashniy/index.m3u8
+#EXTINF:-1,Звезда
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-zvezda/index.m3u8
+#EXTINF:0,#EXTINF:-1,тНт4
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-tnt4/index.m3u8
+#EXTINF:-1,Ю ТВ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-yutv/index.m3u8
+#EXTINF:0,#EXTINF:-1,TV1000
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-tv1000/index.m3u8
+#EXTINF:-1,TV1000 Action
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tv1000action/index.m3u8
+#EXTINF:0,#EXTINF:-1,Синема
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-cinematv/index.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-kinotv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Иллюзион+
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-illuzionplyus/index.m3u8
+#EXTINF:-1,Еврокино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-evrokino/index.m3u8
+#EXTINF:0,#EXTINF:-1,SONY Sci-Fi
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-sonyscifi/index.m3u8
+#EXTINF:-1, .black
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-sonyturbo/index.m3u8
+#EXTINF:0,#EXTINF:-1,Paramount channel
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-paramountchannel/index.m3u8
+#EXTINF:-1,Любимое Кино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-lyubimoekino/index.m3u8
+#EXTINF:0,#EXTINF:-1,XXI
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-tvxxi/index.m3u8
+#EXTINF:-1,Hollywood
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-hollywood/index.m3u8
+#EXTINF:0,#EXTINF:-1,Kиносвидание
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-kinosvidanie/index.m3u8
+#EXTINF:-1,Kиномикс
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-kinomiks/index.m3u8
+#EXTINF:0,#EXTINF:-1,Kинохит
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-kinoxit/index.m3u8
+#EXTINF:-1,Mужское Кино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-mujskoekino/index.m3u8
+#EXTINF:0,#EXTINF:-1,Paramount Comedy
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-paramountcomedy/index.m3u8
+#EXTINF:-1,Кинокомедия
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-kinokomediya/index.m3u8
+#EXTINF:0,#EXTINF:-1,Kиносемья
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-kinosemya/index.m3u8
+#EXTINF:-1,Индийское Кино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-indiyskoekino/index.m3u8
+#EXTINF:0,#EXTINF:-1,Amedia Hit
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-amediahit/index.m3u8
+#EXTINF:-1,Amedia Premium
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-amediapremium/index.m3u8
+#EXTINF:0,#EXTINF:-1,Аmedia1
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-amedia1/index.m3u8
+#EXTINF:-1,Amedia2
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-amedia2/index.m3u8
+#EXTINF:0,#EXTINF:-1,Fox
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-foxtv/index.m3u8
+#EXTINF:-1,Fox Life
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-foxlife/index.m3u8
+#EXTINF:0,#EXTINF:-1,Kиносерия
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-kinoseriya/index.m3u8
+#EXTINF:-1,Наше новое кино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-nashenovoekino/index.m3u8
+#EXTINF:0,#EXTINF:-1,Родное Кино
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-rodnoekino/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tv1000russkoekino/index.m3u8
+#EXTINF:0,#EXTINF:-1,Дом Кино
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-domkino/index.m3u8
+#EXTINF:-1,Русский Бестселлер
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-russkiybestseller/index.m3u8
+#EXTINF:0,#EXTINF:-1,Русский Иллюзион
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-russkiyilluzion/index.m3u8
+#EXTINF:-1,НСТ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-nstv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Disney Channel
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-disneychannel/index.m3u8
+#EXTINF:-1,Kарусель
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-karusel/index.m3u8
+#EXTINF:0,#EXTINF:-1,Mульт
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-mult/index.m3u8
+#EXTINF:-1,TiJi
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tiji/index.m3u8
+#EXTINF:0,#EXTINF:-1,Aни
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-anitv/index.m3u8
+#EXTINF:-1,Gulli Girl
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-gulligirl/index.m3u8
+#EXTINF:0,#EXTINF:-1,JimJam
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-jimjam/index.m3u8
+#EXTINF:-1,Nickelodeon Junior
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-nickelodeonjunior/index.m3u8
+#EXTINF:0,#EXTINF:-1,Nickelodeon
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-nickelodeon/index.m3u8
+#EXTINF:-1,Детский Мир
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-detskiymir/index.m3u8
+#EXTINF:0,#EXTINF:-1,Уникум
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-unikum/index.m3u8
+#EXTINF:-1,Матч!
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-matchtv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Матч!Страна
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-matchstrana/index.m3u8
+#EXTINF:-1,Матч! Арена
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-matcharena/index.m3u8
+#EXTINF:0,#EXTINF:-1,Mатч! Футбол1
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-matchfutbol1/index.m3u8
+#EXTINF:-1,Mатч! Футбол2
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-matchfutbol2/index.m3u8
+#EXTINF:0,#EXTINF:-1,Mатч! Футбол3
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-matchfutbol3/index.m3u8
+#EXTINF:-1,Eurosport2
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-eurosport2/index.m3u8
+#EXTINF:0,#EXTINF:-1,Футбол
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-futbol/index.m3u8
+#EXTINF:-1,Mатч! Игра
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-matchiqra/index.m3u8
+#EXTINF:0,#EXTINF:-1,Mатч! Боец
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-matchoech/index.m3u8
+#EXTINF:-1,Бокс ТВ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-bokstv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Viasat Sport
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-viasatsport/index.m3u8
+#EXTINF:-1,KHL
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-kxltv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Extreme Sports
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-extremesports/index.m3u8
+#EXTINF:-1,TLC
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-tlc/index.m3u8
+#EXTINF:0,#EXTINF:-1,Nat Geo Wild
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-natgeowild/index.m3u8
+#EXTINF:-1,Animal Planet
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-animalplanet/index.m3u8
+#EXTINF:0,#EXTINF:-1,National Geographic
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-nationalgeographic/index.m3u8
+#EXTINF:-1,Russian Travel Guide
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-russiantravelguide/video.m3u8
+#EXTINF:0,#EXTINF:-1,Viasat History
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-viasathistory/index.m3u8
+#EXTINF:-1,Viasat Explore
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-viasatexplore/index.m3u8
+#EXTINF:0,#EXTINF:-1,Viasat Nature
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-viasatnature/index.m3u8
+#EXTINF:-1,History Channel
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-historychannel/index.m3u8
+#EXTINF:0,#EXTINF:-1,История
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-istoriya/index.m3u8
+#EXTINF:-1,Discovery Channel
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-discoverychannel/index.m3u8
+#EXTINF:0,#EXTINF:-1,Discovery Sciense
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-discoveryscience/index.m3u8
+#EXTINF:-1,Investigation Discovery
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-investigationdiscovery/index.m3u8
+#EXTINF:0,#EXTINF:-1,DTX
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-dtx/index.m3u8
+#EXTINF:-1,Cbs Reality
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-cbsreality/index.m3u8
+#EXTINF:0,#EXTINF:-1,Загородная Жизнь
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-zaqorodnayajizn/index.m3u8
+#EXTINF:-1,Tеле Кафе
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-telekafe/index.m3u8
+#EXTINF:0,#EXTINF:-1,Ностальгия
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-nostalgiya/index.m3u8
+#EXTINF:-1,Время
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-vremya/index.m3u8
+#EXTINF:0,#EXTINF:-1,Кто есть Кто
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-ktoestkto/index.m3u8
+#EXTINF:-1,Живая Планета
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-jivayaplaneta/index.m3u8
+#EXTINF:0,#EXTINF:-1,ZооПарк
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-zoopark/index.m3u8
+#EXTINF:-1,Домашние Животные
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-domashniejivotnie/index.m3u8
+#EXTINF:0,#EXTINF:-1,Охота и Рыбалка
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-oxotairibalka/index.m3u8
+#EXTINF:-1,Наука 2.0
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-nauka20/index.m3u8
+#EXTINF:0,#EXTINF:-1,Moя Планета
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-moyaplaneta/index.m3u8
+#EXTINF:-1,Авто+
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-avtoplyus/index.m3u8
+#EXTINF:0,#EXTINF:-1,Aвто 24
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-avto24/index.m3u8
+#EXTINF:-1,365 дней
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-365dney/index.m3u8
+#EXTINF:0,#EXTINF:-1,КВН
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-bober/index.m3u8
+#EXTINF:-1,Mуз ТВ
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-muztv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Жара
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-jara/index.m3u8
+#EXTINF:-1,Ля Минор
+#EXTINF:0,#EXTGRP:AzFiberNet rus
+http://flussonic.azfiber.net:80/RU-lyaminor/index.m3u8
+#EXTINF:0,#EXTINF:-1,РБК
+#EXTGRP:AzFiberNet rus
+#EXTINF:0,http://flussonic.azfiber.net:80/RU-rbk/index.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/149.jpg",Техно 24
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1056__24_Texno/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/55.jpg",Cinema
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1142__Sinema/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/177.jpg",Любимое кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/100.png",TV1000
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/64.jpg",TV1000 Action
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/178.png",TV XXI
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/11.png",Еврокино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1139__EvroKino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/181.png",Иллюзион+
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1138__Illyuzion_Plus/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Кино 1 International
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/158.png",Киномикс
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/57.png",Киносвидание
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/76.png",Киносемья
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/116.jpg",Киносерия
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/30.png",Кинохит
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/59.jpg",Мужское кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1085__Mujskoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/75.png",Дом Кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/69.png",НСТ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Cinema Classic
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/Cinema_classik_TV/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/175.png",Paramount Comedy
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1047__Paramaunt_Comedy/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/129.png",Кинокомедия
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/442.png",Amedia 1
+#EXTINF:0,http://213.172.73.133:8081/nimble_live/9026_Amedia_1/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/138.png",Amedia 2
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1137__AMEDIA2/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Bolt
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/118.png",TV1000 Русское Кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1075__Tv_1000_Russkoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/95.png",Наше Новое Кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1048__Nashe_Novoye_Kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/113.png",Родное Кино
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/52.jpg",Русский Бестселлер
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/160.png",Русский Иллюзион
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1141__Russkiy_Illyuzion/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Hollywood HD
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/349.jpg",Остросюжетное HD
+#EXTINF:0,http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Премиальное HD
+#EXTINF:0,http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8 bu
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",DUBAI RACING HD
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/4018_Dubai_Racing/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/132.jpg",EuroSport 1
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1095__Eurosport_1/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/20.png",Eurosport 1 HD
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/29.jpg",Eurosport 2
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1109__Eurosport_2/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/73.png",Extreme Sports
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1012__Extreme_Sport_Channel/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/462.jpg",Red Bull TV HD
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/6046_RedBull_hd/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/174.jpg",Viasat Sport
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1077__ViaSat_Sport/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/117.png",Матч ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1064__Mat4_ТВ/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/102.jpg",Матч! Арена
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1093__Mat4_Arena/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/133.png",Матч! Боец ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1082__Mat4_Boyec_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/119.jpg",Матч! Игра
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1099__Mat4_Igra/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/97.jpg",Матч! Страна
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1068__Mat4_Nash_Sport/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/62.png",Матч! Футбол 1
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/35.jpg",Матч! Футбол 2
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/58.png",Матч! Футбол 3
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/83.png",Матч! Премьер
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1080__Mat4_Premyer/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/38.png",Телеканал Футбол
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1025__Futbol/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/21.jpg",Охота и Рыбалка
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/67.png",Animal Planet
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1089__Animal_Planet/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/123.png",Da Vinci Learning
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg",DTX
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png",History Channel
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/128.jpg",ID Xtra
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1050__ID_Xtra/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/167.png",Viasat History
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1074__ViaSat_History/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/32.jpg",Совершенно Секретно
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/109.png",Звезда
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/106.png",Наука 2.0
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1134__Nauka_2_0/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/96.png",Ностальгия
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1067__Nostalgiya/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/155.png",Авто 24
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/84.png",Авто плюс
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1015__Avto_Plyus/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/71.jpg",TLC
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1063__TLC/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",ZooПарк
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1027__Detskiy/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/134.png",Мир
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/36.jpg",Первый канал
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/78.png",НТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/54.png",Россия 1
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/152.jpg",Россия 24
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/165.png",Россия Культура
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1059__Rossiya_Kultura/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/142.png",РЕН ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/180.png",ТНТ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1069__TNT/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/163.jpg",ТНТ4
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/82.png",Пятница
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1070__Pyatnica/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/43.png",Домашний
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/157.png",СТС
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/42.png",ТВ3
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/139.jpg",ТВЦ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/16.jpg",Че
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/74.png",Ю
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/107.png",Пятый канал
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/89.png",2x2
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1162__2x2/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/13.png",Детский Мир
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/34.png",Канал Disney
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1061__Kanal_Disney_ru/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/72.png",Карусель
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1011__Karusel/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/40.jpg",Мама
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1052__MAMA/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/130.png",Мульт
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1084__Mult/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Уникум
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1078__Multimaniya/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/10.jpg",BRIDGE TV
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1092__Bridge_Tv_russkiy_xit/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/144.png",Europa Plus TV
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1081__Evropa_Plus_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/189.jpg",Mezzo
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1091__Mezzo/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/345.jpg",Ocko Expres
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/4055_Ocko_Expres/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/346.jpg",Ocko Star
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/4056_Ocko_Star/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/171.png",RU.TV
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1088__RU_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/",Страна FM HD
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/StranaFM_HD/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/126.png",Муз ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1132__Muz_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/104.png",Музыка Первого
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1130__Muzika_Pervogo/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/156.jpg",Шансон ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1104__Shanson/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/212.png",Kronehit HD
+#EXTINF:0,http://213.172.73.132:8081/nimble_live/4072_Kronehit_HD/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/23.png",Кухня ТВ
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/99.jpg",CNN International
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1044__CNN_International/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/131.png",РБК
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1096__RBK/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel"  tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/179.png",Fashion TV
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1036__Fashion/playlist.m3u8
+#EXTINF:-1 group-title="AzEuroTel",Доктор
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
+#EXTINF:-1 group-title="AzEduNet",Суббота!
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1321/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Kиноужас1
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1309/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Киноужас2
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1326/index.m3u8
+#EXTINF:-1 group-title="AzEduNet", Матч! Арена
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1301/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Матч! Премьер
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1314/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Mатч! Боец
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1302/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Mатч! Футбол1
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1305/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Mатч! Футбол2
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1306/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Матч! Футбол3
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1307/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Mатч! Игра
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1303/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Mатч! Страна
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1304/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",KXЛ
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1318/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",M-1 Global
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1325/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Aвто24
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1328/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Радость Моя
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1330/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Дисней
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1312/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",360
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1316/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",World Fashion Ru
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1322/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Ю
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1320/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",тНт Music
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1324/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",РБК
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1317/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Dоктор
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1310/index.m3u8
+#EXTINF:-1 group-title="AzEduNet",Shop&Show
+#EXTINF:0,http://82.194.1.2:8016/play/E36_11785R_SID1323/index.m3u8
+#EXTINF:-1,Yansıma sinema TV1
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:-1,Yansıma sinema TV2
+#EXTGRP:Türkiyə
+#EXTINF:0,https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:-1,Beyaz Medya Sinema
+#EXTINF:0,#EXTGRP:Türkiyə
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:0,#EXTINF:-1,Deniz Postası TV
+#EXTGRP:Türkiyə
+#EXTINF:0,http://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:-1,Yansıma Classic1
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:-1,Yansıma Classic2
+#EXTGRP:Türkiyə
+#EXTINF:0,https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w18062564.m3u8
+#EXTINF:1,Teber Star1 Sinema
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:1,Teber Star2 Yeşilçam
+#EXTGRP:Türkiyə
+#EXTINF:0,https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF:1,Teber Star3 Aile
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:1,Teber Star4 Belgesel
+#EXTGRP:Türkiyə
+#EXTINF:0,https://live-server-2.splitstream.io/2ae3bf08-20eb-4dcb-83ea-38d1088180e7/tracks-v1a1/mono.m3u8
+#EXTINF:1,Teber Star5 Eğlence
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:1,Teber Star6 Dizi
+#EXTGRP:Türkiyə
+#EXTINF:0,https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF:-1,™️Özgür Timur Medya™️ TV1
+#EXTINF:0,#EXTGRP:Türkiyə
+https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTINF:-1,™️Özgür Timur Medya™️ TV2
+#EXTGRP:Türkiyə
+#EXTINF:0,https://singapore-1.onestream.studio/content/hls/live/live_1236952_ez3qobsn4/hls.m3u8
+#EXTINF:-1,Fox HD
+#EXTINF:0,#EXTGRP:Türkiyə
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,Kanal D HD
+#EXTGRP:Türkiyə
+#EXTINF:0,https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1,Star1
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-startv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Star2
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1113__Star_TV/playlist.m3u8
+#EXTINF:-1,atv1
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-atv/index.m3u8
+#EXTINF:0,#EXTINF:-1,atv2
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1037__atv/playlist.m3u8
+#EXTINF:28,Show1
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-showtv/index.m3u8
+#EXTINF:0,#EXTINF:28,Show2
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1017__Show_TV/playlist.m3u8
+#EXTINF:29,TV8a
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-tv8/index.m3u8
+#EXTINF:0,#EXTINF:29,TV8b
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1126__TV_8/playlist.m3u8
+#EXTINF:29,TV8,5
+#EXTINF:0,#EXTGRP:Türkiyə
+http://213.172.73.170:8081/nimble_live/1140__TV_8_5/playlist.m3u8
+#EXTINF:0,#EXTINF:18,TRT1a
+#EXTGRP:Türkiyə
+#EXTINF:0,http://flussonic.azfiber.net:80/TR-trt1/index.m3u8
+#EXTINF:18,TRT1b
+#EXTINF:0,#EXTGRP:Türkiyə
+http://213.172.73.170:8081/nimble_live/1023__TRT1/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,Akıllı TV1
+#EXTGRP:Türkiyə
+#EXTINF:0,http://flussonic.azfiber.net:80/TR-akillitv/index.m3u8
+#EXTINF:-1,Akıllı TV2
+#EXTINF:0,#EXTGRP:Türkiyə
+http://213.172.73.170:8081/nimble_live/1024__Akilli_TV/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,Beyaz TV1
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1153__Beyaz_TV/playlist.m3u8
+#EXTINF:-1,Beyaz TV2
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-beyaztv/index.m3u8
+#EXTINF:0,#EXTINF:-1,Kanal 7a
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.171:8081/nimble_live/1167__Kanal_7/playlist.m3u8
+#EXTINF:-1,Kanal 7b
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-kanal7/index.m3u8
+#EXTINF:0,#EXTINF:-1,TLC Türk
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1116__TLC_turk/playlist.m3u8
+#EXTINF:-1,360 türk
+#EXTINF:0,#EXTGRP:Türkiyə
+http://213.172.73.170:8081/nimble_live/1133__360_turk/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,Haber Global HD
+#EXTGRP:Türkiyə
+#EXTINF:0,https://hasan.tvcag.live/str.yodacdn.net/haberglobal/index.m3u8?token=5e1187fd88176de345e3cdeb5e06b1edaf1c826a-a638c51ea308530e7512e18fffc79d82-1645992959-1645982159
+#EXTINF:-1,Haber Global HD
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-haberglobal/index.m3u8
+#EXTINF:0,#EXTINF:-1,Yansıma Premium TV1
+#EXTGRP:Türkiyə
+#EXTINF:0,https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Yansıma Premium TV2
+#EXTINF:0,#EXTGRP:Türkiyə
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
+#EXTINF:0,#EXTINF:-1,Kral TV  
+#EXTGRP:Türkiyə
+#EXTINF:0,https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1,Kral Pop TV
+#EXTINF:0,#EXTGRP:Türkiyə
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0,#EXTINF:-1,TMB
+#EXTGRP:Türkiyə
+#EXTINF:0,http://213.172.73.170:8081/nimble_live/1026__TMB/playlist.m3u8
+#EXTINF:-1,Tatlıses
+#EXTINF:0,#EXTGRP:Türkiyə
+http://flussonic.azfiber.net:80/TR-tatlises/index.m3u8
