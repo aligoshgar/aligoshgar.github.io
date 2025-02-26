@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT SPOR
 http://flussonic.izone.az:80/trtspor/index.m3u8
-#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT SPOR Yıldız
-http://flussonic.izone.az:80/trtspor2/index.m3u8
-#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT SPOR Yıldız
-http://flussonic.izone.az:80/trtspor3/index.m3u8
-#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT SPOR Yıldız
+#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT 3 SPOR
 http://flussonic.izone.az:80/trt3spor/index.m3u8
 #EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT SPOR Yıldız
-http://flussonic.izone.az:80/trt3/index.m3u8
+http://flussonic.izone.az:80/trt2spor/index.m3u8
 #EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", TRT 4k
 http://flussonic.izone.az:80/trt4k/index.m3u8
 #EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🍇 IZONE PANEL" type="stream" channelId="2550", kepez
