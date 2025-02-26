@@ -526,7 +526,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_3_Spor_logo_%282022%29.svg/512px-TRT_3_Spor_logo_%282022%29.svg.png" tvg-name="TRT 3 Spor" group-title="🇹🇷 TURKEY",TRT 3 Spor
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/31245/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor
-https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8
+http://flussonic.izone.az:80/trtspor/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor [Geo-Blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="TRT Spor Yıldız" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/800px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-language="Turkish" group-title="🇹🇷 TURKEY",TRT Spor Yıldız
