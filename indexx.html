@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Əliqoşqar Kərimli</title>
+  <link rel="icon" href="../img/logo.ico" type="image/x-icon" />
+  <style>
+    @font-face {
+      font-family: "inter";
+      src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: hsl(75, 94%, 57%);
+      --secondary-light: hsl(0, 0%, 20%);
+      --secondary: hsl(0, 0%, 12%);
+      --secondary-dark: hsl(0, 0%, 8%);
+      --white: hsl(0, 0%, 100%);
+      --red: hsl(0, 100%, 50%);
+      font-family: "inter", sans-serif;
+      font-size: 14px;
+    }
+
+    html, body {
+      width: 100%;
+      min-height: 100vh;
+      background-color: var(--secondary-dark);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* Üst Menü (Koyu Siyah Alan) */
+    .header {
+      width: 100%;
+      height: 60px;
+      background-color: var(--secondary);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 15px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 100;
+    }
+
+    /* Logo */
+    .site-logo {
+      height: 40px;
+      width: auto;
+      object-fit: contain;
+    }
+
+    /* Mesaj İkonu */
+    .message-icon {
+      position: relative;
+      width: 30px;
+      height: 30px;
+      background: url("https://cdn-icons-png.flaticon.com/512/5974/5974637.png") no-repeat center;
+      background-size: cover;
+      cursor: pointer;
+    }
+
+    /* Yanıp Sönen Bildirim Noktası */
+    .notification {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 10px;
+      height: 10px;
+      background-color: var(--red);
+      border-radius: 50%;
+      animation: blink 1s infinite alternate;
+    }
+
+    @keyframes blink {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    /* Sayfanın İçeriği (Header'dan Aşağı Başlaması için) */
+    main {
+      width: 100%;
+      max-width: 375px;
+      margin-top: 80px; /* Header'ı kapatmaması için boşluk bırakıldı */
+      padding: 3rem;
+      background-color: var(--secondary);
+      border-radius: 0.85rem;
+      text-align: center;
+    }
+
+    /* Profil Resmi */
+    .profile-pic {
+      width: 100%;
+      max-width: 100px;
+      aspect-ratio: 1 / 1;
+      border-radius: 100%;
+      margin: auto;
+      display: block;
+      object-fit: cover;
+    }
+
+    h1, h2, p, li {
+      text-align: center;
+    }
+
+    h1, p, li {
+      color: var(--white);
+    }
+
+    h1 {
+      margin-top: 2rem;
+      font-size: 1.9rem;
+      font-weight: 700;
+    }
+
+    h2 {
+      color: var(--primary-color);
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 1rem 0 1.5rem;
+    }
+
+    menu {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      padding: 0.8rem 0;
+      background-color: var(--secondary-light);
+      border-radius: 0.5rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    li:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    li:hover {
+      background-color: var(--primary-color);
+      color: var(--secondary);
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Üst Menü (Koyu Siyah Alan) -->
+  <div class="header">
+    <img src="https://aligoshgar.github.io/logo/logo.png" alt="Logo" class="site-logo">
+    <div class="message-icon" onclick="window.location.href='../pages/messages.html'">
+  <div class="notification"></div>
+</div>
+  </div>
+
+  <main>
+    <img src="../img/me.jpg" alt="Əliqoşqar Kərimli" class="profile-pic">
+    <h1>Əliqoşqar Kərimli</h1>
+    <h2>@aligoshgar</h2>
+    <p>"Founder and CEO"</p>
+    <menu>
+      <li><a href="../pages/messages.html" style="color:red">MESAJLAR</a></li>
+      <li><a href="../pages/services.html" style="color:white">XİDMƏTLƏR</a></li>
+      <li><a href="../pages/about.html" style="color:white">HAQQINDA</a></li>
+      <li><a href="https://t.me/aligoshgar" target="_blank">Telegram hesabı</a></li>
+      <li><a href="https://t.me/aligoshgartv" target="_blank">Telegram kanalı</a></li>
+    </menu>
+  </main>
+
+</body>
+</html>
