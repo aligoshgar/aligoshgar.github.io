@@ -964,7 +964,7 @@ http://flussonic.izone.az:80/matchtv/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЦ! ПРЕМЬЕР
 http://flussonic.izone.az:80/nashfutbol/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЦ! Игра
-http://xxx
+http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! АРЕНА
 http://flussonic.izone.az:80/matcharena/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
