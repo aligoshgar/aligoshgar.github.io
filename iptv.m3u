@@ -969,7 +969,7 @@ http://31.148.48.15/Match_Igra/index.m3u8
 http://flussonic.izone.az:80/matcharena/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
 http://flussonic.izone.az:80/nashsport/mono.m3u8
-#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЧ! Планета
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЧ! СТРАНА
 http://flussonic.izone.az:80/machplaneta/index.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇷🇺 RUSSIA",МАТЧ! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
