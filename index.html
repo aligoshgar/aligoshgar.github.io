@@ -35,6 +35,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
+      justify-content: center; /* Main kısmı merkezde tutmak için ekledim */
       margin: 0;
     }
 
@@ -48,11 +49,9 @@
       align-items: center;
       justify-content: space-between;
       padding: 0 15px;
-      position: fixed;
-      top: 0;
-      left: 50%;
-      transform: translateX(-50%); /* Bu sayede header tam olarak ortalanacak */
-      z-index: 100;
+      position: relative; /* Header sabit değil, akışta yer alacak */
+      margin-bottom: 2rem; /* Main ile arasındaki boşluk */
+      border-radius: 0.85rem; /* Main ile aynı kenar yuvarlama */
     }
 
     /* Logo */
@@ -93,11 +92,11 @@
     main {
       width: 100%;
       max-width: 375px;  /* Main ile aynı genişlik */
-      margin-top: 80px; /* Header'ı kapatmaması için boşluk bırakıldı */
       padding: 3rem;
       background-color: var(--secondary);
       border-radius: 0.85rem;
       text-align: center;
+      position: relative; /* Main de akışta yer alacak */
     }
 
     /* Profil Resmi */
