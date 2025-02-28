@@ -136,6 +136,8 @@ https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
 https://ip100.radyotelekomtv.com:3620/stream/play.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Maksim TV
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="mahnitv.az/images/logo.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Mahnı TV
+http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://i.hizliresim.com/8n6wrgt.png" tvg-language="Azerbaijani" group-title="🇦🇿 AZERBAIJAN",Sirius TV
 http://195.9.195.3:8080/hls/211270.m3u8
 
