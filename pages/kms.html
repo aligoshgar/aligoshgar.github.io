@@ -1,65 +1,243 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Əliqoşqar Kərimli</title>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            height: 100vh; /* Sayfa yüksekliği %100 olacak şekilde ayarlandı */
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between; /* İçeriği yukarı ve aşağıya itiyor */
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KMS Sayfası - Əliqoşqar Kərimli</title>
+  <link rel="icon" href="../img/logo.ico" type="image/x-icon" />
+  <style>
+    @font-face {
+      font-family: "inter";
+      src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+    }
 
-        .content {
-            font-size: 18px;
-            padding: 20px;
-            text-align: justify; /* Metni sağa ve sola hizalar */
-        }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-        .back-button {
-            display: flex; /* Flexbox kullanarak içeriği ortalamak için */
-            justify-content: center; /* Yatayda ortalar */
-            align-items: center; /* Dikeyde ortalar */
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-            margin: 20px auto; /* Butonu yatayda ortalar */
-            width: 100px; /* Buton genişliği */
-            height: 50px; /* Buton yüksekliği */
-        }
+    :root {
+      --primary-color: hsl(75, 94%, 57%);
+      --secondary-light: hsl(0, 0%, 20%);
+      --secondary: hsl(0, 0%, 12%);
+      --secondary-dark: hsl(0, 0%, 8%);
+      --white: hsl(0, 0%, 100%);
+      --red: hsl(0, 100%, 50%);
+      font-family: "inter", sans-serif;
+      font-size: 14px;
+    }
 
-        .back-button:hover {
-            background-color: #45a049;
-        }
-            a {
-  color: #4CAF50; /* Link rengini beyaz yapar */
-  text-decoration: none; /* Linkin alt çizgisini kaldırır */
-}
-    </style>
+    html, body {
+      width: 100%;
+      min-height: 100vh;
+      background-color: var(--secondary-dark);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+    }
+
+    /* Header Düzeni */
+    .header {
+      width: 100%;
+      max-width: 375px;
+      height: 60px;
+      background-color: var(--secondary);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 15px;
+      position: relative;
+      margin-bottom: 2rem;
+      border-radius: 0.85rem;
+    }
+
+    /* Logo */
+    .site-logo {
+      height: 40px;
+      width: auto;
+      object-fit: contain;
+    }
+
+    /* Mesaj İkonu */
+    .message-icon {
+      position: relative;
+      width: 30px;
+      height: 30px;
+      background: url("https://cdn-icons-png.flaticon.com/512/5974/5974637.png") no-repeat center;
+      background-size: cover;
+      cursor: pointer;
+    }
+
+    /* Yanıp Sönen Bildirim Noktası */
+    .notification {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 10px;
+      height: 10px;
+      background-color: var(--red);
+      border-radius: 50%;
+      animation: blink 1s infinite alternate;
+    }
+
+    @keyframes blink {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    /* Sayfanın İçeriği */
+    main {
+      width: 100%;
+      max-width: 375px;
+      padding: 3rem;
+      background-color: var(--secondary);
+      border-radius: 0.85rem;
+      text-align: center;
+      position: relative;
+    }
+
+    /* Profil Resmi */
+    .profile-pic {
+      width: 100%;
+      max-width: 100px;
+      aspect-ratio: 1 / 1;
+      border-radius: 100%;
+      margin: auto;
+      display: block;
+      object-fit: cover;
+    }
+
+    h1, h2, p, li {
+      text-align: center;
+    }
+
+    h1, p, li {
+      color: var(--white);
+    }
+
+    h1 {
+      margin-top: 2rem;
+      font-size: 1.9rem;
+      font-weight: 700;
+    }
+
+    h2 {
+      color: var(--primary-color);
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 1rem 0 1.5rem;
+    }
+
+    menu {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      padding: 0.8rem 0;
+      background-color: var(--secondary-light);
+      border-radius: 0.5rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    li:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    li:hover {
+      background-color: var(--primary-color);
+      color: var(--secondary);
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    .content {
+      text-align: left;
+      font-size: 1.1rem;
+      color: var(--white);
+      margin-top: 2rem;
+      text-align: justify;
+    }
+
+    .content img {
+      width: 100%;
+      max-width: 200px;
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 1rem;
+    }
+
+    .separator {
+      margin-bottom: 1.5rem;
+    }
+  </style>
 </head>
 <body>
-    <div class="content">
-        <p><br /></p>
-        <div><div class="separator" style="clear: both; text-align: center;">
-            <a href="" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;">
-                <img border="0" data-original-height="951" data-original-width="1691" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XjfA7m94DYE0NiaAOs7TI6b6Xax96JmNYRFCS1mHSMMCp4pSg706C9w273SZvBahh36KNQEbvmmF0KFdJrR3Ty-WNcJ50KThsihTxdmSvHHji5wD7CrVFA99pdSi7j-kxd8loOGcjQJReBpoj8wbeqommcCYwJkS-18fQnN-5T1fNNj-BcAVxsAeGSE/s450/1654671362_kmsauto.webp" width="200" />
-            </a></div></div>
 
-        KMS Auto proqramı Windows üçün hazırlanmış olan, Windowsun və Microsoft Office 365-in (Word və Excell kimi bütün ofis proqramları) lisenziya (product key) tələb edən ödənişli versiyalarının tam ödənişsiz istifadəsinə imkan yaradan proqramdır. Aşağıdakı link vasitəsilə proqramı yükləyin və hər hansı ZIP arxiv proqramı vasitəsilə <u style="font-weight: bold;">rsload</u>&nbsp;şifrəsini daxil edərək lazımi faylları çıxarıb quraşdırın. Proqramın istifadəsi asandır. Giriş edərkən sizi birbaşa aktivləşdirmə butonları qarşılayacaqdır. Yükləmə linki:&nbsp;<a href="https://drive.google.com/file/d/1JwmhcL3nSrVqBKFHPT1zhd7s8Cp_ePgh/view?usp=drive_link" target="_blank">KMSAuto++ 1.8.7</a></div><div style="text-align: justify;"><br /></div><div><div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">Aktivləşdirmə sonrasında ekranın sağ aşağı küncündə hələ də "Activate Windows" yazısı görükürsə aşağıdakı addımları tədbiq edin:</span></div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;"><br /></span></div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">1. Wındows axtarış qisminə "Run" yazın və tapılan proqramı başladın;</span></div></div><div>2. Açılan proqramda <b>regedit</b>&nbsp;yazaraq OK butonuna basın;</div><div>3. Ekrana gələ biləcək hər hansı bir xəbərdarlığa "bəli" seçərək davam edin;</div><div>4. Açılan qovluqların arasında bu ardıcıllıq ilə irəliləyin:</div><div>HKEY_LOCAL_MACHINE &gt; SYSTEM &gt; CurrentControlSet &gt; Services &gt; svsvc</div><div>5. Bu qovluqda olan <b>Start </b>faylının üstünə sağ click edərək ilk sıradakı&nbsp;<b>Modify </b>seçimini edirik;</div><div>6. Açılan pəncərədə dəyər göstəricisi 0 və ya 3-dürsə, onu 4 edərək OK butonuna basın;</div><div>7. Kompüteri yenidən başladın.</div><div><br /></div><div>Daha ətraflı məlumat üçün <a href="https://youtu.be/bZg2fIXF7so?si=9_wVnJqUKokknae-" target="_blank">video izah</a>ı izləyə bilərsiniz!</div>
+  <!-- Üst Menü (Koyu Siyah Alan) -->
+  <div class="header">
+    <img src="https://aligoshgar.github.io/logo/logo.png" alt="Logo" class="site-logo">
+    <div class="message-icon" onclick="window.location.href='../pages/messages.html'">
+      <div class="notification"></div>
     </div>
+  </div>
 
-    <!-- Ana sayfaya dön butonu -->
-    <a href="../index.html" class="back-button">Əsas səhifə</a>
+  <!-- Sayfanın Ana İçeriği -->
+  <main>
+    <h1>KMS Auto</h1>
+    <h2>KMS nədir?</h2>
+    <div class="content">
+      <p><br /></p>
+      <div>
+        <div class="separator" style="clear: both; text-align: center;">
+          <a href="" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;">
+            <img border="0" data-original-height="951" data-original-width="1691" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XjfA7m94DYE0NiaAOs7TI6b6Xax96JmNYRFCS1mHSMMCp4pSg706C9w273SZvBahh36KNQEbvmmF0KFdJrR3Ty-WNcJ50KThsihTxdmSvHHji5wD7CrVFA99pdSi7j-kxd8loOGcjQJReBpoj8wbeqommcCYwJkS-18fQnN-5T1fNNj-BcAVxsAeGSE/s450/1654671362_kmsauto.webp" width="200" />
+          </a>
+        </div>
+      </div>
+
+      <p>KMS Auto proqramı Windows üçün hazırlanmış olan, Windowsun və Microsoft Office 365-in (Word və Excell kimi bütün ofis proqramları) lisenziya (product key) tələb edən ödənişli versiyalarının tam ödənişsiz istifadəsinə imkan yaradan proqramdır. Aşağıdakı link vasitəsilə proqramı yükləyin və hər hansı ZIP arxiv proqramı vasitəsilə <u style="font-weight: bold;">rsload</u>&nbsp;şifrəsini daxil edərək lazımi faylları çıxarıb quraşdırın. Proqramın istifadəsi asandır. Giriş edərkən sizi birbaşa aktivləşdirmə butonları qarşılayacaqdır. Yükləmə linki:&nbsp;<a href="https://drive.google.com/file/d/1JwmhcL3nSrVqBKFHPT1zhd7s8Cp_ePgh/view?usp=drive_link" target="_blank">KMSAuto++ 1.8.7</a></p>
+
+      <div style="text-align: justify;"><br /></div>
+
+      <div>
+        <div>
+          <div class="separator" style="clear: both; text-align: justify;">
+            <span style="text-align: left;">Aktivləşdirmə sonrasında ekranın sağ aşağı küncündə hələ də "Activate Windows" yazısı görükürsə aşağıdakı addımları tədbiq edin:</span>
+          </div>
+          <div class="separator" style="clear: both; text-align: justify;">
+            <span style="text-align: left;"><br /></span>
+          </div>
+          <div class="separator" style="clear: both; text-align: justify;">
+            <span style="text-align: left;">1. Wındows axtarış qisminə "Run" yazın və tapılan proqramı başladın;</span>
+          </div>
+        </div>
+
+        <div>2. Açılan proqramda <b>regedit</b>&nbsp;yazaraq OK butonuna basın;</div>
+        <div>3. Ekrana gələ biləcək hər hansı bir xəbərdarlığa "bəli" seçərək davam edin;</div>
+        <div>4. Açılan qovluqların arasında bu ardıcıllıq ilə irəliləyin:</div>
+        <div>HKEY_LOCAL_MACHINE &gt; SYSTEM &gt; CurrentControlSet &gt; Services &gt; svsvc</div>
+        <div>5. Bu qovluqda olan <b>Start </b>faylının üstünə sağ click edərək ilk sıradakı&nbsp;<b>Modify </b>seçimini edirik;</div>
+        <div>6. Açılan pəncərədə dəyər göstəricisi 0 və ya 3-dürsə, onu 4 edərək OK butonuna basın;</div>
+        <div>7. Kompüteri yenidən başladın.</div>
+        
+        <div><br /></div>
+        <div>Daha ətraflı məlumat üçün <a href="https://youtu.be/bZg2fIXF7so?si=9_wVnJqUKokknae-" target="_blank">video izah</a>ı izləyə bilərsiniz!</div>
+      </div>
+    </div>
+  </main>
+
 </body>
 </html>
