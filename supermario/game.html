@@ -2,117 +2,143 @@
 <html lang="en-us">
 <head>
     <meta charset="utf-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
     <title>Super Mario Bros | Əliqoşqar Kərimli</title>
     <meta name="keywords" content="Super Mario Bros | Əliqoşqar Kərimli" />
     <meta name="description" content="Super Mario Bros | Əliqoşqar Kərimli" />
     <link href="assets/index.min.css" rel="stylesheet" />
     <link href="favicon.ico" rel="shortcut icon">
-    <style>
-        body {
-            margin: 0;
-            overflow: hidden; /* Sayfanın kaymasını engelle */
-            background: black;
-        }
+<style>
+#Logo {
+    width: 100%; /* Varsayılan olarak genişliğini %100 yap */
+    max-width: 200px; /* Maksimum genişlik */
+    height: auto; /* Oranları koru */
+}
 
-        #game {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 100vw; /* Tüm ekranı kapla */
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        /* Mobil kontroller */
-        .controls {
-            position: fixed;
-            bottom: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 10px;
-            z-index: 100;
-        }
-
-        .control-btn {
-            width: 50px;
-            height: 50px;
-            background: rgba(255, 255, 255, 0.5);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 20px;
-            font-weight: bold;
-            cursor: pointer;
-            user-select: none;
-        }
-
-        .control-btn:active {
-            background: rgba(255, 255, 255, 0.8);
-        }
-
-        .action-controls {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            display: flex;
-            gap: 10px;
-        }
-
-    </style>
+/* Mobil ekranlar için daha küçük yap */
+@media (max-width: 600px) {
+    #Logo {
+        max-width: 150px;
+    }
+}
+</style>
 </head>
 <body>
+<header>
+    <a href="../index.html">
+        <img id="Logo" src="../logo/logo.png" alt="aligoshgar.github.io" />
+    </a>
+</header>
+	
+	<section id="game">
+	<center style="border:1px dashed #fff;margin:30px 0px 0px 0px">
+	<p style="margin-top: 160px"><img src="assets/loading.gif"></p>
+	<h2 style="margin-bottom: 170px"><b style="color:#00b2ff">Oyun yüklənir!Gözləyin...</b></h2>
+	</center></section>
+	
+	<section id="controls"></section>
+	
+	<section id="explanation" class="section-text">
+	Sizə Nintendo-nun orijinal Super Mario Bros oyununu təqdim edirik!
+	</section>
+	
+	<section id="credits" class="section-text">
+		Uşaqlığınıza qayıtmaq və nostaljik anlar yaşamaq üçün sizə lazım olan tək adres: <a href="http://aligoshgar.github.io" target="_blank">aligoshgar.github.io</a>
+	</section>
 
-    <section id="game">
-        <center style="border:1px dashed #fff;margin:30px 0px 0px 0px">
-            <p style="margin-top: 160px"><img src="assets/loading.gif"></p>
-            <h2 style="margin-bottom: 170px"><b style="color:#00b2ff">Oyun yüklənir! Gözləyin...</b></h2>
-        </center>
-    </section>
+	<section id="legal" class="section-text">
+		<small><em>Saytımız üzərindən heç bir yükləmə və ya quraşdırma lazım olmadan Super Mario Bros oyununu rahat şəkildə oynaya biləriniz.</em></small><br><br>
+		<small><em>Oyunu mobil versiyada oynayanlar Options > Touch Controls ayarını aktiv edərək mobil idarəetmə düymələrindən istifadə edə bilər.</em></small>
+	</section>
+	<br>
 
-    <!-- Yön Kontrolleri -->
-    <div class="controls">
-        <div class="control-btn" id="left">⬅</div>
-        <div class="control-btn" id="right">➡</div>
-        <div class="control-btn" id="up">⬆</div>
-    </div>
 
-    <!-- Aksiyon Butonları -->
-    <div class="action-controls">
-        <div class="control-btn" id="jump">🅱</div>
-        <div class="control-btn" id="fire">🅰</div>
-    </div>
-
-    <!-- Oyun Motoru Dosyaları -->
+    <!--  =======================  GAME CORE FILES  ========================  -->
+    <script src="References/AreaSpawnr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/AudioPlayr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/ChangeLinr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/DeviceLayr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/EightBittr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/FPSAnalyzr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/GamesRunnr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/GameStartr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/GroupHoldr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/InputWritr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/ItemsHoldr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/LevelEditr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/MapsCreatr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/MapScreenr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/MathDecidr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/ModAttachr-0.2.2.js" type="text/javascript"></script>
+    <script src="References/NumberMakr-0.2.2.js" type="text/javascript"></script>
+    <script src="References/ObjectMakr-0.2.2.js" type="text/javascript"></script>
+    <script src="References/PixelDrawr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/PixelRendr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/QuadsKeepr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/ScenePlayr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/StringFilr-0.2.1.js" type="text/javascript"></script>
+    <script src="References/ThingHittr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/TimeHandlr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/TouchPassr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/UsageHelpr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/UserWrappr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/WorldSeedr-0.2.0.js" type="text/javascript"></script>
+    <script src="References/js_beautify.js" type="text/javascript"></script>
     <script src="PlayMario.js" type="text/javascript"></script>
-
-    <script>
-        // Klavye olaylarını taklit edecek fonksiyon
-        function sendKeyEvent(keyCode, type) {
-            const event = new KeyboardEvent(type, { keyCode: keyCode, bubbles: true });
-            document.dispatchEvent(event);
-        }
-
-        // Butonlara dokunma olaylarını ekle
-        document.getElementById("left").addEventListener("touchstart", () => sendKeyEvent(37, "keydown"));
-        document.getElementById("left").addEventListener("touchend", () => sendKeyEvent(37, "keyup"));
-
-        document.getElementById("right").addEventListener("touchstart", () => sendKeyEvent(39, "keydown"));
-        document.getElementById("right").addEventListener("touchend", () => sendKeyEvent(39, "keyup"));
-
-        document.getElementById("up").addEventListener("touchstart", () => sendKeyEvent(38, "keydown"));
-        document.getElementById("up").addEventListener("touchend", () => sendKeyEvent(38, "keyup"));
-
-        document.getElementById("jump").addEventListener("touchstart", () => sendKeyEvent(90, "keydown")); // Zıplama (Z tuşu)
-        document.getElementById("jump").addEventListener("touchend", () => sendKeyEvent(90, "keyup"));
-
-        document.getElementById("fire").addEventListener("touchstart", () => sendKeyEvent(88, "keydown")); // Ateş (X tuşu)
-        document.getElementById("fire").addEventListener("touchend", () => sendKeyEvent(88, "keyup"));
-    </script>
-
+    <script src="settings/audio.js" type="text/javascript"></script>
+    <script src="settings/collisions.js" type="text/javascript"></script>
+    <script src="settings/devices.js" type="text/javascript"></script>
+    <script src="settings/editor.js" type="text/javascript"></script>
+    <script src="settings/generator.js" type="text/javascript"></script>
+    <script src="settings/groups.js" type="text/javascript"></script>
+    <script src="settings/events.js" type="text/javascript"></script>
+    <script src="settings/help.js" type="text/javascript"></script>
+    <script src="settings/input.js" type="text/javascript"></script>
+    <script src="settings/items.js" type="text/javascript"></script>
+    <script src="settings/maps.js" type="text/javascript"></script>
+    <script src="settings/maps/1-1.js" type="text/javascript"></script>
+    <script src="settings/maps/1-2.js" type="text/javascript"></script>
+    <script src="settings/maps/1-3.js" type="text/javascript"></script>
+    <script src="settings/maps/1-4.js" type="text/javascript"></script>
+    <script src="settings/maps/2-1.js" type="text/javascript"></script>
+    <script src="settings/maps/2-2.js" type="text/javascript"></script>
+    <script src="settings/maps/2-3.js" type="text/javascript"></script>
+    <script src="settings/maps/2-4.js" type="text/javascript"></script>
+    <script src="settings/maps/3-1.js" type="text/javascript"></script>
+    <script src="settings/maps/3-2.js" type="text/javascript"></script>
+    <script src="settings/maps/3-3.js" type="text/javascript"></script>
+    <script src="settings/maps/3-4.js" type="text/javascript"></script>
+    <script src="settings/maps/4-1.js" type="text/javascript"></script>
+    <script src="settings/maps/4-2.js" type="text/javascript"></script>
+    <script src="settings/maps/4-3.js" type="text/javascript"></script>
+    <script src="settings/maps/4-4.js" type="text/javascript"></script>
+    <script src="settings/maps/5-1.js" type="text/javascript"></script>
+    <script src="settings/maps/5-2.js" type="text/javascript"></script>
+    <script src="settings/maps/5-3.js" type="text/javascript"></script>
+    <script src="settings/maps/5-4.js" type="text/javascript"></script>
+    <script src="settings/maps/6-1.js" type="text/javascript"></script>
+    <script src="settings/maps/6-2.js" type="text/javascript"></script>
+    <script src="settings/maps/6-3.js" type="text/javascript"></script>
+    <script src="settings/maps/6-4.js" type="text/javascript"></script>
+    <script src="settings/maps/7-1.js" type="text/javascript"></script>
+    <script src="settings/maps/7-2.js" type="text/javascript"></script>
+    <script src="settings/maps/7-3.js" type="text/javascript"></script>
+    <script src="settings/maps/7-4.js" type="text/javascript"></script>
+    <script src="settings/maps/8-1.js" type="text/javascript"></script>
+    <script src="settings/maps/8-2.js" type="text/javascript"></script>
+    <script src="settings/maps/8-3.js" type="text/javascript"></script>
+    <script src="settings/maps/8-4.js" type="text/javascript"></script>
+    <script src="settings/maps/Random.js" type="text/javascript"></script>
+    <script src="settings/math.js" type="text/javascript"></script>
+    <script src="settings/mods.js" type="text/javascript"></script>
+    <script src="settings/objects.js" type="text/javascript"></script>
+    <script src="settings/quadrants.js" type="text/javascript"></script>
+    <script src="settings/renderer.js" type="text/javascript"></script>
+    <script src="settings/runner.js" type="text/javascript"></script>
+    <script src="settings/scenes.js" type="text/javascript"></script>
+    <script src="settings/sprites.js" type="text/javascript"></script>
+    <script src="settings/touch.js" type="text/javascript"></script>
+    <script src="settings/ui.js" type="text/javascript"></script>
+    <script src="index.js" type="text/javascript"></script>
 </body>
-</html>
+</html>
