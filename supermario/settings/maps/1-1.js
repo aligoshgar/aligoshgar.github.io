@@ -36,7 +36,7 @@ PlayMarioJas.PlayMarioJas.settings.maps.library["1-1"] = {
                 { "thing": "DecorativeDot", "x": 105.5, "y": 86.5 },
                 {
                     "thing": "CustomText", "x": 52, "y": 44, "size": "Colored", "texts": [
-                      { "text": "©1985 NINTENDO" }
+                      { "text": "©1985 NINTENDO • aligoshgar.github.io" }
                     ]
                 },
                 { "thing": "Block", "x": 128, "y": 32 },
