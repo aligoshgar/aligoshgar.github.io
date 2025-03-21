@@ -1,7 +1,0 @@
-<body>
-
-    <img src="https://aligoshgar.github.io/logo/logo.png" alt="404 Logo" class="error-img">
-    <div class="message">Daxil olmaq istədiyiniz səhifə saytımızda mövcud deyil və ya həmin səhifə artıq silinmişdir!</div>
-    <a href="/" class="btn">Əsas səhifə</a>
-
-</body>
