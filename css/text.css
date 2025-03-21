@@ -10,9 +10,9 @@ body {
 }
 
 .container {
-    font-size: 30px;
+    font-size: 45px;
     font-weight: 500;
-    color: #333;
+    color: white;
     display: flex;
     align-items: center;
 }
