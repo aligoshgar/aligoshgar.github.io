@@ -5,7 +5,7 @@
 .typing-container {
     font-size: 30px;  /* Yazı boyutu */
     font-weight: 500;
-    color: #333;      /* Yazı rengi */
+    color: green;      /* Yazı rengi */
     display: flex;
     justify-content: center;  /* Yatayda ortalamak için */
     align-items: center;      /* Dikeyde ortalamak için */
