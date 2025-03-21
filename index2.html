@@ -12,6 +12,40 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
+	menu {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      padding: 0.8rem 0;
+      background-color: var(--secondary-light);
+      border-radius: 0.5rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    li:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+
+    li:hover {
+      background-color: var(--primary-color);
+      color: var(--secondary);
+    }
+
+    .menu {
+      list-style-type: none;  /* Liste işaretlerini kaldır */
+      padding: 0;
+      margin: 0;
+      text-align: center;
+    }
+
+    .menu li {
+      margin: 10px 0;
+    }
 			
     /* Logo */
     .site-logo {
@@ -127,33 +161,11 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
 
 						<!-- Contact -->
 							<article id="contact">
-								<h2 class="major">Contact</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="email">Email</label>
-											<input type="text" name="email" id="email" />
-										</div>
-										<div class="field">
-											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="4"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" /></li>
-										<li><input type="reset" value="Reset" /></li>
-									</ul>
-								</form>
-								<ul class="icons">
-									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
+								<h2 class="major">Oyunlar</h2>
+								 <ul class="menu">
+    <li><a href="../supermario/index.html" target="_blank">Super Mario Bros</a></li>
+    <li><a href="../snake/index.html" target="_blank">Snake Xenzia</a></li>
+  </ul>
 							</article>
 
 						<!-- Elements -->
