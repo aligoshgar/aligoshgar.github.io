@@ -3,31 +3,32 @@
 
 /* typing-container sınıfını hedef alarak sadece bu kısımdaki yazıyı ve cursor'ı özelleştiriyoruz */
 .typing-container {
-    font-size: 30px;  /* Yazı boyutu */
-    font-weight: 500;
-    color: green;      /* Yazı rengi */
-    display: flex;
-    justify-content: center;  /* Yatayda ortalamak için */
-    align-items: center;      /* Dikeyde ortalamak için */
-    height: 100vh;     /* Sayfa yüksekliği kadar kapsama alanı */
-    font-family: 'Poppins', sans-serif; /* Yazı tipi */
-    text-align: center; /* Yazının ortalanması */
+    font-size: 30px !important;  /* Yazı boyutu, global stil ile çakışmaması için !important */
+    font-weight: 500 !important;
+    color: #333 !important;      /* Yazı rengi */
+    display: inline-flex !important;  /* Satır içi flexbox kullanıyoruz */
+    justify-content: center !important;  /* Yatayda ortalamak için */
+    align-items: center !important;      /* Dikeyde ortalamak için */
+    font-family: 'Poppins', sans-serif !important; /* Yazı tipi */
+    text-align: center !important; /* Yazının ortalanması */
+    margin: 0 !important;  /* Gereksiz boşlukları engellemek için */
+    padding: 0 !important; /* Gereksiz boşlukları engellemek için */
 }
 
 .typing-container #typed-text {
-    font-size: 30px; /* Yazı boyutu */
-    color: #333;     /* Yazı rengi */
-    font-weight: 500;
+    font-size: 30px !important; /* Yazı boyutu */
+    color: #333 !important;     /* Yazı rengi */
+    font-weight: 500 !important;
 }
 
 .typing-container .cursor {
-    display: inline-block;
-    width: 2px;
-    height: 1.2em; /* Harf yüksekliğini tam kapsaması için artırıldı */
-    background-color: black;  /* Cursor rengi */
-    margin-left: 2px;
-    vertical-align: middle;  /* Dikey hizalama */
-    animation: blink 0.8s infinite;  /* Yanıp sönme animasyonu */
+    display: inline-block !important;
+    width: 2px !important;
+    height: 1.2em !important; /* Harf yüksekliğini tam kapsaması için artırıldı */
+    background-color: black !important;  /* Cursor rengi */
+    margin-left: 2px !important;
+    vertical-align: middle !important;  /* Dikey hizalama */
+    animation: blink 0.8s infinite !important;  /* Yanıp sönme animasyonu */
 }
 
 @keyframes blink {
