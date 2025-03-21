@@ -21,7 +21,7 @@ body {
     display: inline-block;
     width: 2px;
     height: 1.2em;
-    background-color: black;
+    background-color: white;
     margin-left: 2px;
     vertical-align: middle;
     animation: blink 0.8s infinite;
