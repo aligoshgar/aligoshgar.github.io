@@ -3176,7 +3176,8 @@ http://yayin1.canliyayin.org:8888/
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-logo="http://127.0.0.1/" group-title="📻 RADIO / TURKEY", WORLD HIT
 http://37.247.98.8/stream/34/
 
-
+#EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Aşkın çekimi - Türkçe Dublaj (2012)
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/49/99/76/52/19/79/41/75/56/3/7e7b568d-0825-4ea2-b9fd-9b07009b704e/kaltura/desc_cbf6de7bc6ad61e4b4b28ec3884823ff/vhhgYX8CgDhI/master.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="" tvg-language="Turkish" group-title="🎬 MOVIES",Tom & Jerry - Türkçe Dublaj (2021)
 https://vidrame.pro/vr/get/b090fc2e/480.m3u8
 #EXTINF:1 tvg-copyright="@aligoshgartv" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_FMjpg_UX1000_.jpg" tvg-language="Turkish" group-title="🎬 MOVIES",Migration - Ördeklerin Göçü (2023)
