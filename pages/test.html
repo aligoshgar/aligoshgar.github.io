@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gelişmiş Hesap Makinesi</title>
+  <style>
+    :root {
+      --bg: #111;
+      --calc-bg: #222;
+      --btn-dark: #333;
+      --btn-red: #e74c3c;
+      --btn-purple: #9b59b6;
+      --btn-blue: #2980b9;
+      --btn-orange: #f39c12;
+      --btn-green: #2ecc71;
+      --text: #fff;
+      --display-color: #0f0;
+    }
+
+    body {
+      margin: 0;
+      background: linear-gradient(to bottom right, #0e0e0e, #1a1a1a);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    .calculator {
+      background: var(--calc-bg);
+      border-radius: 20px;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      max-width: 400px;
+      width: 90vw;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+
+    .display {
+      grid-column: span 4;
+      background: #000;
+      color: var(--display-color);
+      font-size: 2.5em;
+      text-align: right;
+      padding: 15px;
+      border-radius: 10px;
+      word-wrap: break-word;
+      min-height: 60px;
+    }
+
+    button {
+      height: 60px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.1s ease, box-shadow 0.2s ease;
+    }
+
+    button:active {
+      transform: scale(0.97);
+      box-shadow: inset 0 0 5px rgba(0,0,0,0.5);
+    }
+
+    .btn-clear { background: var(--btn-red); color: var(--text); }
+    .btn-delete { background: var(--btn-purple); color: var(--text); }
+    .btn-percent { background: var(--btn-blue); color: var(--text); }
+    .btn-operator { background: var(--btn-orange); color: var(--text); }
+    .btn-number { background: var(--btn-dark); color: var(--text); }
+    .btn-equals {
+      background: var(--btn-green);
+      color: var(--text);
+      grid-column: span 2;
+    }
+
+    @media (max-width: 480px) {
+      .calculator {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 8px;
+      }
+
+      button {
+        height: 50px;
+        font-size: 1em;
+      }
+
+      .display {
+        font-size: 2em;
+        min-height: 50px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="calculator">
+    <div id="display" class="display">0</div>
+
+    <button class="btn-clear" onclick="playClick(); clearDisplay()">C</button>
+    <button class="btn-delete" onclick="playClick(); deleteLast()">⌫</button>
+    <button class="btn-percent" onclick="playClick(); appendValue('%')">%</button>
+    <button class="btn-operator" onclick="playClick(); appendOperator('/')">÷</button>
+
+    <button class="btn-number" onclick="playClick(); appendValue('7')">7</button>
+    <button class="btn-number" onclick="playClick(); appendValue('8')">8</button>
+    <button class="btn-number" onclick="playClick(); appendValue('9')">9</button>
+    <button class="btn-operator" onclick="playClick(); appendOperator('*')">×</button>
+
+    <button class="btn-number" onclick="playClick(); appendValue('4')">4</button>
+    <button class="btn-number" onclick="playClick(); appendValue('5')">5</button>
+    <button class="btn-number" onclick="playClick(); appendValue('6')">6</button>
+    <button class="btn-operator" onclick="playClick(); appendOperator('-')">−</button>
+
+    <button class="btn-number" onclick="playClick(); appendValue('1')">1</button>
+    <button class="btn-number" onclick="playClick(); appendValue('2')">2</button>
+    <button class="btn-number" onclick="playClick(); appendValue('3')">3</button>
+    <button class="btn-operator" onclick="playClick(); appendOperator('+')">+</button>
+
+    <button class="btn-number" onclick="playClick(); appendValue('0')">0</button>
+    <button class="btn-number" onclick="playClick(); appendValue('.')">.</button>
+    <button class="btn-equals" onclick="playClick(); calculate()">=</button>
+  </div>
+
+  <!-- Ses Efekti -->
+  <audio id="click-sound" src="https://www.soundjay.com/buttons/sounds/button-16.mp3" preload="auto"></audio>
+
+  <script>
+    const display = document.getElementById('display');
+    const clickSound = document.getElementById('click-sound');
+    const operators = ['+', '-', '*', '/', '%'];
+
+    function playClick() {
+      clickSound.currentTime = 0;
+      clickSound.play();
+    }
+
+    function clearDisplay() {
+      display.innerText = '0';
+    }
+
+    function deleteLast() {
+      let current = display.innerText;
+      display.innerText = current.length > 1 ? current.slice(0, -1) : '0';
+    }
+
+    function appendValue(val) {
+      if (display.innerText === '0' && val !== '.') {
+        display.innerText = val;
+      } else {
+        display.innerText += val;
+      }
+    }
+
+    function appendOperator(op) {
+      let current = display.innerText;
+      let lastChar = current.slice(-1);
+
+      if (operators.includes(lastChar)) {
+        // Son karakter operatörse, üzerine yaz
+        display.innerText = current.slice(0, -1) + op;
+      } else {
+        display.innerText += op;
+      }
+    }
+
+    function calculate() {
+      let expression = display.innerText.replace(/÷/g, '/').replace(/×/g, '*').replace(/−/g, '-').replace(/%/g, '*0.01');
+
+      try {
+        const result = eval(expression);
+        display.innerText = result;
+      } catch {
+        display.innerText = 'Hata';
+      }
+    }
+  </script>
+</body>
+</html>
