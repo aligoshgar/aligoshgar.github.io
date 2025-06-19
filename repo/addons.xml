@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="8.3.6" provider-name="kasi,michaz">
+	<requires>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.resolveurl"/>
+		<import addon="inputstream.adaptive"/>
+		<import addon="inputstream.ffmpegdirect" optional="true" />
+		<import addon="script.module.futures" optional="true" />
+		<import addon="script.module.infotagger" optional="true" />
+		<!-- only for debug -->
+		<import addon="script.module.pydevd" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="resources" />
+	<extension point="xbmc.addon.metadata">
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
+	
+<addon id="aligoshgar.michaz" name="Aligoshgar Repository" provider-name="Aligoshgar" version="5.0">
+	<extension point="xbmc.addon.repository" name="Aligoshgar Repository">
+		<dir>
+			<info compressed="false">https://aligoshgar.github.io/repo/addons.xml</info>
+			<checksum>https://aligoshgar.github.io/repo/addons.xml.md5</checksum>
+			<datadir zip="true">https://aligoshgar.github.io/repo/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<description lang="en">Addons by Aligoshgar</description>
+		<website>https://alogoshgar.github.io</website>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
+</addons>
