@@ -1,0 +1,24 @@
+# ai.txt – AI Content & Usage Policy
+
+site: https://aligoshgar.github.io
+owner: Əliqoşqar Kərimli
+contact: aligoshgar@gmail.com
+created: 2025-06-20
+
+# Access
+allow: /
+disallow: /admin/
+disallow: /private/
+disallow: /drafts/
+
+# Content License
+license: CC-BY 4.0
+
+# Citation
+citation-required: yes
+
+# Structured Data
+structured-data: JSON-LD, schema.org
+
+# Purpose
+note: Bu içerik, eğitsel ve referans amaçlı olup, alıntı yapılırken kaynak belirtilmelidir.
