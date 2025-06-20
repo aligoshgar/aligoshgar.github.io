@@ -1,0 +1,29 @@
+# llm-policy.txt – LLM Detailed Policy
+
+[Site Info]
+site: https://aligoshgar.github.io
+owner: Əliqoşqar Kərimli
+contact: aligoshgar@gmail.com
+created: 2025-06-20
+language: tr
+
+[Content Usage]
+allow: public content
+disallow: /admin/, /private/, /drafts/
+license: CC-BY 4.0
+citation-required: yes
+
+[Metadata]
+metadata-access: allow
+formats: JSON-LD, schema.org
+
+[Robots]
+referenced-in: robots.txt
+
+[AI Usage]
+intended-use: bilgi edinme, eğitim ve açık kaynaklı paylaşım
+attribution-required: true
+do-not-train: false
+
+[Reporting]
+issues-contact: aligoshgar@gmail.com
