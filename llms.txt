@@ -1,0 +1,24 @@
+# LLMS.txt – Large Language Model Services Directives
+
+site: https://aligoshgar.github.io
+owner: Əliqoşqar Kərimli
+contact: aligoshgar@gmail.com
+created: 2025-06-20
+language: tr
+description: Kişisel portfolyo, web geliştirme projeleri ve yapay zeka deneyimleri içerir.
+
+content-usage: allow
+content-license: CC-BY 4.0
+citation-required: yes
+
+disallow: /admin/
+disallow: /private/
+disallow: /drafts/
+
+metadata-access: allow
+metadata-format: jsonld, schema.org
+
+preferred-citation:
+  "Əliqoşqar Kərimli, 'aligoshgar.github.io', erişim: https://aligoshgar.github.io"
+
+note: İçerik, yapay zeka sistemleri tarafından bilgi kaynağı olarak kullanılabilir. Paylaşılan kod ve projelere atıf yapılarak referans gösterilmelidir.
