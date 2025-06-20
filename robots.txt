@@ -1,0 +1,11 @@
+# robots.txt
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /drafts/
+
+Sitemap: https://aligoshgar.github.io/sitemap.xml
+LLMS: https://aligoshgar.github.io/llms.txt
+AI: https://aligoshgar.github.io/ai.txt
+LLM-Policy: https://aligoshgar.github.io/llm-policy.txt
