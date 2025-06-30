@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MP3 Albüm Player</title>
+  <style>
+    :root {
+      --bg-color: #111;
+      --text-color: #fff;
+      --header-bg: #1c1c1c;
+      --active-track: #0077ff;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-bottom: 80px; /* sabit buton için boşluk */
+      transition: all 0.3s ease;
+    }
+
+    header {
+      width: 100%;
+      background-color: var(--header-bg);
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    #themeToggle {
+      font-size: 20px;
+      background: none;
+      border: none;
+      color: inherit;
+      cursor: pointer;
+    }
+
+    .album-cover {
+      width: 200px;
+      height: 200px;
+      background: #333;
+      background-size: cover;
+      background-position: center;
+      border-radius: 16px;
+      margin: 20px 0;
+    }
+
+    .player {
+      width: 100%;
+      max-width: 400px;
+      text-align: center;
+    }
+
+    audio {
+      width: 100%;
+      margin: 20px 0;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+
+    li {
+      background: #222;
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    li:hover {
+      background: #444;
+    }
+
+    .active {
+      background: var(--active-track);
+    }
+
+    .footer-button {
+      position: fixed;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--active-track);
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 25px;
+      font-size: 16px;
+      cursor: pointer;
+      z-index: 999;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Albüm Player</h1>
+    <button id="themeToggle">🌙</button>
+  </header>
+
+  <div class="album-cover" id="albumCover" style="background-image: url('album-kapagi.jpg');"></div>
+
+  <div class="player">
+    <audio id="audioPlayer" controls></audio>
+    <ul id="trackList"></ul>
+  </div>
+
+  <button class="footer-button" onclick="location.href='index.html'">Anasayfa</button>
+
+  <script>
+    const tracks = [
+      { title: "Şarkı 1", file: "sarki1.mp3" },
+      { title: "Şarkı 2", file: "sarki2.mp3" },
+      { title: "Şarkı 3", file: "sarki3.mp3" },
+      { title: "Şarkı 4", file: "sarki4.mp3" },
+      { title: "Şarkı 5", file: "sarki5.mp3" },
+      { title: "Şarkı 6", file: "sarki6.mp3" },
+      { title: "Şarkı 7", file: "sarki7.mp3" },
+      { title: "Şarkı 8", file: "sarki8.mp3" },
+      { title: "Şarkı 9", file: "sarki9.mp3" },
+      { title: "Şarkı 10", file: "sarki10.mp3" },
+      { title: "Şarkı 11", file: "sarki11.mp3" },
+      { title: "Şarkı 12", file: "sarki12.mp3" },
+      { title: "Şarkı 13", file: "sarki13.mp3" },
+      { title: "Şarkı 14", file: "sarki14.mp3" },
+    ];
+
+    const trackList = document.getElementById('trackList');
+    const audioPlayer = document.getElementById('audioPlayer');
+
+    tracks.forEach((track, index) => {
+      const li = document.createElement('li');
+      li.textContent = track.title;
+      li.addEventListener('click', () => {
+        audioPlayer.src = track.file;
+        audioPlayer.play();
+        document.querySelectorAll('li').forEach(el => el.classList.remove('active'));
+        li.classList.add('active');
+      });
+      trackList.appendChild(li);
+    });
+
+    // Tema Değişimi
+    const toggleBtn = document.getElementById('themeToggle');
+    let isDark = true;
+
+    toggleBtn.addEventListener('click', () => {
+      isDark = !isDark;
+      if (isDark) {
+        document.documentElement.style.setProperty('--bg-color', '#111');
+        document.documentElement.style.setProperty('--text-color', '#fff');
+        document.documentElement.style.setProperty('--header-bg', '#1c1c1c');
+        toggleBtn.textContent = '🌙';
+      } else {
+        document.documentElement.style.setProperty('--bg-color', '#f4f4f4');
+        document.documentElement.style.setProperty('--text-color', '#000');
+        document.documentElement.style.setProperty('--header-bg', '#ddd');
+        toggleBtn.textContent = '☀️';
+      }
+    });
+  </script>
+</body>
+</html>
