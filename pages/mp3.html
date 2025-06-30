@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Ebru Gündeş - Ahdım olsun</title>
+  <title>MP3 Albüm Player</title>
   <style>
     :root {
       --bg-color: #111;
@@ -14,11 +14,9 @@
       --track-text: #fff;
       --track-active: #0077ff;
     }
-
     * {
       box-sizing: border-box;
     }
-
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
@@ -28,10 +26,8 @@
       flex-direction: column;
       align-items: center;
       padding: 0 16px 100px;
-      transition: all 0.3s ease;
       min-height: 100vh;
     }
-
     header {
       width: 100%;
       max-width: 480px;
@@ -45,12 +41,10 @@
       z-index: 1000;
       border-bottom: 1px solid #333;
     }
-
     header h1 {
       margin: 0;
       font-size: 18px;
     }
-
     #themeToggle {
       font-size: 20px;
       background: none;
@@ -58,7 +52,6 @@
       color: inherit;
       cursor: pointer;
     }
-
     .album-cover {
       width: 200px;
       height: 200px;
@@ -66,12 +59,10 @@
       border-radius: 16px;
       margin: 20px 0;
     }
-
     .player {
       width: 100%;
       max-width: 480px;
     }
-
     .controls {
       display: flex;
       align-items: center;
@@ -79,7 +70,6 @@
       margin: 20px 0;
       flex-wrap: wrap;
     }
-
     .controls button {
       background: none;
       border: none;
@@ -87,14 +77,12 @@
       color: var(--accent);
       cursor: pointer;
     }
-
     .progress-container {
       flex: 1;
       display: flex;
       align-items: center;
       gap: 8px;
     }
-
     .progress-bar {
       flex-grow: 1;
       height: 6px;
@@ -103,20 +91,17 @@
       position: relative;
       cursor: pointer;
     }
-
     .progress-fill {
       background: var(--accent);
       height: 100%;
       border-radius: 10px;
       width: 0%;
     }
-
     .time {
       font-size: 12px;
       width: 42px;
       text-align: center;
     }
-
     ul {
       list-style: none;
       padding: 0;
@@ -124,7 +109,6 @@
       width: 100%;
       max-width: 480px;
     }
-
     li {
       background: var(--track-bg);
       color: var(--track-text);
@@ -134,25 +118,20 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      transition: background 0.3s;
     }
-
     li.active {
       background: var(--track-active);
       color: #fff;
     }
-
     .track-title {
       flex-grow: 1;
       text-align: center;
     }
-
     .download-icon {
       color: inherit;
       text-decoration: none;
       font-size: 16px;
     }
-
     .footer-button {
       position: fixed;
       bottom: 10px;
@@ -173,7 +152,7 @@
 <body>
 
   <header>
-    <h1>Ebru Gündeş - Ahdım olsun</h1>
+    <h1>Albüm Player</h1>
     <button id="themeToggle">🌙</button>
   </header>
 
@@ -199,10 +178,23 @@
   <audio id="audioPlayer" preload="metadata"></audio>
 
   <script>
-    const tracks = Array.from({length: 14}, (_, i) => ({
-      title: `Şarkı ${i + 1}`,
-      file: `sarki${i + 1}.mp3`
-    }));
+    // 🔽 BURAYA ŞARKILARI EKLE 🔽
+    const tracks = [
+      { title: "Şarkı 1", file: "sarkilar/sarki1.mp3" },
+      { title: "Şarkı 2", file: "sarkilar/sarki2.mp3" },
+      { title: "Şarkı 3", file: "sarkilar/sarki3.mp3" },
+      { title: "Şarkı 4", file: "sarkilar/sarki4.mp3" },
+      { title: "Şarkı 5", file: "sarkilar/sarki5.mp3" },
+      { title: "Şarkı 6", file: "sarkilar/sarki6.mp3" },
+      { title: "Şarkı 7", file: "sarkilar/sarki7.mp3" },
+      { title: "Şarkı 8", file: "sarkilar/sarki8.mp3" },
+      { title: "Şarkı 9", file: "sarkilar/sarki9.mp3" },
+      { title: "Şarkı 10", file: "sarkilar/sarki10.mp3" },
+      { title: "Şarkı 11", file: "sarkilar/sarki11.mp3" },
+      { title: "Şarkı 12", file: "sarkilar/sarki12.mp3" },
+      { title: "Şarkı 13", file: "sarkilar/sarki13.mp3" },
+      { title: "Şarkı 14", file: "sarkilar/sarki14.mp3" }
+    ];
 
     const audioPlayer = document.getElementById('audioPlayer');
     const trackList = document.getElementById('trackList');
@@ -276,7 +268,6 @@
       audioPlayer.currentTime = (clickX / width) * duration;
     });
 
-    // Tema geçişi
     const toggleBtn = document.getElementById('themeToggle');
     let isDark = true;
     toggleBtn.addEventListener('click', () => {
