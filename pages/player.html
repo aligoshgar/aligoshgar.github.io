@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Modern MP3 Player</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    :root {
+  --light-bg: #f4f4f4;
+  --light-text: #000000;
+  --light-track: #ddd;
+  --light-accent: #1db954;
+
+      --bg-color: #121212;
+      --text-color: #eee;
+      --track-bg: #222;
+      --track-text: #eee;
+      --button-bg: transparent;
+      --button-hover: #444;
+      --accent: #1db954;
+    }
+    body {
+      margin: 0;
+      background: var(--bg-color);
+      color: var(--text-color);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      width: 100%;
+      max-width: 500px;
+    }
+    .top-bar {
+      background-color: var(--track-bg);
+      border-radius: 12px;
+      padding: 10px 20px;
+  
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      margin-bottom: 50px;
+    }
+    .top-bar h1 {
+      margin: 0;
+      font-size: 1.3rem;
+    }
+    #toggle-theme {
+      background-color: transparent;
+  
+      border: none;
+      background: none;
+      font-size: 24px;
+      color: var(--text-color);
+      cursor: pointer;
+    }
+    .album-cover {
+      width: 240px;
+      height: 240px;
+      border-radius: 16px;
+      background-size: cover;
+      background-position: center;
+      box-shadow: 0 0 12px rgba(0,0,0,0.6);
+      margin-bottom: 50px;
+    }
+    .player-bar {
+      width: 93%;
+      background: var(--track-bg);
+      border-radius: 12px;
+      padding: 12px 20px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.7);
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 50px;
+    }
+    .btn-play-pause {
+      font-size: 30px;
+      color: var(--accent);
+      cursor: pointer;
+      border: none;
+      background: none;
+      padding: 0;
+    }
+    .progress-container {
+      flex: 1;
+      height: 8px;
+      background: #555;
+      border-radius: 10px;
+      cursor: pointer;
+      position: relative;
+    }
+    .progress {
+      height: 100%;
+      background: var(--accent);
+      width: 0%;
+      border-radius: 10px;
+    }
+    .time {
+      width: 50px;
+      font-size: 14px;
+      text-align: center;
+    }
+    ul#track-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+    ul#track-list li.track {
+      position: relative;
+      background: var(--track-bg);
+      padding: 16px 12px;
+      margin: 10px 0;
+      border-radius: 12px;
+      text-align: center;
+      font-weight: 500;
+    }
+    ul#track-list li.track:hover {
+      background: var(--accent);
+      color: #000;
+    }
+    .download-icon {
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      right: -8px;
+      bottom: -8px;
+  
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+      background: var(--track-bg);
+      color: var(--text-color);
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      box-shadow: 0 0 6px rgba(0,0,0,0.4);
+    }
+    .download-icon:hover {
+      background: var(--button-hover);
+    }
+    #home-button {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: var(--track-bg);
+      color: var(--text-color);
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+    #home-button:hover {
+      background: var(--accent);
+      color: #000;
+}
+    @media (max-width: 520px) {
+      .album-cover {
+        width: 180px;
+        height: 180px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="top-bar">
+      <h1>Modern MP3 Player</h1>
+      <button id="toggle-theme">🌙</button>
+    </div>
+    <div class="album-cover" style="background-image:url('https://i.imgur.com/0bXy3Th.jpg');"></div>
+    <div class="player-bar">
+      <button class="btn-play-pause" id="play-pause"><i class="fa-solid fa-play"></i></button>
+      <div class="progress-container" id="progress-container"><div class="progress" id="progress"></div></div>
+      <div class="time" id="current-time">0:00</div>
+      <div class="time" id="duration">0:00</div>
+    </div>
+    <ul id="track-list"></ul>
+  </div>
+  <button id="home-button" onclick="location.href='/'">Əsas səhifə</button>
+  <script>
+    const tracks = [
+      { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+ { title: "Şarkı 1", file: "https://file-examples.com/storage/fe/file_example_MP3_700KB.mp3" },
+      { title: "Şarkı 2", file: "https://file-examples.com/storage/fe/file_example_MP3_1MG.mp3" }
+    ];
+    const trackList = document.getElementById('track-list');
+    const playPauseBtn = document.getElementById('play-pause');
+    const progress = document.getElementById('progress');
+    const progressContainer = document.getElementById('progress-container');
+    const currentTimeEl = document.getElementById('current-time');
+    const durationEl = document.getElementById('duration');
+    let audio = new Audio();
+    let currentTrackIndex = -1;
+    let isPlaying = false;
+    function formatTime(seconds) {
+      const mins = Math.floor(seconds / 60) || 0;
+      const secs = Math.floor(seconds % 60) || 0;
+      return `${mins}:${secs < 10 ? '0' + secs : secs}`;
+    }
+    function loadTrack(index) {
+      if(index < 0 || index >= tracks.length) return;
+      if(currentTrackIndex === index) return;
+      currentTrackIndex = index;
+      audio.src = tracks[index].file;
+      audio.load();
+      updateActiveTrack();
+    }
+    function updateActiveTrack() {
+      [...trackList.children].forEach((li, idx) => {
+        if(idx === currentTrackIndex) {
+          li.style.backgroundColor = "var(--accent)";
+          li.style.color = "#000";
+        } else {
+          li.style.backgroundColor = "var(--track-bg)";
+          li.style.color = "var(--track-text)";
+        }
+      });
+    }
+    function playAudio() {
+      if(currentTrackIndex === -1) return;
+      audio.play();
+      isPlaying = true;
+      playPauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
+    }
+    function pauseAudio() {
+      audio.pause();
+      isPlaying = false;
+      playPauseBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
+    }
+    playPauseBtn.addEventListener('click', () => { isPlaying ? pauseAudio() : playAudio(); });
+    audio.addEventListener('timeupdate', () => {
+      if(audio.duration) {
+        const progressPercent = (audio.currentTime / audio.duration) * 100;
+        progress.style.width = `${progressPercent}%`;
+        currentTimeEl.textContent = formatTime(audio.currentTime);
+        durationEl.textContent = formatTime(audio.duration);
+      }
+    });
+    progressContainer.addEventListener('click', e => {
+      const width = progressContainer.clientWidth;
+      const clickX = e.offsetX;
+      if(audio.duration) audio.currentTime = (clickX / width) * audio.duration;
+    });
+    tracks.forEach((track, index) => {
+      const li = document.createElement('li');
+      li.className = 'track';
+      li.textContent = track.title;
+      const dl = document.createElement('a');
+      dl.href = track.file;
+      dl.download = '';
+      dl.className = 'download-icon';
+      dl.innerHTML = '<i class="fa-solid fa-download"></i>';
+      li.appendChild(dl);
+      li.addEventListener('click', e => { if(!e.target.closest('a.download-icon')) { loadTrack(index); playAudio(); } });
+      trackList.appendChild(li);
+    });
+    document.getElementById('toggle-theme').addEventListener('click', () => {
+      document.body.classList.toggle('light-mode');
+      const icon = document.getElementById('toggle-theme');
+      if(document.body.classList.contains('light-mode')) {
+        icon.textContent = '☀️';
+      } else {
+        icon.textContent = '🌙';
+      }
+    });
+  </script>
+</body>
+</html>
+
+    <style>
+    body.light-mode {
+      --bg-color: var(--light-bg);
+      --text-color: var(--light-text);
+      --track-bg: var(--light-track);
+      --accent: var(--light-accent);
+    }
+    </style>
+    
