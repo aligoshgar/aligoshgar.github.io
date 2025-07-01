@@ -219,6 +219,7 @@
   </div>
   <button id="home-button" onclick="location.href='../index.html'">Əsas səhifə</button>
   <script>
+    // 🔽 MAHNILAR 🔽
     const tracks = [
       { title: "Ahdım olsun", file: "../ahdimolsun/ahdimolsun.mp3" },
       { title: "Sensizim", file: "../ahdimolsun/sensizim.mp3" },
@@ -283,7 +284,7 @@
   audio.play();
   isPlaying = true;
 
-  // Diğer parçaları yarı saydam yap
+  // Digər mahnıları solğunlaşdır
   [...trackList.children].forEach((li, idx) => {
     if (idx !== currentTrackIndex) li.classList.add('inactive');
   });
@@ -308,13 +309,13 @@
           if (btn) btn.className = "fa-solid fa-play";
         }
       }
-      // 👇 Bu satır sadece eklendi:
+      // İnaktiv sətri:
       [...trackList.children].forEach(li => li.classList.remove('inactive'));
     }
 
    playPauseBtn.addEventListener('click', () => {
   if (currentTrackIndex === -1) {
-    loadTrack(0); // İlk şarkıyı otomatik yükle
+    loadTrack(0); // Boş olan Play butonuna ilk mahnı
   }
 
   isPlaying ? pauseAudio() : playAudio();
