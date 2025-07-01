@@ -11,7 +11,6 @@
       --light-text: #000000;
       --light-track: #ddd;
       --light-accent: #1db954;
-
       --bg-color: #121212;
       --text-color: #eee;
       --track-bg: #222;
@@ -20,15 +19,6 @@
       --button-hover: #444;
       --accent: #1db954;
     }
-
-    body.light-mode {
-      --bg-color: var(--light-bg);
-      --text-color: var(--light-text);
-      --track-bg: var(--light-track);
-      --track-text: var(--light-text);
-      --accent: var(--light-accent);
-    }
-
     body {
       margin: 0;
       background: var(--bg-color);
@@ -40,6 +30,12 @@
       align-items: center;
       justify-content: center;
     }
+    .light-mode {
+      --bg-color: var(--light-bg);
+      --text-color: var(--light-text);
+      --track-bg: var(--light-track);
+      --accent: var(--light-accent);
+    }
     .container {
       display: flex;
       flex-direction: column;
@@ -49,6 +45,7 @@
       width: 100%;
       max-width: 480px;
       margin: 0 auto;
+      box-sizing: border-box;
     }
     .top-bar {
       background-color: var(--track-bg);
@@ -65,12 +62,11 @@
       font-size: 1.3rem;
     }
     #toggle-theme {
-      background-color: transparent;
-      border: none;
       background: none;
       font-size: 24px;
       color: var(--text-color);
       cursor: pointer;
+      border: none;
     }
     .album-cover {
       width: 240px;
@@ -82,7 +78,9 @@
       margin-bottom: 50px;
     }
     .player-bar {
-      width: 93%;
+      width: 100%;
+      max-width: 93%;
+      box-sizing: border-box;
       background: var(--track-bg);
       border-radius: 12px;
       padding: 12px 20px;
@@ -122,9 +120,8 @@
     ul#track-list {
       list-style: none;
       padding: 0;
-      margin: 0 auto;
+      margin: 0 auto 90px auto;
       width: 100%;
-      margin-bottom: 90px;
     }
     ul#track-list li.track {
       position: relative;
@@ -134,6 +131,7 @@
       border-radius: 12px;
       text-align: center;
       font-weight: 500;
+      color: var(--text-color);
     }
     ul#track-list li.track:hover {
       background: var(--accent);
@@ -224,6 +222,7 @@
     let audio = new Audio();
     let currentTrackIndex = -1;
     let isPlaying = false;
+
     function formatTime(seconds) {
       const mins = Math.floor(seconds / 60) || 0;
       const secs = Math.floor(seconds % 60) || 0;
@@ -241,7 +240,7 @@
       [...trackList.children].forEach((li, idx) => {
         if(idx === currentTrackIndex) {
           li.style.backgroundColor = "var(--accent)";
-          li.style.color = "var(--light-text)";
+          li.style.color = "#000";
         } else {
           li.style.backgroundColor = "var(--track-bg)";
           li.style.color = "var(--text-color)";
