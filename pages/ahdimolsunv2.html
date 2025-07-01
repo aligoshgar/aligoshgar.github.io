@@ -311,7 +311,14 @@
       [...trackList.children].forEach(li => li.classList.remove('inactive'));
     }
 
-    playPauseBtn.addEventListener('click', () => { isPlaying ? pauseAudio() : playAudio(); });
+   playPauseBtn.addEventListener('click', () => {
+  if (currentTrackIndex === -1) {
+    loadTrack(0); // İlk şarkıyı otomatik yükle
+  }
+
+  isPlaying ? pauseAudio() : playAudio();
+});
+
 
     audio.addEventListener('timeupdate', () => {
       if(audio.duration) {
