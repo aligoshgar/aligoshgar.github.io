@@ -6,15 +6,6 @@
   <title>Ebru Gündeş - Ahdım olsun</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    html, body {
-      max-width: 100vw;
-      overflow-x: hidden;
-    }
-
     :root {
       --light-bg: #f4f4f4;
       --light-text: #000000;
@@ -30,9 +21,16 @@
       --accent: #1db954;
     }
 
+    body.light-mode {
+      --bg-color: var(--light-bg);
+      --text-color: var(--light-text);
+      --track-bg: var(--light-track);
+      --track-text: var(--light-text);
+      --accent: var(--light-accent);
+    }
+
     body {
       margin: 0;
-      padding: 0 8px;
       background: var(--bg-color);
       color: var(--text-color);
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -42,7 +40,6 @@
       align-items: center;
       justify-content: center;
     }
-
     .container {
       display: flex;
       flex-direction: column;
@@ -53,7 +50,6 @@
       max-width: 480px;
       margin: 0 auto;
     }
-
     .top-bar {
       background-color: var(--track-bg);
       border-radius: 12px;
@@ -64,12 +60,10 @@
       width: 93%;
       margin-bottom: 50px;
     }
-
     .top-bar h1 {
       margin: 0;
       font-size: 1.3rem;
     }
-
     #toggle-theme {
       background-color: transparent;
       border: none;
@@ -78,7 +72,6 @@
       color: var(--text-color);
       cursor: pointer;
     }
-
     .album-cover {
       width: 240px;
       height: 240px;
@@ -88,7 +81,6 @@
       box-shadow: 0 0 12px rgba(0,0,0,0.6);
       margin-bottom: 50px;
     }
-
     .player-bar {
       width: 93%;
       background: var(--track-bg);
@@ -100,7 +92,6 @@
       gap: 16px;
       margin-bottom: 50px;
     }
-
     .btn-play-pause {
       font-size: 30px;
       color: var(--accent);
@@ -109,7 +100,6 @@
       background: none;
       padding: 0;
     }
-
     .progress-container {
       flex: 1;
       height: 8px;
@@ -118,20 +108,17 @@
       cursor: pointer;
       position: relative;
     }
-
     .progress {
       height: 100%;
       background: var(--accent);
       width: 0%;
       border-radius: 10px;
     }
-
     .time {
       width: 50px;
       font-size: 14px;
       text-align: center;
     }
-
     ul#track-list {
       list-style: none;
       padding: 0;
@@ -139,7 +126,6 @@
       width: 100%;
       margin-bottom: 90px;
     }
-
     ul#track-list li.track {
       position: relative;
       background: var(--track-bg);
@@ -149,14 +135,11 @@
       text-align: center;
       font-weight: 500;
     }
-
     ul#track-list li.track:hover {
       background: var(--accent);
       color: #000;
     }
-
     .download-icon {
-      font-size: 14px;
       position: absolute;
       right: 10px;
       bottom: 10px;
@@ -171,11 +154,9 @@
       text-decoration: none;
       box-shadow: 0 0 6px rgba(0,0,0,0.4);
     }
-
     .download-icon:hover {
       background: var(--button-hover);
     }
-
     #home-button {
       position: fixed;
       bottom: 20px;
@@ -189,27 +170,15 @@
       border-radius: 12px;
       cursor: pointer;
     }
-
     #home-button:hover {
       background: var(--accent);
       color: #000;
     }
-
     @media (max-width: 520px) {
-      .top-bar h1 {
-        font-size: 1rem;
       .album-cover {
         width: 180px;
         height: 180px;
       }
-    }
-
-    body.light-mode {
-      --bg-color: var(--light-bg);
-      --text-color: var(--light-text);
-      --track-bg: var(--light-track);
-      --accent: var(--light-accent);
-      --track-text: #000;
     }
   </style>
 </head>
@@ -228,9 +197,7 @@
     </div>
     <ul id="track-list"></ul>
   </div>
-
   <button id="home-button" onclick="location.href='../index.html'">Əsas səhifə</button>
-
   <script>
     const tracks = [
       { title: "Ahdım olsun", file: "../ahdimolsun/ahdimolsun.mp3" },
@@ -248,7 +215,6 @@
       { title: "Benim dünyam", file: "../ahdimolsun/benimdunyam.mp3" },
       { title: "Bir inat uğruna", file: "../ahdimolsun/birinatugruna.mp3" }
     ];
-
     const trackList = document.getElementById('track-list');
     const playPauseBtn = document.getElementById('play-pause');
     const progress = document.getElementById('progress');
@@ -258,66 +224,55 @@
     let audio = new Audio();
     let currentTrackIndex = -1;
     let isPlaying = false;
-
     function formatTime(seconds) {
       const mins = Math.floor(seconds / 60) || 0;
       const secs = Math.floor(seconds % 60) || 0;
       return `${mins}:${secs < 10 ? '0' + secs : secs}`;
     }
-
     function loadTrack(index) {
-      if (index < 0 || index >= tracks.length) return;
-      if (currentTrackIndex === index) return;
+      if(index < 0 || index >= tracks.length) return;
+      if(currentTrackIndex === index) return;
       currentTrackIndex = index;
       audio.src = tracks[index].file;
       audio.load();
       updateActiveTrack();
     }
-
     function updateActiveTrack() {
       [...trackList.children].forEach((li, idx) => {
-        if (idx === currentTrackIndex) {
+        if(idx === currentTrackIndex) {
           li.style.backgroundColor = "var(--accent)";
-          li.style.color = "#000";
+          li.style.color = "var(--light-text)";
         } else {
           li.style.backgroundColor = "var(--track-bg)";
-          li.style.color = "var(--track-text)";
+          li.style.color = "var(--text-color)";
         }
       });
     }
-
     function playAudio() {
-      if (currentTrackIndex === -1) return;
+      if(currentTrackIndex === -1) return;
       audio.play();
       isPlaying = true;
       playPauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
     }
-
     function pauseAudio() {
       audio.pause();
       isPlaying = false;
       playPauseBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
     }
-
-    playPauseBtn.addEventListener('click', () => {
-      isPlaying ? pauseAudio() : playAudio();
-    });
-
+    playPauseBtn.addEventListener('click', () => { isPlaying ? pauseAudio() : playAudio(); });
     audio.addEventListener('timeupdate', () => {
-      if (audio.duration) {
+      if(audio.duration) {
         const progressPercent = (audio.currentTime / audio.duration) * 100;
         progress.style.width = `${progressPercent}%`;
         currentTimeEl.textContent = formatTime(audio.currentTime);
         durationEl.textContent = formatTime(audio.duration);
       }
     });
-
     progressContainer.addEventListener('click', e => {
       const width = progressContainer.clientWidth;
       const clickX = e.offsetX;
-      if (audio.duration) audio.currentTime = (clickX / width) * audio.duration;
+      if(audio.duration) audio.currentTime = (clickX / width) * audio.duration;
     });
-
     tracks.forEach((track, index) => {
       const li = document.createElement('li');
       li.className = 'track';
@@ -328,15 +283,9 @@
       dl.className = 'download-icon';
       dl.innerHTML = '<i class="fa-solid fa-download"></i>';
       li.appendChild(dl);
-      li.addEventListener('click', e => {
-        if (!e.target.closest('a.download-icon')) {
-          loadTrack(index);
-          playAudio();
-        }
-      });
+      li.addEventListener('click', e => { if(!e.target.closest('a.download-icon')) { loadTrack(index); playAudio(); } });
       trackList.appendChild(li);
     });
-
     document.getElementById('toggle-theme').addEventListener('click', () => {
       document.body.classList.toggle('light-mode');
       const icon = document.getElementById('toggle-theme');
