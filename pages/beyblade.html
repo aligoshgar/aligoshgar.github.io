@@ -33,10 +33,16 @@
       align-items: center;
       padding: 15px 25px;
     }
+    
+    header img {
+      width: 150px; 
+      height: auto; 
+      display: block; 
+    }
 
-    header h1 {
-      margin: 0;
-      font-size: 24px;
+    header a {
+      display: inline-block;
+      margin-right: 15px;
     }
 
     .theme-toggle {
@@ -100,7 +106,9 @@
       background-color: var(--header-bg);
       color: var(--text-color);
     }
-
+#episodeSelect {
+  margin-bottom: 100px; /* Artıq default margindən daha çox boşluq */
+}
     .home-button {
       position: fixed;
       bottom: 20px;
@@ -127,7 +135,9 @@
 <body class="dark">
 
   <header>
-    <h1>Video Galeri</h1>
+    <a href="../index.html">
+    <img src="../logo/logo.png" alt="aligoshgar.github.io" style="width:150px; height:auto; display:block;">
+  </a>
     <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
   </header>
 
@@ -164,8 +174,10 @@
     const videoIds = {
       1: ['1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H', '1a2b3c4d5e6f7g8h9i0j'],
       2: ['0z9y8x7w6v5u4t3s2r1q', '1x1x1x1x1x1x1x1x1x'],
-      3: ['2y2y2y2y2y2y2y2y2y2y']
-      4: ['1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a']
+      3: ['2y2y2y2y2y2y2y2y2y2y'],
+      4: [
+        { id: '1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a', title: 'Sinema Filmi: Son Mübarizə' }
+      ]
     };
 
     let currentSeason = 1;
@@ -179,19 +191,27 @@
       currentSeason = parseInt(seasonSelect.value);
       const episodes = videoIds[currentSeason];
       episodeSelect.innerHTML = '';
-      episodes.forEach((_, i) => {
+
+      episodes.forEach((episode, i) => {
         const option = document.createElement('option');
-        option.value = i;
-        option.text = `Bölüm ${i + 1}`;
+        if (typeof episode === 'object') {
+          option.value = i;
+          option.text = episode.title || `Bölüm ${i + 1}`;
+        } else {
+          option.value = i;
+          option.text = `Bölüm ${i + 1}`;
+        }
         episodeSelect.appendChild(option);
       });
+
       currentEpisode = 0;
       loadSelectedEpisode();
     }
 
     function loadSelectedEpisode() {
       currentEpisode = parseInt(episodeSelect.value);
-      const videoId = videoIds[currentSeason][currentEpisode];
+      const episode = videoIds[currentSeason][currentEpisode];
+      const videoId = typeof episode === 'object' ? episode.id : episode;
       videoPlayer.src = `https://drive.google.com/file/d/${videoId}/preview`;
     }
 
