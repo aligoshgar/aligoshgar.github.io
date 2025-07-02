@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>Video Galeri</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #ffffff;
+      --accent-color: #e50914;
+      --header-bg: #1f1f1f;
+    }
+
+    body.light {
+      --bg-color: #f4f4f4;
+      --text-color: #121212;
+      --header-bg: #ffffff;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+    }
+
+    header {
+      background-color: var(--header-bg);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 25px;
+    }
+    
+    header img {
+      width: 150px; 
+      height: auto; 
+      display: block; 
+    }
+
+    header a {
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    .theme-toggle {
+      font-size: 24px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      color: var(--text-color);
+    }
+
+    .cover {
+      width: 100%;
+      height: 200px;
+      background: url('https://picsum.photos/1200/300') center center / cover no-repeat;
+    }
+
+    .container {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: none;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .controls button {
+      flex: 1;
+      padding: 12px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      background-color: var(--accent-color);
+      color: white;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .controls button:hover {
+      opacity: 0.9;
+    }
+
+    select {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+      border: none;
+      background-color: var(--header-bg);
+      color: var(--text-color);
+    }
+#episodeSelect {
+  margin-bottom: 100px; /* Artıq default margindən daha çox boşluq */
+}
+    .home-button {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: var(--accent-color);
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 25px;
+      font-size: 16px;
+      z-index: 999;
+      cursor: pointer;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+
+    @media (max-width: 600px) {
+      iframe {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body class="dark">
+
+  <header>
+    <a href="../index.html">
+    <img src="../logo/logo.png" alt="aligoshgar.github.io" style="width:150px; height:auto; display:block;">
+  </a>
+    <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
+  </header>
+
+  <div class="cover"></div>
+
+  <div class="container">
+
+    <!-- Video oynatıcı -->
+    <iframe id="videoPlayer" src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+    <!-- Önceki / Sonraki butonlar -->
+    <div class="controls">
+      <button onclick="changeToPrevious()"><i class="fas fa-chevron-left"></i> Öncəki</button>
+      <button onclick="changeToNext()">Sonrakı <i class="fas fa-chevron-right"></i></button>
+    </div>
+
+    <!-- Sezon ve Bölüm seçim -->
+    <select id="seasonSelect" onchange="updateEpisodes()">
+      <option value="1">Sezon 1 - Bakuten Shoot: 2000</option>
+      <option value="2">Sezon 2 - Bakuten Shoot: 2002 (V-Force)</option>
+      <option value="3">Sezon 3 - Bakuten Shoot: G-Revolution</option>
+      <option value="4">Bakuten Shoot: Sinema filmi</option>
+    </select>
+
+    <select id="episodeSelect" onchange="loadSelectedEpisode()">
+      <!-- Bölümler dinamik doldurulacaq -->
+    </select>
+  </div>
+
+  <!-- Ana sayfa butonu -->
+  <button class="home-button"><i class="fas fa-home"></i> Ana Sayfa</button>
+
+  <script>
+    const videoIds = {
+      1: ['1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H', '1a2b3c4d5e6f7g8h9i0j'],
+      2: ['0z9y8x7w6v5u4t3s2r1q', '1x1x1x1x1x1x1x1x1x'],
+      3: ['2y2y2y2y2y2y2y2y2y2y'],
+      4: [
+        { id: '1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a', title: 'Sinema Filmi: Son Mübarizə' }
+      ]
+    };
+
+    let currentSeason = 1;
+    let currentEpisode = 0;
+
+    const seasonSelect = document.getElementById('seasonSelect');
+    const episodeSelect = document.getElementById('episodeSelect');
+    const videoPlayer = document.getElementById('videoPlayer');
+
+    function updateEpisodes() {
+      currentSeason = parseInt(seasonSelect.value);
+      const episodes = videoIds[currentSeason];
+      episodeSelect.innerHTML = '';
+
+      episodes.forEach((episode, i) => {
+        const option = document.createElement('option');
+        if (typeof episode === 'object') {
+          option.value = i;
+          option.text = episode.title || `Bölüm ${i + 1}`;
+        } else {
+          option.value = i;
+          option.text = `Bölüm ${i + 1}`;
+        }
+        episodeSelect.appendChild(option);
+      });
+
+      currentEpisode = 0;
+      loadSelectedEpisode();
+    }
+
+    function loadSelectedEpisode() {
+      currentEpisode = parseInt(episodeSelect.value);
+      const episode = videoIds[currentSeason][currentEpisode];
+      const videoId = typeof episode === 'object' ? episode.id : episode;
+      videoPlayer.src = `https://drive.google.com/file/d/${videoId}/preview`;
+    }
+
+    function changeToPrevious() {
+      if (currentEpisode > 0) {
+        currentEpisode--;
+        episodeSelect.value = currentEpisode;
+        loadSelectedEpisode();
+      }
+    }
+
+    function changeToNext() {
+      if (currentEpisode < videoIds[currentSeason].length - 1) {
+        currentEpisode++;
+        episodeSelect.value = currentEpisode;
+        loadSelectedEpisode();
+      }
+    }
+
+    // Tema dəyişimi
+    const themeToggle = document.getElementById('themeToggle');
+    themeToggle.addEventListener('click', () => {
+      document.body.classList.toggle('light');
+      themeToggle.textContent = document.body.classList.contains('light') ? '☀️' : '🌙';
+    });
+
+    // İlk dəfə səhifə yüklənəndə bölmələri doldur
+updateEpisodes();
+
+// Deep linking - URL parametrlərinə əsasən sezon və bölüm seçimi
+window.addEventListener('load', () => {
+  const params = new URLSearchParams(window.location.search);
+  const sezon = params.get('sezon');
+  const bolum = params.get('bolum');
+
+  if (sezon && bolum) {
+    seasonSelect.value = sezon;
+    updateEpisodes();
+
+    setTimeout(() => {
+      episodeSelect.value = bolum;
+      loadSelectedEpisode();
+    }, 100);
+  }
+});
+  </script>
+
+</body>
+</html>
