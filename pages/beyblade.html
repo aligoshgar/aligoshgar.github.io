@@ -140,15 +140,16 @@
 
     <!-- Önceki / Sonraki butonlar -->
     <div class="controls">
-      <button onclick="changeToPrevious()"><i class="fas fa-chevron-left"></i> Önceki</button>
-      <button onclick="changeToNext()">Sonraki <i class="fas fa-chevron-right"></i></button>
+      <button onclick="changeToPrevious()"><i class="fas fa-chevron-left"></i> Öncəki</button>
+      <button onclick="changeToNext()">Sonrakı <i class="fas fa-chevron-right"></i></button>
     </div>
 
     <!-- Sezon ve Bölüm seçim -->
     <select id="seasonSelect" onchange="updateEpisodes()">
-      <option value="1">Sezon 1</option>
-      <option value="2">Sezon 2</option>
-      <option value="3">Sezon 3</option>
+      <option value="1">Sezon 1 - Bakuten Shoot: 2000</option>
+      <option value="2">Sezon 2 - Bakuten Shoot: 2002 (V-Force)</option>
+      <option value="3">Sezon 3 - Bakuten Shoot: G-Revolution</option>
+      <option value="4">Bakuten Shoot: Sinema filmi</option>
     </select>
 
     <select id="episodeSelect" onchange="loadSelectedEpisode()">
@@ -164,6 +165,7 @@
       1: ['1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H', '1a2b3c4d5e6f7g8h9i0j'],
       2: ['0z9y8x7w6v5u4t3s2r1q', '1x1x1x1x1x1x1x1x1x'],
       3: ['2y2y2y2y2y2y2y2y2y2y']
+      4: ['1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a']
     };
 
     let currentSeason = 1;
