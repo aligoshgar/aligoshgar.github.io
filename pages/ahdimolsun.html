@@ -139,11 +139,16 @@
       align-items: center;
       justify-content: center;
       gap: 12px;
+      cursor: pointer;
     }
     ul#track-list li.track.inactive {
       opacity: 0.5;
     }
-    ul#track-list li.track:hover {
+    ul#track-list li.track.active {
+      background: var(--accent);
+      color: #000;
+    }
+    ul#track-list li.track:hover:not(.active) {
       background: var(--accent);
       color: #000;
     }
@@ -264,63 +269,66 @@
     function updateActiveTrack() {
       [...trackList.children].forEach((li, idx) => {
         if(idx === currentTrackIndex) {
-          li.style.backgroundColor = "var(--accent)";
-          li.style.color = "#000";
+          li.classList.add('active');
           li.classList.remove('inactive');
-          const playBtn = li.querySelector('.play-btn i');
-          if (playBtn) playBtn.className = "fa-solid fa-pause";
+          const playBtnIcon = li.querySelector('.play-btn i');
+          if (playBtnIcon) playBtnIcon.className = "fa-solid fa-pause";
         } else {
-          li.style.backgroundColor = "var(--track-bg)";
-          li.style.color = "var(--text-color)";
+          li.classList.remove('active');
           li.classList.add('inactive');
-          const playBtn = li.querySelector('.play-btn i');
-          if (playBtn) playBtn.className = "fa-solid fa-play";
+          const playBtnIcon = li.querySelector('.play-btn i');
+          if (playBtnIcon) playBtnIcon.className = "fa-solid fa-play";
         }
       });
     }
 
     function playAudio() {
-  if(currentTrackIndex === -1) return;
-  audio.play();
-  isPlaying = true;
+      if(currentTrackIndex === -1) return;
+      audio.play();
+      isPlaying = true;
 
-  // Digər mahnıları solğunlaşdır
-  [...trackList.children].forEach((li, idx) => {
-    if (idx !== currentTrackIndex) li.classList.add('inactive');
-  });
+      // Aktiv olmayan digər mahnıları solğunlaşdır
+      [...trackList.children].forEach((li, idx) => {
+        if (idx !== currentTrackIndex) li.classList.add('inactive');
+      });
 
-  playPauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
-  const activeLi = trackList.children[currentTrackIndex];
-  if (activeLi) {
-    const btn = activeLi.querySelector('.play-btn i');
-    if (btn) btn.className = "fa-solid fa-pause";
-  }
-}
-
+      playPauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
+      const activeLi = trackList.children[currentTrackIndex];
+      if (activeLi) {
+        const btn = activeLi.querySelector('.play-btn i');
+        if (btn) btn.className = "fa-solid fa-pause";
+      }
+    }
 
     function pauseAudio() {
       audio.pause();
       isPlaying = false;
       playPauseBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
+
       if (currentTrackIndex !== -1) {
         const activeLi = trackList.children[currentTrackIndex];
         if (activeLi) {
           const btn = activeLi.querySelector('.play-btn i');
           if (btn) btn.className = "fa-solid fa-play";
+          // Mahnı dayandıqda solğunluq təmizlənsin:
+          [...trackList.children].forEach(li => li.classList.remove('inactive'));
+          // Aktiv mahnıda yaşıl hover (active) qalsın
+          activeLi.classList.add('active');
+          activeLi.classList.remove('inactive');
         }
+      } else {
+        [...trackList.children].forEach(li => li.classList.remove('inactive'));
       }
-      // İnaktiv sətri:
-      [...trackList.children].forEach(li => li.classList.remove('inactive'));
     }
 
-   playPauseBtn.addEventListener('click', () => {
-  if (currentTrackIndex === -1) {
-    loadTrack(0); // Boş olan Play butonuna ilk mahnı
-  }
-
-  isPlaying ? pauseAudio() : playAudio();
-});
-
+    playPauseBtn.addEventListener('click', () => {
+      if (currentTrackIndex === -1) {
+        loadTrack(0); // Boş olan play butonuna ilk şarkı yükle
+        playAudio();
+      } else {
+        isPlaying ? pauseAudio() : playAudio();
+      }
+    });
 
     audio.addEventListener('timeupdate', () => {
       if(audio.duration) {
@@ -328,6 +336,25 @@
         progress.style.width = `${progressPercent}%`;
         currentTimeEl.textContent = formatTime(audio.currentTime);
         durationEl.textContent = formatTime(audio.duration);
+      }
+    });
+
+    // Mahnı bitdikdə pause halına keç
+    audio.addEventListener('ended', () => {
+      isPlaying = false;
+      playPauseBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
+      [...trackList.children].forEach((li, idx) => {
+        li.classList.remove('inactive');
+        const playBtnIcon = li.querySelector('.play-btn i');
+        if (playBtnIcon) playBtnIcon.className = "fa-solid fa-play";
+      });
+      // Mahnı bitərək pause halına keçdikcə son mahnının yaşıl hover rəngini dəyişmə
+      if(currentTrackIndex !== -1) {
+        const activeLi = trackList.children[currentTrackIndex];
+        if(activeLi) {
+          activeLi.classList.add('active');
+          activeLi.classList.remove('inactive');
+        }
       }
     });
 
@@ -346,8 +373,12 @@
       playBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
       playBtn.addEventListener('click', e => {
         e.stopPropagation();
-        if(currentTrackIndex === index && isPlaying) {
-          pauseAudio();
+        if(currentTrackIndex === index) {
+          if(isPlaying) {
+            pauseAudio();
+          } else {
+            playAudio();
+          }
         } else {
           loadTrack(index);
           playAudio();
@@ -368,10 +399,19 @@
       dl.innerHTML = '<i class="fa-solid fa-download"></i>';
       li.appendChild(dl);
 
+      // Mahnı adı ile pause
       li.addEventListener('click', e => {
         if(!e.target.closest('a.download-icon') && !e.target.closest('button.play-btn')) {
-          loadTrack(index);
-          playAudio();
+          if(currentTrackIndex === index) {
+            if(isPlaying) {
+              pauseAudio();
+            } else {
+              playAudio();
+            }
+          } else {
+            loadTrack(index);
+            playAudio();
+          }
         }
       });
 
