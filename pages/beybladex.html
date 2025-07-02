@@ -33,11 +33,11 @@
       align-items: center;
       padding: 15px 25px;
     }
-    
+
     header img {
-      width: 150px; 
-      height: auto; 
-      display: block; 
+      width: 150px;
+      height: auto;
+      display: block;
     }
 
     header a {
@@ -106,9 +106,11 @@
       background-color: var(--header-bg);
       color: var(--text-color);
     }
-#episodeSelect {
-  margin-bottom: 100px; /* Artıq default margindən daha çox boşluq */
-}
+
+    #episodeSelect {
+      margin-bottom: 100px;
+    }
+
     .home-button {
       position: fixed;
       bottom: 20px;
@@ -136,25 +138,21 @@
 
   <header>
     <a href="../index.html">
-    <img src="../logo/logo.png" alt="aligoshgar.github.io" style="width:150px; height:auto; display:block;">
-  </a>
+      <img src="../logo/logo.png" alt="aligoshgar.github.io">
+    </a>
     <button class="theme-toggle" id="themeToggle" title="Tema Değiştir">🌙</button>
   </header>
 
   <div class="cover"></div>
 
   <div class="container">
-
-    <!-- Video oynatıcı -->
     <iframe id="videoPlayer" src="https://drive.google.com/file/d/1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H/preview" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-    <!-- Önceki / Sonraki butonlar -->
     <div class="controls">
       <button onclick="changeToPrevious()"><i class="fas fa-chevron-left"></i> Öncəki</button>
       <button onclick="changeToNext()">Sonrakı <i class="fas fa-chevron-right"></i></button>
     </div>
 
-    <!-- Sezon ve Bölüm seçim -->
     <select id="seasonSelect" onchange="updateEpisodes()">
       <option value="1">Sezon 1 - Bakuten Shoot: 2000</option>
       <option value="2">Sezon 2 - Bakuten Shoot: 2002 (V-Force)</option>
@@ -163,11 +161,10 @@
     </select>
 
     <select id="episodeSelect" onchange="loadSelectedEpisode()">
-      <!-- Bölümler dinamik doldurulacaq -->
+      <!-- Dinamik dolacaq -->
     </select>
   </div>
 
-  <!-- Ana sayfa butonu -->
   <button class="home-button"><i class="fas fa-home"></i> Ana Sayfa</button>
 
   <script>
@@ -175,9 +172,7 @@
       1: ['1eB9etitONXwzG4o3MLrRZ-JNNfXV7d0H', '1a2b3c4d5e6f7g8h9i0j'],
       2: ['0z9y8x7w6v5u4t3s2r1q', '1x1x1x1x1x1x1x1x1x'],
       3: ['2y2y2y2y2y2y2y2y2y2y'],
-      4: [
-        { id: '1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a', title: 'Sinema Filmi: Son Mübarizə' }
-      ]
+      4: [{ id: '1ckgMnttY5232ze6fEpXOZL7M5qEYsj5a', title: 'Sinema Filmi: Son Mübarizə' }]
     };
 
     let currentSeason = 1;
@@ -187,24 +182,20 @@
     const episodeSelect = document.getElementById('episodeSelect');
     const videoPlayer = document.getElementById('videoPlayer');
 
-    function updateEpisodes() {
+    function updateEpisodes(selectedEpisodeIndex = 0) {
       currentSeason = parseInt(seasonSelect.value);
       const episodes = videoIds[currentSeason];
       episodeSelect.innerHTML = '';
 
       episodes.forEach((episode, i) => {
         const option = document.createElement('option');
-        if (typeof episode === 'object') {
-          option.value = i;
-          option.text = episode.title || `Bölüm ${i + 1}`;
-        } else {
-          option.value = i;
-          option.text = `Bölüm ${i + 1}`;
-        }
+        option.value = i;
+        option.text = typeof episode === 'object' ? episode.title || `Bölüm ${i + 1}` : `Bölüm ${i + 1}`;
         episodeSelect.appendChild(option);
       });
 
-      currentEpisode = 0;
+      currentEpisode = selectedEpisodeIndex;
+      episodeSelect.value = selectedEpisodeIndex;
       loadSelectedEpisode();
     }
 
@@ -231,32 +222,30 @@
       }
     }
 
-    // Tema dəyişimi
-    const themeToggle = document.getElementById('themeToggle');
-    themeToggle.addEventListener('click', () => {
+    document.getElementById('themeToggle').addEventListener('click', () => {
       document.body.classList.toggle('light');
       themeToggle.textContent = document.body.classList.contains('light') ? '☀️' : '🌙';
     });
 
-    // İlk dəfə səhifə yüklənəndə bölmələri doldur
-updateEpisodes();
+    // Deep linking ilə açılışı təmin et
+    window.addEventListener('load', () => {
+      const params = new URLSearchParams(window.location.search);
+      const sezon = parseInt(params.get('sezon'));
+      const bolum = parseInt(params.get('bolum'));
 
-// Deep linking - URL parametrlərinə əsasən sezon və bölüm seçimi
-window.addEventListener('load', () => {
-  const params = new URLSearchParams(window.location.search);
-  const sezon = params.get('sezon');
-  const bolum = params.get('bolum');
+      if (!isNaN(sezon)) {
+        seasonSelect.value = sezon;
+        currentSeason = sezon;
 
-  if (sezon && bolum) {
-    seasonSelect.value = sezon;
-    updateEpisodes();
-
-    setTimeout(() => {
-      episodeSelect.value = bolum;
-      loadSelectedEpisode();
-    }, 100);
-  }
-});
+        if (!isNaN(bolum)) {
+          updateEpisodes(bolum - 1);
+        } else {
+          updateEpisodes();
+        }
+      } else {
+        updateEpisodes();
+      }
+    });
   </script>
 
 </body>
