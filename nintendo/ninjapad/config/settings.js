@@ -17,12 +17,12 @@ const OVERSCAN_BOTTOM = 0;
 
 // Emulation settings
 const SYSTEM = "nes";
-// const EMULATOR = "jsnes";
-const EMULATOR = "binjnes";
+const EMULATOR = "jsnes";
+// const EMULATOR = "binjnes";
 const DEFAULT_ROM = "roms/logo.nes";
 
 // User experience
-const SINGLE_ROM = true;
+const SINGLE_ROM = false;
 const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
