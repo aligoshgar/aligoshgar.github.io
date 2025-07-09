@@ -89,31 +89,31 @@ ninjapad.menu = function() {
     function mainMenu() {
         return ninjapad.utils.createMenu(null,
             ninjapad.utils.link(
-                "Load ROM",
+                "ROM SEÇ",
                 js="ninjapad.menu.uploadROM()",
                 hide=SINGLE_ROM
             ),
             ninjapad.utils.link(
-                "Save State",
+                "YADDA SAXLA",
                 js="ninjapad.menu.saveState()",
                 hide=!SAVE_STATES
             ),
             ninjapad.utils.link(
-                "Load State",
+                "YADDAŞDA QALAN",
                 js="ninjapad.menu.loadState()",
                 hide=!SAVE_STATES
             ),
             ninjapad.utils.link(
-                "Options",
+                "SEÇİMLƏR",
                 js="ninjapad.menu.show.optionsMenu()",
                 hide=(!SAVE_STATES && !INPUT_RECORDER)
             ),
             ninjapad.utils.link(
-                "Reset",
+                "SIFIRLA",
                 js="ninjapad.menu.reset()"
             ),
             ninjapad.utils.link(
-                "About",
+                "HAQQINDA",
                 js="ninjapad.menu.about()"
             )
         );
