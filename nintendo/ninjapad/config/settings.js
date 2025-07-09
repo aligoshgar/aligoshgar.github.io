@@ -29,7 +29,7 @@ const INPUT_RECORDER = true;
 // Owner info
 const HOMEPAGE = "https://aligoshgar.github.io";
 const ABOUT = (`
-    Created by:<br/>
+    Created by::<br/>
     <a href="${HOMEPAGE}" target="_blank">
     <font color="yellow">Aligoshgar Karimli</font>
     </a>
