@@ -17,8 +17,8 @@ const OVERSCAN_BOTTOM = 0;
 
 // Emulation settings
 const SYSTEM = "nes";
-const EMULATOR = "jsnes";
-// const EMULATOR = "binjnes";
+// const EMULATOR = "jsnes";
+const EMULATOR = "binjnes";
 const DEFAULT_ROM = "roms/logo.nes";
 
 // User experience
@@ -27,10 +27,10 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://twitter.com/ninjadynamics";
+const HOMEPAGE = "https://aligoshgar.github.io";
 const ABOUT = (`
-    Follow me on Twitter:<br/>
+    Created by:<br/>
     <a href="${HOMEPAGE}" target="_blank">
-    <font color="yellow">ninjadynamics</font>
+    <font color="yellow">Aligoshgar Karimli</font>
     </a>
 `);
