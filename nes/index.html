@@ -1,0 +1,178 @@
+<!DOCTYPE html><html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="icon" href="../logo/favicon.ico" type="image/x-icon" />
+  <title>NES Oyun Emulatoru - Əliqoşqar Kərimli</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jsnes@0.8.0/dist/jsnes.min.js"></script>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #ffffff;
+      --accent-color: #e50914;
+      --header-bg: #1f1f1f;
+    }body.light {
+  --bg-color: #f4f4f4;
+  --text-color: #121212;
+  --header-bg: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+header {
+  background-color: var(--header-bg);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 25px;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+}
+
+.theme-toggle {
+  font-size: 24px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  color: var(--text-color);
+}
+
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid var(--accent-color);
+  border-radius: 10px;
+}
+
+select {
+  width: 100%;
+  padding: 12px 40px 12px 12px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: none;
+  background-color: var(--header-bg);
+  color: var(--text-color);
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg fill='%23ffffff' height='16' viewBox='0 0 24 24' width='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px;
+  position: relative;
+  transition: background-image 0.3s ease;
+}
+
+select:focus {
+  background-image: url("data:image/svg+xml,%3Csvg fill='%23ffffff' height='16' viewBox='0 0 24 24' width='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 14l5-5 5 5z'/%3E%3C/svg%3E");
+}
+
+body.light select {
+  background-image: url("data:image/svg+xml,%3Csvg fill='%23121212' height='16' viewBox='0 0 24 24' width='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+}
+
+body.light select:focus {
+  background-image: url("data:image/svg+xml,%3Csvg fill='%23121212' height='16' viewBox='0 0 24 24' width='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 14l5-5 5 5z'/%3E%3C/svg%3E");
+}
+
+.home-button {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--accent-color);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  z-index: 999;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+  </style>
+</head>
+<body>
+  <header>
+    <a href="../index.html">
+      <img id="siteLogo" src="../logo/logo.png" alt="aligoshgar.github.io">
+    </a>
+    <button class="theme-toggle" id="themeToggle">🌙</button>
+  </header>  <div class="container">
+    <h2 style="text-align:center">NES Oyununu seç və oynamağa başla</h2>
+    <select id="gameSelect">
+      <option value="../nes/supermario.nes">Super Mario Bros</option>
+      <option value="../nes/contra.nes">Contra</option>
+      <option value="../nes/tetris.nes">Tetris</option>
+    </select>
+    <canvas id="nes-canvas" width="256" height="240"></canvas>
+  </div>  <button class="home-button" onclick="window.location.href='../index.html'">
+    <i class="fas fa-home"></i> Əsas səhifə
+  </button>  <script>
+    const canvas = document.getElementById("nes-canvas");
+    const context = canvas.getContext("2d");
+    const imageData = context.getImageData(0, 0, 256, 240);
+    const nes = new jsnes.NES({
+      onFrame: function (frameBuffer) {
+        for (let i = 0; i < frameBuffer.length; i++) {
+          imageData.data[i * 4 + 0] = (frameBuffer[i] >> 16) & 0xff;
+          imageData.data[i * 4 + 1] = (frameBuffer[i] >> 8) & 0xff;
+          imageData.data[i * 4 + 2] = frameBuffer[i] & 0xff;
+          imageData.data[i * 4 + 3] = 0xff;
+        }
+        context.putImageData(imageData, 0, 0);
+      }
+    });
+
+    async function loadGame(url) {
+      const response = await fetch(url);
+      const arrayBuffer = await response.arrayBuffer();
+      const binaryString = Array.from(new Uint8Array(arrayBuffer)).map(b => String.fromCharCode(b)).join("");
+      nes.loadROM(binaryString);
+      nes.start();
+    }
+
+    document.getElementById("gameSelect").addEventListener("change", function(e) {
+      loadGame(e.target.value);
+    });
+
+    // İlk oyunu avtomatik yüklə
+    loadGame(document.getElementById("gameSelect").value);
+
+    const themeToggle = document.getElementById('themeToggle');
+    const siteLogo = document.getElementById('siteLogo');
+    const storedTheme = localStorage.getItem('theme');
+
+    if (storedTheme === 'light') {
+      document.body.classList.add('light');
+      themeToggle.textContent = '☀️';
+      siteLogo.src = '../logo/logoblack.png';
+    } else {
+      themeToggle.textContent = '🌙';
+      siteLogo.src = '../logo/logo.png';
+    }
+
+    themeToggle.addEventListener('click', () => {
+      document.body.classList.toggle('light');
+      const isNowLight = document.body.classList.contains('light');
+      localStorage.setItem('theme', isNowLight ? 'light' : 'dark');
+      themeToggle.textContent = isNowLight ? '☀️' : '🌙';
+      siteLogo.src = isNowLight ? '../logo/logoblack.png' : '../logo/logo.png';
+    });
+  </script></body>
+</html>
