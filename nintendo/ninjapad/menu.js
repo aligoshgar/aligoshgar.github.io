@@ -409,9 +409,9 @@ ninjapad.menu = function() {
                 reader.readAsBinaryString(file);
             }
         },
-        romsMenu: function() {
-        return showMenu(romsMenu, returnToMainMenu);
-    },
+        ninjapad.menu.show.romsMenu = function() {
+    return openMenu(romsMenu, returnToMainMenu);
+};
         show: {
             recorderMenu: function() {
                 return showMenu(recMenu, closeMenuAndResumeEmulation);
