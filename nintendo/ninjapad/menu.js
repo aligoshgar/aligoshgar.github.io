@@ -87,38 +87,80 @@ ninjapad.menu = function() {
     }
 
     function mainMenu() {
-        return ninjapad.utils.createMenu(null,
-            ninjapad.utils.link(
-                "Load ROM",
-                js="ninjapad.menu.uploadROM()",
-                hide=SINGLE_ROM
-            ),
-            ninjapad.utils.link(
-                "Save State",
-                js="ninjapad.menu.saveState()",
-                hide=!SAVE_STATES
-            ),
-            ninjapad.utils.link(
-                "Load State",
-                js="ninjapad.menu.loadState()",
-                hide=!SAVE_STATES
-            ),
-            ninjapad.utils.link(
-                "Options",
-                js="ninjapad.menu.show.optionsMenu()",
-                hide=(!SAVE_STATES && !INPUT_RECORDER)
-            ),
-            ninjapad.utils.link(
-                "Reset",
-                js="ninjapad.menu.reset()"
-            ),
-            ninjapad.utils.link(
-                "About",
-                js="ninjapad.menu.about()"
-            )
-        );
-    }
+    return ninjapad.utils.createMenu(null,
+        ninjapad.utils.link(
+            "ROMS",
+            js="ninjapad.menu.show.romsMenu()"
+        ),
+        ninjapad.utils.link(
+            "Load ROM",
+            js="ninjapad.menu.uploadROM()",
+            hide=SINGLE_ROM
+        ),
+        ninjapad.utils.link(
+            "Save State",
+            js="ninjapad.menu.saveState()",
+            hide=!SAVE_STATES
+        ),
+        ninjapad.utils.link(
+            "Load State",
+            js="ninjapad.menu.loadState()",
+            hide=!SAVE_STATES
+        ),
+        ninjapad.utils.link(
+            "Options",
+            js="ninjapad.menu.show.optionsMenu()",
+            hide=(!SAVE_STATES && !INPUT_RECORDER)
+        ),
+        ninjapad.utils.link(
+            "Reset",
+            js="ninjapad.menu.reset()"
+        ),
+        ninjapad.utils.link(
+            "About",
+            js="ninjapad.menu.about()"
+        )
+    );
+}
+function romsMenu() {
+    return ninjapad.utils.createMenu(null,
+        ninjapad.utils.link(
+            "Super Mario",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/supermario.nes')"
+        ),
+        ninjapad.utils.link(
+            "Contra",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/contra.nes')"
+        ),
+        ninjapad.utils.link(
+            "Battle City",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/battlecity.nes')"
+        )
+    );
+}
 
+function loadPredefinedROM(path) {
+    fetch(path)
+      .then(res => res.arrayBuffer())
+      .then(buffer => {
+        ninjapad.emulator.loadROMData(buffer);
+        ninjapad.menu.inputRecorder.ready();
+        ninjapad.recorder.clear();
+        ninjapad.autoload();
+        ninjapad.menu.close();
+      })
+      .catch(e => {
+        ninjapad.menu.showMessage("Error loading ROM", ninjapad.menu.toggle.mainMenu);
+        DEBUG && console.log(e);
+      });
+}
+
+ninjapad.menu.show.romsMenu = function() {
+    return showMenu(romsMenu, returnToMainMenu);
+};
+
+ninjapad.menu.loadPredefinedROM = loadPredefinedROM;
+}
     function allowUserInteraction(ontap=null) {
         ninjapad.utils.allowInteraction("pauseScreenContent");
         ninjapad.utils.assignNoPropagation(ontap, "OSD", ontap && "end");
