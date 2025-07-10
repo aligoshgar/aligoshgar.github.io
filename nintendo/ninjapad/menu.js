@@ -415,7 +415,9 @@ function openMenu(menu, backtap=null) {
             }
         },
         ninjapad.menu.show.romsMenu = function() {
-    return openMenu(romsMenu, returnToMainMenu);
+    ninjapad.pause.pauseEmulation(romsMenu());
+    ninjapad.utils.allowInteraction(ninjapad.menu.toggle.mainMenu);
+    fnESC = ninjapad.menu.toggle.mainMenu;
 };
         show: {
             recorderMenu: function() {
