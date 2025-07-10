@@ -27,10 +27,10 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://aligoshgar.github.io";
+const HOMEPAGE = "https://aligoshgar.github.io/nintento/roms";
 const ABOUT = (`
-    Created by::<br/>
+    ROM KOLLEKSIYAMIZA BAX<br/>
     <a href="${HOMEPAGE}" target="_blank">
-    <font color="yellow">Aligoshgar Karimli</font>
+    <font color="yellow">aligoshgar.github.io</font>
     </a>
 `);
