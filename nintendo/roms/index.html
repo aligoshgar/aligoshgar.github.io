@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-<title>NES ROM Siyahısı</title>
+<title>ROM Kolleksiyası</title>
 <link
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
   rel="stylesheet"
@@ -20,7 +20,7 @@
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    padding: 1rem 1rem 4rem; /* bottom space for fixed button */
+    padding: 1rem 1rem 4rem;
     transition: background-color 0.3s, color 0.3s;
   }
 
@@ -45,6 +45,51 @@
   }
   .theme-toggle:hover {
     background: rgba(255 255 255 / 0.2);
+  }
+
+  /* Xəbərdarlıq sahəsi */
+  .notice {
+    background-color: #1b4d1b;
+    border: 2.5px solid #4caf50;
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #d4f8d4;
+    text-align: center;
+    box-shadow: 0 0 12px #4caf50aa;
+    user-select: none;
+    line-height: 1.4;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* Emulator butonu */
+  .emulator-btn {
+    display: block;
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto 2rem;
+    background-color: #1b4d1b;
+    border: 2.5px solid #4caf50;
+    color: #d4f8d4;
+    font-weight: 700;
+    font-size: 1.15rem;
+    padding: 0.8rem 0;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 14px #4caf50bb;
+    user-select: none;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    text-align: center;
+  }
+  .emulator-btn:hover {
+    background-color: #4caf50;
+    color: #121212;
+    box-shadow: 0 0 18px #4caf50dd;
   }
 
   main {
@@ -152,6 +197,25 @@
   body.light .home-button:hover {
     background-color: #4caf50;
   }
+
+  body.light .notice {
+    background-color: #d9f0d9;
+    border-color: #388e3c;
+    color: #2a4d2a;
+    box-shadow: 0 0 12px #388e3caa;
+  }
+
+  body.light .emulator-btn {
+    background-color: #d9f0d9;
+    border-color: #388e3c;
+    color: #2a4d2a;
+    box-shadow: 0 0 14px #388e3cbb;
+  }
+  body.light .emulator-btn:hover {
+    background-color: #388e3c;
+    color: #fafafa;
+    box-shadow: 0 0 18px #388e3cdd;
+  }
 </style>
 </head>
 <body>
@@ -162,6 +226,12 @@
   </div>
 </header>
 
+<section class="notice">
+  NES emulatoruna keçid etməzdən əvvəl aşağıda sizin üçün hazırladığımız NES oyun kolleksiyamızdan istədiyinizi seçib yükləyin. Həmin .nes faylını emulatorun "LOAD ROM" bölməsinə daxil edərək müvafiq oyunu istifadə edə bilərsiniz. Xoş oyunlar!
+</section>
+
+<button class="emulator-btn" onclick="location.href='../'">Emulatoru aç</button>
+
 <main id="romList">
   <!-- ROM-lar buraya JavaScript ilə əlavə olunacaq -->
 </main>
@@ -171,7 +241,7 @@
 </footer>
 
 <script>
-  // Sample ROM məlumatları
+  // ROM-lar
   const roms = [
     {
       name: "Super Mario Bros",
@@ -237,12 +307,10 @@
   const themeToggle = document.getElementById('themeToggle');
   const body = document.body;
 
-  // Yadda saxla localStorage
   function saveTheme(isLight) {
     localStorage.setItem('themeLight', isLight ? 'true' : 'false');
   }
 
-  // Tema yüklə
   function loadTheme() {
     const saved = localStorage.getItem('themeLight');
     if (saved === 'true') {
