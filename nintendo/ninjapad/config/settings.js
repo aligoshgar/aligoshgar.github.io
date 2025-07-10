@@ -27,7 +27,7 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://aligoshgar.github.io/nintento/roms";
+const HOMEPAGE = "https://aligoshgar.github.io/nintendo/roms";
 const ABOUT = (`
     ROM KOLLEKSIYAMIZA BAX<br/>
     <a href="${HOMEPAGE}" target="_blank">
