@@ -233,7 +233,7 @@
 <body>
   <header>
     <div class="header-content">
-      <img src="../../logo.png" alt="Logo" class="logo-img" id="logoImg" />
+      <img src="../../logo/logo.png" alt="Logo" class="logo-img" id="logoImg" />
       <div class="theme-toggle" id="themeToggle" title="Gündüz/Gecə Modu">
         <i class="fa-solid fa-moon"></i>
       </div>
@@ -286,14 +286,14 @@
       const isLight = saved === 'true';
       body.classList.toggle('light', isLight);
       themeToggle.innerHTML = isLight ? '<i class="fa-solid fa-sun"></i>' : '<i class="fa-solid fa-moon"></i>';
-      logoImg.src = isLight ? "../../logoblack.png" : "../../logo.png";
+      logoImg.src = isLight ? "../../logo/logoblack.png" : "../../logo/logo.png";
     }
 
     themeToggle.addEventListener('click', () => {
       const isLight = !body.classList.contains('light');
       body.classList.toggle('light', isLight);
       themeToggle.innerHTML = isLight ? '<i class="fa-solid fa-sun"></i>' : '<i class="fa-solid fa-moon"></i>';
-      logoImg.src = isLight ? "../../logoblack.png" : "../../logo.png";
+      logoImg.src = isLight ? "../../logo/logoblack.png" : "../../logo/logo.png";
       saveTheme(isLight);
     });
 
