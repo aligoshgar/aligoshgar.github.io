@@ -147,7 +147,12 @@ ninjapad.menu = function() {
         ninjapad.utils.assign(null, "pauseScreenContent");
         ninjapad.utils.assignNoPropagation(ontap, "OSD", ontap && "end");
     }
-
+function openMenu(menu, backtap=null) {
+    ninjapad.pause.pauseEmulation(menu());
+    ninjapad.utils.allowInteraction(backtap);
+    fnESC = backtap;
+    isOpen = true;
+}
     function showMessage(msg, backtap) {
         DEBUG && console.log("NinjaPad:", msg);
         if (!ninjapad.pause.state.isEmulationPaused) {
