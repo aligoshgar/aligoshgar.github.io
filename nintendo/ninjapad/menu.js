@@ -89,6 +89,10 @@ ninjapad.menu = function() {
     function mainMenu() {
         return ninjapad.utils.createMenu(null,
             ninjapad.utils.link(
+            "ROMS",
+            js="ninjapad.menu.show.romsMenu()"
+            ),
+            ninjapad.utils.link(
                 "Load ROM",
                 js="ninjapad.menu.uploadROM()",
                 hide=SINGLE_ROM
@@ -118,7 +122,22 @@ ninjapad.menu = function() {
             )
         );
     }
-
+    function romsMenu() {
+    return ninjapad.utils.createMenu(null,
+        ninjapad.utils.link(
+            "Super Mario",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/supermario.nes')"
+        ),
+        ninjapad.utils.link(
+            "Contra",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/contra.nes')"
+        ),
+        ninjapad.utils.link(
+            "Battle City",
+            js="ninjapad.menu.loadPredefinedROM('../nintendo/roms/battlecity.nes')"
+        )
+    );
+    }
     function allowUserInteraction(ontap=null) {
         ninjapad.utils.allowInteraction("pauseScreenContent");
         ninjapad.utils.assignNoPropagation(ontap, "OSD", ontap && "end");
@@ -182,6 +201,21 @@ ninjapad.menu = function() {
     }
 
     return {
+        loadPredefinedROM: function(path) {
+            fetch(path)
+              .then(res => res.arrayBuffer())
+              .then(buffer => {
+                ninjapad.emulator.loadROMData(buffer);
+                ninjapad.menu.inputRecorder.ready();
+                ninjapad.recorder.clear();
+                ninjapad.autoload();
+                ninjapad.menu.close();
+              })
+              .catch(e => {
+                ninjapad.menu.showMessage("Error loading ROM", ninjapad.menu.toggle.mainMenu);
+                DEBUG && console.log(e);
+              });
+        },
         pressESC: function() {
             if (fnESC) {
                 fnESC(...fnESCArgs);
@@ -375,7 +409,9 @@ ninjapad.menu = function() {
                 reader.readAsBinaryString(file);
             }
         },
-
+        romsMenu: function() {
+        return showMenu(romsMenu, returnToMainMenu);
+    },
         show: {
             recorderMenu: function() {
                 return showMenu(recMenu, closeMenuAndResumeEmulation);
