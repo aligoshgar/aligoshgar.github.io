@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<title>NES ROM Siyahısı</title>
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  rel="stylesheet"
+/>
+<style>
+  /* Reset */
+  * {
+    margin: 0; padding: 0; box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #eee;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1rem 4rem; /* bottom space for fixed button */
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  header h1 {
+    font-weight: 700;
+    font-size: 1.7rem;
+  }
+  .theme-toggle {
+    cursor: pointer;
+    font-size: 1.6rem;
+    user-select: none;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    background: rgba(255 255 255 / 0.1);
+    transition: background 0.3s;
+  }
+  .theme-toggle:hover {
+    background: rgba(255 255 255 / 0.2);
+  }
+
+  main {
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.2rem;
+    justify-items: center;
+  }
+  .rom-card {
+    background: rgba(255 255 255 / 0.05);
+    border-radius: 12px;
+    width: 100%;
+    max-width: 360px;
+    padding: 1rem 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 0 0 10px rgba(255 255 255 / 0.05);
+    transition: background 0.3s, box-shadow 0.3s;
+  }
+  .rom-card:hover {
+    background: rgba(255 255 255 / 0.12);
+    box-shadow: 0 0 20px rgba(255 255 255 / 0.2);
+  }
+
+  .rom-poster {
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.7);
+  }
+  .rom-info {
+    flex-grow: 1;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #ddd;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .rom-download {
+    font-size: 1.5rem;
+    color: #4caf50;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: color 0.3s;
+  }
+  .rom-download:hover {
+    color: #81c784;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .home-button {
+    background-color: #4caf50;
+    color: #121212;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 0.6rem 2.2rem;
+    border-radius: 28px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(76,175,80,0.5);
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+  .home-button:hover {
+    background-color: #66bb6a;
+    box-shadow: 0 6px 12px rgba(102,187,106,0.7);
+  }
+
+  /* Light mode */
+  body.light {
+    background-color: #fefefe;
+    color: #222;
+  }
+  body.light .rom-card {
+    background: rgba(0 0 0 / 0.05);
+    box-shadow: 0 0 10px rgba(0 0 0 / 0.05);
+  }
+  body.light .rom-card:hover {
+    background: rgba(0 0 0 / 0.12);
+    box-shadow: 0 0 20px rgba(0 0 0 / 0.15);
+  }
+  body.light .rom-info {
+    color: #222;
+  }
+  body.light .rom-download {
+    color: #388e3c;
+  }
+  body.light .rom-download:hover {
+    color: #66bb6a;
+  }
+  body.light .home-button {
+    background-color: #388e3c;
+    color: #fafafa;
+  }
+  body.light .home-button:hover {
+    background-color: #4caf50;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>NES ROM Siyahısı</h1>
+  <div class="theme-toggle" id="themeToggle" title="Gündüz/Gecə Modu">
+    <i class="fa-solid fa-moon"></i>
+  </div>
+</header>
+
+<main id="romList">
+  <!-- ROM-lar buraya JavaScript ilə əlavə olunacaq -->
+</main>
+
+<footer>
+  <button class="home-button" onclick="location.href='index.html'">Ana səhifə</button>
+</footer>
+
+<script>
+  // Sample ROM məlumatları
+  const roms = [
+    {
+      name: "Super Mario Bros",
+      poster: "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+      url: "../nintendo/roms/supermario.nes"
+    },
+    {
+      name: "The Legend of Zelda",
+      poster: "https://upload.wikimedia.org/wikipedia/en/9/9b/Legend_of_Zelda_NES_box_art.jpg",
+      url: "../nintendo/roms/zelda.nes"
+    },
+    {
+      name: "Metroid",
+      poster: "https://upload.wikimedia.org/wikipedia/en/b/b2/MetroidboxartNES.jpg",
+      url: "../nintendo/roms/metroid.nes"
+    },
+    {
+      name: "Mega Man 2",
+      poster: "https://upload.wikimedia.org/wikipedia/en/2/2e/Megaman2cover.jpg",
+      url: "../nintendo/roms/megaman2.nes"
+    }
+  ];
+
+  const romListElem = document.getElementById('romList');
+
+  function createRomCard(rom) {
+    const card = document.createElement('article');
+    card.className = 'rom-card';
+
+    const poster = document.createElement('img');
+    poster.className = 'rom-poster';
+    poster.src = rom.poster;
+    poster.alt = rom.name + ' poster';
+
+    const info = document.createElement('div');
+    info.className = 'rom-info';
+    info.textContent = rom.name;
+
+    const downloadLink = document.createElement('a');
+    downloadLink.href = rom.url;
+    downloadLink.download = '';
+    downloadLink.className = 'rom-download';
+    downloadLink.title = "Yüklə: " + rom.name;
+    downloadLink.innerHTML = '<i class="fa-solid fa-download"></i>';
+
+    card.appendChild(poster);
+    card.appendChild(info);
+    card.appendChild(downloadLink);
+
+    return card;
+  }
+
+  function loadRoms() {
+    roms.forEach(rom => {
+      const card = createRomCard(rom);
+      romListElem.appendChild(card);
+    });
+  }
+
+  loadRoms();
+
+  // Dark/light mode toggle
+  const themeToggle = document.getElementById('themeToggle');
+  const body = document.body;
+
+  // Yadda saxla localStorage
+  function saveTheme(isLight) {
+    localStorage.setItem('themeLight', isLight ? 'true' : 'false');
+  }
+
+  // Tema yüklə
+  function loadTheme() {
+    const saved = localStorage.getItem('themeLight');
+    if (saved === 'true') {
+      body.classList.add('light');
+      themeToggle.innerHTML = '<i class="fa-solid fa-sun"></i>';
+    } else {
+      body.classList.remove('light');
+      themeToggle.innerHTML = '<i class="fa-solid fa-moon"></i>';
+    }
+  }
+
+  themeToggle.addEventListener('click', () => {
+    if (body.classList.contains('light')) {
+      body.classList.remove('light');
+      themeToggle.innerHTML = '<i class="fa-solid fa-moon"></i>';
+      saveTheme(false);
+    } else {
+      body.classList.add('light');
+      themeToggle.innerHTML = '<i class="fa-solid fa-sun"></i>';
+      saveTheme(true);
+    }
+  });
+
+  loadTheme();
+</script>
+</body>
+</html>
