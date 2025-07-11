@@ -27,10 +27,10 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://aligoshgar.github.io/nintendo/roms";
+const HOMEPAGE = "https://aligoshgar.github.io/pages/profile.html";
 const ABOUT = (`
-    ROM KOLLEKSIYAMIZ<br/>
+    The emulator was created by Aligoshgar Karimli using the NinjaPad open source project, with many additions and modifications. For more information, see the link below.<br/>
     <a href="${HOMEPAGE}" target="_blank">
-    <font color="yellow">aligoshgar.github.io</font>
+    <font color="yellow">Aligoshgar Karimli</font>
     </a>
 `);
