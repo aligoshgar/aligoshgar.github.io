@@ -94,8 +94,8 @@ ninjapad.menu = function() {
                 hide=SINGLE_ROM
             ),
             ninjapad.utils.link(
-                "ROMS",
-               js="window.location.href='../../roms';"
+                "Roms",
+               js="window.location.href='../roms';"
             ),
             ninjapad.utils.link(
                 "Save State",
@@ -117,7 +117,7 @@ ninjapad.menu = function() {
                 js="ninjapad.menu.reset()"
             ),
             ninjapad.utils.link(
-                "About & Roms",
+                "About",
                 js="ninjapad.menu.about()"
             )
         );
