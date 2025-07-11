@@ -19,7 +19,7 @@ const OVERSCAN_BOTTOM = 0;
 const SYSTEM = "nes";
 // const EMULATOR = "jsnes";
 const EMULATOR = "binjnes";
-const DEFAULT_ROM = "roms/logo.nes";
+const DEFAULT_ROM = "roms/Unchained_Nostalgia.nes";
 
 // User experience
 const SINGLE_ROM = false;
