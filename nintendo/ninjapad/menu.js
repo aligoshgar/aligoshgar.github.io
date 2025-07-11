@@ -113,7 +113,7 @@ ninjapad.menu = function() {
                 js="ninjapad.menu.reset()"
             ),
             ninjapad.utils.link(
-                "About",
+                "About & Roms",
                 js="ninjapad.menu.about()"
             )
         );
