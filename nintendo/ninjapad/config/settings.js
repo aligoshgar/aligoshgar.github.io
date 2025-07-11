@@ -29,7 +29,7 @@ const INPUT_RECORDER = true;
 // Owner info
 const HOMEPAGE = "https://aligoshgar.github.io/nintendo/roms";
 const ABOUT = (`
-    ROM KOLLEKSIYAMIZA BAX<br/>
+    ROM KOLLEKSIYAMIZ<br/>
     <a href="${HOMEPAGE}" target="_blank">
     <font color="yellow">aligoshgar.github.io</font>
     </a>
