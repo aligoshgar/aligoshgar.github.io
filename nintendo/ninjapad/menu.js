@@ -94,6 +94,10 @@ ninjapad.menu = function() {
                 hide=SINGLE_ROM
             ),
             ninjapad.utils.link(
+                "ROMS",
+                href="../../roms"
+            ),
+            ninjapad.utils.link(
                 "Save State",
                 js="ninjapad.menu.saveState()",
                 hide=!SAVE_STATES
