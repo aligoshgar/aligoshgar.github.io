@@ -13,14 +13,12 @@
     const input = btn.querySelector("#ggcode");
     const okBtn = btn.querySelector(".ok-btn");
 
-    // Toggle
     btn.addEventListener("click", (e) => {
       if (e.target === input || e.target === okBtn) return;
       btn.classList.toggle("active");
       if (btn.classList.contains("active")) input.focus();
     });
 
-    // Cheat kodu tətbiqi
     okBtn.addEventListener("click", (e) => {
       e.stopPropagation();
       const code = input.value.toUpperCase().trim();
