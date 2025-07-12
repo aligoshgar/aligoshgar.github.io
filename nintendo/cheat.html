@@ -1,23 +1,24 @@
-<!-- ORİJİNAL index.html-də olanlar -->
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-  <link rel="shortcut icon" type="image/x-icon" href="../logo/favicon.ico">
+  <meta charset="utf-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="shortcut icon" type="image/x-icon" href="../logo/favicon.ico" />
   <title>Nintendo Emulator - Əliqoşqar Kərimli</title>
 
+  <!-- Lazımi scriptlər -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="ninjapad/emu/binjnes/binjnes.js"></script>
   <script src="ninjapad/ninjapad.js"></script>
 
   <style>
-    /* Orijinal stil */
     body {
       margin: 0;
       padding: 0;
       background-color: #222;
     }
+
     #myCoolDiv {
       width: 100%;
       height: 100%;
@@ -26,6 +27,7 @@
       align-items: center;
       display: flex;
     }
+
     #emu-screen {
       width: 256px;
       max-width: 768px;
@@ -36,6 +38,7 @@
       object-fit: contain;
       overflow: clip;
     }
+
     #emu-canvas {
       image-rendering: optimizeSpeed;
       image-rendering: -moz-crisp-edges;
@@ -68,6 +71,7 @@
       user-select: none;
       transition: all 0.3s ease;
       z-index: 99999;
+      touch-action: manipulation;
     }
     #cheat-toggle-btn.active {
       width: 90%;
@@ -113,13 +117,65 @@
     </div>
   </div>
 
-  <!-- Cheat panelin HTML kodu -->
+  <!-- Cheat panel -->
   <div id="cheat-toggle-btn" title="Game Genie Cheat">
     <span>GG</span>
     <input type="text" id="ggcode" placeholder="Kod yazın" />
     <button class="ok-btn">OK</button>
   </div>
 
-  <script src="cheat.js"></script>
+  <script>
+    (function () {
+      function waitForNes(callback) {
+        const interval = setInterval(() => {
+          if (typeof nes !== 'undefined' && nes.rom && nes.rom.rom) {
+            clearInterval(interval);
+            callback();
+          }
+        }, 300);
+      }
+
+      waitForNes(() => {
+        const btn = document.getElementById("cheat-toggle-btn");
+        const input = btn.querySelector("#ggcode");
+        const okBtn = btn.querySelector(".ok-btn");
+
+        function togglePanel() {
+          btn.classList.toggle("active");
+          if (btn.classList.contains("active")) input.focus();
+        }
+
+        btn.addEventListener("click", (e) => {
+          if (e.target === input || e.target === okBtn) return;
+          togglePanel();
+        });
+
+        btn.addEventListener("touchstart", (e) => {
+          if (e.target === input || e.target === okBtn) return;
+          e.preventDefault();
+          togglePanel();
+        });
+
+        okBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const code = input.value.toUpperCase().trim();
+          if (!code) return alert("Kod daxil edin!");
+
+          if (code === "SXIOPO") {
+            nes.rom.rom[0x075A] = 0xEA;
+            alert("SXIOPO: Sonsuz can aktiv oldu!");
+          } else if (code === "AATOZA") {
+            nes.rom.rom[0x0770] = 0x08;
+            alert("AATOZA: 9 canla başlama aktiv oldu!");
+          } else {
+            alert("Bu kod tanınmadı.");
+          }
+
+          input.value = "";
+          btn.classList.remove("active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
