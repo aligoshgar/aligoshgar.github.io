@@ -22,6 +22,10 @@
 
     const rom = nes.rom.rom;
 
+    // Test üçün log əlavə et
+    console.log("Kod gəldi:", code);
+    console.log("Əvvəlki byte:", rom[0x075A].toString(16));
+
     if (code.toUpperCase() === "SXIOPO") {
       rom[0x075A] = 0xEA;
       alert("SXIOPO: Sonsuz can aktiv oldu!");
@@ -31,6 +35,8 @@
     } else {
       alert("Kod tanınmadı: " + code);
     }
+
+    console.log("Sonrakı byte:", rom[0x075A].toString(16));
   });
 </script>
 
