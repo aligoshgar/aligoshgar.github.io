@@ -57,6 +57,64 @@
             }
             /* End of REQUIRED BY NINJAPAD */
         </style>
+<style>
+  /* Cheat Toggle Button Stil */
+  #cheat-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: limegreen;
+    border-radius: 50%;
+    opacity: 0.3;
+    cursor: pointer;
+    box-shadow: 0 0 10px limegreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #000;
+    user-select: none;
+    transition: opacity 0.3s ease, width 0.3s ease;
+    z-index: 99999;
+  }
+  #cheat-toggle-btn.active {
+    opacity: 1;
+    width: 230px;
+    border-radius: 8px;
+    padding: 0 10px;
+    justify-content: space-between;
+  }
+  #cheat-toggle-btn input {
+    flex-grow: 1;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    display: none;
+  }
+  #cheat-toggle-btn.active input {
+    display: block;
+  }
+  #cheat-toggle-btn button.ok-btn {
+    display: none;
+    background: #000;
+    color: limegreen;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    user-select: none;
+  }
+  #cheat-toggle-btn.active button.ok-btn {
+    display: block;
+  }
+</style>
     </head>
     <body>
         <div id="myCoolDiv">
