@@ -9,18 +9,7 @@
   }
 
   waitForNes(() => {
-    const btn = document.createElement("div");
-    btn.id = "cheat-toggle-btn";
-    btn.title = "Game Genie Cheat";
-
-    btn.innerHTML = `
-      <span>GG</span>
-      <input type="text" id="ggcode" placeholder="Kod yazın" autocomplete="off" />
-      <button class="ok-btn">OK</button>
-    `;
-
-    document.body.appendChild(btn);
-
+    const btn = document.getElementById("cheat-toggle-btn");
     const input = btn.querySelector("#ggcode");
     const okBtn = btn.querySelector("button.ok-btn");
 
