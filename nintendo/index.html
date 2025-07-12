@@ -15,6 +15,25 @@
         <!-- NinjaPad Interface -->
         <script src="ninjapad/ninjapad.js"></script>
 
+<script>
+  window.addEventListener("message", function(event) {
+    const code = event.data.cheat;
+    if (!code || !nes || !nes.rom || !nes.rom.rom) return;
+
+    const rom = nes.rom.rom;
+
+    if (code.toUpperCase() === "SXIOPO") {
+      rom[0x075A] = 0xEA;
+      alert("SXIOPO: Sonsuz can aktiv oldu!");
+    } else if (code.toUpperCase() === "AATOZA") {
+      rom[0x0770] = 0x08;
+      alert("AATOZA: 9 canla başlama aktiv oldu!");
+    } else {
+      alert("Kod tanınmadı: " + code);
+    }
+  });
+</script>
+
         <style>
             body {
                 margin: 0;
