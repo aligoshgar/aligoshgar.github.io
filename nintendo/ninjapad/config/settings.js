@@ -23,7 +23,7 @@ const DEFAULT_ROM = "roms/Unchained_Nostalgia.nes";
 
 // User experience
 const SINGLE_ROM = false;
-const SAVE_STATES = true;
+const SAVE_STATES = false;
 const INPUT_RECORDER = true;
 
 // Owner info
