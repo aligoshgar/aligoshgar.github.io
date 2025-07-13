@@ -23,8 +23,9 @@ const DEFAULT_ROM = "roms/Unchained_Nostalgia.nes";
 
 // User experience
 const SINGLE_ROM = false;
-const SAVE_STATES = false;
+const SAVE_STATES = true;
 const INPUT_RECORDER = true;
+const SAVE_STATTES = false;
 
 // Owner info
 const HOMEPAGE = "https://aligoshgar.github.io/pages/profile.html";
