@@ -96,7 +96,6 @@ ninjapad.menu = function() {
             ninjapad.utils.link(
                 "Roms",
               js="window.location.href='roms';"
-              hide=!ROM_LAR
             ),
             ninjapad.utils.link(
                 "Save State",
