@@ -68,7 +68,7 @@ ninjapad.menu = function() {
             ninjapad.utils.link(
                 "Import save data",
                 js="ninjapad.menu.importSaveData()",
-                hide=!SAVE_STATES
+                hide=!SAVE_STATTES
             ),
             ninjapad.utils.link(
                 `Input recorder ${inColor("lime", iRModes[iRMode])}`,
