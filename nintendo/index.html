@@ -67,5 +67,16 @@
                 </div>
             <!-- End of REQUIRED BY NINJAPAD -->
         </div>
+<script>
+  window.addEventListener("load", () => {
+    const interval = setInterval(() => {
+      if (window.nes?.rom?.rom) {
+        nes.rom.rom[0x075A] = 0xEA; // SXIOPO: sonsuz can
+        clearInterval(interval);
+        console.log("Sonsuz can aktiv oldu.");
+      }
+    }, 500);
+  });
+</script>
     </body>
 </html>
