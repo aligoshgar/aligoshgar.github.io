@@ -68,7 +68,7 @@ ninjapad.menu = function() {
             ninjapad.utils.link(
                 "Import save data",
                 js="ninjapad.menu.importSaveData()",
-                hide=!SAVE_STATTES
+                hide=!SAVE_STATES
             ),
             ninjapad.utils.link(
                 `Input recorder ${inColor("lime", iRModes[iRMode])}`,
@@ -96,6 +96,7 @@ ninjapad.menu = function() {
             ninjapad.utils.link(
                 "Roms",
               js="window.location.href='roms';"
+              hide=!ROMS
             ),
             ninjapad.utils.link(
                 "Save State",
