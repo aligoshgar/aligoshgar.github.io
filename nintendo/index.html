@@ -15,31 +15,6 @@
         <!-- NinjaPad Interface -->
         <script src="ninjapad/ninjapad.js"></script>
 
-<script>
-  window.addEventListener("message", function(event) {
-    const code = event.data.cheat;
-    if (!code || !nes || !nes.rom || !nes.rom.rom) return;
-
-    const rom = nes.rom.rom;
-
-    // Test üçün log əlavə et
-    console.log("Kod gəldi:", code);
-    console.log("Əvvəlki byte:", rom[0x075A].toString(16));
-
-    if (code.toUpperCase() === "SXIOPO") {
-      rom[0x075A] = 0xEA;
-      alert("SXIOPO: Sonsuz can aktiv oldu!");
-    } else if (code.toUpperCase() === "AATOZA") {
-      rom[0x0770] = 0x08;
-      alert("AATOZA: 9 canla başlama aktiv oldu!");
-    } else {
-      alert("Kod tanınmadı: " + code);
-    }
-
-    console.log("Sonrakı byte:", rom[0x075A].toString(16));
-  });
-</script>
-
         <style>
             body {
                 margin: 0;
