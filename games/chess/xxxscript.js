@@ -184,3 +184,4 @@ board = Chessboard('board', config);
 
 // Update the game status at the start
 updateStatus();
+
