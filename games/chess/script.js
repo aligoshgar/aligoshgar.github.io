@@ -306,10 +306,10 @@ function updateStatus() {
         el.classList.remove('cm-king-check', 'cm-king-mate');
     });
 
-    var moveColor = game.turn() === 'b' ? 'Black' : 'White';
+    var moveColor = game.turn() === 'b' ? 'Qaralar' : 'Ağlar';
     var status = '';
     if (game.in_checkmate()) {
-        status = `Game over, ${moveColor} is in checkmate.`;
+        status = `Oyun bitdi, ${moveColor} şahmat ilə məğlub oldu!`;
         // the side to move is checkmated (moveColor). Highlight their king with black background
         const kingSq = findKingSquare(game.turn());
         if (kingSq) {
