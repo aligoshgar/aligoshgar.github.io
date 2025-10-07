@@ -309,7 +309,7 @@ function updateStatus() {
     var moveColor = game.turn() === 'b' ? 'Qaralar' : 'Ağlar';
     var status = '';
     if (game.in_checkmate()) {
-        status = `Oyun bitdi, ${moveColor} şahmat ilə məğlub oldu!`;
+        status = `Oyun bitdi! ${moveColor} şahmat ilə məğlub oldu!`;
         // the side to move is checkmated (moveColor). Highlight their king with black background
         const kingSq = findKingSquare(game.turn());
         if (kingSq) {
@@ -319,7 +319,7 @@ function updateStatus() {
     } else if (game.in_draw()) {
         status = 'Game over, drawn position.';
     } else {
-        status = `${moveColor} to move`;
+        status = `${moveColor} gediş edir...`;
         if (game.in_check()) {
             status += `, ${moveColor} is in check`;
             // highlight that player's king with red
