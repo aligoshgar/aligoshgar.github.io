@@ -76,6 +76,7 @@
 						<nav>
 							<ul>
 								<li><a href="#services">Xidmətlər</a></li>
+								<li><a href="#esrefruya">Eşref Rüya - Son bölüm</a></li>
 								<li><a href="#chat">Söhbət</a></li>
 								<li><a href="#games">Oyunlar</a></li>
 								<li><a href="#about">Haqqında</a></li>
@@ -199,6 +200,45 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
     <li><a href="#dracarys">Game of Thrones - Bütün əjdahalar</a></li>
     <li><a href="ahdimolsun" target="_blank">Ebru Gündeş - Ahdım olsun</a></li>
   </ul>
+							</article>
+
+	                <!-- Eşref Rüya -->
+							<article id="esrefruya">
+								<h2 class="major">Eşref Rüya</h2>
+								 <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
+  <style>
+    .video-container {
+      max-width: 720px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="video-container">
+  <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" width="720" height="405"></video>
+</div>
+
+<script src="https://vjs.zencdn.net/8.9.0/video.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+  var video = document.getElementById('my-video');
+
+  if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource('https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21');
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function () {
+      video.play();
+    });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    // Safari gibi tarayıcılar için
+    video.src = 'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
+    video.addEventListener('loadedmetadata', function () {
+      video.play();
+    });
+  }
+</script>
 							</article>
 
 						<!-- Oyunlar -->
