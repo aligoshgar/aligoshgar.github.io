@@ -204,42 +204,47 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
 
 	                <!-- Eşref Rüya -->
 							<article id="esrefruya">
-								<h2 class="major">Eşref Rüya</h2>
-								 <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
+  <h2 class="major">Eşref Rüya</h2>
+
+  <!-- 🎬 HLS Video Oynatıcı -->
+  <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
   <style>
     .video-container {
       max-width: 720px;
       margin: 20px auto;
     }
   </style>
-</head>
-<body>
 
-<div class="video-container">
-  <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" width="720" height="405"></video>
-</div>
+  <div class="video-container">
+    <video
+      id="my-video"
+      class="video-js vjs-default-skin"
+      controls
+      preload="auto"
+      width="720"
+      height="405"
+      muted
+    ></video>
+  </div>
 
-<script src="https://vjs.zencdn.net/8.9.0/video.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script>
-  var video = document.getElementById('my-video');
+  <script src="https://vjs.zencdn.net/8.9.0/video.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script>
+    const video = document.getElementById('my-video');
+    const hlsUrl = 'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
 
-  if (Hls.isSupported()) {
-    var hls = new Hls();
-    hls.loadSource('https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21');
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, function () {
-      video.play();
-    });
-  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    // Safari gibi tarayıcılar için
-    video.src = 'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
-    video.addEventListener('loadedmetadata', function () {
-      video.play();
-    });
-  }
-</script>
-							</article>
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(hlsUrl);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = hlsUrl;
+      video.addEventListener('loadedmetadata', () => video.play());
+    }
+  </script>
+</article>
+
 
 						<!-- Oyunlar -->
 							<article id="games">
