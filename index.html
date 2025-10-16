@@ -210,8 +210,14 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
   <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
   <style>
     .video-container {
-      max-width: 720px;
-      margin: 20px auto;
+      max-width: 1280px; /* Daha geniş video alanı */
+      margin: 30px auto;
+    }
+    #my-video {
+      width: 100%;       /* Konteynerin tamamını kapla */
+      height: 720px;     /* Daha uzun (yüksek) video alanı */
+      border-radius: 12px;
+      overflow: hidden;
     }
   </style>
 
@@ -221,8 +227,6 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       class="video-js vjs-default-skin"
       controls
       preload="auto"
-      width="720"
-      height="405"
       muted
     ></video>
   </div>
@@ -244,6 +248,7 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
     }
   </script>
 </article>
+
 
 
 						<!-- Oyunlar -->
