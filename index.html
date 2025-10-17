@@ -206,7 +206,6 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
 							<article id="esrefruya">
   <h2 class="major">Eşref Rüya</h2>
 
-  <!-- 🎬 HLS Video Oynatıcı -->
   <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
   <style>
     .video-container {
@@ -222,24 +221,26 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       overflow: hidden;
     }
 
-    /* 🎨 Modern buton tasarımı (Play tuşu ile uyumlu) */
+    /* 🔧 Buton düzeni ve modern görünüm */
     .vjs-control.custom-skip {
       width: 3em;
       height: 3em;
-      border: none;
-      background: none;
+      border: none !important;
+      background: none !important;
+      outline: none !important;
+      box-shadow: none !important;
       display: flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      transition: opacity 0.25s ease;
+      transition: opacity 0.25s ease, transform 0.2s ease;
     }
 
     .vjs-control.custom-skip svg {
       width: 22px;
       height: 22px;
       fill: white;
-      opacity: 0.9;
+      opacity: 0.85;
       transition: transform 0.2s, opacity 0.2s;
     }
 
@@ -248,7 +249,15 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       opacity: 1;
     }
 
-    /* Küçük ekranlar için responsive */
+    /* 🧼 Focus (tıklayınca çıkan kare hatları) gizle */
+    .vjs-control.custom-skip:focus,
+    .vjs-control.custom-skip:active,
+    .vjs-control.custom-skip:focus-visible {
+      outline: none !important;
+      box-shadow: none !important;
+    }
+
+    /* Mobil için video boyutu */
     @media (max-width: 768px) {
       #my-video {
         height: 360px;
@@ -274,7 +283,7 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
     const hlsUrl =
       'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
 
-    // 🎥 HLS yükleme (otomatik oynatma yok)
+    // HLS yükleme (otomatik oynatma yok)
     if (Hls.isSupported()) {
       const hls = new Hls();
       hls.loadSource(hlsUrl);
@@ -283,14 +292,12 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       video.src = hlsUrl;
     }
 
-    // 🎬 Video.js player başlat
     const player = videojs('my-video');
 
     player.ready(function () {
       const controlBar = player.getChild('controlBar');
       const playButton = controlBar.getChild('playToggle');
 
-      // 🎯 SVG ikonlar
       const rewindIcon = `
         <svg viewBox="0 0 24 24">
           <path d="M11 18V6L2.5 12L11 18ZM11 12L21.5 18V6L11 12Z"></path>
@@ -300,7 +307,6 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
           <path d="M13 6V18L21.5 12L13 6ZM13 12L2.5 6V18L13 12Z"></path>
         </svg>`;
 
-      // 🔹 Geri tuşu
       const backButton = videojs.dom.createEl('button', {
         className: 'vjs-control custom-skip vjs-button',
         innerHTML: rewindIcon,
@@ -310,7 +316,6 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
         player.currentTime(Math.max(0, player.currentTime() - 10));
       };
 
-      // 🔹 İleri tuşu
       const forwardButton = videojs.dom.createEl('button', {
         className: 'vjs-control custom-skip vjs-button',
         innerHTML: forwardIcon,
