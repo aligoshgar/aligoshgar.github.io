@@ -210,14 +210,49 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
   <link href="https://vjs.zencdn.net/8.9.0/video-js.css" rel="stylesheet" />
   <style>
     .video-container {
-      max-width: 1280px; /* Daha geniş video alanı */
+      max-width: 1280px;
       margin: 30px auto;
+      position: relative;
     }
+
     #my-video {
-      width: 100%;       /* Konteynerin tamamını kapla */
-      height: 720px;     /* Daha uzun (yüksek) video alanı */
+      width: 100%;
+      height: 720px;
       border-radius: 12px;
       overflow: hidden;
+    }
+
+    /* 🎨 Modern buton tasarımı (Play tuşu ile uyumlu) */
+    .vjs-control.custom-skip {
+      width: 3em;
+      height: 3em;
+      border: none;
+      background: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: opacity 0.25s ease;
+    }
+
+    .vjs-control.custom-skip svg {
+      width: 22px;
+      height: 22px;
+      fill: white;
+      opacity: 0.9;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .vjs-control.custom-skip:hover svg {
+      transform: scale(1.15);
+      opacity: 1;
+    }
+
+    /* Küçük ekranlar için responsive */
+    @media (max-width: 768px) {
+      #my-video {
+        height: 360px;
+      }
     }
   </style>
 
@@ -233,21 +268,88 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
 
   <script src="https://vjs.zencdn.net/8.9.0/video.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
   <script>
     const video = document.getElementById('my-video');
-    const hlsUrl = 'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
+    const hlsUrl =
+      'https://video.twimg.com/amplify_video/1978572350888030208/pl/a6J-Ct2g9lwNM1Vi.m3u8?tag=21';
 
+    // 🎥 HLS yükleme (otomatik oynatma yok)
     if (Hls.isSupported()) {
       const hls = new Hls();
       hls.loadSource(hlsUrl);
       hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
     } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
       video.src = hlsUrl;
-      video.addEventListener('loadedmetadata', () => video.play());
     }
+
+    // 🎬 Video.js player başlat
+    const player = videojs('my-video');
+
+    player.ready(function () {
+      const controlBar = player.getChild('controlBar');
+      const playButton = controlBar.getChild('playToggle');
+
+      // 🎯 SVG ikonlar
+      const rewindIcon = `
+        <svg viewBox="0 0 24 24">
+          <path d="M11 18V6L2.5 12L11 18ZM11 12L21.5 18V6L11 12Z"></path>
+        </svg>`;
+      const forwardIcon = `
+        <svg viewBox="0 0 24 24">
+          <path d="M13 6V18L21.5 12L13 6ZM13 12L2.5 6V18L13 12Z"></path>
+        </svg>`;
+
+      // 🔹 Geri tuşu
+      const backButton = videojs.dom.createEl('button', {
+        className: 'vjs-control custom-skip vjs-button',
+        innerHTML: rewindIcon,
+        title: '10 saniye geri al',
+      });
+      backButton.onclick = () => {
+        player.currentTime(Math.max(0, player.currentTime() - 10));
+      };
+
+      // 🔹 İleri tuşu
+      const forwardButton = videojs.dom.createEl('button', {
+        className: 'vjs-control custom-skip vjs-button',
+        innerHTML: forwardIcon,
+        title: '10 saniye ileri sar',
+      });
+      forwardButton.onclick = () => {
+        player.currentTime(Math.min(player.duration(), player.currentTime() + 10));
+      };
+
+      // 🎯 Sıra: Play → Geri → İleri
+      const parent = controlBar.el();
+      parent.insertBefore(playButton.el(), parent.firstChild);
+      parent.insertBefore(backButton, playButton.el().nextSibling);
+      parent.insertBefore(forwardButton, backButton.nextSibling);
+    });
+
+    // ⌨️ Klavye kısayolları
+    document.addEventListener('keydown', (e) => {
+      switch (e.code) {
+        case 'ArrowLeft':
+          player.currentTime(Math.max(0, player.currentTime() - 10));
+          break;
+        case 'ArrowRight':
+          player.currentTime(Math.min(player.duration(), player.currentTime() + 10));
+          break;
+        case 'Space':
+          e.preventDefault();
+          if (player.paused()) {
+            player.play();
+          } else {
+            player.pause();
+          }
+          break;
+      }
+    });
   </script>
 </article>
+
+
 
 
 
