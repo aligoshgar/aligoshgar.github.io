@@ -221,47 +221,89 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       overflow: hidden;
     }
 
-    /* 🔧 Buton düzeni ve modern görünüm */
+    /* --------- Buton temizleme: tüm video.js kontrolleri için --------- */
+    /* 1) Tüm temel buton stillerini sıfırla (kenarlık, outline, gölge) */
+    .video-js .vjs-control,
+    .video-js button,
+    .video-js .vjs-button,
+    .video-js .vjs-control:focus,
+    .video-js .vjs-button:focus,
+    .video-js .vjs-control:active,
+    .video-js .vjs-button:active {
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+      background: transparent !important;
+    }
+
+    /* 2) Özel modern ikon buton stili (önceki custom-skip ile aynı uyum) */
     .vjs-control.custom-skip {
       width: 3em;
       height: 3em;
-      border: none !important;
-      background: none !important;
-      outline: none !important;
-      box-shadow: none !important;
       display: flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      transition: opacity 0.25s ease, transform 0.2s ease;
+      transition: opacity 0.2s ease, transform 0.15s ease;
+      padding: 0;
     }
 
     .vjs-control.custom-skip svg {
       width: 22px;
       height: 22px;
       fill: white;
-      opacity: 0.85;
-      transition: transform 0.2s, opacity 0.2s;
+      opacity: 0.9;
+      transition: transform 0.15s, opacity 0.15s;
     }
 
-    .vjs-control.custom-skip:hover svg {
-      transform: scale(1.15);
+    .vjs-control.custom-skip:hover svg { transform: scale(1.12); opacity: 1; }
+
+    /* 3) Video.js'in tüm kontrolleri için ortak ikon/stil uyumu */
+    .video-js .vjs-control.vjs-button {
+      /* Butonlar video.js görünümünde uyumlu olacak */
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 3.2em;
+      height: 3.2em;
+      padding: 0;
+      margin: 0 6px;
+      background: transparent;
+    }
+
+    .video-js .vjs-control.vjs-button svg {
+      width: 20px;
+      height: 20px;
+      fill: white;
+      opacity: 0.95;
+    }
+
+    .video-js .vjs-control.vjs-button:hover svg {
+      transform: scale(1.08);
       opacity: 1;
     }
 
-    /* 🧼 Focus (tıklayınca çıkan kare hatları) gizle */
-    .vjs-control.custom-skip:focus,
-    .vjs-control.custom-skip:active,
-    .vjs-control.custom-skip:focus-visible {
-      outline: none !important;
-      box-shadow: none !important;
+    /* 4) Klavye erişimi için: sadece keyboard focus (tab ile) görünür bir ring göster */
+    /* focus-visible kullanıyoruz: fare tıklamalarında görünmez, sadece keyboard tab ile görünür */
+    .video-js .vjs-control:focus-visible,
+    .video-js .vjs-button:focus-visible,
+    .video-js .vjs-control.vjs-button:focus-visible {
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(255,255,255,0.12), 0 0 8px rgba(0,0,0,0.35);
+      border-radius: 6px;
+    }
+
+    /* 5) Safari/older browsers için ek güvenlik: -webkit-focus-ring-color'ı temizle */
+    .video-js .vjs-control::-moz-focus-inner,
+    .video-js button::-moz-focus-inner {
+      border: 0;
     }
 
     /* Mobil için video boyutu */
     @media (max-width: 768px) {
-      #my-video {
-        height: 360px;
-      }
+      #my-video { height: 360px; }
+      .video-js .vjs-control.vjs-button,
+      .vjs-control.custom-skip { width: 2.6em; height: 2.6em; }
     }
   </style>
 
@@ -299,11 +341,11 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
       const playButton = controlBar.getChild('playToggle');
 
       const rewindIcon = `
-        <svg viewBox="0 0 24 24">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
           <path d="M11 18V6L2.5 12L11 18ZM11 12L21.5 18V6L11 12Z"></path>
         </svg>`;
       const forwardIcon = `
-        <svg viewBox="0 0 24 24">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
           <path d="M13 6V18L21.5 12L13 6ZM13 12L2.5 6V18L13 12Z"></path>
         </svg>`;
 
@@ -311,6 +353,7 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
         className: 'vjs-control custom-skip vjs-button',
         innerHTML: rewindIcon,
         title: '10 saniye geri al',
+        type: 'button',
       });
       backButton.onclick = () => {
         player.currentTime(Math.max(0, player.currentTime() - 10));
@@ -320,20 +363,25 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
         className: 'vjs-control custom-skip vjs-button',
         innerHTML: forwardIcon,
         title: '10 saniye ileri sar',
+        type: 'button',
       });
       forwardButton.onclick = () => {
         player.currentTime(Math.min(player.duration(), player.currentTime() + 10));
       };
 
-      // 🎯 Sıra: Play → Geri → İleri
+      // Sıra: Play → Geri → İleri
       const parent = controlBar.el();
       parent.insertBefore(playButton.el(), parent.firstChild);
       parent.insertBefore(backButton, playButton.el().nextSibling);
       parent.insertBefore(forwardButton, backButton.nextSibling);
     });
 
-    // ⌨️ Klavye kısayolları
+    // Klavye kısayolları
     document.addEventListener('keydown', (e) => {
+      // e.target bir input/textarea içindeyse engelle
+      const tag = document.activeElement && document.activeElement.tagName.toLowerCase();
+      if (tag === 'input' || tag === 'textarea' || document.activeElement.isContentEditable) return;
+
       switch (e.code) {
         case 'ArrowLeft':
           player.currentTime(Math.max(0, player.currentTime() - 10));
@@ -343,11 +391,7 @@ Azərbaycan Dövlət Pedaqoji Universiteti<br />
           break;
         case 'Space':
           e.preventDefault();
-          if (player.paused()) {
-            player.play();
-          } else {
-            player.pause();
-          }
+          if (player.paused()) player.play(); else player.pause();
           break;
       }
     });
