@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KINOFLIX - Yeni Ünvanımıza Keçid</title>
+    
+    <meta http-equiv="refresh" content="5;url=https://kinoflix.github.io">
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+            padding: 20px;
+        }
+
+        .logo {
+            width: 280px;
+            margin-bottom: 40px;
+            animation: pulse 2s infinite ease-in-out;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        p {
+            color: #a3a3a3;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        /* Yüklənmə barı */
+        .progress-container {
+            width: 100%;
+            height: 4px;
+            background: #333;
+            border-radius: 10px;
+            position: relative;
+            margin-bottom: 15px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #e50914; /* KINOFLIX Qırmızısı */
+            width: 0;
+            border-radius: 10px;
+            animation: fillProgress 5s linear forwards;
+        }
+
+        .timer-text {
+            color: #e50914;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        @keyframes fillProgress {
+            from { width: 0%; }
+            to { width: 100%; }
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 0.9; }
+            50% { transform: scale(1.05); opacity: 1; }
+            100% { transform: scale(1); opacity: 0.9; }
+        }
+
+        .manual-btn {
+            margin-top: 40px;
+            display: inline-block;
+            color: #fff;
+            text-decoration: none;
+            font-size: 14px;
+            border: 1px solid #444;
+            padding: 10px 20px;
+            border-radius: 4px;
+            transition: 0.3s;
+        }
+
+        .manual-btn:hover {
+            background: #fff;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="https://kinoflix.github.io/FILES/IMG/logos/white.png" alt="KINOFLIX" class="logo">
+        
+        <h1>YENİ ADRESDƏYİK!</h1>
+        <p>Premium film saytımıza hər biriniz dəvətlisiniz!</p>
+
+        <div class="progress-container">
+            <div class="progress-fill"></div>
+        </div>
+
+        <div class="timer-text">
+            <span id="countdown">5</span> saniyə ərzində yönləndirilirsiniz...
+        </div>
+
+        <a href="https://kinoflix.github.io/" class="manual-btn">İndi keçid et</a>
+    </div>
+
+    <script>
+        // Vizual geri sayım skripti
+        let seconds = 5;
+        const countdownEl = document.getElementById('countdown');
+        
+        const timer = setInterval(() => {
+            seconds--;
+            countdownEl.textContent = seconds;
+            if (seconds <= 0) clearInterval(timer);
+        }, 1000);
+    </script>
+
+</body>
+</html>
